@@ -63,3 +63,49 @@ https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1,دبي رايسينغ 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+# Telegram: https://t.me/Androidplus20120
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_1_FHD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=149817&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_2_FHD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=149815&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_1_4K 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=150892&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_2_4K 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=150891&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_1_HD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=149818&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_2_HD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=149816&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_1_SD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=150890&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Premium_2_SD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=150889&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",CricLife-1-FHD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=152371&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",Cric-Golf-FHD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=152370&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",Golf-Life 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=152368&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_1_FHD
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=92573&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_2_FHD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=92574&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_1_HD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1360&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_1_HD_(Backup) 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=30209&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_2_HD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1359&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_2_HD_(Backup) 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=30208&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_1_HD_Backup 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2573&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_1_HD 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=6667&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_2_HD_Backup 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2574&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_ASIA_2_HD
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=6666&extension=ts
+#EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Yas 
+http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=5228&extension=ts
+
