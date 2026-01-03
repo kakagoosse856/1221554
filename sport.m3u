@@ -24,6 +24,24 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
 #EXTINF:-1,beIN SPORTS 9
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1,Bein Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1,Bein sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1,Bein sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1,Bein sports 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1,Bein sports 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1,Bein sports 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1,Bein sports 7
+#EXTINF:-1,http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1,Bein sports 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1,Bein sports 9
+http://135.125.109.73:9000/beinsport9_.m3u8
 ################ beIN SPORTS ################
 #EXTINF:-1, starzplay1
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=761732&extension=ts&play_token=mfKL1HDB0X
