@@ -644,13 +644,9 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch17.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://elbaladtv.net/images/Logo.png" ,صدى البلد
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/elbaladtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,صدى البلد 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,صدى البلد 3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0075.elcinema.com/tvguide/1280_1.png" ,TEN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,القاهرة و الناس
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,القاهرة و الناس 2
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
@@ -668,48 +664,20 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 https://rp.tactivemedia.com/alshoobtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png" ,وطن
 https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="",مـــوريتانيا
-0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الموريتانية 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الثقافية
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الرياضية 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBKkdBX/mahdara.jpg" ,المحظرة
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rHNTYpR/sahle-TV.png" ,الساحل
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dGC37BT/moura.jpg" ,المرابطون
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9gRBGT9/watania.jpg" ,الوطنية
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CmpHSd7/dava.png" ,دافا
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/db9cHkV/chinguit.jpg" ,شنقيط
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2k7Tmnf/barlem.jpg" ,البرلمانية
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://medina-tv.com/wp-content/uploads/2021/07/logo.png" ,المدينة
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://saharamedias.net/wp-content/uploads/2024/04/Sahara24Live-1-1.gif" ,صحراء 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
-#EXTINF:-1 tvg-logo="",وثــائـــقـــي
-0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png" ,ناشيونال جيوغرافيك أبو ظبي
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://nowcdn.asharq.com/200x0/15115670301691498834.png" ,الشرق الوثائقية
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo=" " ,الوثائقية
 
 #EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" ,الجزيرة الوثائقية 
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif",أخبار
-0.0.0.0
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" , الجزيرة الإخبارية
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
