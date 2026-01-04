@@ -25,6 +25,24 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
 #EXTINF:-1,beIN SPORTS 9
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
 #EXTINF:-1,Bein Sports 1
+https://py.dencreak.com/bn_s_fhd1.m3u8
+#EXTINF:-1,Bein sports 2
+https://py.dencreak.com/bn_s_fhd2.m3u8
+#EXTINF:-1,Bein sports 3
+https://py.dencreak.com/bn_s_fhd3.m3u8
+#EXTINF:-1,Bein sports 4
+https://py.dencreak.com/bn_s_fhd4.m3u8
+#EXTINF:-1,Bein sports 5
+https://py.dencreak.com/bn_s_fhd5.m3u8
+#EXTINF:-1,Bein sports 6
+https://py.dencreak.com/bn_s_fhd6.m3u8
+#EXTINF:-1,Bein sports 7
+https://py.dencreak.com/bn_s_fhd7.m3u8
+#EXTINF:-1,Bein sports 8
+https://py.dencreak.com/bn_s_fhd8.m3u8
+#EXTINF:-1,Bein sports 9
+https://py.dencreak.com/bn_s_fhd9.m3u8
+#EXTINF:-1,Bein Sports 1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1,Bein sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
@@ -51,6 +69,18 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=761733
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_720p25.m3u8
 #EXTINF:-1, abudhabi sport 2 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index_sp2_video_enc_720p25.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1 
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1,دبي الرياضية 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1,دبي الرياضية 2
@@ -109,3 +139,19 @@ http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=6666&extens
 #EXTINF:-1 group-title="⚽ AD SPORTS -  ابوظبى الرياضية ",AD_Sports_Yas 
 http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=5228&extension=ts
 
+
+
+
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1,Alkass 1 
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+       
