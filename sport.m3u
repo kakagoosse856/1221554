@@ -28,6 +28,18 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
 #EXTINF:-1 tvg-name="BeIN 9 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)09.jpg" group-title="BeIN HEVC",BeIN 9 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1 SPORT",FR: BEIN SPORT MAX 5
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61715.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61716.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61717.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61718.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61719.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61720.m3u8
 ################ beIN SPORTS ################
 #EXTINF:-1,Zaxosport 
 http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
