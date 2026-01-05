@@ -10,14 +10,6 @@ https://3.nomlkosd17.sbs/hls/1/stream.m3u8
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:-1,Bein sports Max 2 HD
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,Ldsport HD 
-http://109.123.245.192/Ldsport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zaxosport 
-http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Asterasport 
-http://109.123.245.192/Asterasport/tracks-a1/mono.m3u8
-#EXTINF:-1,TEST
-https://ventureyard.net/embed/tr81yto0ib1p
 #EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BeIN HEVC",BeIN 1 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33885.m3u8
 #EXTINF:-1 tvg-name="BeIN 2 HEVC " tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BeIN HEVC",BeIN 2 HEVC
@@ -36,43 +28,9 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
 #EXTINF:-1 tvg-name="BeIN 9 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)09.jpg" group-title="BeIN HEVC",BeIN 9 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
-#EXTINF:-1,Bein Sports 1
-https://py.dencreak.com/bn_s_fhd1.m3u8
-#EXTINF:-1,Bein sports 2
-https://py.dencreak.com/bn_s_fhd2.m3u8
-#EXTINF:-1,Bein sports 3
-https://py.dencreak.com/bn_s_fhd3.m3u8
-#EXTINF:-1,Bein sports 4
-https://py.dencreak.com/bn_s_fhd4.m3u8
-#EXTINF:-1,Bein sports 5
-https://py.dencreak.com/bn_s_fhd5.m3u8
-#EXTINF:-1,Bein sports 6
-https://py.dencreak.com/bn_s_fhd6.m3u8
-#EXTINF:-1,Bein sports 7
-https://py.dencreak.com/bn_s_fhd7.m3u8
-#EXTINF:-1,Bein sports 8
-https://py.dencreak.com/bn_s_fhd8.m3u8
-#EXTINF:-1,Bein sports 9
-https://py.dencreak.com/bn_s_fhd9.m3u8
-#EXTINF:-1,Bein Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1,Bein sports 2
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1,Bein sports 3
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1,Bein sports 4
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1,Bein sports 5
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1,Bein sports 6
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1,Bein sports 7
-#EXTINF:-1,http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1,Bein sports 8
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1,Bein sports 9
-http://135.125.109.73:9000/beinsport9_.m3u8
 ################ beIN SPORTS ################
+#EXTINF:-1,Zaxosport 
+http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1, starzplay1
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=761732&extension=ts&play_token=mfKL1HDB0X
 #EXTINF:-1, starzplay2
