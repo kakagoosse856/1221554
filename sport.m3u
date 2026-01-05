@@ -158,151 +158,130 @@ http://197.220.88.26:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 #EXTINF:-1 TNT Sports 4 HD
 http://197.220.88.26:2200/EX/BT_Sport_4_HD-uk/index.m3u8?token=
 ########### beIN SPORTS 576P ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 1 576P
-https://py.dencreak.com/bn_u_576P_1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 2 576P
-https://py.dencreak.com/bn_u_576P_2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 3 576P
-https://py.dencreak.com/bn_u_576P_3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 4 576P
-https://py.dencreak.com/bn_u_576P_4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 5 576P
-https://py.dencreak.com/bn_u_576P_5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 6 576P
-https://py.dencreak.com/bn_u_576P_6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 7 576P
-https://py.dencreak.com/bn_u_576P_7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 8 576P
-https://py.dencreak.com/bn_u_576P_8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS 576P",beIN SPORTS 9 576P
-https://py.dencreak.com/bn_u_576P_9.m3u8
-########### beIN SPORTS SD ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD",beIN SPORTS 1 SD
-https://py.dencreak.com/bn_g_sd1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD",beIN SPORTS 1 SD
-https://py.dencreak.com/bn_s_sd1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2sd.png" group-title="beIN SPORTS SD",beIN SPORTS 2 SD
-https://py.dencreak.com/bn_s_sd2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3sd.png" group-title="beIN SPORTS SD",beIN SPORTS 3 SD
-https://py.dencreak.com/bn_s_sd3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4sd.png" group-title="beIN SPORTS SD",beIN SPORTS 4 SD
-https://py.dencreak.com/bn_s_sd4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5sd.png" group-title="beIN SPORTS SD",beIN SPORTS 5 SD
-https://py.dencreak.com/bn_s_sd5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6sd.png" group-title="beIN SPORTS SD",beIN SPORTS 6 SD
-https://py.dencreak.com/bn_s_sd6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7sd.png" group-title="beIN SPORTS SD",beIN SPORTS 7 SD
-https://py.dencreak.com/bn_s_sd7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8sd.png" group-title="beIN SPORTS SD",beIN SPORTS 8 SD
-https://py.dencreak.com/bn_s_sd8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9sd.png" group-title="beIN SPORTS SD",beIN SPORTS 9 SD
-https://py.dencreak.com/bn_s_sd9.m3u8
-########### beIN SPORTS HD ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-https://py.dencreak.com/bn_s_hd1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-https://py.dencreak.com/bn_g_hd1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-https://py.dencreak.com/bn_s_hd2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-https://py.dencreak.com/bn_g_hd2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-https://py.dencreak.com/bn_s_hd3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-https://py.dencreak.com/bn_g_hd3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-https://py.dencreak.com/bn_s_hd4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-https://py.dencreak.com/bn_g_hd4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-https://py.dencreak.com/bn_g_hd4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-https://py.dencreak.com/bn_s_hd5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-https://py.dencreak.com/bn_g_hd5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-https://py.dencreak.com/bn_s_hd6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-https://py.dencreak.com/bn_g_hd6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-https://py.dencreak.com/bn_s_hd7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-https://py.dencreak.com/bn_g_hd7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-https://py.dencreak.com/bn_s_hd8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-https://py.dencreak.com/bn_g_hd8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-https://py.dencreak.com/bn_g_hd9.m3u8
-########### beIN SPORTS FHD ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
-https://py.dencreak.com/bn_s_fhd1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
-https://py.dencreak.com/bn_u_fhd_1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
-https://py.dencreak.com/bn_s_fhd2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
-https://py.dencreak.com/bn_u_fhd_2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
-https://py.dencreak.com/bn_s_fhd3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
-https://py.dencreak.com/bn_u_fhd_3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
-https://py.dencreak.com/bn_s_fhd5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
-https://py.dencreak.com/bn_u_fhd_5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
-https://py.dencreak.com/bn_s_fhd6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
-https://py.dencreak.com/bn_u_fhd_6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
-https://py.dencreak.com/bn_u_fhd_6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
-https://py.dencreak.com/bn_s_fhd7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
-https://py.dencreak.com/bn_u_fhd_7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
-https://py.dencreak.com/bn_s_fhd8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
-https://py.dencreak.com/bn_u_fhd_8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
-https://py.dencreak.com/bn_s_fhd9.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
-https://py.dencreak.com/bn_u_fhd_9.m3u8
-########### beIN SPORTS 4K ###########
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-https://py.dencreak.com/bn_s_4k1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-https://py.dencreak.com/bn_g_4k1.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-https://py.dencreak.com/bn_s_4k2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-https://py.dencreak.com/bn_g_4k2.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-https://py.dencreak.com/bn_s_4k3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-https://py.dencreak.com/bn_g_4k3.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-https://py.dencreak.com/bn_s_4k4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-https://py.dencreak.com/bn_g_4k4.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
-https://py.dencreak.com/bn_s_4k5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
-https://py.dencreak.com/bn_g_4k5.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
-https://py.dencreak.com/bn_s_4k6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
-https://py.dencreak.com/bn_g_4k6.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
-https://py.dencreak.com/bn_s_4k7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
-https://py.dencreak.com/bn_g_4k7.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
-https://py.dencreak.com/bn_s_4k8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
-https://py.dencreak.com/bn_g_4k8.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
-https://py.dencreak.com/bn_s_4k9.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
-https://py.dencreak.com/bn_g_4k9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="TV - |AR| ✪ SPORT HD",beIN Sports 9 ᴴᴰ
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274184.ts
+#EXTINF:-1 tvg-id="" tvg-name="abu dhabu 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="TV - |AR| ✪ SPORT HD", Abu Dhabi Sports 1 🇦🇪
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="abu dhabu 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="TV - |AR| ✪ SPORT HD", Abu Dhabi Sports 2 🇦🇪
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492011&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492012&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492027&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492028&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492029&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492030&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sports max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146127&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146127&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492014&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492015&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492016&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492031&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492032&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492033&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580188&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 2 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106201&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=106201&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492017&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492018&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492019&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492034&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492035&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492036&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492037&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 3 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492020&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492021&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492022&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492026&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492038&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492039&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1492040&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="bein sport max 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sport Max 4 🇶🇦
+http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580178&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="dubai Sports 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="TV - |AR| ✪ SPORT HD", Dubai Sports 1
+https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
+
