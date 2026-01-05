@@ -1,7 +1,15 @@
 #EXTM3U
 ################ beIN SPORTS ################
+#EXTINF:-1,beIN SPORTS MAX 1
+https://test.vartv.live/hls/ch4.m3u8
 #EXTINF:-1,Bein sports Max 1 HD TEST جودة عالية
 https://balance.footballii.ir/hls2/feed.m3u8
+#EXTINF:-1,Bein sports Max 1 HD
+https://3.nomlkosd17.sbs/hls/1/stream.m3u8
+#EXTINF:-1,Bein sports Max 1 HD
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,Bein sports Max 2 HD
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 #EXTINF:-1,Ldsport HD 
 http://109.123.245.192/Ldsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport 
@@ -10,14 +18,6 @@ http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 http://109.123.245.192/Asterasport/tracks-a1/mono.m3u8
 #EXTINF:-1,TEST
 https://ventureyard.net/embed/tr81yto0ib1p
-#EXTINF:-1,Bein sports Max 1 HD
-https://3.nomlkosd17.sbs/hls/1/stream.m3u8
-#EXTINF:-1,Bein sports Max 1 HD
-http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
-#EXTINF:-1,Bein sports Max 2 HD
-http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,beIN SPORTS MAX S3
-https://test.vartv.live/hls/ch4.m3u8
 #EXTINF:-1,beIN SPORTS 1
 https://test.vartv.live/hls/ch1.m3u8
 https://90e331f54990.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.691416125068.channel.kTfPhqyWI2Mk.m3u8
