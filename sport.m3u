@@ -8,10 +8,8 @@ http://109.123.245.192/Ldsport/tracks-v1a1/mono.m3u8
 http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asterasport 
 http://109.123.245.192/Asterasport/tracks-a1/mono.m3u8
-#EXTINF:-1,duhok-tv-sport
-https://live3.karwan.tv/duhok-tv-sport/index.mpd?token=9e3431e8104344b174574453f031f2261518f67e-cb5c93e02abd3396e0730741b93a6f33-1767626764-1767615964&remote=no_check_ip
-#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="beIN Sports Xtra" tvg-logo="https://i.imgur.com/C7MBlxJ.png" group-title="Sports USA",beIN Sports Xtra (Free)
-https://raid35.github.io/docs/bein_max.html
+#EXTINF:-1,TEST
+https://ventureyard.net/embed/tr81yto0ib1p
 #EXTINF:-1,Bein sports Max 1 HD
 https://3.nomlkosd17.sbs/hls/1/stream.m3u8
 #EXTINF:-1,Bein sports Max 1 HD
