@@ -1,5 +1,13 @@
 #EXTM3U
 ################ beIN SPORTS ################
+#EXTINF:-1,Algérie vs RD Congo 
+https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
+#EXTINF:-1,Algérie vs RD Congo
+https://bs22.cdnfrontstage2.cfd/hls/1/stream.m3u8
+#EXTINF:-1,Algérie vs RD Congo
+https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
+#EXTINF:-1,Algérie vs RD Congo
+https://balance.footballii.ir/hls2/mega4k2.m3u8
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
