@@ -1,5 +1,9 @@
 #EXTM3U
 ################ beIN SPORTS ################
+#EXTINF:-1,Ldsport
+http://109.123.245.192/Ldsport/index.m3u8
+#EXTINF:-1,Avasport
+http://109.123.245.192/Avasport11/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
 https://test.vartv.live/hls/ch4.m3u8
 #EXTINF:-1,Bein sports Max 1 HD TEST جودة عالية
