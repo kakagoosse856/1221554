@@ -16,8 +16,8 @@ http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 #EXTINF:-1,Bein sports 1 جودة ضعيفة
 http://x3m.li/live/hntSHAqs/W6!3jwbV/239.m3u8
-#EXTINF:-1,Bein sports
-https://ab.footballii.ir/hls2/bein3_low.m3u8 
+#EXTINF:-1,Bein sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8 
 #EXTINF:-1,Bein sports
 https://ab.footballii.ir/hls2/bein3_low.m3u8 
 #EXTINF:-1,Bein sports
