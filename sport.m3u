@@ -10,14 +10,14 @@ https://3.nomlkosd17.sbs/hls/1/stream.m3u8
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:-1,Bein sports Max 2 HD
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BeIN HEVC",BeIN 1 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33885.m3u8
-#EXTINF:-1 tvg-name="BeIN 2 HEVC " tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BeIN HEVC",BeIN 2 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33886.m3u8
-#EXTINF:-1 tvg-name="BeIN 3 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)03.jpg" group-title="BeIN HEVC",BeIN 3 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33887.m3u8
-#EXTINF:-1 tvg-name="BeIN 4 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)04.jpg" group-title="BeIN HEVC",BeIN 4 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33888.m3u8
+#EXTINF:-1 tvg-name="BeIN 1 SD
+https://ab.footballii.ir/hls2/bein2_src.m3u8
+#EXTINF:-1 tvg-name="BeIN 1 LOW
+https://ab.footballii.ir/hls2/bein3_low.m3u8 
+#EXTINF:-1 tvg-name="BeIN 2 SD
+https://ab.footballii.ir/hls2/bein3_low.m3u8 
+#EXTINF:-1 tvg-name="BeIN 2 LOW
+https://ab.footballii.ir/hls2/bein3_low.m3u8 
 #EXTINF:-1 tvg-name="BeIN 5 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)05.jpg" group-title="BeIN HEVC",BeIN 5 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33889.m3u8
 #EXTINF:-1 tvg-name="BeIN 6 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)06.jpg" group-title="BeIN HEVC",BeIN 6 HEVC
