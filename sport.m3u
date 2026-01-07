@@ -2,8 +2,8 @@
 ################ beIN SPORTS ################
 #EXTINF:-1,beIN MAX 1 4K
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,beIN MAX 2 4K
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1,beIN MAX 1 4K
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534831&extension=ts&play_token=zmcgbCdZjW 
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
