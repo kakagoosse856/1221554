@@ -2,12 +2,8 @@
 ################ beIN SPORTS ################
 #EXTINF:-1,beIN MAX 1 4K
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,beIN TEST
-https://demphil.github.io/beinsports1/
-#EXTINF:-1,Algérie vs RD Congo
-https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
-#EXTINF:-1,Algérie vs RD Congo
-https://balance.footballii.ir/hls2/mega4k2.m3u8
+#EXTINF:-1,beIN MAX 2 4K
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
@@ -35,15 +31,25 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 https://ab.footballii.ir/hls2/bein3_low.m3u8 
 #EXTINF:-1,Bein sports
 http://bluedk.xyz:8880/live/336752622217/695bf465e8228.24998/546604.m3u8
-#EXTINF:-1 tvg-name="BeIN 5 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)05.jpg" group-title="BeIN HEVC",BeIN 5 HEVC
+#EXTINF:-1,Bein sports Max 1 HD 
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33889.m3u8
-#EXTINF:-1 tvg-name="BeIN 6 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)06.jpg" group-title="BeIN HEVC",BeIN 6 HEVC
+#EXTINF:-1,Bein sports Max 2 HD
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33890.m3u8
-#EXTINF:-1 tvg-name="BeIN 7 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)07.jpg" group-title="BeIN HEVC",BeIN 7 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
-#EXTINF:-1 tvg-name="BeIN 8 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)08.jpg" group-title="BeIN HEVC",BeIN 8 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
-#EXTINF:-1 tvg-name="BeIN 9 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)09.jpg" group-title="BeIN HEVC",BeIN 9 HEVC
+#EXTINF:-1,Bein sports Max 3 HD
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebirazb3.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1,Bein sports Max 4 HD
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1,Bein sports Max 5 HD
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1,Bein sports Max 6 HD
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1,Bein sports Max 7 HD
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1,Bein sports Max 8 HD
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
+#EXTINF:-1,Bein sports Max 9 HD
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
 #EXTINF:-1 tvg-name="SERIA A 1" group-title="Sport",SERIA A 1
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63840.m3u8
