@@ -1,9 +1,13 @@
 #EXTM3U
 ################ beIN SPORTS ################
-#EXTINF:-1,beIN MAX 1 4K
+#EXTINF:-1,beIN MAX 1 
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,beIN MAX 1 
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,beIN MAX 1 4K
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
