@@ -5,6 +5,25 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTK
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 HD
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 1 
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,beIN MAX 1 
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,NRT SPORT HD
+http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zaxosport
+http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ldsport
+http://109.123.245.192/Ldsport/index.m3u8
+#EXTINF:-1,Avasport
+http://109.123.245.192/Avasport11/index.m3u8
+http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,gzcspor
+http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:4E:54:58&stream=146122&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sports max 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="TV - |AR| ✪ SPORT HD", Bein Sports Max 1 🇶🇦
