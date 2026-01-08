@@ -5,3 +5,5 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 FHD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 low
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8
