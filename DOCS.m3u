@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 , https://t.me/neonplustv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ DOCS
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ DOCS 2
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
