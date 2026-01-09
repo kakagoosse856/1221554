@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="bein",Bein4K
 https://airmaxx.boats/airmaxtvpro/syria963xfreevlp/2521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD A
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD B
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
 http://vocotv.pro:80/live/gettinmine49@yahoo.com/aLe6r3r9Tm/723899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD C
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 C
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD D
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 D
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 FHD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
