@@ -6,7 +6,7 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extens
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD B
 http://vocotv.pro:80/live/gettinmine49@yahoo.com/aLe6r3r9Tm/723899.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD C
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
+http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD D
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 FHD
