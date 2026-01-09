@@ -6,12 +6,16 @@ http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
 http://vocotv.pro:80/live/gettinmine49@yahoo.com/aLe6r3r9Tm/723899.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 C
-http://135.125.109.73:9000/beinsport1_.m3u8
+https://airmaxx.boats/airmaxtvpro/syria963xfreevlp/2523.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 D
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 low
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A
+http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 B
+http://vocotv.pro:80/live/gettinmine49@yahoo.com/aLe6r3r9Tm/723899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 C
+https://airmaxx.boats/airmaxtvpro/syria963xfreevlp/2524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 D
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
