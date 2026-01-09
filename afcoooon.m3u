@@ -6,15 +6,17 @@ http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الثالث
 http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146122&extension=m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 1  السرفر الرابع
-http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146123&extension=m3u8
-#EXTINF:-1,beIN MAX 3 
+http://154.6.189.162:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=1BtNPDt5JkPipG5hcc5AOg&expires=1768000259&type=a1&info=errorgettingmacaddress#EXTINF:-1,beIN MAX 3 
 http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146124&extension=m3u8
-#EXTINF:-1,beIN MAX 4 
-http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146125&extension=m3u8
-#EXTINF:-1,beIN MAX 2 
-http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
-#EXTINF:-1,beIN MAX 2 
-http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 السرفر الأول
+http://r665.io:80/live/madescas/pxJWcTK/112603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 السرفر الثاني
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 السرفر الثالث
+http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146122&extension=m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 2  السرفر الرابع
+http://154.6.189.162:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=1BtNPDt5JkPipG5hcc5AOg&expires=1768000259&type=a1&info=errorgettingmacaddress#EXTINF:-1,beIN MAX 3 
+http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146124&extension=m3u8
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
