@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="bein",Bein4K
+https://airmaxx.boats/airmaxtvpro/syria963xfreevlp/2521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 FHD
