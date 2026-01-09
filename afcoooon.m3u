@@ -3,8 +3,8 @@
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 HD
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 HD
-http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 HD
+http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146122&extension=m3u8
 #EXTINF:-1,beIN MAX 1 
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:-1,beIN MAX 1 
