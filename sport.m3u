@@ -20,6 +20,25 @@ http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
 #EXTINF:-1,gzcspor
 http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
 # Telegram: https://t.me/neonplustv
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 3" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 4" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 5" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 6" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 8" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 8
+https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 9
+https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
