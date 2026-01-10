@@ -4,9 +4,10 @@ https://test.vartv.live/hls/ch4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الثاني
 https://a.3lok3.site/live/aloka1/aloka1/30.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الثالث
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+https://a.3lok3.site/live/aloka1/aloka1/28.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 1  السرفر الرابع
-http://154.6.189.162:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=1BtNPDt5JkPipG5hcc5AOg&expires=1768000259&type=a1&info=errorgettingmacaddress
+https://a.3lok3.site/live/aloka1/aloka1/29.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 السرفر الأول
 http://r665.io:80/live/madescas/pxJWcTK/112603.m3u8
