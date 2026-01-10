@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:0 CUID="1" tvg-name="NEONPLUS❤️" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="قسم الدعم الفني للتطبيق",NEONPLUS❤️
 https://t.me/neonplustv
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD A
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD A
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية 3 HD A
+https://a.3lok3.site/live/aloka1/aloka1/31.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية 4 HD A
+https://airmaxx.boats/airmaxtvpro/syria963xfreevlp/2536.m3u8
 #EXTINF:0 CUID="12" tvg-name="LIVE " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="LIVE",beIN 
 https://a.3lok3.site/live/aloka1/aloka1/1.m3u8
 #EXTINF:0 CUID="12" tvg-name="LIVE1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="LIVE1",beIN 
