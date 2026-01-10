@@ -19,7 +19,7 @@ https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
 #EXTINF:-1,الفجر1 
 https://a.3lok3.site/live/aloka1/aloka1/33.m3u8
 #EXTINF:-1,الفجر1  A
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_720p/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=cc13b376f04168f370f835b805b79374066f8360-e097b063052805c30116d5f6152ad929-1768061607-1768054377
+https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_720p/manifest.m3u8
 #EXTINF:-1,الفجر2
 https://cast-x.com/token.php?id\u003dfjr_2_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003ddb42034f93dd2d8f41989a0b659367949f0d4e4b4eee8e91f02e9925eb5f5a11#EXTINF:-1,الفجر 
 #EXTINF:-1,NRT SPORT HD
