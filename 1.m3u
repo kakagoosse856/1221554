@@ -1,207 +1,302 @@
 HTTP/1.1 200 OK
-Date: Sat, 10 Jan 2026 18:20:31 GMT
-Server: Apache/2.4.62 (Unix) OpenSSL/1.1.1k
-X-Powered-By: PHP/8.2.29
-Vary: User-Agent
-Keep-Alive: timeout=5, max=99
-Connection: Keep-Alive
-Transfer-Encoding: chunked
+Accept-Ranges: bytes
+Content-Length: 7104813
 Content-Type: application/vnd.apple.mpegurl
+Etag: "dfl3jqjjahrg48a3x"
+Last-Modified: Sat, 10 Jan 2026 17:48:15 GMT
+Server: Caddy
+Vary: Accept-Encoding
+Date: Sat, 10 Jan 2026 18:35:03 GMT
 
-3e37
-#EXTM3U
+#EXTM3U url-tvg="http://drewlive2423.duckdns.org:8081/DrewLive/DrewLive.xml.gz"
 
-# ===== SOURCE 1 =====
-<h3>Update Berhasil!</h3>Waktu eksekusi: 01:20:33<br>File <b>bro3.txt</b> sudah diperbarui dengan format baru.
+#EXTGRP:A1xmedia AU Sports
+#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1  tvg-name="Fox Sports 503 FHD" tvg-id="FoxSports503.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/5PUsSnn.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1  tvg-name="Fox Sports 504 FHD" tvg-id="FoxFooty.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aEoU7gf.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/angJkah.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kGm7Ts1.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 507 FHD
+https://a1xs.vip/700007
+#EXTINF:-1  tvg-name="Optus Sports 1" tvg-id="Sports.Dummy.us" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports" radio="false",Optus Sports 1
+https://a1xs.vip/700010
+#EXTINF:-1  tvg-name="Optus Sports 2" tvg-id="Sports.Dummy.us" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports" radio="false",Optus Sports 2
+https://a1xs.vip/700011
 
-# ===== SOURCE 2 =====
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs--P0N6XiexBSjtfz5R1uudi7tTZM771SAA_OFDWRug&s" group-title="LIGA 1",INDOMIE
-#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/3.ts
+#EXTGRP:A1xmedia CA Channels
+#EXTINF:-1  tvg-name="CTV 2" tvg-id="CBC.News.Network.ca" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kXIXzxH.png" group-title="A1xmedia CA Channels" radio="false",CBC News Network
+https://a1xs.vip/610004
+#EXTINF:-1  tvg-name="CP24" tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="A1xmedia CA Channels" radio="false",CP24
+https://a1xs.vip/610001
+#EXTINF:-1  tvg-name="CTV 2" tvg-id="CTV.Two.-.Toronto.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/T2uS3V6.png" group-title="A1xmedia CA Channels" radio="false",CTV 2
+https://a1xs.vip/610003
+#EXTINF:-1  tvg-name="CTV News" tvg-id="CTV.News.Channel.ca" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="A1xmedia CA Channels" radio="false",CTV News
+https://a1xs.vip/610002
+#EXTINF:-1  tvg-name="Global News" tvg-id="Global.BC.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-news-ca.png?raw=true" group-title="A1xmedia CA Channels" radio="false",Global News
+https://a1xs.vip/610005
 
+#EXTGRP:A1xmedia CA Sports
+#EXTINF:-1  tvg-name="Sportsnet 360 FHD" tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8YNVKqC.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1  tvg-name="Sportsnet One FHD" tvg-id="Sportsnet.One.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/SxBnZN0.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1  tvg-name="Sportsnet Ontario FHD" tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/o6Ct6Ce.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1  tvg-name="Sportsnet West" tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/GAlu4gn.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1  tvg-name="Sportsnet World FHD" tvg-id="Sportsnet.World.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/EJy8K7F.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1  tvg-name="TSN1" tvg-id="TSN.1.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/xF3cHNd.png" group-title="A1xmedia CA Sports" radio="false",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1  tvg-name="TSN2" tvg-id="TSN.2.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/iTSoxQW.png" group-title="A1xmedia CA Sports" radio="false",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1  tvg-name="TSN3" tvg-id="TSN.3.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/dPMY5Kc.png" group-title="A1xmedia CA Sports" radio="false",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1  tvg-name="TSN4" tvg-id="TSN.4.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/9EInDNq.png" group-title="A1xmedia CA Sports" radio="false",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1  tvg-name="TSN5" tvg-id="TSN.5.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/houBcHX.png" group-title="A1xmedia CA Sports" radio="false",TSN5
+https://a1xs.vip/6000005
 
-# ===== SOURCE 3 =====
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name=" HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqV7sfT2giQamfT9v2TiYB11ox28GQVdeG8DyqRAlKY9p50OCC0xg45y_tmR9CISWtUsQEnSMYwKPWSpLf7V7PAB.png" group-title="Ulang Tahun Ke 31",INDOMIE
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/3.ts
+#EXTGRP:A1xmedia EPL
+#EXTINF:-1  tvg-name="Astro Grandstand" tvg-id="Astro.Premier.League.3.my" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0vxakz2.png" group-title="A1xmedia EPL" radio="false",Astro Grandstand
+https://a1xs.vip/1100032
+#EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-my.png?raw=true" group-title="A1xmedia EPL" radio="false",Astro Premier League
+https://a1xs.vip/1100030
+#EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-2-my.png?raw=true" group-title="A1xmedia EPL" radio="false",Astro Premier League 2
+https://a1xs.vip/1100031
+#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1  tvg-name="MY: Astro Sports UHD" tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="A1xmedia EPL" radio="false",MY: Astro Sports UHD
+https://a1xs.vip/9000001
+#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="A1xmedia EPL" radio="false",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1  tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true" group-title="A1xmedia EPL" radio="false",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1  tvg-name="Peacock Premier League TV" tvg-id="Premier.League.Dummy.us" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg" group-title="A1xmedia EPL" radio="false",Peacock Premier League TV
+https://a1xs.vip/1100021
+#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" group-title="A1xmedia EPL" radio="false",Sky Sport PL NZ
+https://a1xs.vip/700008
+#EXTINF:-1  tvg-name="USA Network FHD" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/usa-network-lam.png?raw=true" group-title="A1xmedia EPL" radio="false",USA Network FHD
+https://a1xs.vip/1100020
 
-# ===== SOURCE 4 =====
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",00:00 Live Event Gcikar TV 11/01 AS Roma vs Sassuolo (Chuối Chiên) HD2
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",00:00 Live Event Gcikar TV 11/01 AS Roma vs Sassuolo (Chuối Chiên) HD4
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",00:00 Live Event Gcikar TV 11/01 AS Roma vs Sassuolo (Chuối Chiên) SD1
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",00:00 Live Event Gcikar TV 11/01 AS Roma vs Sassuolo (Chuối Chiên) SD2
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_a24442be.png",00:45 Live Event Gcikar TV 11/01 Tottenham vs Aston Villa (Chuối Chiên) HD2
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_a24442be.png",00:45 Live Event Gcikar TV 11/01 Tottenham vs Aston Villa (Chuối Chiên) SD1
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://media.api-sports.io/football/teams/45.png",19:15 10/01 Everton vs Sunderland (blvtoptop) Bún
-https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",20:45 Live Event Gcikar TV 10/01 Lublin vs Olsztyn (1) [Người Băng] HD2
-https://9ceg0825.edgemaxcdn.org/1768095365/952fa6ce2c088e2a2c46d1fbee8f792b/986344647/live/bangHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://img.thesports.com/football/team/426666bc594a8c414a9b6c0caa6b74b0.png",21:30 Live Event Gcikar TV 10/01 Orleans US 45 vs Monaco (1) [Lơ Đao] HD2
-https://9ceg0825.edgemaxcdn.org/1768076657/bd33f0843b732da77a760698167736e5/920485086/live/daoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://img.thesports.com/football/team/6508946c9a5fe22a8784b905b25e8c79.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger (1) [Trâu Gác Bếp] HD2
-https://9ceg0825.edgemaxcdn.org/1768076655/18bd5bce4037706be82c8c741e9b7383/224288457/live/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://img.rapid-api.icu/football/team/c300990f0189f6ebc6348c7e7002ee83/image/small",21:30 Live Event Gcikar TV 09/01 1. FC Heidenheim 1846 vs FC Köln (Gà Vàng) source
-https://live.alilicloud.com/live/6e7950edd6df8a815acc8eceac75fcdc/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV PIRLO] (Socolive) flv
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=00c736af5bded6cff2644bec42030293&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV PIRLO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=7f90f8e41f0a7607ceb7d6bf74fea05c&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV PIRLO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=7f90f8e41f0a7607ceb7d6bf74fea05c&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV PIRLO] (Socolive) m3u8
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=00c736af5bded6cff2644bec42030293&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV SATIVA] (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1768064731-0-0-f004a7468a807af90ddb36efabd2c449
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV SATIVA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1768064731-0-0-f7313f069ec2bfda3564d48649b253aa
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV SATIVA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1768064731-0-0-aedebcb4ef8395c7d7fed3749b66b257
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV SATIVA] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1768064731-0-0-c71ee942716dae6ffabb339982f86707
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=7dbc66f6bbf5a707b9912eab7514204f&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=09a9853d7c34dd5384f8ecaa3bf1eb4b&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=09a9853d7c34dd5384f8ecaa3bf1eb4b&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7dbc66f6bbf5a707b9912eab7514204f&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1768064732-0-0-c688456d2d3a4c43529f64e69fa69eb9
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1768064732-0-0-9bd2c138732873d0b0226c65f8e6e883
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1768064732-0-0-d7244be110d536c90e281b4c246bb7d1
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1768064732-0-0-0ad299fbb6d547f1a53f726e17de5d75
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [TAM MAO] (Socolive) flv
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=df6629382a4fd6dbfc8173cbd6020a72&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [TAM MAO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=5349078a1ee30bb3600eec463ac674c5&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [TAM MAO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=5349078a1ee30bb3600eec463ac674c5&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [TAM MAO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=df6629382a4fd6dbfc8173cbd6020a72&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=de206cc91fdef2a95bf8d1cb0c4f35e2&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=93b119eb828c0090efd4517893f8851e&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=93b119eb828c0090efd4517893f8851e&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/5b7119aee97e91b6aaff95153c9aae92.png",21:30 Live Event Gcikar TV 10/01 1. FC Heidenheim 1846 vs FC Köln [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=de206cc91fdef2a95bf8d1cb0c4f35e2&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/45ab4c846b0d4df5b002c571b16112dc.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 (Bún Chả)
-https://live.alilicloud.com/live/c7fd3d1ac24c49f058d2d3ed750c935e/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV GÔN] (Socolive) flv
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1768064731-0-0-bcbd4fcd43054b58554dfda7c72e98c1
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV GÔN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1768064731-0-0-ea1893ad779023cb0820a4b7306b9479
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV GÔN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1768064731-0-0-381fb0380daa1847ede226ddca3640f1
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV GÔN] (Socolive) m3u8
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1768064731-0-0-e8f34d93fbbe944680a5c2ef17756780
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1768064731-0-0-7a6e93e6ffcd0395b0dba743e4b6e18e
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1768064731-0-0-0366ef7c6679bbbe42f167e93ec35056
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="
-1f40
-https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768064731-0-0-25cfa84e41a402ad5a4425e57c9d07bf
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768064731-0-0-4068af4868356fa492e723f22fe08596
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV MIXI] (Socolive) flv
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1768064731-0-0-8d36ffbaf8eadc891c3e5aeed933c3d0
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV MIXI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1768064731-0-0-769bc4a9b7995421833eaa98cced5d6f
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV NIBO] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1768064731-0-0-59601ef92ab15a0c5eaae7b5b5f2c38f
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV NIBO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1768064731-0-0-a6707add3e88cc7ab77807ce023302df
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV NIBO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768064731-0-0-2592d24636cfb8af1a8e36f399cd3595
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV NIBO] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768064731-0-0-ce25729565f6d7b7b85db12b9e067b25
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1768064731-0-0-d4e28259d7451c2bf759714fde5592d4
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1768064731-0-0-02203c62e3a508c4f4c1522b1d965627
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1768064731-0-0-b24323676b3a798e47273b51171e6bf9
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [RÙA VÀNG] (Socolive) flv
-https://pull06.scstream.net/live/stream-563268_lsd.flv?auth_key=1768064732-0-0-3d0a0758bc45b7fff0f8dfc87152cf56
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [RÙA VÀNG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-563268_lhd.flv?auth_key=1768064732-0-0-8ccad31bd22be524d8606ee75a9eeec9
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [RÙA VÀNG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1768064732-0-0-07e3fdb7dea22c6a362f3aea1f8c0139
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/57384d9643810e1cde2e41c6498839a8.png",21:30 Live Event Gcikar TV 10/01 1. FC Union Berlin vs 1. FSV Mainz 05 [RÙA VÀNG] (Socolive) m3u8
-https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1768064732-0-0-09ae8e44002a7aa532ce045dc211be4c
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/af2108b31664d582d4e59c34c9be571b.png",21:30 Live Event Gcikar TV 10/01 Al Talaba vs Al-Kahrbaa Club (Bún Chả)
-https://live.alilicloud.com/live/abdca32b64049b6b61ef45e4b6a4b8fb/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/526150064f4f983d670deb33fa6385b6.png",21:30 Live Event Gcikar TV 10/01 Angers SCO vs Toulouse FC (Bún Chả)
-https://live.alilicloud.com/live/bada51823032c09f5d3df74fded641c5/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/64ce1c7870a36892fde05cfc7f64c06b.png",21:30 Live Event Gcikar TV 10/01 Bastia vs Troyes (Bún Chả)
-https://live.alilicloud.com/live/7526b50ee9e2e4061ebc3e5a857217c5/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/58e07ecf778f98f79f43ae9394bb360d.png",21:30 Live Event Gcikar TV 10/01 Montreuil FC vs Amiens (Bún Chả)
-https://live.alilicloud.com/live/389c24339058ab3df18ff47261daf57f/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4258_1:5bja71em6.png",21:30 Live Event Gcikar TV 10/01 Orleans US 45 vs Monaco (Lương Sơn) BLV URA flv
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4258_1:5bja71em6.png",21:30 Live Event Gcikar TV 10/01 Orleans US 45 vs Monaco (Lương Sơn) BLV URA m3u
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/6508946c9a5fe22a8784b905b25e8c79.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV (Bún Chả)
-https://live.alilicloud.com/live/e63af2e14f2f95d8f3183d2c147e9402/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vi
-1f40
-etnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1768064731-0-0-5ea5ec1ffc626a36d48eb057578f200e
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1768064731-0-0-4a391de6c4ee826a715227d43bea765b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1768064731-0-0-03ef5f973de625b8d2dc82f1efd23288
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1768064731-0-0-28a97a76e36ee0464e557ed1a4fcee8d
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1768064731-0-0-fcaa8fb0c76b5cf44d2dfae0532e98fb
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1768064731-0-0-413698f9e37449f6009bdd15a90852a0
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1768064731-0-0-17a3b182a6794ea06be1c28354392bcc
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1768064731-0-0-bbc6ad2d21ea5c886a0974c2ebc74bdf
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KINH TẾ] (Socolive) flv
-https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1768064731-0-0-ead2e6a69cb6057cb88cb0d888e3bc41
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KINH TẾ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1768064731-0-0-6b33ae966541979e2ef4a597c5bfa864
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KINH TẾ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1768064731-0-0-4f5dcd5af58f7d93c195cd7f61854f68
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV KINH TẾ] (Socolive) m3u8
-https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1768064731-0-0-dd464a8d5a4e3a0c02447bf3a44054db
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=da9147429682dd738e3ddd0a17e4dd15&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=00da6eb933ab491db7a29d26b484bd51&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=00da6eb933ab491db7a29d26b484bd51&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=da9147429682dd738e3ddd0a17e4dd15&txTime=6962cd2b
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV SÓI] (Socolive) flv
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1768064731-0-0-73e2f06d9ca46ff22dd490ea853e3b76
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV SÓI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1768064731-0-0-02352edf862513592b4fc46050de48dc
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV SÓI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768064731-0-0-71c6864c90a2663a452a99fd293377a2
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV SÓI] (Socolive) m3u8
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768064731-0-0-
-1f40
-2c604cc5d8cba37fe36b6cf9be24429a
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9ed21b26ce92649e19799e0ba9040536.png",21:30 Live Event Gcikar TV 10/01 SC Freiburg vs Hamburger SV [BLV TORRES] (Socolive) flv
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1768064732-0-0-adcccc4fd879dc139ee4ce1f6c991b96
-#EXTINF:-1 tvg-id="" group-title="Live Event: B.Vietnam 1 (Liga 1 Ada Di Sini)" tvg-logo="https://sta.vnres.co/file/common/20260107/9e
+#EXTGRP:A1xmedia EU Sports
+#EXTINF:-1  tvg-name="AL: Super Sport 1 FHD" tvg-id="SuperSport.1.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 1 FHD
+https://a1xs.vip/130001
+#EXTINF:-1  tvg-name="AL: Super Sport 2 FHD" tvg-id="SuperSport.2.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 2 FHD
+https://a1xs.vip/130002
+#EXTINF:-1  tvg-name="AL: Super Sport 3 FHD" tvg-id="SuperSport.3.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 3 FHD
+https://a1xs.vip/130003
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga FHD" tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/EhInbSW.png" group-title="A1xmedia EU Sports" radio="false",DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1  tvg-name="Sky Sport Top Event FHD" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0iFbfLa.png" group-title="A1xmedia EU Sports" radio="false",DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+#EXTINF:-1  tvg-name="Sportdigital Fussball" tvg-id="sportdigital.de" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8KiZkJF.png" group-title="A1xmedia EU Sports" radio="false",DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+#EXTINF:-1  tvg-name="Premier Sports 1 FHD" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/2PGUHlW.png" group-title="A1xmedia EU Sports" radio="false",IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
+#EXTINF:-1  tvg-name="Premier Sports 2 FHD" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/mLYkn9p.png" group-title="A1xmedia EU Sports" radio="false",IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
+#EXTINF:-1  tvg-name="NL: Ziggo Sport 2 FHD" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports" radio="false",NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+#EXTINF:-1  tvg-name="NL: Ziggo Sport 3 FHD" tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports" radio="false",NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+#EXTINF:-1  tvg-name="NL: Ziggo Sport 4 FHD" tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports" radio="false",NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+#EXTINF:-1  tvg-name="NL: Ziggo Sport FHD" tvg-id="Ziggo.Sport.nl" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports" radio="false",NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+
+#EXTGRP:A1xmedia Live Event | PPV
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
+https://a1xs.vip/ppv5
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 6
+https://a1xs.vip/ppv6
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 7
+https://a1xs.vip/ppv7
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 8
+https://a1xs.vip/ppv8
+
+#EXTGRP:A1xmedia NZ Sports
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/NRK8Uc6.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 1 NZ
+https://a1xs.vip/700031
+#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/IEDwF39.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/gTeEX4f.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ogjOWQV.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zIRnRJM.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1  tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/o0Icbjt.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1  tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/AznJTOJ.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 7 NZ
+https://a1xs.vip/700037
+#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png" group-title="A1xmedia NZ Sports" radio="false",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
+
+#EXTGRP:A1xmedia UHD | 4K
+#EXTINF:-1  tvg-name="Bloomberg TV UHD" tvg-id="Bloomberg.HD.us2" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="A1xmedia UHD | 4K" radio="false",Bloomberg TV UHD
+https://a1xs.vip/blombuhd
+#EXTINF:-1  tvg-name="Eleven Sports 1 4K" tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/k6MErsv.png" group-title="A1xmedia UHD | 4K" radio="false",Eleven Sports 1 4K
+https://a1xs.vip/14001
+#EXTINF:-1  tvg-name="Fashion TV UHD" tvg-id="Fashion.TV.de" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="A1xmedia UHD | 4K" radio="false",Fashion TV UHD
+https://a1xs.vip/ftv4kuhd
+#EXTINF:-1  tvg-name="HK: Now Sports 1 4k" tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/mj9zJUc.png" group-title="A1xmedia UHD | 4K" radio="false",HK: Now Sports 1 4k
+https://a1xs.vip/9000011
+#EXTINF:-1  tvg-name="HOME 4K" tvg-id="HOME.4K.pl" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="A1xmedia UHD | 4K" radio="false",HOME 4K
+https://a1xs.vip/home4k
+#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="Loupe4k" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="A1xmedia UHD | 4K" radio="false",Loupe 4K
+https://a1xs.vip/loupe4k
+#EXTINF:-1  tvg-name="Love Nature 4K" tvg-id="Love.Nature.ca" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="A1xmedia UHD | 4K" radio="false",Love Nature 4K
+https://a1xs.vip/lovent4k
+#EXTINF:-1  tvg-name="MUSEUM TV 4K" tvg-id="Museum.4k.ro" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/a55LkwU.png" group-title="A1xmedia UHD | 4K" radio="false",MUSEUM TV 4K
+https://a1xs.vip/msem4k
+#EXTINF:-1  tvg-name="MyZen 4K" tvg-id="MyZen.4K.ro" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/GDZobhF.png" group-title="A1xmedia UHD | 4K" radio="false",MyZen 4K (Multi Audio)
+https://a1xs.vip/myzen4k
+#EXTINF:-1  tvg-name="SE: V Sport Ultra HD" tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/Q2qDLpV.png" group-title="A1xmedia UHD | 4K" radio="false",SE: V Sport Ultra HD
+https://a1xs.vip/9000013
+#EXTINF:-1  tvg-name="SG: Hub Premier 2 UHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="A1xmedia UHD | 4K" radio="false",SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="travelxp.4K.de" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="A1xmedia UHD | 4K" radio="false",Travelxp 4K
+https://a1xs.vip/travelxpuhd
+#EXTINF:-1  tvg-name="UK: Sky Sports F1 UHD" tvg-id="SkySp.F1.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aetKPNi.png" group-title="A1xmedia UHD | 4K" radio="false",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1  tvg-name="UK: Sky Sports Main Event UHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="A1xmedia UHD | 4K" radio="false",UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1  tvg-name="UK: TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia UHD | 4K" radio="false",UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+#EXTINF:-1  tvg-name="US: NESN UHD" tvg-id="New.England.Sports.Network.HD.us2" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="A1xmedia UHD | 4K" radio="false",US: NESN UHD
+https://a1xs.vip/4000080
+
+#EXTGRP:A1xmedia UK Channels
+#EXTINF:-1  tvg-name="4Seven FHD" tvg-id="4seven.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/DtUIn7I.png" group-title="A1xmedia UK Channels" radio="false",4Seven FHD
+https://a1xs.vip/1000036
+#EXTINF:-1  tvg-name="BBC News FHD" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/wZcplCT.png" group-title="A1xmedia UK Channels" radio="false",BBC News FHD
+https://a1xs.vip/1000015
+#EXTINF:-1  tvg-name="BBC One FHD" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia UK Channels" radio="false",BBC One FHD
+https://a1xs.vip/1000001
+#EXTINF:-1  tvg-name="BBC Three / CBBC FHD" tvg-id="BBC.Three.HD.uk" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" group-title="A1xmedia UK Channels" radio="false",BBC Three / CBBC FHD
+https://a1xs.vip/1000003
+#EXTINF:-1  tvg-name="BBC Two FHD" tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="A1xmedia UK Channels" radio="false",BBC Two FHD
+https://a1xs.vip/1000002
+#EXTINF:-1  tvg-name="Cartoon Network UK FHD" tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cartoon-network-ca.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Cartoon Network UK FHD
+https://a1xs.vip/1000050
+#EXTINF:-1  tvg-name="Channel 4 FHD" tvg-id="Channel.4.HD.uk" tvg-logo="https://i.ibb.co/v3WBCFV/Channel-4.png" group-title="A1xmedia UK Channels" radio="false",Channel 4 FHD
+https://a1xs.vip/1000031
+#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Channel.5.HD.uk" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="A1xmedia UK Channels" radio="false",Channel 5 FHD
+https://a1xs.vip/1000030
+#EXTINF:-1  tvg-name="CNN News FHD" tvg-id="CNN.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/iXbtNPJ.png" group-title="A1xmedia UK Channels" radio="false",CNN UK FHD
+https://a1xs.vip/1000016
+#EXTINF:-1  tvg-name="Discovery Channel FHD" tvg-id="Discovery.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/1eM0KX8.png" group-title="A1xmedia UK Channels" radio="false",Discovery Channel FHD
+https://a1xs.vip/1000033
+#EXTINF:-1  tvg-name="E4 FHD" tvg-id="E4.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ium8n7E.png" group-title="A1xmedia UK Channels" radio="false",E4 FHD
+https://a1xs.vip/1000032
+#EXTINF:-1  tvg-name="FILM4 FHD" tvg-id="Film4.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/OjiHaqa.png" group-title="A1xmedia UK Channels" radio="false",Film4 FHD
+https://a1xs.vip/1000035
+#EXTINF:-1  tvg-name="GB News" tvg-id="GB.News.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0OLwnMR.png" group-title="A1xmedia UK Channels" radio="false",GB News FHD
+https://a1xs.vip/1000017
+#EXTINF:-1  tvg-name="iTV1 FHD" tvg-id="ITV1.HD.uk" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="A1xmedia UK Channels" radio="false",iTV1 FHD
+https://a1xs.vip/1000011
+#EXTINF:-1  tvg-name="iTV2 FHD" tvg-id="ITV2.HD.uk" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="A1xmedia UK Channels" radio="false",iTV2 FHD
+https://a1xs.vip/1000012
+#EXTINF:-1  tvg-name="iTV3 FHD" tvg-id="ITV3.HD.uk" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="A1xmedia UK Channels" radio="false",iTV3 FHD
+https://a1xs.vip/1000013
+#EXTINF:-1  tvg-name="iTV4 FHD" tvg-id="ITV4.HD.uk" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="A1xmedia UK Channels" radio="false",iTV4 FHD
+https://a1xs.vip/1000014
+#EXTINF:-1  tvg-name="MORE4 FHD" tvg-id="More4.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/cUMgPAZ.png" group-title="A1xmedia UK Channels" radio="false",More4 FHD
+https://a1xs.vip/1000034
+#EXTINF:-1  tvg-name="MTV FHD" tvg-id="MTV.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/CeKvKIu.png" group-title="A1xmedia UK Channels" radio="false",MTV FHD
+https://a1xs.vip/1000037
+#EXTINF:-1  tvg-name="Nick Jr. UK FHD" tvg-id="Nick.Jr..HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/nick-jr-in.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Nick Jr. UK FHD
+https://a1xs.vip/1000052
+#EXTINF:-1  tvg-name="Nickelodeon UK FHD" tvg-id="NickelodeonHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/nickelodeon-it.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Nickelodeon UK FHD
+https://a1xs.vip/1000051
+#EXTINF:-1  tvg-name="Nicktoon UK" tvg-id="Nicktoons.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/X3eFHe6.png" group-title="A1xmedia UK Channels" radio="false",Nicktoon UK
+https://a1xs.vip/100054
+#EXTINF:-1  tvg-name="Sky Atlantic FHD" tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-atlantic-it.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Atlantic FHD
+https://a1xs.vip/210001
+#EXTINF:-1  tvg-name="Sky Cinema Action FHD" tvg-id="Sky.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-action-it.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Action FHD
+https://a1xs.vip/210006
+#EXTINF:-1  tvg-name="Sky Cinema Comedy FHD" tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-comedy-de.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Comedy FHD
+https://a1xs.vip/210005
+#EXTINF:-1  tvg-name="Sky Cinema Family FHD" tvg-id="Sky.Family.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-family-it.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Family FHD
+https://a1xs.vip/210007
+#EXTINF:-1  tvg-name="Sky Cinema Hits FHD" tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-uk.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Hits FHD
+https://a1xs.vip/210002
+#EXTINF:-1  tvg-name="Sky Cinema Premiere FHD" tvg-id="Sky.Premiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-cinema-premiere-de.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Premiere FHD
+https://a1xs.vip/210003
+#EXTINF:-1  tvg-name="Sky Cinema Select FHD" tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-select-de.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Sky Cinema Select FHD
+https://a1xs.vip/210004
+#EXTINF:-1  tvg-name="Sky News" tvg-id="Sky.News.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/OrPaXvv.png" group-title="A1xmedia UK Channels" radio="false",Sky News FHD
+https://a1xs.vip/1000018
+
+#EXTGRP:A1xmedia UK Sports
+#EXTINF:-1  tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1  tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports F1 FHD
+https://a1xs.vip/2000005
+#EXTINF:-1  tvg-name="Sky Sports F1 UHD" tvg-id="SkySp.F1.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aetKPNi.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1  tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1  tvg-name="Sky Sports Main Event UHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1  tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Mix FHD
+https://a1xs.vip/2000008
+#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1  tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+#EXTINF:-1  tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Racing FHD
+https://a1xs.vip/2000010
+#EXTINF:-1  tvg-name="Sky Sports Tennis FHD" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZNUDU1r.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Tennis FHD
+https://a1xs.vip/2000013
+#EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports+ FHD
+https://a1xs.vip/2000012
+#EXTINF:-1  tvg-name="TNT Sports 1 FHD" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/1EYnddH.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 1 FHD
+https://a1xs.vip/2000021
+#EXTINF:-1  tvg-name="TNT Sports 2 FHD" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/YtGYRIB.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 2 FHD
+https://a1xs.vip/2000022
+#EXTINF:-1  tvg-name="TNT Sports 3 FHD" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/z1d9M65.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 3 FHD
+https://a1xs.vip/2000023
+#EXTINF:-1  tvg-name="TNT Sports 4 FHD" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/K92UuvG.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 4 FHD
+https://a1xs.vip/2000024
+#EXTINF:-1  tvg-name="TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+#EXTGRP:A1xmedia US Channels
+#EXTINF:-1  tvg-name="ABC" tvg-id="WABC-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/faIKUyq.png" group-title="A1xmedia US Channels" radio="false",ABC
+https://a1xs.vip/300003
+#EXTINF:-1  tvg-name="ABC News Live" tvg-id="ABC.News.Live.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/L2BWgSl.png" group-title="A1xmedia US Channels" radio="false",ABC News Live
+https://a1xs.vip/300016
+#EXTINF:-1  tvg-name="Animal Planet FHD" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/3TW3Qkf.png" group-title="A1xmedia US Channels" radio="false",Animal Planet FHD
+https://a1xs.vip/300035
+#EXTINF:-1  tvg-name="Cartoon Network FHD" tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/draQT6x.png" group-title="A1xmedia US Channels" radio="false",Cartoon Network FHD
+https://a1xs.vip/300032
+#EXTINF:-1  tvg-name="CBS" tvg-id="WCBS-DT.us_l
