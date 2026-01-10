@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الأول
-http://r665.io:80/live/madescas/pxJWcTK/112603.m3u8
+https://test.vartv.live/hls/ch4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الثاني
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الثالث
