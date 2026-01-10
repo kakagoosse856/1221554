@@ -67,20 +67,47 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt
 #EXTINF:-1 tvg-id="ALFAJER1-FHD" tvg-name="AL FAJER 1 FHD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (FHD)
 https://cdnfest.com/ftv1-1080p-castx/rewind-20.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/&tod-drm=true
 #EXTINF:-1 tvg-id="ALFAJER1-HD" tvg-name="AL FAJER 1 HD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (HD)
-https://cdnfest.com/ftv1-720p-castx/rewind-20.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+https://cast-x.com/token.php?id\u003dfjr_1_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003d33d8f4953f4df7c00d1558963071748b12dee6c9426b8873472809ad6fd71112
 #EXTINF:-1 tvg-id="ALFAJER2-FHD" tvg-name="AL FAJER 2 FHD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (FHD)
 https://cdnfest.com/ftv2-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
 #EXTINF:-1 tvg-id="ALFAJER2-HD" tvg-name="AL FAJER 2 HD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (HD)
-https://cdnfest.com/ftv2-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+https://cast-x.com/token.php?id\u003dfjr_2_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003ddb42034f93dd2d8f41989a0b659367949f0d4e4b4eee8e91f02e9925eb5f5a11
 #EXTINF:-1 tvg-id="ALFAJER3-FHD" tvg-name="AL FAJER 3 FHD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (FHD)
 https://cdnfest.com/ftv3-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
 #EXTINF:-1 tvg-id="ALFAJER3-HD" tvg-name="AL FAJER 3 HD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (HD)
-https://cdnfest.com/ftv3-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
-#EXTINF:-1 tvg-id="ALFAJER4-FHD" tvg-name="AL FAJER 4 FHD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (FHD)
+https://cast-x.com/token.php?id\u003dfjr_3_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003dd66ae3af84e53d271527f6a303beac8488a85cea7da441646259c82a02899f88#EXTINF:-1 tvg-id="ALFAJER4-FHD" tvg-name="AL FAJER 4 FHD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (FHD)
 https://cdnfest.com/ftv4-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
 #EXTINF:-1 tvg-id="ALFAJER4-HD" tvg-name="AL FAJER 4 HD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (HD)
-https://cdnfest.com/ftv4-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
-#EXTINF:-1 tvg-id="ALFAJER5-FHD" tvg-name="AL FAJER 5 FHD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (FHD)
+https://cast-x.com/token.php?id\u003dfjr_4_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003db9a820c6ef6a402c7ce407e8678cba897dfe9d6215c662f4e86a4ede17005ad8#EXTINF:-1 tvg-id="ALFAJER5-FHD" tvg-name="AL FAJER 5 FHD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (FHD)
 https://cdnfest.com/ftv5-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
 #EXTINF:-1 tvg-id="ALFAJER5-HD" tvg-name="AL FAJER 5 HD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (HD)
-https://cdnfest.com/ftv5-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+https://cast-x.com/token.php?id\u003dfjr_5_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003dbc0d1d2be8ab7a00f90fd3bb8ca41793664f63469d541f9d03ad46e9e464b825
+
+      "title": "Fajer 1 ᴴᴰ",
+      "logo": "https://i.ibb.co/0cY46br/AL-FAJER-1.jpg",
+      "position": "0",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 1 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 2 ᴴᴰ",
+      "logo": "https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg",
+      "position": "1",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 2 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 3 ᴴᴰ",
+      "logo": "https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg",
+      "position": "2",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 3 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 4 ᴴᴰ",
+      "logo": "https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg",
+      "position": "3",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 4 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 5 ᴴᴰ",
+      "logo": "https://i.ibb.co/W6VV956/AL-FAJER-5.jpg",
+      "position": "4",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 5 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
