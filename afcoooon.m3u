@@ -17,8 +17,8 @@ http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146122&extension
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 2  السرفر الرابع
 http://shoftvs.com/live/Mahmoudbeshry86/584236005/335079.m3u8
 
-#EXTINF:-1,beIN MAX 3 
-http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=146124&extension=m3u8
+#EXTINF:-1,الفجر 
+https://a.3lok3.site/live/aloka1/aloka1/33.m3u8
 #EXTINF:-1,NRT SPORT HD
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zaxosport
