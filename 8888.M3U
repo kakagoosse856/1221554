@@ -7,10 +7,16 @@ https://s3.news-api-gen.lol//alwan_sport1/index.m3u8?token=c7eab60bfcc57d5587af1
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",1الثمانية  HD A
-http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381478.m3u8
+http://199.115.193.116:8080/live/90337864331136/90337864331136/413725.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",1الثمانية  HD B
+http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381478.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",1الثمانية  HD C
 https://bbb.exoadash.com/TVD1451/index.mpd
+
+
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",2الثمانية  HD A
+http://199.115.193.116:8080/live/90337864331136/90337864331136/413722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",2الثمانية  HD B
 http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381477.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",3الثمانية  HD A
 http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381476.m3u8
