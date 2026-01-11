@@ -8,337 +8,935 @@ http://thksmom.shop/FR_FRANCE4HDh/index.m3u8?token=9570f373d5bd34000f7fdd5b3b72e
 http://thksmom.shop/FR_FRANCE5HD/index.m3u8?token=24c3550ac24f3a9ed20ae743b3be0940
 #EXTINF:-1,TF1
 http://familyip.vip/FR_TF1HD/mpegts?token=b2dd84f975b674a62fe694e223a9dfe6
-#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
-#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
-#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="|FR| ✪ LIGUE PLUS LIVE",Infosport+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="|FR| ✪ LIGUE PLUS LIVE",RMC Sport 1 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="|FR| ✪ LIGUE PLUS LIVE",RMC Sport 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ ꜰʜᴅ ʜᴇᴠᴄ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567176&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523608&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 1 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567323&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66aFANn.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 2 ꜰʜᴅ ʜᴇᴠᴄ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567177&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523609&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66aFANn.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 2 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567322&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XiQkGET.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 3 ꜰʜᴅ ʜᴇᴠᴄ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567178&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 3
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523610&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XiQkGET.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 3 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567324&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xmz4w8v.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 4 ꜰʜᴅ ʜᴇᴠᴄ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567179&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 4
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523611&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xmz4w8v.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 4 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567325&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7CCThjO.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 5 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567180&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 5
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523612&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7CCThjO.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 5 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567326&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4LC6qP.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 6 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567181&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 6
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523613&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4LC6qP.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 6 ʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567327&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFx4xsC.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 7 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567182&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 7
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523614&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGUamLB.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 8 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567183&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 8
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523615&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF7E2pM.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 9 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567184&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 9
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523616&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/91PNlOH.png" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 10 ꜰʜᴅ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1567185&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 10
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1523617&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | PSG - Angers SCO | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102187&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | PSG - Angers SCO | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102186&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",18:00 | OGC Nice - AJ Auxerre | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102185&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",18:00 | OGC Nice - AJ Auxerre | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102184&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",20:05 | OL - FC Metz | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102183&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",20:05 | OL - FC Metz | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102182&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",14:00 | FC Lorient - Rennes | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102181&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",14:00 | FC Lorient - Rennes | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102180&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Strasbourg - FC Nantes | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102179&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Strasbourg - FC Nantes | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1102178&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Havre AC - RC Lens | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273799&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Havre AC - RC Lens | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273800&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Toulouse FC - Brest | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1573793&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",16:15 | Toulouse FC - Brest | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273801&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | LOSC - AS Monaco | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273802&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | LOSC - AS Monaco | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273803&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | RC Lens - Brest | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273804&extension=m3u8
-#EXTINF:-1 tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="|FR| ✪ LIGUE 1 UNIQUEMENT PENDANT LE LIVE",19:45 | RC Lens - Brest | Ligue 1 | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1273805&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559728&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559729&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559730&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559731&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559732&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559733&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559734&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559735&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",Live | Udinese vs. Carrarese | Coppa Italia | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559736&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559737&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559738&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",Live | Torino vs. Modène | Coppa Italia | FR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559739&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559740&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559741&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559742&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559743&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559744&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559745&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559746&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559747&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559748&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-fr-2680.png" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559749&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559750&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559751&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559752&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559753&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559754&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559755&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559756&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="|FR| ✪ DAZN UNIQUEMENT PENDANT LE LIVE",FR | No Event
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=559757&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313913&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311905&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311904&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311903&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311902&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311901&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311900&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311899&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311898&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311897&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=311896&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313912&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313911&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313910&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313909&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313908&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313907&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313906&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313905&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=313904&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235361&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235362&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235363&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235364&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235365&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235366&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235367&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235368&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235369&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="|FR| ✪ DAZN EVENMENT",FR: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1235370&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="",FR| FFF TV 01 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874597&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 02 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874598&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 03 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874599&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 04 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874600&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 05 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874601&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 06 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874602&extension=m3u8
-#EXTINF:-1 tvg-logo="https://occitanie.fff.fr/wp-content/uploads/sites/18/2020/09/thumb_279652_cms_new_large_article-611x378.jpeg" group-title="|FR| ✪ FFF TV",FR| FFF TV 07 [EVENT ONLY]
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=874603&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 1 ᵁᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250665&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| Eurosport 1 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=238&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR|  EUROSPORT 1 ᵁᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=32842&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 1 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=12855&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250664&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| Eurosport 2 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=239&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=32843&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=12854&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 1 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=116970&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 1 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212596&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 2 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=116971&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 2 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212595&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 3 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=116972&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 3 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212594&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 4 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=116973&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 4 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212593&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 5 ᴴᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=116974&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 5 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212592&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 6 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212591&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 7 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212590&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="|FR| ✪ EUROSPORT 360",|FR| EUROSPORT 360 8 ˢᴰ
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=212589&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 9
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083409&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 10
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083408&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 11
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083407&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 12
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083406&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 13
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083405&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 14
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083404&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 15
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083403&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 16
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083402&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 17
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083401&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 18
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083400&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 19
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083399&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 20
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083398&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 21
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083397&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 22
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083396&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 23
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083395&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 24
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083394&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 25
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083393&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 26
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083392&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 27
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083391&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 28
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083390&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 29
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083389&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 30
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083388&extension=m3u8
-#EXTINF:-1 tvg-logo="" group-title="|FR| ✪ EUROSPORT 360",FR| EUROSPORT 360 31
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=1083387&extension=m3u8
+#EXTINF:-1,CA-FR | CPAC HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/6337.m3u8
+#EXTINF:-1,CA-FR | CGTN FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/9161.m3u8
+#EXTINF:-1,FR: ----- CINEMA -----
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17915.m3u8
+#EXTINF:-1,FR: CANAL+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17916.m3u8
+#EXTINF:-1,FR: CANAL+ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17917.m3u8
+#EXTINF:-1,FR: CANAL+ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17918.m3u8
+#EXTINF:-1,FR: CANAL+ BOX OFFICE SD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17919.m3u8
+#EXTINF:-1,FR: CANAL+ BOX OFFICE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17920.m3u8
+#EXTINF:-1,FR: CANAL+  CINEMA HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17921.m3u8
+#EXTINF:-1,FR: CANAL+ CINEMA HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17922.m3u8
+#EXTINF:-1,FR: CANAL+ CINEMA FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17923.m3u8
+#EXTINF:-1,FR: CINE+ OCS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17925.m3u8
+#EXTINF:-1,FR: CINE+ OCS SD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17926.m3u8
+#EXTINF:-1,FR: CINE+ OCS FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17927.m3u8
+#EXTINF:-1,FR: CINE+ FESTIVAL HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17928.m3u8
+#EXTINF:-1,FR: CINE+ FESTIVAL HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17929.m3u8
+#EXTINF:-1,FR: CINE+ FESTIVAL FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17930.m3u8
+#EXTINF:-1,FR: CINE+ EMOTION HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17931.m3u8
+#EXTINF:-1,FR: CINE+ EMOTION HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17932.m3u8
+#EXTINF:-1,FR: CINE+ EMOTION FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17933.m3u8
+#EXTINF:-1,FR: CINE+ FRISSON HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17934.m3u8
+#EXTINF:-1,FR: CINE+ FRISSON HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17935.m3u8
+#EXTINF:-1,FR: CINE+ FRISSON FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17936.m3u8
+#EXTINF:-1,FR: CINE+ FAMIZ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17937.m3u8
+#EXTINF:-1,FR: CINE+ FAMIZ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17938.m3u8
+#EXTINF:-1,FR: CINE+ FAMIZ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17939.m3u8
+#EXTINF:-1,FR: CINE+ CLUB HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17940.m3u8
+#EXTINF:-1,FR: CINE+ CLUB HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17941.m3u8
+#EXTINF:-1,FR: CINE+ CLUB FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17942.m3u8
+#EXTINF:-1,FR: CINE+ CLASSIC HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17943.m3u8
+#EXTINF:-1,FR: CINE+ CLASSIC HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17944.m3u8
+#EXTINF:-1,FR: CINE CLASSIC FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17945.m3u8
+#EXTINF:-1,FR: ACTION HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17946.m3u8
+#EXTINF:-1,FR: ACTION HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17947.m3u8
+#EXTINF:-1,FR: ACTION FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17948.m3u8
+#EXTINF:-1,FR: TCM CINEMA HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17949.m3u8
+#EXTINF:-1,FR: TCM CINEMA HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17950.m3u8
+#EXTINF:-1,FR: TCM CINEMA FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17951.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17952.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17953.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17954.m3u8
+#EXTINF:-1,FR: PARAMOUNT DECALE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17955.m3u8
+#EXTINF:-1,FR: PARAMOUNT DECALE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17956.m3u8
+#EXTINF:-1,FR: PARAMOUNT DECALE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17957.m3u8
+#EXTINF:-1,FR: NOLLYWOOD HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17958.m3u8
+#EXTINF:-1,FR: NOLLYWOOD TV EPIC HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17959.m3u8
+#EXTINF:-1,FR: NOLLYWOOD FULL HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17960.m3u8
+#EXTINF:-1,FR: A+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17962.m3u8
+#EXTINF:-1,FR: CANAL+ GRAND ECRAN FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17963.m3u8
+#EXTINF:-1,FR: CANAL+ SERIES HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17964.m3u8
+#EXTINF:-1,FR: CANAL+ SERIES HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17965.m3u8
+#EXTINF:-1,FR: CANAL+  SERIES FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17966.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17967.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17968.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17969.m3u8
+#EXTINF:-1,FR: COMEDIE+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17970.m3u8
+#EXTINF:-1,FR: COMEDIE+ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17971.m3u8
+#EXTINF:-1,FR: COMEDIE+ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17972.m3u8
+#EXTINF:-1,FR: WARNER TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17973.m3u8
+#EXTINF:-1,FR: WARNER TV HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17974.m3u8
+#EXTINF:-1,FR: WARNER TV FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17975.m3u8
+#EXTINF:-1,FR: POLAR+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17976.m3u8
+#EXTINF:-1,FR: POLAR+ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17977.m3u8
+#EXTINF:-1,FR: POLAR+ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17978.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17979.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17980.m3u8
+#EXTINF:-1,FR: CANAL+ BOX OFFICE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17981.m3u8
+#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17982.m3u8
+#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17983.m3u8
+#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17984.m3u8
+#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17985.m3u8
+#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17986.m3u8
+#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17987.m3u8
+#EXTINF:-1,FR: CINE OFFICE 7 WALT DISNEY HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17988.m3u8
+#EXTINF:-1,FR: CINE OFFICE 8 POLICIER HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17989.m3u8
+#EXTINF:-1,FR: CINE OFFICE 9 EPOUVANTE-HORREUR HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17990.m3u8
+#EXTINF:-1,FR: CINE OFFICE 10 COMEDY 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17991.m3u8
+#EXTINF:-1,FR: CINE OFFICE 11 ACTION 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17992.m3u8
+#EXTINF:-1,FR: CINE OFFICE 12 MANGAS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17993.m3u8
+#EXTINF:-1,FR: CINE OFFICE 13 DRAME HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17994.m3u8
+#EXTINF:-1,FR: CINE OFFICE 14 CONCERT HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17995.m3u8
+#EXTINF:-1,FR: CANALPLAY 1
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17996.m3u8
+#EXTINF:-1,FR: CANALPLAY 2
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17997.m3u8
+#EXTINF:-1,FR: CANALPLAY 3
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17998.m3u8
+#EXTINF:-1,FR: CANALPLAY 4
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17999.m3u8
+#EXTINF:-1,FR: CANALPLAY 5
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18000.m3u8
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18001.m3u8
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18002.m3u8
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18003.m3u8
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18004.m3u8
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18005.m3u8
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18006.m3u8
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18007.m3u8
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18008.m3u8
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18009.m3u8
+#EXTINF:-1,FR: A LA CARTE 10 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18010.m3u8
+#EXTINF:-1,FR: VIP SKWEEK 6
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18019.m3u8
+#EXTINF:-1,FR: VIP SKWEEK 7
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18020.m3u8
+#EXTINF:-1,FR: VIP SKWEEK 8
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18021.m3u8
+#EXTINF:-1,FR: F1 BATTLE
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18022.m3u8
+#EXTINF:-1,FR: F1 DRIVER TRACKER
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18023.m3u8
+#EXTINF:-1,FR: F1 MULTI SCREEN - TEAM RADIO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18024.m3u8
+#EXTINF:-1,FR: F1 ON BOARD MIX
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18025.m3u8
+#EXTINF:-1,FR: F1 TIMING SCREEN
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18026.m3u8
+#EXTINF:-1,FR: F1 ON BOARD ALEXANDER ALBON
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18027.m3u8
+#EXTINF:-1,FR: F1 ON BOARD CARLOS SAINZ
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18028.m3u8
+#EXTINF:-1,FR: F1 ON BOARD CHARLES LECLERC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18029.m3u8
+#EXTINF:-1,FR: F1 ON BOARD ANDREA KIMI ANTONELLI
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18030.m3u8
+#EXTINF:-1,FR: F1 ON BOARD ESTEBAN OCON
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18031.m3u8
+#EXTINF:-1,FR: F1 ON BOARD FERNANDO ALONSO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18032.m3u8
+#EXTINF:-1,FR: F1 ON BOARD JACK DOOHAN
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18033.m3u8
+#EXTINF:-1,FR: F1 ON BOARD GEORGE RUSSEL
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18034.m3u8
+#EXTINF:-1,FR: F1 ON BOARD LIAM LAWSON
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18035.m3u8
+#EXTINF:-1,FR: F1 ON BOARD LANCE STROLL
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18036.m3u8
+#EXTINF:-1,FR: F1 ON BOARD LANDO NORRIS
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18037.m3u8
+#EXTINF:-1,FR: F1 ON BOARD LEWIS HAMILTON
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18038.m3u8
+#EXTINF:-1,FR: F1 ON BOARD MAX VERSTAPPEN
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18039.m3u8
+#EXTINF:-1,FR: F1 ON BOARD NICO HULKENBERG
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18040.m3u8
+#EXTINF:-1,FR: F1 ON BOARD OSCAR PIASTRI
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18041.m3u8
+#EXTINF:-1,FR: F1 ON BOARD PIERRE GASLY
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18042.m3u8
+#EXTINF:-1,FR: F1 ON BOARD ISACK HADJAR
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18043.m3u8
+#EXTINF:-1,FR: F1 ON BOARD GABRIEL BORTOLETO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18044.m3u8
+#EXTINF:-1,FR: F1 ON BOARD YUKI TSUNODA
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18045.m3u8
+#EXTINF:-1,FR: F1 ON BOARD OLIVER BEARMAN
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18046.m3u8
+#EXTINF:-1,FR: CANAL+ FOOT SD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18047.m3u8
+#EXTINF:-1,FR: CANAL+ FOOT HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18048.m3u8
+#EXTINF:-1,FR: CANAL+ FOOT FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18049.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT 360 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18050.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT 360 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18051.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT 360 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18052.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18053.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18054.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18055.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( VENDREDI MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18056.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( VENDREDI MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18057.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18058.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( SAMEDI MATCH 1 )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18059.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( SAMEDI MATCH 1 )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18060.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18061.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( SAMEDI MATCH 2 )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18062.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( SAMEDI MATCH 2 )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18063.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18064.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 1ER MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18065.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 1ER MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18066.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18067.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 2EME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18068.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 2EME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18069.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18070.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 3ÈME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18071.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 3EME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18072.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18073.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 4ÈME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18074.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 4EME MATCH )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18075.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18076.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( CANAL MULTIPLEX LIVE ONLY )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18077.m3u8
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( CANAL MULTIPLEX LIVE ONLY )
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18078.m3u8
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18079.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18080.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18081.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18082.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18083.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18084.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18085.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18086.m3u8
+#EXTINF:-1,FR: DAZN LIGUE 2 - 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18087.m3u8
+#EXTINF:-1,FR: DAZN EVENT 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18088.m3u8
+#EXTINF:-1,FR: DAZN EVENT 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18089.m3u8
+#EXTINF:-1,FR: DAZN EVENT 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18090.m3u8
+#EXTINF:-1,FR: DAZN EVENT 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18091.m3u8
+#EXTINF:-1,FR: DAZN EVENT 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18092.m3u8
+#EXTINF:-1,FR: DAZN EVENT 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18093.m3u8
+#EXTINF:-1,FR: DAZN EVENT 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18094.m3u8
+#EXTINF:-1,FR: DAZN EVENT 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18095.m3u8
+#EXTINF:-1,FR: DAZN EVENT 9 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18096.m3u8
+#EXTINF:-1,FR: DAZN EVENT 10 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18097.m3u8
+#EXTINF:-1,FR: DAZN EVENT 11 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18098.m3u8
+#EXTINF:-1,FR: DAZN EVENT 12 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18099.m3u8
+#EXTINF:-1,FR: DAZN EVENT 13 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18100.m3u8
+#EXTINF:-1,FR: DAZN EVENT 14 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18101.m3u8
+#EXTINF:-1,FR: DAZN EVENT 15 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18102.m3u8
+#EXTINF:-1,FR: DAZN EVENT 16 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18103.m3u8
+#EXTINF:-1,FR: DAZN EVENT 17 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18104.m3u8
+#EXTINF:-1,FR: DAZN EVENT 18 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18105.m3u8
+#EXTINF:-1,FR: DAZN EVENT 19 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18106.m3u8
+#EXTINF:-1,FR: DAZN EVENT 20 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18107.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 1 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18108.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18109.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 2 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18110.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18111.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 3 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18112.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18113.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 4 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18114.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18115.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 5 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18116.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18117.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 6 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18118.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18119.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 7 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18120.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18121.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 8 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18122.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18123.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 9 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18124.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 9 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18125.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 10 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18126.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 10 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18127.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 11 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18128.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 11 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18129.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 12 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18130.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 12 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18131.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 13 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18132.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 13 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18133.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 14 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18134.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 14 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18135.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 15 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18136.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 15 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18137.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 16 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18138.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 16 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18139.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 17 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18140.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 17 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18141.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 18 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18142.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 18 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18143.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 19 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18144.m3u8
+#EXTINF:-1,FR: CANAL+ LIVE 19 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18145.m3u8
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18146.m3u8
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18147.m3u8
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18148.m3u8
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18149.m3u8
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18150.m3u8
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18151.m3u8
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18152.m3u8
+#EXTINF:-1,FR: CANAL+ MOTO GP HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18153.m3u8
+#EXTINF:-1,FR: CANAL+ TOP14 RUGBY HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18154.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18155.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18156.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18157.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18158.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18159.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18160.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18161.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18162.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18163.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18164.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18165.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX  HD 5
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18166.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 5
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18167.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 6
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18168.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 6 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18169.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 7
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18170.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 8
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18171.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 9
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18172.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18173.m3u8
+#EXTINF:-1,FR: TECH & CO FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18174.m3u8
+#EXTINF:-1,FR: L'EQUIPE 21 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18175.m3u8
+#EXTINF:-1,FR: L'EQUIPE 21 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18176.m3u8
+#EXTINF:-1,FR: L'EQUIPE 21 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18177.m3u8
+#EXTINF:-1,FR: INFOSPORT+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18178.m3u8
+#EXTINF:-1,FR: INFOSPORT+ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18179.m3u8
+#EXTINF:-1,FR: INFOSPORT+ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18180.m3u8
+#EXTINF:-1,FR: RMC SPORT UHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18181.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18182.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18183.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18184.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18185.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18186.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18187.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18188.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18189.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18190.m3u8
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18191.m3u8
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18192.m3u8
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18193.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 6
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18194.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 7
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18195.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 10
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18196.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 13
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18197.m3u8
+#EXTINF:-1,FR: RMC SPORT NEWS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18198.m3u8
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18199.m3u8
+#EXTINF:-1,FR: |VIP| LIGUE 2 PRIME VIDEO MPLX HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18200.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18201.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18202.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18203.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18204.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18205.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18206.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18207.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18208.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18209.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 4 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18210.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 5 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18211.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 6 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18212.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 7 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18213.m3u8
+#EXTINF:-1,FR: EUROSPORT 360 8 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18214.m3u8
+#EXTINF:-1,FR:  AUTOMOTO TV
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18215.m3u8
+#EXTINF:-1,FR: AUTOMOTO HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18216.m3u8
+#EXTINF:-1,FR: AUTOMOTO LA CHAINE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18217.m3u8
+#EXTINF:-1,FR: EQUIDIA HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18218.m3u8
+#EXTINF:-1,FR: EQUIDIA HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18219.m3u8
+#EXTINF:-1,FR: EQUIDIA FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18220.m3u8
+#EXTINF:-1,FR: GOLF+  HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18221.m3u8
+#EXTINF:-1,FR: GOLF+ HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18222.m3u8
+#EXTINF:-1,FR: GOLF CHANNEL
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18223.m3u8
+#EXTINF:-1,FR: GOLF CHANNEL HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18224.m3u8
+#EXTINF:-1,FR: EXTREME SPORTS FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18225.m3u8
+#EXTINF:-1,FR: SPORT EN FRANCE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18226.m3u8
+#EXTINF:-1,FR: GINX ESPORTS TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18227.m3u8
+#EXTINF:-1,FR: OL TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18228.m3u8
+#EXTINF:-1,FR: BFM SPORT
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18229.m3u8
+#EXTINF:-1,FR: L EQUIPE CINE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18230.m3u8
+#EXTINF:-1,FR: TRACE SPORTS STAR HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18231.m3u8
+#EXTINF:-1,FR: NAUTICAL TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18232.m3u8
+#EXTINF:-1,FR: |VIP| FIFA+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18233.m3u8
+#EXTINF:-1,FR: |VIP| GOLF CHANNEL HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18234.m3u8
+#EXTINF:-1,FR: |VIP| EQUIDIA LIVE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18235.m3u8
+#EXTINF:-1,FR: |VIP| HORSE TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18236.m3u8
+#EXTINF:-1,FR: |VIP| MOTORVISION HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18237.m3u8
+#EXTINF:-1,FR: |VIP| MOTORSPORT TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18238.m3u8
+#EXTINF:-1,FR: |VIP| MOTOR RACING HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18239.m3u8
+#EXTINF:-1,FR: |VIP| F1 TV
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18240.m3u8
+#EXTINF:-1,FR: |VIP| MCS EXTREME HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18241.m3u8
+#EXTINF:-1,FR: |VIP| ADVENTURE SPORTS TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18242.m3u8
+#EXTINF:-1,FR: |VIP| THE BOAT SHOW HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18243.m3u8
+#EXTINF:-1,FR: |VIP| FUEL TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18244.m3u8
+#EXTINF:-1,FR: |VIP| WORLD BILLIARDS TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18245.m3u8
+#EXTINF:-1,FR: |VIP| WWE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18246.m3u8
+#EXTINF:-1,FR: |VIP| GLORY KICKBOXING HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18247.m3u8
+#EXTINF:-1,FR: |VIP| MGG TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18248.m3u8
+#EXTINF:-1,FR: |VIP| BOULISTENAUTE HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18249.m3u8
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE FOOT HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18250.m3u8
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18251.m3u8
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18252.m3u8
+#EXTINF:-1,FR: |FR| EQUIDIA LIVE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18253.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 1 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18254.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 2 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18255.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 3 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18256.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 4 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18257.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 5 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18258.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 6 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18259.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 7 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18260.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 8 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18261.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 9 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18262.m3u8
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 10 HD (EVENT ONLY)
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18263.m3u8
+#EXTINF:-1,FR: DAZN SD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18264.m3u8
+#EXTINF:-1,FR: DAZN HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18265.m3u8
+#EXTINF:-1,FR: |VIP| DAZN 1 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18266.m3u8
+#EXTINF:-1,FR: |VIP| DAZN PPV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18267.m3u8
+#EXTINF:-1,FR: |FR| DRIVE TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18268.m3u8
+#EXTINF:-1,FR: |FR| RUGBY ZONE TV
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18269.m3u8
+#EXTINF:-1,FR: TVM 3 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18414.m3u8
+#EXTINF:-1,FR: FRANCE INFO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18415.m3u8
+#EXTINF:-1,FR: FRANCE INFO HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18416.m3u8
+#EXTINF:-1,FR: FRANCE INFO HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18417.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18418.m3u8
+#EXTINF:-1,FR: EURONEWS FR HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18419.m3u8
+#EXTINF:-1,FR: RT FRANCE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18420.m3u8
+#EXTINF:-1,FR: FRANCE 24 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18421.m3u8
+#EXTINF:-1,FR: CNEWS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18422.m3u8
+#EXTINF:-1,FR: CNEWS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18423.m3u8
+#EXTINF:-1,FR: CNEWS FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18424.m3u8
+#EXTINF:-1,FR: BFM TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18425.m3u8
+#EXTINF:-1,FR: BFM TV HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18426.m3u8
+#EXTINF:-1,FR: BFM TV FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18427.m3u8
+#EXTINF:-1,FR: BFM2 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18428.m3u8
+#EXTINF:-1,FR: BFM PARIS FHD HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18429.m3u8
+#EXTINF:-1,FR: BFM BUSINESS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18430.m3u8
+#EXTINF:-1,FR: BFM BUSINESS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18431.m3u8
+#EXTINF:-1,FR: LCP HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18432.m3u8
+#EXTINF:-1,FR: LCP FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18433.m3u8
+#EXTINF:-1,FR: LCI HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18434.m3u8
+#EXTINF:-1,FR: LCI HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18435.m3u8
+#EXTINF:-1,FR: I24 NEWS
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18436.m3u8
+#EXTINF:-1,FR: I24 NEWS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18437.m3u8
+#EXTINF:-1,FR: KTO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18438.m3u8
+#EXTINF:-1,FR: LA CHAINE METEO HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18440.m3u8
+#EXTINF:-1,FR: ----- DOCUMENTAIRE -----
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18270.m3u8
+#EXTINF:-1,FR: PLANETE+ HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18271.m3u8
+#EXTINF:-1,FR: PLANETE+ FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18272.m3u8
+#EXTINF:-1,FR: PLANETE+ AVENTURE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18273.m3u8
+#EXTINF:-1,FR: PLANETE+ AVENTURE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18274.m3u8
+#EXTINF:-1,FR: PLANETE+ AVENTURE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18275.m3u8
+#EXTINF:-1,FR: PLANETE+ CRIME HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18276.m3u8
+#EXTINF:-1,FR: PLANETE+ CRIME HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18277.m3u8
+#EXTINF:-1,FR: PLANETE+ CI FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18278.m3u8
+#EXTINF:-1,FR: ARTE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18279.m3u8
+#EXTINF:-1,FR: ARTE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18280.m3u8
+#EXTINF:-1,FR: TV 5 MONDE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18281.m3u8
+#EXTINF:-1,FR: NAT GEO HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18282.m3u8
+#EXTINF:-1,FR: NAT GEO HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18283.m3u8
+#EXTINF:-1,FR: NAT GEO FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18284.m3u8
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18285.m3u8
+#EXTINF:-1,FR: NAT GEO WILD HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18286.m3u8
+#EXTINF:-1,FR: NAT GEO WILD FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18287.m3u8
+#EXTINF:-1,FR: USHUAIA TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18288.m3u8
+#EXTINF:-1,FR: USHUAIA TV HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18289.m3u8
+#EXTINF:-1,FR: USHUAIA FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18290.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18291.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18292.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18293.m3u8
+#EXTINF:-1,FR: RMC STORY HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18294.m3u8
+#EXTINF:-1,FR: RMC STORY HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18295.m3u8
+#EXTINF:-1,FR: RMC STORY FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18296.m3u8
+#EXTINF:-1,FR: MUSEUM CHANNEL HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18297.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18298.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18299.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18300.m3u8
+#EXTINF:-1,FR: TLC HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18301.m3u8
+#EXTINF:-1,FR: TLC HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18302.m3u8
+#EXTINF:-1,FR: DISCOVERY FRANCE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18303.m3u8
+#EXTINF:-1,FR: DISCOVERY FRANCE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18304.m3u8
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18305.m3u8
+#EXTINF:-1,FR: CRIME DISTRICT HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18306.m3u8
+#EXTINF:-1,FR: DISCOVERY FRANCE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18307.m3u8
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18308.m3u8
+#EXTINF:-1,FR: DISCOVERY INVEST HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18309.m3u8
+#EXTINF:-1,FR: TLC FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18310.m3u8
+#EXTINF:-1,FR: TREK HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18311.m3u8
+#EXTINF:-1,FR: ABXPLORE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18312.m3u8
+#EXTINF:-1,FR: TREK TV HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18313.m3u8
+#EXTINF:-1,FR: HISTOIRE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18314.m3u8
+#EXTINF:-1,FR: HISTOIRE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18315.m3u8
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18316.m3u8
+#EXTINF:-1,FR: TOUTE L.HISTOIRE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18317.m3u8
+#EXTINF:-1,FR: TOUTE L'HISTOIRE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18318.m3u8
+#EXTINF:-1,FR: ANIMAUX HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18319.m3u8
+#EXTINF:-1,FR: ANIMAUX HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18320.m3u8
+#EXTINF:-1,FR: ANIMAUX FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18321.m3u8
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18322.m3u8
+#EXTINF:-1,FR: CHASSE ET PÊCHE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18323.m3u8
+#EXTINF:-1,FR: SEASONS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18324.m3u8
+#EXTINF:-1,FR: SEASONS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18325.m3u8
+#EXTINF:-1,FR: ----- MUSIQUE -----
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18378.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18379.m3u8
+#EXTINF:-1,FR: M6 MUSIC HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18380.m3u8
+#EXTINF:-1,FR: NRJ HITS HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18381.m3u8
+#EXTINF:-1,FR: NRJ HITS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18382.m3u8
+#EXTINF:-1,FR: NRJ 12 HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18383.m3u8
+#EXTINF:-1,FR: NRJ 12 HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18384.m3u8
+#EXTINF:-1,FR: NRJ 12 FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18385.m3u8
+#EXTINF:-1,FR: MCM
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18386.m3u8
+#EXTINF:-1,FR: MCM HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18387.m3u8
+#EXTINF:-1,FR: MCM TOP
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18388.m3u8
+#EXTINF:-1,FR: MTV FRANCE
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18389.m3u8
+#EXTINF:-1,FR: MTV FRANCE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18390.m3u8
+#EXTINF:-1,FR: MTV HITS
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18391.m3u8
+#EXTINF:-1,FR: MTV HITS HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18392.m3u8
+#EXTINF:-1,FR: MTV DANCE
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18393.m3u8
+#EXTINF:-1,FR: BRAVA HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18394.m3u8
+#EXTINF:-1,FR: BRAVA HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18395.m3u8
+#EXTINF:-1,FR: MEZZO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18396.m3u8
+#EXTINF:-1,FR: MEZZO LIVE HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18397.m3u8
+#EXTINF:-1,FR: CSTAR HITS FRANCE FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18398.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18399.m3u8
+#EXTINF:-1,FR: TRACE URBAN HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18400.m3u8
+#EXTINF:-1,FR: TRACE AFRICA
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18401.m3u8
+#EXTINF:-1,FR: TRACE GOSPEL
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18402.m3u8
+#EXTINF:-1,FR: TRACE MZIKI
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18403.m3u8
+#EXTINF:-1,FR: TRACE TOCA
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18404.m3u8
+#EXTINF:-1,FR: TRACE
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18405.m3u8
+#EXTINF:-1,FR: TRACE LATINA
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18406.m3u8
+#EXTINF:-1,FR: TRACE AFRIKORA
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18407.m3u8
+#EXTINF:-1,FR: TRACE KITOKO
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18408.m3u8
+#EXTINF:-1,FR: MELODY TV
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18409.m3u8
+#EXTINF:-1,FR: MELODY FHD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18410.m3u8
+#EXTINF:-1,FR: RT
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18411.m3u8
+#EXTINF:-1,FR: RFM TV HEVC
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18412.m3u8
+#EXTINF:-1,FR: DJAZZ TV HD
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18413.m3u8
 
 
