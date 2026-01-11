@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD A
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
-
-
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD B
+https://s3.news-api-gen.lol//alwan_sport1/index.m3u8?token=c7eab60bfcc57d5587af1188ba989c6c9c0045bb-171b617c5e8551f20bc82144e3b464b1-1768106788-1768095988&remote=104.28.193.116
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD A
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD A
