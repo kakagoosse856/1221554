@@ -101,6 +101,7 @@ https://tv.fan7live.workers.dev/live/beINAR9/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 D
 https://v.arectv30.sbs/static/bs1.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="bein",Bein Sports Xtra Africa
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
