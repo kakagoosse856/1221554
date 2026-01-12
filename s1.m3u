@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,BeinHD: Bein News
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3111.m3u8
+#EXTINF:-1,BeinHD: Bein Sport
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3112.m3u8
+#EXTINF:-1,Bein 1 EXTRA 1080p
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2673.m3u8
+#EXTINF:-1,Bein 2 EXTRA 1080p
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22439.m3u8
 #EXTINF:-1,BeIN 1 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33885.m3u8
 #EXTINF:-1,BeIN 2 HEVC 
@@ -85,12 +93,7 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2183.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2184.m3u8
 #EXTINF:-1,TR beIN Sports 3
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2185.m3u8
-#EXTINF:-1,Bein NBA
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/39509.m3u8
-#EXTINF:-1,Bein 1 EN 1080p
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2160.m3u8
-#EXTINF:-1,Bein 2 EN 1080p
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2161.m3u8
+
 
 #EXTINF:-1,BEIN SPORTS HD
 http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/179.m3u8
