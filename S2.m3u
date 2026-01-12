@@ -6,4 +6,10 @@ https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN HEVC & FHD",TOD 1
 http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=146116&extension=ts&play_token=6znkzCQyO0
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=149773&extension=ts&play_token=dvNH4e67it
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=250663&extension=ts&play_token=iMTpbhzlZZ
 
