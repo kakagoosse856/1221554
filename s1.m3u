@@ -102,3 +102,14 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extens
 #EXTINF:-1,BeinSport3.fr
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
 
+#EXTINF:0 CUID="86" tvg-name="BEİN SPORTS 1 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:0 CUID="87" tvg-name="BEİN SPORTS 2 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 2 VİP TR
+https://v.arectv30.sbs/static/bs2.m3u8
+#EXTINF:0 CUID="88" tvg-name="BEİN SPORTS 3 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 3 VİP TR
+https://v.arectv30.sbs/static/bs3.m3u8
+#EXTINF:0 CUID="89" tvg-name="BEİN SPORTS 4 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 4 VİP TR
+https://v.arectv30.sbs/static/bs4.m3u8
+#EXTINF:0 CUID="90" tvg-name="BEİN SPORTS 5 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
+https://v.arectv30.sbs/static/bs5.m3u8
+
