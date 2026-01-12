@@ -41,6 +41,8 @@ http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ldsport
 http://109.123.245.192/Ldsport/index.m3u8
+#EXTINF:-1,Ldsport A
+http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8
 #EXTINF:-1,Avasport
 http://109.123.245.192/Avasport11/index.m3u8
 http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
