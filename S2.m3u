@@ -2,6 +2,8 @@
 
 #EXTINF:-1,post sports 1
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
-#EXTINF:-1,on sport
-https://live.eighty-eight.tv:7443/ons1-3/tracks-v1a1/mono.ts.m3u8?amp%3Bautoplay=false&amp%3Bmuted=false&amp%3Bremote=no_check_ip&token=89bfbc59f748f48e03dafb6d2bcd1b1cbd3742dc-2869e3faac6ff629b4d1dc9ba6acc14f-1768263040-1768252240
+#EXTINF:-1,BEIN HEVC & FHD",TOD 1
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN HEVC & FHD",TOD 1
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
 
