@@ -101,21 +101,4 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
 #EXTINF:-1,BeinSport3.fr
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1,Canalplus.fr
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extension=m3u8
-#EXTINF:-1,Canalplus.fr A
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=m3u8
-#EXTINF:-1,CanalPlusFoot.fr
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=m3u8
-#EXTINF:-1,CanalPlusSport360.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=m3u8
-#EXTINF:-1,CanalPlusSport.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=m3u8
-#EXTINF:-1,InfosportPlus.fr
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=m3u8
-#EXTINF:-1,RMCSport1.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=m3u8
-#EXTINF:-1,RMCSport2.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=m3u8
-#EXTINF:-1,RMCSport3.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203437&extension=m3u8
+
