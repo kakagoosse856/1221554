@@ -11,3 +11,11 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/20251213T060324Z/mux_video_720p_t
 https://liveeu-gcp.alkassdigital.net/shooflive/20251209T054015Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1,Al kass 6 HD
 https://liveeu-gcp.alkassdigital.net/alkass6-p/20251212T182329Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1,AR | BEIN Discovery KIDS ⓧ SD
+http://xplatinmedia.com:8080/Mehdi_teleg/rqWltxHgUJEZdFeaxUtcdnq75f1Z8a/102212
+#EXTINF:-1,AR | BEIN Dramaⓧ
+http://xplatinmedia.com:8080/Mehdi_teleg/rqWltxHgUJEZdFeaxUtcdnq75f1Z8a/102220
+#EXTINF:-1,AR | BEIN Dreamworksⓧ
+http://xplatinmedia.com:8080/Mehdi_teleg/rqWltxHgUJEZdFeaxUtcdnq75f1Z8a/102235
+#EXTINF:-1,AR | BEIN DTX ⓧ HD
+http://xplatinmedia.com:8080/Mehdi_teleg/rqWltxHgUJEZdFeaxUtcdnq75f1Z8a/102204
