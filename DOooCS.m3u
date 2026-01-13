@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:-1 , https://t.me/neonplustv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ DOCS
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="22. |AR|🇸🇦 THEMATICS-1 عربي",ASHARQ DOCS 2
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6oIqwujEdEiag2q9bgzgjKouWvAJ25uq879taS3fOg&s=10", Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa9UA-XFKL4jrTLm7k_qAFQXxSEqUumI7F3H6IPp24w&s=10", National Geographic
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NSHTTNPU_XUt_iCNhWiNatZe1czircDSxjepEXqPuQ&s=10", Al-Sharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".", World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9FN2sp8zAzpi-iAk4uaFmQFmVYG5Gt-A-ZaK9N8Sjg&s=10", Docobox HD
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikYDcwk9HKcBWTd5YAVo6TsX-V3X_ER3djUqo4wqbsA&s=10", Love Nature
+https://m.youtube.com/@lovenature/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNqHCyRRFivlf5JhPhPBSyRnGGNbxg7M-qA29el3Sbw&s=10", BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cltzGd4.png", CS History
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUBQhpqn0Wr6WvxT1844NUFp9MAV2TTyOaI4pYHC1EQ&s=10", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeKbVYM2ebfsEy8UVFPN7QpAOze42DtKSuxUkWwgXpA&s", Discovery Relaxation
+https://m.youtube.com/@discoveryrelaxation3457/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygkxoD3rus7UUw7I0YQ7rOBfi88gyWS41XY86hTi4Sg&s", Relaxing Nature
+https://m.youtube.com/@@animals-world/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9IKTa9HWpDDk_2LIVKpQLTih-gh6bH5h3ibbNsmvag&s=10", NASA
+https://m.youtube.com/@NASA/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPg8pgnoEKHOxKg2aRCbMyaX7cSoAbPFrvFQWWuCW0Q&s=10", Explore Live Nature
+https://m.youtube.com/@ExploreLiveNatureCams/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxi5dowSx5nPQf3vv2IS_nJSTHbL8CnCqxUkNo9Lt2w&s=10", BBC Earth
+https://m.youtube.com/@bbcearth/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10", Discovery TV
+https://m.youtube.com/@@discovery/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9sz9h2I54IBpi2B6zWdlWGIILyXsjop3iasq0eUsnw&s=10", Discovery Australia
+https://m.youtube.com/@DiscoveryAustralia/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit0YHrlL4cxfCRngJPS6FoiZeil3NihjqTUidSYEBIA&s=10", Explore Africa
+https://m.youtube.com/@ExploreAfrica/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAD4ejdNqEbA4pkwaoROtFCxvyEmdDi8IEApIgYp3Ag&s=10", The Nest TV
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj5wtk21BQ6EILydShGZ3HmiUlTE9EHrWEwtulkrg&s=10", Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_wiklg3ponKeOIY0YmeEBAeSqHzCE33txyU2Rt6oBQ&s=10", NatGeo Wild
+https://akmrwb-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_jkRUcd3GAZ0Ud3ExRUs1QferrHwTI22fFFOD1Vj_A&s=10", LA 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0SZtPaukptE_DZfX-G41iGwMVq6ea6lyokS1aR_SCg&s=10", Gem Nature
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3zLsgJlZg05xZqFcxJpJaGJCa_qhJcx6FD1niKi2_g&s", GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiNWANSWYZ9K0Ywfbna6YuczxX63Hl8IpgQIjDBLcmg&s=10", Fosion TV
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OcvWTinb6w7L6DSI7JqlBSCDPSV_p4ic5c_AddrpOA&s", EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM", Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+
+#EXTINF:0 CUID="1127" tvg-name="Asharq Documentary HD" tvg-logo="https://i.imgur.com/CL22wwo.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Asharq Documentary HD
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:0 CUID="1128" tvg-name="Asharq Discovery HD" tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Asharq Discovery HD
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:0 CUID="1129" tvg-name="Al Jazeera Documentary (Backup 1)🏞️" tvg-id="ext" tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 1)🏞️
+http://154.58.202.131:8000/play/a00l
+#EXTINF:0 CUID="1130" tvg-name="Al Jazeera Documentary (Backup 2)🏞️" tvg-id="ext" tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 2)🏞️
+http://154.58.202.185:8000/play/a095
+#EXTINF:0 CUID="1131" tvg-name="ALJazeera 🏞️الجزيرة الوثائقية" tvg-id="ext" tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
+https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
+#EXTINF:0 CUID="1132" tvg-name="National Geographic Abu Dhabi HD" tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:0 CUID="1133" tvg-name="Oman 🏞️الوثائقية" tvg-id="ext" tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",Oman 🏞️الوثائقية
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:0 CUID="1134" tvg-name="DOCSTORY" tvg-id="ext" tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",DOCSTORY
+https://jmp2.uk/sam-FR1200001N2.m3u8
+#EXTINF:0 CUID="1135" tvg-name="National Geographic Wild East" tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Wild East
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:0 CUID="1136" tvg-name="Pluto TV Animals" tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Animals
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac633-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ec05d93-5fee-4979-91ea-f6de241d3f06
+#EXTINF:0 CUID="1137" tvg-name="Pluto TV Animals" tvg-id="PlutoTVAnimals.us@Austria" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Animals
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f81-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c749ba3-753d-4787-aa99-051f1037b6b3
+#EXTINF:0 CUID="1138" tvg-name="Pluto TV Animals" tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Animals
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
+#EXTINF:0 CUID="1139" tvg-name="Pluto TV Documentaries" tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://i.imgur.com/ICOzMFc.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c20f2b68-5b90-43f4-9269-05ca1653242d
+#EXTINF:0 CUID="1140" tvg-name="Pluto TV Documentaries" tvg-id="PlutoTVDocumentaries.us@Austria" tvg-logo="https://i.imgur.com/ICOzMFc.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8692-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f06a3246-35e9-4b16-85ba-af89649179db
+#EXTINF:0 CUID="1141" tvg-name="Pluto TV Documentaries" tvg-id="PlutoTVDocumentaries.us@Canada" tvg-logo="https://i.imgur.com/ICOzMFc.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87df87533d80008ab9b4c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d27-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff7033e4-b330-4a43-8d11-664c727998ff
+#EXTINF:0 CUID="1142" tvg-name="Pluto TV Documentaries" tvg-id="PlutoTVDocumentaries.us@Germany" tvg-logo="https://i.imgur.com/ICOzMFc.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7977-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=afad5263-75e1-48ce-9de2-e9a428ebcb39
+#EXTINF:0 CUID="1143" tvg-name="Pluto TV History" tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+#EXTINF:0 CUID="1144" tvg-name="Pluto TV History" tvg-id="PlutoTVHistory.us@Austria" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
+#EXTINF:0 CUID="1145" tvg-name="Pluto TV History" tvg-id="PlutoTVHistory.us@Germany" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea081-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d66523d-c59b-4354-aedb-17d13edf0d26
+#EXTINF:0 CUID="1146" tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Outdoor Channel HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:0 CUID="1147" tvg-name="TV Investigação 🇧🇷" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",TV Investigação 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1148" tvg-name="Pronto Socorro 🇧🇷" tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pronto Socorro 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1149" tvg-name="Curiosidade 🇧🇷" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Curiosidade 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1150" tvg-name="Quebrando o Tabu 🇧🇷" tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Quebrando o Tabu 🇧🇷
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:0 CUID="1151" tvg-name="Docs Ville 🇺🇸 [localnow]" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B85AFD06-BBEB-4D60-9766-AAB20068F4E4/3-1x1.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Docs Ville 🇺🇸 [localnow]
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n4=content_name&ads.v4=EPG%20%7C%20Docsville&ads.n21=channel_id&ads.v21=B85AFD06-BBEB-4D60-9766-AAB20068F4E4
+#EXTINF:0 CUID="1152" tvg-name="True History" tvg-id="plex.tv.True.History.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",True History
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=pAYwv6yWYjbLp7fkRvGU
+#EXTINF:0 CUID="1153" tvg-name="Urban Doc 🇧🇷" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/18/public/1666632630/urban_docs-1666632630.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Urban Doc 🇧🇷
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0 CUID="1154" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Filmzie Doc 🇺🇸
+https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="1155" tvg-name="Docu Vision" tvg-id="5739" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/docvision.webp" group-title="​🆁™ وثائقيDoc & History 🏛️",Docu Vision
+https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+#EXTINF:0 CUID="1156" tvg-name="True Lives By Tv Studios 🇺🇸" tvg-id="650315163a0d700008bb07f8" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",True Lives By Tv Studios 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/650315163a0d700008bb07f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
+#EXTINF:0 CUID="1157" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Biography The Icons 🇺🇸
+https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
+#EXTINF:0 CUID="1158" tvg-name="CGTN Documentary 🇺🇸" tvg-id="CGTN.Documentary.(WOCK-CD4).Chicago,.IL.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CGTN-Documentary.webp" group-title="​🆁™ وثائقيDoc & History 🏛️",CGTN Documentary 🇺🇸
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:0 CUID="1159" tvg-name="World's Greatest 🇺🇸" tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",World's Greatest 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/625567abd664ea0007605f34/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
+#EXTINF:0 CUID="1160" tvg-name="REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]" tvg-id="USBB3200001MG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="​🆁™ وثائقيDoc & History 🏛️",REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+#EXTINF:0 CUID="1161" tvg-name="Real Disaster Channel 🇺🇸" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Real Disaster Channel 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e89cfc9c1e3900084ca663/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1162" tvg-name="Real Disaster Channel² 🇺🇸" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Real Disaster Channel² 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1163" tvg-name="Declassified 🇺🇸" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://declassified-tv.com/wp-content/uploads/2024/03/Declassified_Logo_Red.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Declassified 🇺🇸
+https://is.gd/Bk9MyR?m3u
+#EXTINF:0 CUID="1164" tvg-name="Music Legends 🇺🇸" tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Music Legends 🇺🇸
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8
+#EXTINF:0 CUID="1165" tvg-name="Intervention by A&E 🇺🇸" tvg-id="GB2700002F7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee4d52-4641-4ccf-bae2-120bec86f481/Intervention_COLOR_WIDE_logo.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Intervention by A&E 🇺🇸
+https://amg00276-aenetwork-amg00276c17-lg-ca-7271.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-interventionsubfeedall-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:0 CUID="1166" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png" group-title="​🆁™ وثائقيDoc & History 🏛️",PBS Digital Studios 🇺🇸
+https://jmp2.uk/sam-USBB800001O7.m3u8
+#EXTINF:0 CUID="1167" tvg-name="The Titanic Channel 🇺🇸" tvg-id="10953" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="​🆁™ وثائقيDoc & History 🏛️",The Titanic Channel 🇺🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8
+#EXTINF:0 CUID="1168" tvg-name="Mysteries Worlds by WBtv 🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73512c80-94bf-4f2a-bf54-18d3f6d1a41a/MysteriousWorlds_Logo_Dark_1500x1000.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Mysteries Worlds by WBtv 🇺🇸
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
+#EXTINF:0 CUID="1169" tvg-name="Beyond History 🇺🇸" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Beyond History 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1170" tvg-name="World War TV 🇺🇸" tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",World War TV 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319ee0cf78bb10007ee5e6b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1171" tvg-name="Wonder tv 🇺🇸" tvg-id="plex.tv.Wonder.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Wonder tv 🇺🇸
+https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
+#EXTINF:0 CUID="1172" tvg-name="Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]" tvg-id="USBA300023G8" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/INWONUS/large.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:0 CUID="1173" tvg-name="Smithsonian Channel Selects 🇺🇸" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Smithsonian Channel Selects 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1174" tvg-name="Doc+ 🇺🇸" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-title="​🆁™ وثائقيDoc & History 🏛️",Doc+ 🇺🇸
+https://linear-887.frequency.stream/mt/documentaryplus/887/hls/master/playlist.m3u8?1
+#EXTINF:0 CUID="1175" tvg-name="Documentary+ 🇨🇦" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-title="​🆁™ وثائقيDoc & History 🏛️",Documentary+ 🇨🇦
+https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
+#EXTINF:0 CUID="1176" tvg-name="Documentary+ 🇺🇸" tvg-id="plex.tv.Documentary+.plex" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-title="​🆁™ وثائقيDoc & History 🏛️",Documentary+ 🇺🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+#EXTINF:0 CUID="1177" tvg-name="Docu+ 🇺🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Docu+ 🇺🇸
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="1178" tvg-name="Historias de Ultratumba 🇲🇽" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Historias de Ultratumba 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1179" tvg-name="History 🇲🇽" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",History 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1180" tvg-name="History 🇺🇸" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",History 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1181" tvg-name="Autentic History 🇺🇸" tvg-logo="https://cdn-01.watch4.com/01/1739453775_autentic-history_red_logo.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Autentic History 🇺🇸
+https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
+#EXTINF:0 CUID="1182" tvg-name="Xtreme Outdoor by History  🇺🇸" tvg-id="USAK3508706A" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Xtreme Outdoor by History  🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1183" tvg-name="Modern Marvels by History 🇺🇸" tvg-id="657883cab228b700084414b3" tvg-logo="https://images.pluto.tv/channels/657883cab228b700084414b3/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Modern Marvels by History 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/657883cab228b700084414b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1184" tvg-name="Military 🇺🇸" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Military 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="1185" tvg-name="Hallo! Doc 🇧🇷" tvg-logo="https://hallo.tv.br/img/DOC.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Hallo! Doc 🇧🇷
+https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8
+#EXTINF:0 CUID="1186" tvg-name="DocuBox" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="​🆁™ وثائقيDoc & History 🏛️",DocuBox
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:0 CUID="1187" tvg-name="🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]" tvg-id="TheBoatShow.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="​🆁™ وثائقيDoc & History 🏛️",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:0 CUID="1188" tvg-name="🇺🇸 ➾ True Historyᴴᴰ [Localnow]" tvg-id="localnow_True History" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png" group-title="​🆁™ وثائقيDoc & History 🏛️",🇺🇸 ➾ True Historyᴴᴰ [Localnow]
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 CUID="1189" tvg-name="🇺🇸 ➾ True History [Distrotv]" tvg-id="DistroTV_True History" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg" group-title="​🆁™ وثائقيDoc & History 🏛️",🇺🇸 ➾ True History [Distrotv]
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+#EXTINF:0 CUID="1190" tvg-name="🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png" group-title="​🆁™ وثائقيDoc & History 🏛️",🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]
+https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
