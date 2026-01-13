@@ -7,8 +7,8 @@ https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
 https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8
 #EXTINF:-1,BEIN HEVC & FHD",TOD 1
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN HEVC & FHD",TOD 1
-http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN 2 HEVC & FHD",TOD 2
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2524.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="✪BEIN SPORT HD",beIN Sports MAX 1 ᴴᴰ
