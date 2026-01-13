@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment ---☘☘☘
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92698.m3u8
 #EXTINF:-1,Bein Star World 
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92698.m3u8
 #EXTINF:-1,Bein Star Moives 
@@ -62,3 +63,73 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/34951.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/34956.m3u8
 #EXTINF:-1,Bein HG Tv
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/23452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S2 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment ---☘☘☘
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/17687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN Outdoor" tvg-logo="https://www.nadirsat.com/Packages_files/Outdoor-Channel.png" group-title="beIN Entertainment",AR:  beIN Outdoor
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="beIN Entertainment",AR:  beIN AMC
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Movies Premiere 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: BeIN Movies Premiere 1 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Action 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Movies Action 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Drama 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Movies Drama 3 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Movies Family 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: BeIN Movies Family 4 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/320px-Baraem_new_logo.png" group-title="beIN Entertainment",AR: beIN Baraem
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FOX Action" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHBHLRRHtlv0cdRrdEh1mHyCtXRA8BFSYRWC5xPsmnD9BN9_8ub4vROe6AoMkuFSqyUa-kds9twC1JEdjdoO7N_u15-kD4RKIZjqhrxLYx-fIMDvvy2-DFPcL6oEbrzQcEG-f0LzJB3Nz/s410/Fox-Action-Movies.png" group-title="beIN Entertainment",AR: beIN FOX Action
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FOX Rewayat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/FOX-REWAYAT.png/revision/latest/scale-to-width-down/300?cb=20190321164534" group-title="beIN Entertainment",AR: beIN FOX Rewayat
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/JeemTV_logo.png" group-title="beIN Entertainment",AR: beIN Jeem HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DRAMA 1HD" tvg-logo="https://me-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271518504%27&EntityType=%27Item%27&EntityId=%2766045%27&Width=400&Height=267&ImageUrl=%271518504.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="beIN Entertainment",AR: beIN DRAMA 1HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DreamWorks" tvg-logo="https://seeklogo.com/images/D/DreamWorks_Animation_SKG-logo-E19157B591-seeklogo.com.png" group-title="beIN Entertainment",AR: beIN DreamWorks
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gourmet.png" group-title="beIN Entertainment",AR: beIN Gourmet
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN JUNIOR KIDS" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/beJUNIOR.png" group-title="beIN Entertainment",AR: beIN JUNIOR KIDS
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Nat Geo HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Nat_geo_hd.png" group-title="beIN Entertainment",AR: beIN Nat Geo HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Outdoor" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-B2679EFD24-seeklogo.com.png" group-title="beIN Entertainment",AR: beIN Outdoor
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Series 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Series 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/35401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Series 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Star Movies HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-movies-logo.png" group-title="beIN Entertainment",AR: beIN Star Movies HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Star World HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Star_World_2024-200x200-1.png" group-title="beIN Entertainment",AR: beIN Star World HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Rewayat 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/FOX-REWAYAT.png" group-title="beIN Entertainment",AR: beIN Fox Rewayat 4K
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fatafeat 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/26/Fatafeat.png" group-title="beIN Entertainment",AR: beIN Fatafeat 4K
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="beIN Entertainment",AR: beIN Box Office 1 FHD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOX OFFICE 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="beIN Entertainment",AR: beIN BOX OFFICE 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOX OFFICE 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_250x150_2022.png" group-title="beIN Entertainment",AR: beIN BOX OFFICE 3 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraem 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/320px-Baraem_new_logo.png" group-title="beIN Entertainment",AR: beIN Baraem 4K
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/JeemTV_logo.png" group-title="beIN Entertainment",AR: beIN Jeem EU
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="beIN Entertainment",AR: beIN Fox Life HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="beIN Entertainment",AR: beIN Fox Movies HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/800px-Boomerang_2014_logo.svg.png" group-title="beIN Entertainment",AR: beIN Boomerang HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DTX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Discovery_Turbo_Xtra.png/800px-Discovery_Turbo_Xtra.png" group-title="beIN Entertainment",AR: beIN DTX HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Crime HD" tvg-logo="https://www.nadirsat.com/Packages_files/Fox-Crime-1.png" group-title="beIN Entertainment",AR: beIN Fox Crime HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN National Geographic WILD HD" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/UPDATEz-NGW_Full_Logo_20182.png" group-title="beIN Entertainment",AR: beIN National Geographic WILD HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62358.m3u8
