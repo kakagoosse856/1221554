@@ -14,6 +14,19 @@ https://liveeu-gcp.alkassdigital.net/shooflive/20251209T054015Z/mux_video_1080p_
 #EXTINF:-1,Al kass 6 HD
 https://liveeu-gcp.alkassdigital.net/alkass6-p/20251212T182329Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1,###########NEON PLUS SERVER2###########
+#EXTINF:-1,Al kass 1 HD
+https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251218T024018Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1,Al kass 2 HD
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20260102T032831Z/mux_video_240p_ts/index-1.m3u8
+#EXTINF:-1,Al kass 3 HD
+https://liveeu-gcp.alkassdigital.net/alkass3-p/20260102T033003Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1,Al kass 4 HD
+https://liveeu-gcp.alkassdigital.net/alkass4-p/20251213T060324Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1,Al kass 5 HD
+https://liveeu-gcp.alkassdigital.net/shooflive/20251209T054015Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1,Al kass 6 HD
+https://liveeu-gcp.alkassdigital.net/alkass6-p/20251212T182329Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1,###########NEON PLUS SERVER3###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Sports",Alkass Five (1080p)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
@@ -29,7 +42,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two (1080p)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
-#EXTINF:-1,###########NEON PLUS SERVER3###########
+#EXTINF:-1,###########NEON PLUS SERVER4###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:1 tvg-name="AI KASS 1FHD" tvg-id="Sports" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 1FHD
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
@@ -49,6 +62,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/in
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1,ShahidAnime
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_12.m3u8
+
 
 
 
