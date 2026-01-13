@@ -291,3 +291,29 @@ http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/1269960.m3u8
 #EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SP⚽RTS 9 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="✪BEIN SPORT HD",beIN SP⚽RTS 9 SD
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/245827.m3u8
 
+#EXTINF:-1 tvg-name="Bein1" group-title="BeIN Sports | INDEX IPTV",Bein1 | INDEXIPTV
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-name="Bein2" group-title="BeIN Sports | INDEX IPTV",Bein2 | INDEXIPTV
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-name="Bein3" group-title="BeIN Sports | INDEX IPTV",Bein3 | INDEXIPTV
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-name="Bein4" group-title="BeIN Sports | INDEX IPTV",Bein4 | INDEXIPTV
+http://135.125.109.73:9000/beinsport4_.m3u8
+
+#EXTINF:-1 tvg-name="Bein5" group-title="BeIN Sports | INDEX IPTV",Bein5 | INDEXIPTV
+http://135.125.109.73:9000/beinsport5_.m3u8
+
+#EXTINF:-1 tvg-name="Bein6" group-title="BeIN Sports | INDEX IPTV",Bein6 | INDEXIPTV
+http://135.125.109.73:9000/beinsport6_.m3u8
+
+#EXTINF:-1 tvg-name="Bein7" group-title="BeIN Sports | INDEX IPTV",Bein7 | INDEXIPTV
+http://135.125.109.73:9000/beinsport7_.m3u8
+
+#EXTINF:-1 tvg-name="Bein8" group-title="BeIN Sports | INDEX IPTV",Bein8 | INDEXIPTV
+http://135.125.109.73:9000/beinsport8_.m3u8
+
+#EXTINF:-1 tvg-name="Bein9" group-title="BeIN Sports | INDEX IPTV",Bein9 | INDEXIPTV
+http://135.125.109.73:9000/beinsport9_.m3u8
