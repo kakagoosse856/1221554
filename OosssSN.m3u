@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S1 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
+
 #EXTINF:-1 tvg-logo="" group-title=https://t.me/Androidplus20120
 https://t.me/Androidplus20120
 #EXTINF:-1 tvg-logo="" group-title="OSN",OSN YA HALA
@@ -39,6 +41,7 @@ https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/18.m3u8
 https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/19.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OSN",OSN discovery
 https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S2 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
 
 #EXTINF:-1,OSN Fox News
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92696.m3u8
@@ -134,5 +137,100 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9376.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9402.m3u8
 #EXTINF:-1,OSN Travel
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9403.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S3 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/2081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN YAHALA  ALOULA HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="OSN S1",AR | OSN YAHALA  ALOULA HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN YA HALA Arabic" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN S1",AR | OSN YA HALA Arabic
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN  MOVIES PREMIERE HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN S1",AR | OSN  MOVIES PREMIERE HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES PREMIERE 2 HD" tvg-logo="https://2.bp.blogspot.com/-LF9LOENMZCQ/VPHIbU-FxkI/AAAAAAAAIPE/QjbT6ObKdn0/w1200-h630-p-k-no-nu/OSN%2BMovies%2BPremiere%2B%2B2.jpg" group-title="OSN S1",AR | OSN MOVIES PREMIERE 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN CINEMA 1" tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN S1",AR | OSN CINEMA 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN CINEMA 2" tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN S1",AR | OSN CINEMA 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |  OSN YAHALA CINEMA" tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN S1",AR |  OSN YAHALA CINEMA
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN ENIGMA HD" tvg-logo="https://www.cne-eg.com/uploads/logos/2020111414234.png" group-title="OSN S1",AR | OSN ENIGMA HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIE COMEDY" tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN S1",AR | OSN MOVIE COMEDY
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES FIRST HD" tvg-logo="https://www.cne-eg.com/uploads/logos/202011135721913.png" group-title="OSN S1",AR | OSN MOVIES FIRST HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIE FIRST 2" tvg-logo="https://media0055.elcinema.com/tvguide/1214_1.png" group-title="OSN S1",AR | OSN MOVIE FIRST 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |  OSN Movies Disney" tvg-logo="https://www.cne-eg.com/uploads/logos/20201114441995.png" group-title="OSN S1",AR |  OSN Movies Disney
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR |  OSN Movies Hollywood" tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN S1",|AR |  OSN Movies Hollywood
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |  OSN MOVIES BOX OFFICE 1" tvg-logo="https://3.bp.blogspot.com/-46HXfL02z_4/WbQ3DpvrxyI/AAAAAAAAD_g/7rMHfGXZ_wk6tqUcleqCwtrF-AaPiwPbACLcBGAs/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A3%25D9%2588-%25D8%25A3%25D8%25B3-%25D8%25A3%25D9%2586-%25D9%2585%25D9%2588%25D9%2581%25D9%258A%25D8%25B2-%25D8%25A8%25D9%2588%25D9%2583%25D8%25B3-%25D8%25A3%25D9%2581%25D9%258A%25D8%25B3.jpg" group-title="OSN S1",AR |  OSN MOVIES BOX OFFICE 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES BOX OFFICE 2" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88-%D8%A7%D8%B3-%D8%A7%D9%86-%D8%A8%D9%88%D9%83%D8%B3-%D8%A7%D9%88%D9%81%D9%8A%D8%B3-%D8%AA%D9%88.jpg" group-title="OSN S1",AR | OSN MOVIES BOX OFFICE 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES BOX OFFICE 3" tvg-logo="https://1.bp.blogspot.com/-qitaT2xqavA/W5BJB_DS8XI/AAAAAAAABaw/oKTI1yd5bCc6frGDH0JWAGbnTC5w5F78gCLcBGAs/s640/o3.jpg" group-title="OSN S1",AR | OSN MOVIES BOX OFFICE 3
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN KIDS HD" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN S1",AR | OSN KIDS HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN S1",AR | OSN MOVIES HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES ACTION HD" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN S1",AR | OSN MOVIES ACTION HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ART AFLAM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ART_Aflam_1.png/366px-ART_Aflam_1.png" group-title="OSN S1",AR | ART AFLAM 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ART AFLAM 2" tvg-logo="https://media0055.elcinema.com/tvguide/1121_1.png" group-title="OSN S1",AR | ART AFLAM 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ART CINEMA" tvg-logo="https://media0055.elcinema.com/tvguide/1195_1.png" group-title="OSN S1",AR | ART CINEMA
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ART HEKAYAT 1" tvg-logo="https://media0055.elcinema.com/tvguide/1122_1.png" group-title="OSN S1",AR | ART HEKAYAT 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ART HEKAYAT 2" tvg-logo="https://media0055.elcinema.com/tvguide/1182_1.png" group-title="OSN S1",AR | ART HEKAYAT 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="OSN S1",AR | OSN NAT GEO WILD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="OSN S1",AR | OSN NAT GEO WILD HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN SERIES FIRST  HD" tvg-logo="https://pbs.twimg.com/media/DP5C9VNWkAEM-bT.jpg" group-title="OSN S1",AR | OSN SERIES FIRST  HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Alfa Al Yawm" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN S1",AR | Alfa Al Yawm
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN STAR MOVIES HD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="OSN S1",AR | OSN STAR MOVIES HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN SERIES FIRST" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1672929489.png" group-title="OSN S1",AR | OSN SERIES FIRST
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN STAR WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="OSN S1",AR | OSN STAR WORLD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |  OSN COMEDY" tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN S1",AR |  OSN COMEDY
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MEZZE HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="OSN S1",AR | OSN MEZZE HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN WWE HD" tvg-logo="https://content.osn.com/logo/channel/500x300/WWE.jpg" group-title="OSN S1",AR | OSN WWE HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES COMEDY" tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN S1",AR | OSN MOVIES COMEDY
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES  DRAMA" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/03/OSN-Movies-Drama-HD.jpg" group-title="OSN S1",AR | OSN MOVIES  DRAMA
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN TLC HD" tvg-logo="https://content.osn.com/logo/channel/cropped/TLC.png" group-title="OSN S1",AR | OSN TLC HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES FESTIVAL 2 HD" tvg-logo="https://media0052.elcinema.com/tvguide/1249_1.png" group-title="OSN S1",AR | OSN MOVIES FESTIVAL 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MOVIES STAR HD" tvg-logo="https://content.osn.com/bob/224x126/STM-Star-Movies-HD.jpg" group-title="OSN S1",AR | OSN MOVIES STAR HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN MBC DRAMA HD" tvg-logo="https://www.pngkey.com/png/full/93-930612_mbc-drama-mbc-drama.png" group-title="OSN S1",AR | OSN MBC DRAMA HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN DISCOVERY HD" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="OSN S1",AR | OSN DISCOVERY HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN FANN" tvg-logo="https://content.osn.com/logo/channel/cropped/FAN.png" group-title="OSN S1",AR | OSN FANN
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN ANIMAL PLANET HD" tvg-logo="https://content.osn.com/logo/channel/cropped/APL.png" group-title="OSN S1",AR | OSN ANIMAL PLANET HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN Alfa Safwa HD" tvg-logo="https://content.osn.com/logo/channel/cropped/SAF.png" group-title="OSN S1",AR | OSN Alfa Safwa HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | OSN DISCOVERY SCIENCE" tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN S1",AR | OSN DISCOVERY SCIENCE
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Alfa CINEMA 1" tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN S1",AR | Alfa CINEMA 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Alfa CINEMA 2" tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN S1",AR | Alfa CINEMA 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7800.m3u8
 
