@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="" group-title="الرياضه",1
-https://a.3lok3.site/live/aloka1/aloka1/33.m3u8
-#EXTINF:-1,Thmanyah 1
-https://90e331f54990.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.691416125068.channel.Zr1wB9mWXrOk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="الرياضه",2
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="شاهد 1" group-title="Sport",1 شاهد
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63840.m3u8
+#EXTINF:-1 tvg-name="شاهد 2" group-title="Sport",شاهد 2
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63841.m3u8
+#EXTINF:-1 tvg-name="شاهد 3" group-title="Sport",شاهد 3
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63842.m3u8
