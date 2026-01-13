@@ -30,8 +30,10 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580180
 https://a.3lok3.site/live/aloka1/aloka1/30.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 2  السرفر الرابع
 https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
-#EXTINF:-1,NRT SPORT HD
+#EXTINF:-1,NRT SPORT HD A
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NRT SPORT HD B
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1,Zaxosport
 http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ldsport
@@ -47,3 +49,5 @@ http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
 http://116342296971.d4ktv.info/live/hicham_100081/E8fk82lZ/689911.m3u8
 #EXTINF:-1,Duhok_Sport
 http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8
+#EXTINF:-1,GawharSport
+https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
