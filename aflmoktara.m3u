@@ -1,0 +1,169 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bQGciwYBe0aG1UNHuIiFkey4pqX.jpg",Iron Man Collection
+http://dummy-cover
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kNKUCNLu1lZDGAHOBEHxR6psYHx.jpg",Iron Man
+https://cinefries.xyz/movies/Iron-Man.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g9DSeSozGi4zpUyeOYZYMNmIv9O.jpg",Iron Man 2
+https://cinefries.xyz/movies/Iron-Man-2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sE71EBrRMfW0NKMHlXPO55Km88X.jpg",Iron Man 3
+https://cinefries.xyz/movies/Iron-Man-3.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/1nefddmvyXD8N2R5o6qU9U7Ty3w.jpg",Captain America Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/l1SP3gyHA5ZEuf72WKx5ihtZZFO.jpg", Captain America : First Avenger
+https://cinefries.xyz/movies/Captain-America-First-Avenger.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/5sFghKDk1al94Etuvl9sQOCLExR.jpg", Captain America : Le Soldat de l'hiver
+https://cinefries.xyz/movies/Captain-America-Le-Soldat-de-l'hiver.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/i2nc9IAP1xRWoa3MgeR7ldsshkV.jpg", Captain America : Civil War
+https://cinefries.xyz/movies/Captain-America-Civil-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg", Captain America : Brave New World
+https://cinefries.xyz/movies/Captaine-America-Brave-New-World.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/cClJllWY3gPmoBvdbhO9MG14Q7P.jpg",Thor Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg", Thor
+https://cinefries.xyz/movies/Thor.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg", Thor : Le Monde des ténèbres
+https://cinefries.xyz/movies/Thor-Le-Monde-Des-Tenebres.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg", Thor : Ragnarok
+https://cinefries.xyz/movies/Thor-Ragnarok.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kSMarEm3ESOOr11dzsep2RZ1ClD.jpg", Thor : Love and Thunder
+https://cinefries.xyz/movies/Thor-Love-And-Thunder.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/qvWDDPlo2MT7YCU4NSVxCgStxqu.jpg",Avengers Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg", Avengers
+https://cinefries.xyz/movies/Avengers.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/oILpX52YLTnwz5BeQg9uC0eAM57.jpg", Avengers : L'Ère d'Ultron
+https://cinefries.xyz/movies/Avengers-L'Ere-d'Ultron.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", Avengers : Infinity War
+https://cinefries.xyz/movies/Avengers-Infinity-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg", Avengers : Endgame
+https://cinefries.xyz/movies/Avengers-Endgame.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/59/93/935993103294218b6e3939203c379763.png",Saga Infinity Collection
+http://dummy-cover
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kNKUCNLu1lZDGAHOBEHxR6psYHx.jpg",Iron Man
+https://cinefries.xyz/movies/Iron-Man.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cImKVGUiEnwLsNUyoMA0a0na2y5.jpg",L'Incroyable Hulk
+https://cinefries.xyz/movies/L'Incroyable-Hulk.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g9DSeSozGi4zpUyeOYZYMNmIv9O.jpg",Iron Man 2
+https://cinefries.xyz/movies/Iron-Man-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg", Thor
+https://cinefries.xyz/movies/Thor.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/l1SP3gyHA5ZEuf72WKx5ihtZZFO.jpg", Captain America : First Avenger
+https://cinefries.xyz/movies/Captain-America-First-Avenger.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg", Avengers
+https://cinefries.xyz/movies/Avengers.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sE71EBrRMfW0NKMHlXPO55Km88X.jpg",Iron Man 3
+https://cinefries.xyz/movies/Iron-Man-3.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg", Thor : Le Monde des ténèbres
+https://cinefries.xyz/movies/Thor-Le-Monde-Des-Tenebres.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/5sFghKDk1al94Etuvl9sQOCLExR.jpg", Captain America : Le Soldat de l'hiver
+https://cinefries.xyz/movies/Captain-America-Le-Soldat-de-l'hiver.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/9a6fGeSV5kffyNPPMWCPhLOhLdJ.jpg", Les Gardiens de la Galaxie
+https://cinefries.xyz/movies/Les-Gardiens-de-la-Galaxie.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/oILpX52YLTnwz5BeQg9uC0eAM57.jpg", Avengers : L'Ère d'Ultron
+https://cinefries.xyz/movies/Avengers-L'Ere-d'Ultron.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hAH2Rt2WvfMBK2tZDLMNuUTUwxG.jpg", Ant-Man
+https://cinefries.xyz/movies/Ant-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/i2nc9IAP1xRWoa3MgeR7ldsshkV.jpg", Captain America : Civil War
+https://cinefries.xyz/movies/Captain-America-Civil-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/7wZ7mx7tY5SgflQKuJmQvwu3wGm.jpg", Doctor Strange
+https://cinefries.xyz/movies/Doctor-Strange.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/brgkPEPQJNGLuKRy8omRTcDfDuL.jpg", Les Gardiens de la Galaxie Vol. 2
+https://cinefries.xyz/movies/Les-Gardiens-de-la-Galaxie-Vol-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/77Z0g5fc1qWJ7SfHyeiHsMkYx5O.jpg", Spider-Man : Homecoming
+https://cinefries.xyz/movies/Spider-Man-Homecoming.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg", Thor : Ragnarok
+https://cinefries.xyz/movies/Thor-Ragnarok.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/g94IcdzPswTYl1ISdgn2EwvaZtt.jpg", Black Panther
+https://cinefries.xyz/movies/Black-Panther.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", Avengers : Infinity War
+https://cinefries.xyz/movies/Avengers-Infinity-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r3Vapr4sdXOhHBThTNtfuijKe5V.jpg", Ant-Man et la Guêpe
+https://cinefries.xyz/movies/Ant-Man-et-la-Guepe.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/aRJAoQ6mqPHAKXjP3CqNyLC8FAh.jpg", Captain Marvel
+https://cinefries.xyz/movies/Captain-Marvel.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg", Avengers : Endgame
+https://cinefries.xyz/movies/Avengers-Endgame.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg", Spider-Man : Far From Home
+https://cinefries.xyz/movies/Spider-Man-Far-From-Home.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/mW2jg5bQjfY4oTzmdUNpqrY9GGB.jpg",Spider-Man (Sam Raimi) Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/pNz1NREgddPdlzytlR8mW4B26fW.jpg", Spider-Man
+https://cinefries.xyz/movies/Spider-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/m8X5HdADsW5YdmVNjwTOArMOUoL.jpg", Spider-Man 2
+https://cinefries.xyz/movies/Spider-Man-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hPkfodeYB0ZqBjxaynsEdXl0bbR.jpg", Spider-Man 3
+https://cinefries.xyz/movies/Spider-Man-3.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/60aoW1EVSXLACkHn0lqeKlW6LhS.jpg",The Amazing Spider-Man Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/gsIkMf1VErbF0xtrgXEZXqLgsBG.jpg",The Amazing Spider-Man
+https://cinefries.xyz/movies/The-Amazing-Spider-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/rZ47R21ZGNTGr5ORxdMmxQWdcFn.jpg",The Amazing Spider-Man : Le Destin d'un héros
+https://cinefries.xyz/movies/The-Amazing-Spider-Man-Le-Destin-d'un-heros.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/3BVng0lmJyYIUqm5dxLS2eZ2625.jpg",Spider-Man (Avengers) Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/77Z0g5fc1qWJ7SfHyeiHsMkYx5O.jpg", Spider-Man : Homecoming
+https://cinefries.xyz/movies/Spider-Man-Homecoming.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg", Spider-Man : Far From Home
+https://cinefries.xyz/movies/Spider-Man-Far-From-Home.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg", Spider-Man : No Way Home
+https://cinefries.xyz/movies/Spider-Man-No-Way-Home.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/jgL4XOWWjZPq9aROVDXdIAEBl3S.jpg",John Wick Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
+https://cinefries.xyz/movies/John-Wick.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
+https://cinefries.xyz/movies/John-Wick-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg", John Wick : Parabellum
+https://cinefries.xyz/movies/John-Wick-Parabellum.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/n1YTIyhAqqqFyDGFTzV7WaU1JfK.jpg", John Wick : Chapitre 4
+https://cinefries.xyz/movies/John-Wick-Chapitre-4.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cAMk3C3uUbwSgoZ6EMoPjXI2tt.jpg", Ballerina
+https://cinefries.xyz/movies/Ballerina-2025.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6cRRaK0wSbN4KJxGMAkTGYJ0zSX.jpg",Transformers Collection
+http://dummy-cover
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riwrxn8gSdvHqARVxSlwMaEJxT3.jpg",Transformers
+https://cinefries.xyz/movies/Transformers.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgUlcYSp0iY1fJN9mPx6ZR50mjp.jpg",Transformers 2 : La Revanche
+https://cinefries.xyz/movies/Transformers-2-La-Revanche.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/30ARa1BLnID8t7O4tPzTDXTa6pZ.jpg",Transformers 3 : La Face cachée de la Lune
+https://cinefries.xyz/movies/Transformers-3-La-Face-Cachee-De-La-Lune.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jX44v2Czbgg87DNnkB0efx0RtFs.jpg",Transformers : L’Âge de l’extinction
+https://cinefries.xyz/movies/Transformers-Lage-De-Lextinction.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGw5OVdGHx91f70MqJPCq4JlPN8.jpg",Transformers : The Last Knight
+https://cinefries.xyz/movies/Transformers-The-Last-Knight.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",Predator Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/lXoATMtTK3ZsICCvTtXygASHZd9.jpg", Predator
+https://moo265724.moovbob.fr/files/aa/ZQGh470QuTzfY9XYoPSTvZv43DQWVrUUiAc.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/q2m0SdutKMT1UNvODL6B2zK2lvU.jpg", Predator 2
+https://moo265724.moovbob.fr/files/aa/AoISy4KCdwm9sdzr5YeWZB9zbY6TikFSJnL.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/qrW8Y3FyxtntpZBi7RmL5NSvf2j.jpg", Predators
+https://moo265724.moovbob.fr/files/aa/HNW1kz67bnWeG46OKx9sv3pS5N6teJxVwtX.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/iXLCqDuKDlezUHAYtCB6wM2D0YG.jpg", The Predator
+https://bram265724.bramtiv.com/files/aa/xBvj3HDh7d9yhUSYi7l0VdB6JZUy0NrxpXR.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/69BH9YefDbStihTi0FJhTJxmtDo.jpg", Prey
+https://cinefries.xyz/movies/Prey.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/sLmaEOr0s9IK1Kq1akGZXErTa75.jpg", Predator: Badlands
+https://moov265724.moovtop.fr/files/aa/hO5TXfeuWesmWQtMbflTld3qpO7RRsg8hl1.m3u8
