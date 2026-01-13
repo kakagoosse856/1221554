@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,###########NEON PLUS SERVER1###########
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S1" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1,BeinHD: Bein News
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3111.m3u8
@@ -96,7 +96,100 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2184.m3u8
 #EXTINF:-1,TR beIN Sports 3
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2185.m3u8
 
-#EXTINF:-1,###########NEON PLUS SERVER2###########
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S2" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR: beIN Sports 1 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 1 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5348.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="AR: beIN Sports 2 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 2 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5349.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="AR: beIN Sports 3 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 3 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5350.m3u8
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="AR: beIN Sports 4 Hevc " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 4 Hevc 
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5351.m3u8
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="AR: beIN Sports 5 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 5 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5352.m3u8
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="AR: beIN Sports  6 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports  6 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5353.m3u8
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="AR: beIN Sports  7 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports  7 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5354.m3u8
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="AR: beIN Sports  7 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports  7 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5357.m3u8
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="AR: beIN Sports  8 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports  8 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5355.m3u8
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="AR: beIN Sports  9 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports  9 Hevc
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- beIN SPORTS HD ---★☘☘☘" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",☘☘☘★--- beIN SPORTS HD ---★☘☘☘
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5358.m3u8
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="beIN SPORTS News HD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/News-1.png" group-title="BEIN SPORTS HD",beIN SPORTS News HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/47816.m3u8
+#EXTINF:-1 tvg-id="beINSportsGlobalAr.qa" tvg-name="beIN SPORTS Global HD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",beIN SPORTS Global HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/6247.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS1 DIGITAL.ar" tvg-name="AR: beIN SPORTS 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 1 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5359.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS2 DIGITAL.ar" tvg-name="AR: beIN SPORTS 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 2 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5360.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS3 DIGITAL.ar" tvg-name="AR: beIN SPORTS 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 3 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5361.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS4 DIGITAL.ar" tvg-name="AR: beIN SPORTS 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 4 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5363.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS5 DIGITAL.ar" tvg-name="AR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 5 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5364.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS6 DIGITAL.ar" tvg-name="AR: beIN SPORTS 6 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 6 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5365.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS7 DIGITAL.ar" tvg-name="AR: beIN SPORTS 7 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 7 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5366.m3u8
+#EXTINF:-1 tvg-id="bein.com-08.ar" tvg-name="AR: beIN SPORTS 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 8 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5367.m3u8
+#EXTINF:-1 tvg-id="logos- beINSPORTS9.ar" tvg-name="AR: beIN SPORTS 9 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 9 HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : bIeN Sports NBA HD" tvg-logo="" group-title="BEIN SPORTS HD",AR : bIeN Sports NBA HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS EXTRA 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS EXTRA 1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/61976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS EXTRA 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS EXTRA 2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/61977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS EXTRA 3" tvg-logo="" group-title="BEIN SPORTS HD",AR: beIN SPORTS EXTRA 3
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/82140.m3u8
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="AR: beIN SPORTS 1 ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 1 ENGLISH HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/61978.m3u8
+#EXTINF:-1 tvg-id="BeinSports2EnEn.qa" tvg-name="AR: beIN SPORTS 2 ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 2 ENGLISH HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/61979.m3u8
+#EXTINF:-1 tvg-id="BeinSports3EnEn.qa" tvg-name="AR: beIN SPORTS 3 ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS HD",AR: beIN SPORTS 3 ENGLISH HD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/61980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FR" tvg-logo="" group-title="BEIN SPORTS HD",AR: beIN Sports 1 FR
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/77519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 2 FR" tvg-logo="" group-title="BEIN SPORTS HD",AR: bein Sports 2 FR
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/77520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 3 FR" tvg-logo="" group-title="BEIN SPORTS HD",AR: bein Sports 3 FR
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/77521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- beIN SPORTS SD ---★☘☘☘" tvg-logo="" group-title="BEIN SPORTS SD",☘☘☘★--- beIN SPORTS SD ---★☘☘☘
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Global SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",beIN SPORTS Global SD
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109747.m3u8
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="AR: beIN SPORTS SD1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD1
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5372.m3u8
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="AR: beIN SPORTS SD2" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD2
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5373.m3u8
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="AR: beIN SPORTS SD3" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD3
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5377.m3u8
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="AR: beIN SPORTS SD4" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD4
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5376.m3u8
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="AR: beIN SPORTS SD5" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD5
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5375.m3u8
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="AR: beIN SPORTS SD6" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD6
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5374.m3u8
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="AR: beIN SPORTS SD7" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD7
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/57465.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="AR: beIN SPORTS SD8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD8
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5371.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="AR: beIN SPORTS SD9" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS SD",AR: beIN SPORTS SD9
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽Bein Sports 3 EN SD⚽" tvg-logo="" group-title="BEIN SPORTS SD",⚽Bein Sports 3 EN SD⚽
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽Bein Sports 2 EN SD⚽" tvg-logo="" group-title="BEIN SPORTS SD",⚽Bein Sports 2 EN SD⚽
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽Bein Sports 1 EN SD⚽" tvg-logo="" group-title="BEIN SPORTS SD",⚽Bein Sports 1 EN SD⚽
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66375.m3u8
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1,BEIN SPORTS HD
 http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/179.m3u8
