@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER1 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
+
 #EXTINF:-1,BEIN 1 AFC 576P
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/44297.m3u8
 #EXTINF:-1,BEIN 2 AFC 576P
@@ -11,7 +13,18 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/36784.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/1799.m3u8
 #EXTINF:-1,beIN MAX 2 1080p
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/87999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- BEIN MAX CAF ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER2 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
+#EXTINF:-1,BEIN MAX 1
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2532.m3u8
+#EXTINF:-1,BEIN MAX 2
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2533.m3u8
+#EXTINF:-1,BEIN MAX 3
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2534.m3u8
+#EXTINF:-1,BEIN MAX 4
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2535.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER3 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/1305.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX1 DIGITAL.ar" tvg-name="AR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN MAX CAF",AR: BEIN SPORTS MAX 1 FHD
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/85867.m3u8
