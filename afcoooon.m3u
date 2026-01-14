@@ -10,6 +10,8 @@ https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
 http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NRT SPORT HD B
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+#EXTINF:-1,NRT SPORT HD c
+http://109.123.245.192/bein111/index.m3u8
 #EXTINF:-1,Zaxosport
 http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ldsport
