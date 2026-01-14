@@ -26,6 +26,18 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3112.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2673.m3u8
 #EXTINF:-1,Bein 2 EXTRA 1080p
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 1FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 3FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 4FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 5FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 6FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 7FHD
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/292.m3u8
 #EXTINF:-1,BeIN 1 HEVC
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/296.m3u8
 #EXTINF:-1,BeIN 2 HEVC 
