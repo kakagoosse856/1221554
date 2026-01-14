@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,###########SERVER1###########
 #EXTINF:-1,BeinHD: TEST
-https:\\stream.supertv.gg:3001\supertv\sport\stv1\ch1\adaptive.m3u8
+https://cdn-js-mejarserver.aka-akamaized.net/max1-1080p/manifest.m3u8?token=fb7858b611a7d1f33662b97f271d4eb61968f8b5-e037509ea58b5150b6f8834ce99ea19f-1768413032-1768405802&remote=no_check_ip
 #EXTINF:-1,BeinHD: TEST
 https://cdn-js-mejarserver.aka-akamaized.net/max1-1080p/manifest.m3u8
 #EXTINF:-1,BeinHD: Bein News
