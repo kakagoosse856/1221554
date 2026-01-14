@@ -11,8 +11,28 @@ http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2524.m3u8
 #EXTINF:-1,BEIN 3 HEVC & FHD",TOD 2
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
+#EXTINF:-1,###########SERVER2###########
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 2 
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 3 
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 4 
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 5 
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 6 
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 7 
 http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 8 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 8 
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 9 
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1,###########SERVER3###########
+
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="✪BEIN SPORT HD",beIN Sports MAX 1 ᴴᴰ
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/146122.m3u8
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="✪BEIN SPORT HD",beIN Sports MAX 1 HD
