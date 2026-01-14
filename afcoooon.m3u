@@ -25,27 +25,6 @@ http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8
 https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-#EXTINF:-1,BEIN 2 AFC 576P
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/268.m3u8
-#EXTINF:-1,BEIN MAX 1 576P
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/31926.m3u8
-#EXTINF:-1,BeIN MAX 2 576p
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/36784.m3u8
-#EXTINF:-1,Bein MAX 1 1080p
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/1799.m3u8
-#EXTINF:-1,beIN MAX 2 1080p
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/87999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER2 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
-#EXTINF:-1,BEIN MAX 1
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2532.m3u8
-#EXTINF:-1,BEIN MAX 2
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2533.m3u8
-#EXTINF:-1,BEIN MAX 3
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2534.m3u8
-#EXTINF:-1,BEIN MAX 4
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2535.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER3 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/1305.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX1 DIGITAL.ar" tvg-name="AR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN MAX CAF",AR: BEIN SPORTS MAX 1 FHD
@@ -76,6 +55,28 @@ http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/85876.m3u8
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/85875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN MAX CAF",AR: BEIN SPORTS MAX 4 SD
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/85874.m3u8
+#EXTINF:-1,BEIN 2 AFC 576P
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/268.m3u8
+#EXTINF:-1,BEIN MAX 1 576P
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/31926.m3u8
+#EXTINF:-1,BeIN MAX 2 576p
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/36784.m3u8
+#EXTINF:-1,Bein MAX 1 1080p
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/1799.m3u8
+#EXTINF:-1,beIN MAX 2 1080p
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/87999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER2 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
+#EXTINF:-1,BEIN MAX 1
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2532.m3u8
+#EXTINF:-1,BEIN MAX 2
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2533.m3u8
+#EXTINF:-1,BEIN MAX 3
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2534.m3u8
+#EXTINF:-1,BEIN MAX 4
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2535.m3u8
+
+
+
 #EXTINF:-1,beIN_SPORTS2_DIGITAL_Mono_AR
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 السرفر الأول
