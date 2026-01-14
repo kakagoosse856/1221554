@@ -1,5 +1,12 @@
 #EXTM3U
 #EXTINF:-1,###########NEON PLUS SERVER1###########
+#EXTINF:-1,POST SPORT 1
+http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/1630675.m3u8
+#EXTINF:-1,POST SPORT 2
+http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/1630676.m3u8
+#EXTINF:-1,POST SPORT 3
+http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/1630677.m3u8
+
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1 group-title="العراق سبور" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,العراق سبور
 https://iq.ashur-iraq-4g.online/hls/stream.m3u8
