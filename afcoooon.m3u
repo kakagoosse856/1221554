@@ -2,10 +2,29 @@
 #EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- SERVER1 ---★☘☘☘" tvg-logo="https://cdn.salla.sa/wWZzay/6666a4c8-9634-499d-a675-e166cb612c24-500x500-HpwhWRVyJscVDT5jzqu7gGvS6sNqGuPWh2fhHR7b.png" group-title="BEIN MAX CAF",☘☘☘★--- BEIN MAX CAF ---★☘☘☘
 #EXTINF:-1,post sports 1
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1
-http://mbc1.vip/sabamax/index.m3u8?token=HDSv-6sO-mC213 
-#EXTINF:-1,1001
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/mb8uoWvFhgbt9u60Z-c_Mx2d2TghCZubeEX49sfI1-ORANmzoTFcnhE5qQHc_MG0p7acY4M3ATitXiMj8-OWSg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1,NRT SPORT HD A
+http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NRT SPORT HD B
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+#EXTINF:-1,Zaxosport
+http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ldsport
+http://109.123.245.192/Ldsport/index.m3u8
+#EXTINF:-1,Ldsport A
+http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8
+#EXTINF:-1,Avasport
+http://109.123.245.192/Avasport11/index.m3u8
+http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,gzcspor
+http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
+#EXTINF:-1,DasinyaSport
+http://116342296971.d4ktv.info/live/hicham_100081/E8fk82lZ/689911.m3u8
+#EXTINF:-1,Duhok_Sport
+http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8
+#EXTINF:-1,GawharSport
+https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MMN HD SPORT 🇮🇶
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1,BEIN 2 AFC 576P
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/44298.m3u8
 #EXTINF:-1,BEIN MAX 1 576P
@@ -76,26 +95,4 @@ http://cf.player-neo-sh1.me:80/play/live.php?mac=00:1A:79:b5:f9:89&stream=580180
 https://a.3lok3.site/live/aloka1/aloka1/30.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",beIN MAX 2  السرفر الرابع
 https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
-#EXTINF:-1,NRT SPORT HD A
-http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NRT SPORT HD B
-https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
-#EXTINF:-1,Zaxosport
-http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ldsport
-http://109.123.245.192/Ldsport/index.m3u8
-#EXTINF:-1,Ldsport A
-http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8
-#EXTINF:-1,Avasport
-http://109.123.245.192/Avasport11/index.m3u8
-http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
-#EXTINF:-1,gzcspor
-http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
-#EXTINF:-1,DasinyaSport
-http://116342296971.d4ktv.info/live/hicham_100081/E8fk82lZ/689911.m3u8
-#EXTINF:-1,Duhok_Sport
-http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8
-#EXTINF:-1,GawharSport
-https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MMN HD SPORT 🇮🇶
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
