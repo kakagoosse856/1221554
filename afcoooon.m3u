@@ -4,8 +4,8 @@
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
 http://mbc1.vip/sabamax/index.m3u8?token=HDSv-6sO-mC213 
-#EXTINF:-1,BEIN 1 AFC 576P
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/44297.m3u8
+#EXTINF:-1,1001
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/mb8uoWvFhgbt9u60Z-c_Mx2d2TghCZubeEX49sfI1-ORANmzoTFcnhE5qQHc_MG0p7acY4M3ATitXiMj8-OWSg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1,BEIN 2 AFC 576P
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/44298.m3u8
 #EXTINF:-1,BEIN MAX 1 576P
