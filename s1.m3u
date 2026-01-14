@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S1" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
-https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
+#EXTINF:-1,###########SERVER1###########
 #EXTINF:-1,BeinHD: Bein News
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3111.m3u8
 #EXTINF:-1,BeinHD: Bein Sport
@@ -95,7 +94,7 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2183.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2184.m3u8
 #EXTINF:-1,TR beIN Sports 3
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2185.m3u8
-
+#EXTINF:-1,###########SERVER2###########
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S2" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR: beIN Sports 1 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 1 Hevc
@@ -192,7 +191,7 @@ http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66376.m3u8
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66375.m3u8
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 
-
+#EXTINF:-1,###########SERVER3###########
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6123/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
@@ -302,7 +301,7 @@ https://v.arectv30.sbs/static/bs3.m3u8
 https://v.arectv30.sbs/static/bs4.m3u8
 #EXTINF:0 CUID="90" tvg-name="BEİN SPORTS 5 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
 https://v.arectv30.sbs/static/bs5.m3u8
-#EXTINF:-1,###########NEON PLUS SERVER4###########
+#EXTINF:-1,###########SERVER4###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1,FR : BEINSPORT 1 FR
 http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287920.m3u
