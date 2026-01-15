@@ -1,5 +1,22 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment ---☘☘☘
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment S1",☘☘☘---BeIn Entertainment ---☘☘☘
+https://3.3lok3.site:443/live/12345/12345/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN MOVIES PREMIERE" tvg-logo="" group-title="beIN entertainment",◉ beIN MOVIES PREMIERE
+https://3.3lok3.site:443/live/12345/12345/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN MOVIES ACTION" tvg-logo="" group-title="beIN entertainment",◉ beIN MOVIES ACTION
+https://3.3lok3.site:443/live/12345/12345/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN MOVIES DRAMA" tvg-logo="" group-title="beIN entertainment",◉ beIN MOVIES DRAMA
+https://3.3lok3.site:443/live/12345/12345/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN MOVIES FAMILY" tvg-logo="" group-title="beIN entertainment",◉ beIN MOVIES FAMILY
+https://3.3lok3.site:443/live/12345/12345/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN SERIES 1" tvg-logo="" group-title="beIN entertainment",◉ beIN SERIES 1
+https://3.3lok3.site:443/live/12345/12345/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN SERIES 2" tvg-logo="" group-title="beIN entertainment",◉ beIN SERIES 2
+https://3.3lok3.site:443/live/12345/12345/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN DRAMA" tvg-logo="" group-title="beIN entertainment",◉ beIN DRAMA
+https://3.3lok3.site:443/live/12345/12345/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="◉ beIN FATAFEAT" tvg-logo="" group-title="beIN entertainment",◉ beIN FATAFEAT
+https://3.3lok3.site:443/live/12345/12345/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment S2 ---☘☘☘
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92698.m3u8
 #EXTINF:-1,Bein Star World 
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92698.m3u8
@@ -63,7 +80,7 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/34951.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/34956.m3u8
 #EXTINF:-1,Bein HG Tv
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/23452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S2 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment ---☘☘☘
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S2 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment S3 ---☘☘☘
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/17687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:  beIN Outdoor" tvg-logo="https://www.nadirsat.com/Packages_files/Outdoor-Channel.png" group-title="beIN Entertainment",AR:  beIN Outdoor
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5406.m3u8
