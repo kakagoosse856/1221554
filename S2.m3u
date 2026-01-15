@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,post sports 1
+#EXTINF:-1,post sports 1 🟤
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
-#EXTINF:-1,BEIN 1",BEIN 1
+#EXTINF:-1,BEIN 1",BEIN 1 🟤
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-#EXTINF:-1,BEIN 2",BEIN 2
+#EXTINF:-1,BEIN 2",BEIN 2 🟤
 https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8
-#EXTINF:-1,BEIN HEVC & FHD",TOD 1
+#EXTINF:-1,BEIN HEVC & FHD",TOD 1 🟤
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein1" tvg-logo="" group-title="الرياضه",Bein1
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein2" tvg-logo="" group-title="الرياضه",Bein2
+#EXTINF:-1 tvg-id="" tvg-name="Bein1 🟡" tvg-logo="" group-title="الرياضه",Bein1 🟡
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein2 🟡" tvg-logo="" group-title="الرياضه",Bein2 🟡
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein3" tvg-logo="" group-title="الرياضه",Bein3
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
