@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S1 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
-
-#EXTINF:-1 tvg-logo="" group-title=https://t.me/Androidplus20120
 https://t.me/Androidplus20120
 #EXTINF:-1 tvg-logo="" group-title="OSN",OSN YA HALA
 https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/1.m3u8
@@ -41,7 +39,39 @@ https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/18.m3u8
 https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/19.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OSN",OSN discovery
 https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S2 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S2 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S2 ---★☘☘☘
+https://t.me/Androidplus20120
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ YAHALA HD" tvg-logo="" group-title="OSN",| OSN ◉ YAHALA HD
+https://3.3lok3.site:443/live/12345/12345/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ YAHALA Arabia ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ YAHALA Arabia ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALYOUM ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALYOUM ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALSAFWAᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALSAFWAᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALFA CINEMA 1ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALFA CINEMA 1ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Movies Action ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Movies Action ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ KIDS ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ KIDS ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Nat Geo Wild ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Nat Geo Wild ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Action 1 ◉ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Action 1 ◉ᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Discoveryᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Discoveryᴴᴰ
+https://3.3lok3.site:443/live/12345/12345/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="OSN",ART Aflam 1
+https://3.3lok3.site:443/live/12345/12345/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 2" tvg-logo="" group-title="OSN",ART Aflam 2
+https://3.3lok3.site:443/live/12345/12345/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Hikayat 1" tvg-logo="" group-title="OSN",ART Hikayat 1
+https://3.3lok3.site:443/live/12345/12345/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="" group-title="OSN",ART Cinema
+https://3.3lok3.site:443/live/12345/12345/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Hikayat 2" tvg-logo="" group-title="OSN",ART Hikayat 2
+https://3.3lok3.site:443/live/12345/12345/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S2 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S3 ---★☘☘☘
 
 #EXTINF:-1,OSN Fox News
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92696.m3u8
@@ -137,7 +167,7 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9376.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9402.m3u8
 #EXTINF:-1,OSN Travel
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/9403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S3 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S1 ---★☘☘☘
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- OSN S3 ---★☘☘☘" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osn.png" group-title="OSN S1",☘☘☘★--- OSN S4 ---★☘☘☘
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/2081.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | OSN YAHALA  ALOULA HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="OSN S1",AR | OSN YAHALA  ALOULA HD
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/7762.m3u8
