@@ -1,4 +1,25 @@
-
+#EXTINF:-1,###########SERVER1###########
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6120/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6123/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6124/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6125/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6126/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6127/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6128/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6129/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6130/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
+http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6131/index.m3u8
+#EXTINF:-1,###########SERVER2###########
+http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S2" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR: beIN Sports 1 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 1 Hevc
@@ -121,18 +142,7 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3112.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2673.m3u8
 #EXTINF:-1,Bein 2 EXTRA 1080p
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 1FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 3FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 4FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 5FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 6FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7FHD" tvg-logo="" group-title="BEIN SPORT VIP",BEIN SPORTS 7FHD
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/292.m3u8
+
 #EXTINF:-1,BeIN 1 HEVC
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/296.m3u8
 #EXTINF:-1,BeIN 2 HEVC 
