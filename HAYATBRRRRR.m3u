@@ -1,5 +1,14 @@
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
-
+#EXTINF:-1,TNT SPORTS
+http://181.78.201.70:8000/play/a0tx/index.m3u8
+#EXTINF:-1,TNT SPORTS 1
+http://xxip25.top:8080/pdSQU2/612384/53708
+#EXTINF:-1,TNT SPORTS 2
+https://a1xs.vip/2000022
+#EXTINF:-1,Sky Sports Main Event HD
+https://l.hilay.tv/skysportsmaineventuhd
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE UK
+https://a1xs.vip/2000002
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
 http://flixxxx.ddns.net:8080/live/armandojpcoelho/9265554/63897.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
