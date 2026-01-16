@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>NEON TV PLAYER</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+html,body{
+  margin:0;
+  width:100%;
+  height:100%;
+  background:#000;
+}
+video{
+  width:100%;
+  height:100%;
+  background:#000;
+}
+</style>
+</head>
+<body>
+
+<video id="video" controls autoplay></video>
+
+<script>
+const video = document.getElementById('video');
+
+// 🔴 ضع رابط القناة أو m3u8 هنا
+const streamURL = new URLSearchParams(window.location.search).get("url")
+|| "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8";
+
+if (Hls.isSupported()) {
+  const hls = new Hls({
+    maxBufferLength: 30,
+    maxMaxBufferLength: 60,
+    liveSyncDuration: 5
+  });
+  hls.loadSource(streamURL);
+  hls.attachMedia(video);
+} else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+  video.src = streamURL;
+}
+</script>
+
+</body>
+</html>
