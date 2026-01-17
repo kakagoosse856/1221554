@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1,###########SERVER1###########
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 1 test جودة تلقائية 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 2 test جودة تلقائية 
@@ -9,16 +10,15 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 4 جودة ضعيفة
 https://stream.supertv.gg:3001/supertv/sport/stv4/ch4/adaptive.m3u8
-
-#EXTINF:-1,beIN SPORTS 5  test 
+#EXTINF:-1,beIN SPORTS 5  
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 6  test 
+#EXTINF:-1,beIN SPORTS 6  
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 7 test 
+#EXTINF:-1,beIN SPORTS 7
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 8 test 
+#EXTINF:-1,beIN SPORTS 8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 9 test 
+#EXTINF:-1,beIN SPORTS 9 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 10 test 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
@@ -26,13 +26,11 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 12  test 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS   test 
-https:\/\/cast-x.com\/token.php?id=nm1hd&type=hls&h=https%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net&ts=1768676484&sig=e6b30d6212236e4e66311b93df6c41580a225fa478a6a10b285b99088fc05b15
-#EXTINF:-1,beIN SPORTS   test
-https://cdn-js-mejarserver.aka-akamaized.net/nm1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,beIN SPORTS 1  hevc 
+https://mejarhosting.cfd/nm1hevc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,post sports 1 🟤
-https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,###########SERVER2###########
 #EXTINF:-1,BEIN 1",BEIN 1 🟤
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
 #EXTINF:-1,BEIN 2",BEIN 2 🟤
@@ -46,8 +44,8 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein3" tvg-logo="" group-title="الرياضه",Bein3
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
 
-#EXTINF:-1,###########SERVER1###########
-
+#EXTINF:-1,###########SERVER3###########
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1,beIN SPORTS 1
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1,beIN SPORTS 2
@@ -68,8 +66,8 @@ https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2529.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2530.m3u8
 #EXTINF:-1,beIN SPORTS 9
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2531.m3u8
-#EXTINF:-1,###########SERVER2###########
-
+#EXTINF:-1,###########SERVER4###########
+https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 2 
