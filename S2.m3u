@@ -28,8 +28,8 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS   test 
 https:\/\/cast-x.com\/token.php?id=nm1hd&type=hls&h=https%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net&ts=1768676484&sig=e6b30d6212236e4e66311b93df6c41580a225fa478a6a10b285b99088fc05b15
-
-
+#EXTINF:-1,beIN SPORTS   test
+https://cdn-js-mejarserver.aka-akamaized.net/nm1hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,post sports 1 🟤
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
