@@ -1,12 +1,27 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS 1 جودة تلقائية 
+#EXTINF:-1,beIN SPORTS 1 test جودة تلقائية 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 1 1080
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
-#EXTINF:-1,beIN SPORTS 2 جودة تلقائية 
+#EXTINF:-1,beIN SPORTS 2 test
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 2 1080
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch4_1080.m3u8
+#EXTINF:-1,beIN SPORTS 3  test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 4  test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 5 test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 6 test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 7 test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 8 test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 9  test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 10  test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 11  test 
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch13/adaptive.m3u8
+
 
 #EXTINF:-1,post sports 1 🟤
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
