@@ -1,4 +1,9 @@
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+Barça TV	https://fcb-cdn-global.interactvty.net/VIDEOS/240502/hls/da2b08c980066f32275c7faf28e181e4ff12f150045f248c97675eaebce61252.m3u8
+Barça One	https://d1o2jg6gyu61q5.cloudfront.net/index_1.m3u8
+Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 #EXTINF:-1,TNT SPORTS
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1,TNT SPORTS 1
