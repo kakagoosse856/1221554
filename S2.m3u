@@ -5,8 +5,11 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 3 test جودة تلقائية 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 4 test
+#EXTINF:-1,beIN SPORTS 4 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
+#EXTINF:-1,beIN SPORTS 4 جودة ضعيفة
+https://stream.supertv.gg:3001/supertv/sport/stv4/ch4/adaptive.m3u8
+
 #EXTINF:-1,beIN SPORTS 5  test 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 6  test 
