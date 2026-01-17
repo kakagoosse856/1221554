@@ -3,6 +3,8 @@
 https://iq.ashur-iraq-4g.online/hls/stream.m3u8
 #EXTINF:-1,test
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
+#EXTINF:-1,test2
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
 #EXTINF:-1,7seen1
 https://stream.ashur-iraq-4g.online/hls/7seen1.m3u8
 #EXTINF:-1,7seen2
