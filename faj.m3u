@@ -56,3 +56,15 @@ http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153541&extensi
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153542&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
 http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153543&extension=m3u8
+#EXTINF:-1,###########SERVER5###########
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8 
+#EXTINF:-1,Al Fajer1
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8 
+#EXTINF:-1,Al Fajer2
+http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8 
+#EXTINF:-1,Al Fajer3
+http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8 
+#EXTINF:-1,Al Fajer4
+http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
+#EXTINF:-1,Al Fajer5
+http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
