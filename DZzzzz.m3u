@@ -55,45 +55,81 @@ http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/1734
 #EXTINF:-1 tvg-id="" tvg-name="ALG: EL WATANIA ALGERIE" tvg-logo="https://gate.khaleejy7.com/wp-content/uploads/2024/01/7cbdc2d7a52a031c6264c2f67cbecde6.jpg" group-title="ALGERIA HD",ALG: EL WATANIA ALGERIE
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/66685
 #EXTINF:-1 tvg-id="" tvg-name="☘☘☘★---ALGERIA---★☘☘☘" tvg-logo="https://cdn.britannica.com/34/3034-004-1A765B57/Flag-Algeria.jpg" group-title="ALGERIA HD",☘☘☘★---ALGERIA---★☘☘☘
-#EXTINF:-1,Algeria 4 alamazighia
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3737.m3u8
-#EXTINF:-1,Algeria 5 quran
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3736.m3u8
-#EXTINF:-1,Algeria Zahra
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/4651.m3u8
-#EXTINF:-1,Algeria El Heddaf
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/10278.m3u8
-#EXTINF:-1,Algeria 6 Elshababia
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22450.m3u8
-#EXTINF:-1,Algeria Alanis  
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22451.m3u8
-#EXTINF:-1,Algeria Bahia  
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22452.m3u8
-#EXTINF:-1,Algeria Eliktissadia 1
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22826.m3u8
-#EXTINF:-1,Algeria 5 quran
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3736.m3u8
-#EXTINF:-1,Algeria 4 alamazighia
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3737.m3u8
-#EXTINF:-1,Algeria Albilad
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3610.m3u8
-#EXTINF:-1,Algeria Salam
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3674.m3u8
-#EXTINF:-1,Algeria TV5 Monde
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3516.m3u8
-#EXTINF:-1,Algeria Echorouk
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3483.m3u8
-#EXTINF:-1,Algeria 9 Elbarlamaniya
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3340.m3u8
-#EXTINF:-1,Algeria 3 alekhbaria
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3313.m3u8
-#EXTINF:-1,Algeria Ennahar  
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2200.m3u8
-#EXTINF:-1,Algeria 8 Elzakira
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2201.m3u8
-#EXTINF:-1,Algeria Samira  
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2202.m3u8
-#EXTINF:-1,Algeriaa
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2182.m3u8
-
-
+#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
+http://r665.io/live/EGESIPE/bzAsZNr/171.m3u8
+#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
+http://u.goldeniptv.com:2052/live/Emile/11223344/221409.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
+http://r665.io/live/EGESIPE/bzAsZNr/1410.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
+http://u.goldeniptv.com:2052/live/Emile/11223344/221410.m3u8
+#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
+http://r665.io/live/EGESIPE/bzAsZNr/227.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
+http://u.goldeniptv.com:2052/live/Emile/11223344/221411.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
+http://r665.io/live/EGESIPE/bzAsZNr/45716.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
+http://u.goldeniptv.com:2052/live/Emile/11223344/221412.m3u8
+#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
+http://u.goldeniptv.com:2052/live/Emile/11223344/221422.m3u8
+#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
+http://r665.io/live/EGESIPE/bzAsZNr/1559.m3u8
+#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
+http://r665.io/live/PacoSico/sbTD8SJ/1560.m3u8
+#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
+http://r665.io/live/EGESIPE/bzAsZNr/172.m3u8
+#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
+http://u.goldeniptv.com:2052/live/Emile/11223344/221427.m3u8
+#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
+http://u.goldeniptv.com:2052/live/Emile/11223344/221423.m3u8
+#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
+http://u.goldeniptv.com:2052/live/Emile/11223344/221416.m3u8
+#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
+http://r665.io/live/EGESIPE/bzAsZNr/42041.m3u8
+#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
+http://r665.io/live/EGESIPE/bzAsZNr/236.m3u8
+#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
+http://u.goldeniptv.com:2052/live/Emile/11223344/221421.m3u8
+#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
+http://r665.io/live/EGESIPE/bzAsZNr/41988.m3u8
+#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
+http://r665.io/live/PacoSico/sbTD8SJ/171.m3u8
+#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
+http://r665.io/live/PacoSico/sbTD8SJ/2825.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
+http://r665.io/live/PacoSico/sbTD8SJ/1410.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
+http://r665.io/live/PacoSico/sbTD8SJ/226.m3u8
+#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
+http://r665.io/live/PacoSico/sbTD8SJ/227.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
+http://r665.io/live/PacoSico/sbTD8SJ/229.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
+http://r665.io/live/PacoSico/sbTD8SJ/45716.m3u8
+#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
+http://r665.io/live/PacoSico/sbTD8SJ/45717.m3u8
+#EXTINF:-1 tvg-name="Dz | ONE TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | ONE TV
+http://r665.io/live/PacoSico/sbTD8SJ/22395.m3u8
+#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
+http://r665.io/live/PacoSico/sbTD8SJ/233.m3u8
+#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
+http://r665.io/live/PacoSico/sbTD8SJ/1559.m3u8
+#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
+http://r665.io/live/PacoSico/sbTD8SJ/1560.m3u8
+#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
+http://r665.io/live/PacoSico/sbTD8SJ/172.m3u8
+#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
+http://r665.io/live/PacoSico/sbTD8SJ/2260.m3u8
+#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
+http://r665.io/live/PacoSico/sbTD8SJ/231.m3u8
+#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
+http://r665.io/live/PacoSico/sbTD8SJ/42074.m3u8
+#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
+http://r665.io/live/PacoSico/sbTD8SJ/42041.m3u8
+#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
+http://r665.io/live/PacoSico/sbTD8SJ/236.m3u8
+#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
+http://r665.io/live/PacoSico/sbTD8SJ/22398.m3u8
+#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
+http://r665.io/live/PacoSico/sbTD8SJ/41988.m3u8
