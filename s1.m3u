@@ -40,7 +40,7 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6129/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6130/index.m3u8
-#EXTINF:-1,###########SERVER1###########
+#EXTINF:-1,###########SERVER3###########
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 LOW" tvg-logo="http://zxwqhm.2m2h.im/live/albakkari3/599029291/61321.ts" group-title="beIN SPORTS  LOW",beIN SPORTS 1 LOW
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 LOW" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS  LOW",beIN SPORTS 2 LOW
@@ -59,6 +59,8 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/171.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/172.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 LOW" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SPORTS  LOW",beIN SPORTS 9 LOW
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/173.m3u8
+#EXTINF:-1,###########SERVER4###########
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3111.m3u8
 #EXTINF:-1,BeinHD: Bein News
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3111.m3u8
 #EXTINF:-1,BeinHD: Bein Sport
@@ -67,7 +69,6 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/3112.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2673.m3u8
 #EXTINF:-1,Bein 2 EXTRA 1080p
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/22439.m3u8
-
 #EXTINF:-1,BeIN 1 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1,BeIN 2 HEVC 
@@ -154,26 +155,46 @@ http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2183.m3u8
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2184.m3u8
 #EXTINF:-1,TR beIN Sports 3
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/2185.m3u8
-#EXTINF:-1,###########SERVER2###########
-
-
-#EXTINF:-1,###########SERVER3###########
+#EXTINF:-1,###########SERVER5###########
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6123/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 C
+
+#EXTINF:-1,###########SERVER5###########
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
+https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 
+https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 
+https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 
+https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 
+https://tv.fan7live.workers.dev/live/beINAR5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 
+https://tv.fan7live.workers.dev/live/beINAR6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 
+https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
+https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
+https://tv.fan7live.workers.dev/live/beINAR9/index.m3u8
+#EXTINF:-1,###########SERVER6###########
+https://a.3lok3.site/live/aloka1/aloka1/1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
 https://a.3lok3.site/live/aloka1/aloka1/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 D
 https://a.3lok3.site/live/aloka1/aloka1/20.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 E
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
+https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 A
 http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 B
-https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 C
 https://a.3lok3.site/live/aloka1/aloka1/26.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 D
@@ -182,8 +203,7 @@ https://a.3lok3.site/live/aloka1/aloka1/21.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 A
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6124/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 B
-https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 C
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 D
@@ -191,8 +211,7 @@ https://a.3lok3.site/live/aloka1/aloka1/22.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 A
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6131/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 B
-https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 C
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 D
@@ -200,8 +219,7 @@ https://a.3lok3.site/live/aloka1/aloka1/24.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 A
 http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 B
-https://tv.fan7live.workers.dev/live/beINAR5/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 C
 https://mejarserver.site/G5-480p/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 D
@@ -209,8 +227,7 @@ https://a.3lok3.site/live/aloka1/aloka1/23.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 A
 http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 B
-https://tv.fan7live.workers.dev/live/beINAR6/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 C
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33890.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 D
@@ -219,8 +236,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 A
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6128/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 B
-https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 C
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 D
@@ -229,8 +245,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 A
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6129/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 B
-https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 C
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 D
@@ -238,8 +253,7 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 A
 http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 B
-https://tv.fan7live.workers.dev/live/beINAR9/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 C
 http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 D
