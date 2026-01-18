@@ -47,27 +47,26 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
 
 #EXTINF:-1,###########SERVER3###########
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
-#EXTINF:-1,beIN SPORTS 1
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8
-#EXTINF:-1,beIN SPORTS 3
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2525.m3u8
-#EXTINF:-1,beIN SPORTS 4
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2526.m3u8
-
-#EXTINF:-1,beIN SPORTS 5
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2527.m3u8
-
-#EXTINF:-1,beIN SPORTS 6
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2528.m3u8
-#EXTINF:-1,beIN SPORTS 7
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2529.m3u8
-#EXTINF:-1,beIN SPORTS 8
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2530.m3u8
-#EXTINF:-1,beIN SPORTS 9
-https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2531.m3u8
+#EXTINF:0 CUID="59" tvg-name="Bien sport 1 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0 CUID="60" tvg-name="Bien sport 2 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 2 🇶🇦
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:0 CUID="61" tvg-name="Bien sport 3 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:0 CUID="62" tvg-name="Bien sport 4 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 4 🇶🇦
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:0 CUID="63" tvg-name="Bien sport 5 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 5 🇶🇦
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:0 CUID="64" tvg-name="Bien sport 6 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 6 🇶🇦
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:0 CUID="65" tvg-name="Bien sport 7 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 7 🇶🇦
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:0 CUID="66" tvg-name="Bien sport 8 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 8 🇶🇦
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:0 CUID="67" tvg-name="Bien sport 9 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 9 🇶🇦
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:0 CUID="68" tvg-name="Bien sport 10 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 10 🇶🇦
+http://135.125.109.73:9000/beinsport10_.m3u8
 #EXTINF:-1,###########SERVER4###########
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 
