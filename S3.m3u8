@@ -61,40 +61,79 @@ https://3.3lok3.site:443/live/12345/12345/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="◉ beIN Sports AFC 1 SD" tvg-logo="" group-title="beIN AFCON",◉ beIN Sports AFC 1 SD
 https://3.3lok3.site:443/live/12345/12345/30.m3u8
 #EXTINF:-1,###########SERVER2###########
-https://3.3lok3.site:443/live/12345/12345/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein 1 fhd local" tvg-logo="" group-title="قنوات ",bein 1 fhd local
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 fhd (local)" tvg-logo="" group-title="bein sport fhd (local)",bein sport 2 fhd (local)
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 fhd" tvg-logo="" group-title="bein sport fhd (local)",bein sport 3 fhd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 4 fhd" tvg-logo="" group-title="bein sport fhd (local)",bein sport 4 fhd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 5 fhd" tvg-logo="" group-title="bein sport fhd (local)",bein sport 5 fhd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport fhd 6" tvg-logo="" group-title="bein sport fhd (local)",bein sport fhd 6
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport fhd 7" tvg-logo="" group-title="bein sport fhd (local)",bein sport fhd 7
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 8 fhd" tvg-logo="" group-title="bein sport fhd (local)",bein sport 8 fhd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport fhd 9" tvg-logo="" group-title="bein sport fhd (local)",bein sport fhd 9
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 fhd" tvg-logo="" group-title="bein sport fhd (local)",bein sport 1 fhd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1FHD22" tvg-logo="https://airmaxtv.online:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" group-title="قنوات ",BEIN SPORTS 1FHD22
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بين سبورت 1" tvg-logo="" group-title="قنوات ",بين سبورت 1
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بين سبورت sd" tvg-logo="" group-title="قنوات ",بين سبورت sd
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بين سبورت جوده ضعيفه " tvg-logo="" group-title="قنوات ",بين سبورت جوده ضعيفه 
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="123123123" tvg-logo="" group-title="قنوات ",123123123
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="قنوات ",BEIN SPORTS 3 HD [G]
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS-1-MAX-HD -en" tvg-logo="" group-title="قنوات ",beIN-SPORTS-1-MAX-HD -en
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra ES" tvg-logo="" group-title="قنوات ",beIN Sports Xtra ES
-http://31.220.78.193:25461/live/kDZTpMFvT6/HWAPydUMDW/269.m3u8
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20news%20hd.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS NEWS HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/102546.m3u8
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="beIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS FHD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7757.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7756.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153582.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 2HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7755.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 2 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153583.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 3HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7749.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 3 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153584.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 4 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7754.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 4HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 4HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7751.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 5HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7753.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 5 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153587.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%204%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 6HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7752.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 6 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153588.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%205%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 7HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7748.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 7 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153589.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN SPORTS 8HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%206%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 8HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7750.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN SPORTS 8 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 8 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153590.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN SPORTS 9HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%207%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 9HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/7747.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN SPORTS 9 HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 9 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153591.m3u8
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1HD EN" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20ENGLISH%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1HD EN
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/3632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 EN" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1 EN
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153592.m3u8
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2HD EN" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20ENGLISH%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 2HD EN
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/4038.m3u8
+#EXTINF:-1 tvg-id="beinsports3frar.qa" tvg-name="beIN SPORTS NBA" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS NBA
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153594.m3u8
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="beIN SPORTS 1HD FR" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20FRENCH%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1HD FR
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/4036.m3u8
+#EXTINF:-1 tvg-id="beinsports1frar.qa" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 1 FR
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153595.m3u8
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="beIN SPORTS 2 FR HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20FRENCH%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 2 FR HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/144483.m3u8
+#EXTINF:-1 tvg-id="beinsports2frar.qa" tvg-name="beIN SPORTS 2 FR" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 2 FR
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/153596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FR HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20FRENCH%20HD.png" group-title="AR| BEIN SPORTS HD",beIN SPORTS 3 FR HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/144482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%20premium%201%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 8 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%20premium%202%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 9 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%201%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 1 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%202%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 2 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%203%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 3 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%204%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 4 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%205%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 5 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%206%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 6 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%207%20SD.png" group-title="AR| BEIN SPORTS SD",beIN SPORTS 7 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/125325.m3u8
