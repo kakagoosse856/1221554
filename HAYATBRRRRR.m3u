@@ -7,7 +7,8 @@ https://d1o2jg6gyu61q5.cloudfront.net/index_1.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1, Real Madrid TV ES	
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
+#EXTINF:-1,MAX2
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1,TNT SPORTS
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1,TNT SPORTS 1
