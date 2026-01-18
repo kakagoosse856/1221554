@@ -9,14 +9,14 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,MAX2
 https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/MONOMAX2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/cuNlrK6.jpeg",Digi Sport 2 🇷🇴
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/cuNlrK6.jpeg",ARENA Sport 1 🇷🇴
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2550/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/cuNlrK6.jpeg",Digi Sport 1 🇷🇴
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/cuNlrK6.jpeg",Digi Sport 3 🇷🇴
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2524/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2909.png",SPORT TV 1 HD PT
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2525/index.m3u8
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2547/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2910.png",SPORT TV 2 HD PT
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2526/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2911.png",SPORT TV 3 HD PT
@@ -24,9 +24,9 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2527/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2912.png",SPORT TV 4 PT
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2528/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2929.png",RMC Sport 1 HD FR
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2545/index.m3u8
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2546/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2930.png",RMC Sport 2 HD FR
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2546/index.m3u8
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2547/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2931.png",RMC Sport 3 HD FR
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2547/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/cuNlrK6.jpeg",Polsat SPORT 1 🇵🇱
