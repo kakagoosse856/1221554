@@ -21,6 +21,18 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2547/index.m3u8
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2559/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2909.png",ZIGGO SPORT2 HD
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2561/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport 2 HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport 2 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport 3 HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport 3 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport 4 HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport 4 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport 5 HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport 5 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport 6 HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport 6 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CAN|NL Ziggo Sport HD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png" group-title="VAR| AFCON 2025 - MULTILANGUAGE",|CAN|NL Ziggo Sport HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/240135.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2929.png",RMC Sport 1 HD FR
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2546/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg.it999.ru/img2/2930.png",RMC Sport 2 HD FR
