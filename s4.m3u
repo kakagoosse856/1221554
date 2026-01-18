@@ -1,0 +1,47 @@
+
+#EXTINF:-1,beIN MAX 1 MINI
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372333.m3u8
+#EXTINF:-1,beIN MAX 2 MINI
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372334.m3u8
+#EXTINF:-1,beIN MAX 1 LOW
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372335.m3u8
+#EXTINF:-1,beIN MAX 2 LOW
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372336.m3u8
+#EXTINF:-1,beIN MAX 1 VEGA
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372337.m3u8
+#EXTINF:-1,beIN MAX 2 VEGA
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372338.m3u8
+#EXTINF:-1,beIN MAX 1 SD
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372339.m3u8
+#EXTINF:-1,beIN MAX 2 SD
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372340.m3u8
+#EXTINF:-1,beIN MAX 3 SD
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/372604.m3u8
+#EXTINF:-1,beIN MAX 4 SD
+http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/384832.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="" group-title="all",Bein Sports Max 1 HD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="" group-title="all",Bein Sports Max 1 SD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="" group-title="all",Bein Sports Max 1 4K
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="" group-title="all",Bein Sports Max 1 FHD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="" group-title="all",Bein Sports Max 2 HD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="" group-title="all",Bein Sports Max 2 SD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="" group-title="all",Bein Sports Max 2 4K
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="" group-title="all",Bein Sports Max 2 FHD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="" group-title="all",Bein Sports Max 3 HD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="" group-title="all",Bein Sports Max 3 SD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="" group-title="all",Bein Sports Max 3 4K
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="" group-title="all",Bein Sports Max 3 FHD
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/98606.m3u8
