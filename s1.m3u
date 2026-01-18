@@ -19,11 +19,9 @@ http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6130/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
 http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6131/index.m3u8
 #EXTINF:-1,###########SERVER2###########
-http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL HEVC S2" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",beIN SPORTS GLOBAL HEVC
-http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/109746.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR: beIN Sports 1 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 1 Hevc
-http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5348.m3u8
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR: beIN Sports 1 " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 1 Hevc
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 #EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="AR: beIN Sports 2 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 2 Hevc
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/5349.m3u8
 #EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="AR: beIN Sports 3 Hevc" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS HEVC",AR: beIN Sports 3 Hevc
