@@ -4,71 +4,59 @@ http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 
 http://91.109.114.8/Teatbein1/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 test جودة تلقائية 
+#EXTINF:-1,beIN SPORTS 2 test جودة تلقائية  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 3 test جودة تلقائية 
+#EXTINF:-1,beIN SPORTS 3 test جودة تلقائية  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 4 
+#EXTINF:-1,beIN SPORTS 4  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 4 جودة ضعيفة
+#EXTINF:-1,beIN SPORTS 4  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv4/ch4/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 5  
+#EXTINF:-1,beIN SPORTS 5  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 6  
+#EXTINF:-1,beIN SPORTS 6  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 7
+#EXTINF:-1,beIN SPORTS 7  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 8
+#EXTINF:-1,beIN SPORTS 8  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 9 
+#EXTINF:-1,beIN SPORTS 9  🟤
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 10 test 
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 11  test 
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 12  test 
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/adaptive.m3u8
-#EXTINF:-1,beIN SPORTS 1  hevc 
-https://mejarhosting.cfd/nm1hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN SPORTS 2  hevc
-https://cdn-js-mejarserver.aka-akamaized.net/nm2hevc/manifest.m3u8
-#EXTINF:-1,beIN SPORTS 3  hevc
-https://cdn-js-mejarserver.aka-akamaized.net/nm3hevc/manifest.m3u8
 #EXTINF:-1,###########SERVER2###########
-#EXTINF:-1,BEIN 1",BEIN 1 🟤
+#EXTINF:-1,BEIN 1",BEIN 1 🟡
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-#EXTINF:-1,BEIN 2",BEIN 2 🟤
+#EXTINF:-1,BEIN 2",BEIN 2 🟡
 https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8
-#EXTINF:-1,BEIN HEVC & FHD",TOD 1 🟤
+#EXTINF:-1,BEIN HEVC & FHD",TOD 1 🟡
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein1 🟡" tvg-logo="" group-title="الرياضه",Bein1 🟡
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Bein2 🟡" tvg-logo="" group-title="الرياضه",Bein2 🟡
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein3" tvg-logo="" group-title="الرياضه",Bein3
+#EXTINF:-1 tvg-id="" tvg-name="Bein3 🟡" tvg-logo="" group-title="الرياضه",Bein3 🟡
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
 
 #EXTINF:-1,###########SERVER3###########
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
-#EXTINF:-1,beIN SPORTS 1
+#EXTINF:-1,beIN SPORTS 1 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
-#EXTINF:-1,beIN SPORTS 2
+#EXTINF:-1,beIN SPORTS 2 🟡
 http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8
-#EXTINF:-1,beIN SPORTS 3
+#EXTINF:-1,beIN SPORTS 3 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2525.m3u8
-#EXTINF:-1,beIN SPORTS 4
+#EXTINF:-1,beIN SPORTS 4 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2526.m3u8
 
-#EXTINF:-1,beIN SPORTS 5
+#EXTINF:-1,beIN SPORTS 5 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2527.m3u8
 
-#EXTINF:-1,beIN SPORTS 6
+#EXTINF:-1,beIN SPORTS 6 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2528.m3u8
-#EXTINF:-1,beIN SPORTS 7
+#EXTINF:-1,beIN SPORTS 7 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2529.m3u8
-#EXTINF:-1,beIN SPORTS 8
+#EXTINF:-1,beIN SPORTS 8 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2530.m3u8
-#EXTINF:-1,beIN SPORTS 9
+#EXTINF:-1,beIN SPORTS 9 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2531.m3u8
 #EXTINF:-1,###########SERVER4###########
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
