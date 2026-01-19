@@ -1,22 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PersianaCinema.fr" group-title="hilaytv" tvg-name="Persiana Cinema",Persiana Cinema
-#EXTGRP:Movies & Series
 https://cinehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaIranian.fr" group-title="hilaytv" tvg-name="Persiana Iranian",Persiana Iranian
-#EXTGRP:Movies & Series
 https://irhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaSeries.fr" group-title="hilaytv" tvg-name="Persiana Series",Persiana Series
-#EXTGRP:Movies & Series
 https://onehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaNostalgia.fr" group-title="hilaytv" tvg-name="Persiana Nostalgia",Persiana Nostalgia
-#EXTGRP:Movies & Series
 https://noshls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaLatino.fr" group-title="hilaytv" tvg-name="Persiana Latino",Persiana Latino
-#EXTGRP:Movies & Series
 https://latinohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr" group-title="hilaytv" tvg-name="Persiana Turkiye",Persiana Turkiye
@@ -28,83 +23,64 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaPlus.fr" group-title="hilaytv" tvg-name="Persiana Plus",Persiana Plus
-#EXTGRP:Entertainment
 https://euhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaPlusOne.fr" group-title="hilaytv" tvg-name="Persiana Plus One",Persiana Plus One
-#EXTGRP:Entertainment
 https://poneplushls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaFamily.fr" group-title="hilaytv" tvg-name="Persiana Family",Persiana Family
-#EXTGRP:Entertainment
 https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaReality.fr" group-title="hilaytv" tvg-name="Persiana Reality",Persiana Reality
-#EXTGRP:Entertainment
 https://twohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaComedy.fr" group-title="hilaytv" tvg-name="Persiana Comedy",Persiana Comedy
-#EXTGRP:Comedy & Youth
 https://comedyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaTeen.fr" group-title="hilaytv" tvg-name="Persiana Teen",Persiana Teen
-#EXTGRP:Comedy & Youth
 https://kphls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaJunior.fr" group-title="hilaytv" tvg-name="Persiana Junior",Persiana Junior
-#EXTGRP:Comedy & Youth
 https://junhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaMusic.fr" group-title="hilaytv" tvg-name="Persiana Music",Persiana Music
-#EXTGRP:Music
 https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaVibe.fr" group-title="hilaytv" tvg-name="Persiana Vibe",Persiana Vibe
-#EXTGRP:Music
 https://raphls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaFolk.fr" group-title="hilaytv" tvg-name="Persiana Folk",Persiana Folk
-#EXTGRP:Music
 https://sonhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="4Music.fr" group-title="hilaytv" tvg-name="4 Music",4 Music
-#EXTGRP:Music
 https://4muhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaSports.fr" group-title="hilaytv" tvg-name="Persiana Sport",Persiana Sport
-#EXTGRP:Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaFight.fr" group-title="hilaytv" tvg-name="Persiana Fight",Persiana Fight
-#EXTGRP:Sports
 https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="4Sports.fr" group-title="hilaytv" tvg-name="4 Sport",4 Sport
-#EXTGRP:Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="hilaytv" tvg-name="4 Afghanistan",4 Afghanistan
-#EXTGRP:Regional
 https://4afghls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="hilaytv" tvg-name="4 Kurd",4 Kurd
-#EXTGRP:Regional
 https://4kuhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaDocs.fr" group-title="hilaytv" tvg-name="Persiana Docs",Persiana Docs
-#EXTGRP:Documentary & Lifestyle
 https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaTravel.fr" group-title="hilaytv" tvg-name="Persiana Travel",Persiana Travel
-#EXTGRP:Documentary & Lifestyle
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaMedical.fr" group-title="hilaytv" tvg-name="Persiana Medical",Persiana Medical
-#EXTGRP:Documentary & Lifestyle
 https://phd2hls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaEmirates.fr" group-title="hilaytv" tvg-name="Persiana Emirates",Persiana Emirates
-#EXTGRP:Documentary & Lifestyle
+
 https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Persiana",-1 tvg-id="4Afghanistan.fr@SD",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
