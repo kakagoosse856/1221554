@@ -1,15 +1,93 @@
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
 https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
-#EXTINF:-1,مباراة برشلونة 
-https://sdmax111.provegooott.com/7_.m3u8
-#EXTINF:-1,مباراة برشلونة 
-https://1.nomlkosd20.sbs/hls/1/stream.m3u8
-#EXTINF:-1,7Alwan Sport 1 HD
-http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237017.m3u8
-#EXTINF:-1,7Alwan Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 1ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 1ᶠᴴᴰ
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 2ᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 2ᴴᴰ
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 2ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 2ᶠᴴᴰ
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 3ᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 3ᴴᴰ
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 3ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 3ᶠᴴᴰ
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 2 HD
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237018.m3u8
-#EXTINF:-1,7Alwan Sport 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 2 SD
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 2 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 3 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 3 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 3 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 4 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 4 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 4 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 5 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 5 SD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 5 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 6 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 6 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 1 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 2 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 3 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 4 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 5 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 6 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 6 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 7 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 7 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 8 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 8 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 9 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 9 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| BUNDES LIGA SHAHID 10 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png" group-title="AR| BUNDESLIGA & الدوري الالماني",AR| BUNDES LIGA SHAHID 10 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY CricLife 1" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY CricLife 1
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY CricLife 2" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY CricLife 2
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY CricLife 3" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY CricLife 3
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY Criclife max" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY Criclife max
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY GOLF" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY GOLF
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY Sports FHD" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY Sports FHD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZPLAY Sports HD" tvg-logo="" group-title="AD| ABU DHABI SERIE A (STARZPLAY)",AR|STARZPLAY Sports HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/202146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 1 HD" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 1 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 1 4K" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 1 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 2 HD" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 2 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 2 4K" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 2 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 3 HD" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 3 HD
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHSA 3 4K" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="AR| SHAHSA شاشة الرياضية",AR|SHAHSA 3 4K
+http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/239263.m3u8
 #EXTINF:-1,POST SPORT 1
 https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8
 #EXTINF:-1,NRT SPORT HD A
