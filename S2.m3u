@@ -1,4 +1,7 @@
 #EXTINF:-1,###########SERVER1###########
+http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
+#EXTINF:-1,beIN SPORTS 1 
+http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 1 
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
