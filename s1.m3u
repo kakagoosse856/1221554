@@ -45,15 +45,6 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6129/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6130/index.m3u8
 #EXTINF:-1,###########SERVER3###########
-
-#EXTINF:-1,###########SERVER4###########
-https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-
-#EXTINF:-1,###########SERVER5###########
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A
-https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-
-#EXTINF:-1,###########SERVER5###########
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 
@@ -72,95 +63,7 @@ https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
 https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
 https://tv.fan7live.workers.dev/live/beINAR9/index.m3u8
-#EXTINF:-1,###########SERVER6###########
-https://a.3lok3.site/live/aloka1/aloka1/1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
-https://a.3lok3.site/live/aloka1/aloka1/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 D
-https://a.3lok3.site/live/aloka1/aloka1/20.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
-http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
-https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8 
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 A
-http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 C
-https://a.3lok3.site/live/aloka1/aloka1/26.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 D
-https://a.3lok3.site/live/aloka1/aloka1/21.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6124/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 C
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 D
-https://a.3lok3.site/live/aloka1/aloka1/22.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6131/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 C
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 D
-https://a.3lok3.site/live/aloka1/aloka1/24.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 A
-http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 C
-https://mejarserver.site/G5-480p/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 D
-https://a.3lok3.site/live/aloka1/aloka1/23.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 A
-http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 C
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 D
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6128/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 C
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 D
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6129/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 C
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33892.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 D
-http://135.125.109.73:9000/beinsport8_.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 A
-http://shoftvs.com/live/Mahmoudbeshry86/584236005/96913.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 C
-http://217.174.225.146/hls/ch004_720/index.m3u8?token=
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 D
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33893.m3u8
-
-
-#EXTINF:-1,BeinSport1.fr
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
-#EXTINF:-1,BeinSport2.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
-#EXTINF:-1,BeinSport3.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1,###########NEON PLUS SERVER3###########
+#EXTINF:-1,###########SERVER4###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:0 CUID="86" tvg-name="BEİN SPORTS 1 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
 https://v.arectv30.sbs/static/bs1.m3u8
@@ -172,7 +75,7 @@ https://v.arectv30.sbs/static/bs3.m3u8
 https://v.arectv30.sbs/static/bs4.m3u8
 #EXTINF:0 CUID="90" tvg-name="BEİN SPORTS 5 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
 https://v.arectv30.sbs/static/bs5.m3u8
-#EXTINF:-1,###########SERVER4###########
+#EXTINF:-1,###########SERVER5###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1,FR : BEINSPORT 1 FR
 http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287920.m3u
@@ -198,3 +101,18 @@ http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287923.m3u
 http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/318467.m3u
 #EXTINF:-1,PLEX_US: BEIN SPORTS XTRA EN ESPAÑOL
 http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/318468.m3u
+
+#EXTINF:-1,###########SERVER5###########
+#EXTINF:-1,BeinSport1.fr
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
+#EXTINF:-1,BeinSport2.fr
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
+#EXTINF:-1,BeinSport3.fr
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
+#EXTINF:-1,###########SERVER6###########
+
+
+#EXTINF:-1,###########SERVER3###########
+
+#EXTINF:-1,###########SERVER4###########
+
