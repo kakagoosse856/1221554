@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+#EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
 https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 1ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 1ᶠᴴᴰ
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236891.m3u8
@@ -10,6 +10,27 @@ http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236892.m3u8
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 3ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 3ᶠᴴᴰ
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236893.m3u8
+#EXTINF:-1 tvg-name="========== السرفر الثاني ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD A
+http://199.115.193.116:8080/live/90337864331136/90337864331136/413725.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD B
+http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381478.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD C
+https://cdn-js-mejarserver.aka-akamaized.net/thm1raw/manifest.m3u8?token=c274e09eddf26d0d9acbbcba1c61b3e2118093be-080581307db8abf6777d1eae6d8dc18b-1768100544-1768093314&remote=no_check_ip
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD D
+http://199.115.193.116:8080/live/90337864331136/90337864331136/413722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD E
+http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD F
+http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381476.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD G
+https://cdn-js-mejarserver.aka-akamaized.net/thm1raw/manifest.m3u8?token=c274e09eddf26d0d9acbbcba1c61b3e2118093be-080581307db8abf6777d1eae6d8dc18b-1768100544-1768093314&remote=no_check_ip
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD K
+https://stream.ashur-iraq-4g.online/hls/stream_master.m3u8
+#EXTINF:-1 tvg-name="========== السرفر الثالث ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 HD
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 SD
@@ -176,22 +197,7 @@ https://s3.news-api-gen.lol//alwan_sport1/index.m3u8?token=c7eab60bfcc57d5587af1
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD D
 https://live21.bozztv.com/akamaissh101/ssh101/mos2/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD A
-http://199.115.193.116:8080/live/90337864331136/90337864331136/413725.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD B
-http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381478.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD C
-https://cdn-js-mejarserver.aka-akamaized.net/thm1raw/manifest.m3u8?token=c274e09eddf26d0d9acbbcba1c61b3e2118093be-080581307db8abf6777d1eae6d8dc18b-1768100544-1768093314&remote=no_check_ip
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD D
-http://199.115.193.116:8080/live/90337864331136/90337864331136/413722.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD E
-http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381477.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD F
-http://iptv-premium-ott.com:8789/live/GHU63295/CFM90315/381476.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD G
-https://cdn-js-mejarserver.aka-akamaized.net/thm1raw/manifest.m3u8?token=c274e09eddf26d0d9acbbcba1c61b3e2118093be-080581307db8abf6777d1eae6d8dc18b-1768100544-1768093314&remote=no_check_ip
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",الثمانية  HD K
-https://stream.ashur-iraq-4g.online/hls/stream_master.m3u8
+
 #EXTINF:-1,###########SERVER4###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 1 SD" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORT",ALWAN SPORT 1 SD
