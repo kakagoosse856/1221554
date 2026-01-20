@@ -1,5 +1,6 @@
 [
-{ "chaine": { "nom":"BeiNs1 QA","url":"http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2499/index.m3u8" }},
+{ "chaine": { "nom":"test","url":"aHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEmdHlwZS81NjY5OC5tM3U4" }},
+{ "chaine": { "nom":"BeiNstest QA","url":"http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2499/index.m3u8" }},
 { "chaine": { "nom":"BeiNs1 QA","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8" }},
 { "chaine": { "nom":"BeiNs2 QA","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6124/index.m3u8" }},
 { "chaine": { "nom":"BeiNs3 QA","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6125/index.m3u8" }},
