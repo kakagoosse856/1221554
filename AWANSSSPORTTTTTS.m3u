@@ -79,6 +79,9 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859093&
 
 #EXTINF:-1 tvg-name="========== السرفر الرابع ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الرابع ==========
 https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD 
+https://live21.bozztv.com/akamaissh101/ssh101/mos2/chunks.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD A
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
@@ -86,8 +89,7 @@ http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
 https://s3.news-api-gen.lol//alwan_sport1/index.m3u8?token=c7eab60bfcc57d5587af1188ba989c6c9c0045bb-171b617c5e8551f20bc82144e3b464b1-1768106788-1768095988&remote=104.28.193.116
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD C
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD D
-https://live21.bozztv.com/akamaissh101/ssh101/mos2/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-name="========== السرفر الخامس ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الخامس ==========
