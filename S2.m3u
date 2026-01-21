@@ -12,6 +12,10 @@ http://91.109.114.8/beinSports3AlcatlanTv/index.m3u8
 http://91.109.114.8/beinsports2aclatlanTv/index.m3u8
 #EXTINF:-1,BEIN SPORT 5
 http://91.109.114.8/bein5alcatantv/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://91.109.114.8/beinsports6alcatlanTv/index.m3u8
+#EXTINF:-1,###########SERVER2###########
+http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FHD
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FHD
@@ -90,7 +94,7 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/420141.m3u8
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/420157.m3u8
 
 
-#EXTINF:-1,###########SERVER2###########
+#EXTINF:-1,###########SERVER3###########
 #EXTINF:-1,BEIN 1",BEIN 1 🟡
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
 #EXTINF:-1,BEIN 2",BEIN 2 🟡
@@ -104,7 +108,7 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein3 🟡" tvg-logo="" group-title="الرياضه",Bein3 🟡
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
 
-#EXTINF:-1,###########SERVER3###########
+#EXTINF:-1,###########SERVER4###########
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1,beIN SPORTS 1 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
@@ -126,7 +130,7 @@ https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2529.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2530.m3u8
 #EXTINF:-1,beIN SPORTS 9 🟡
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2531.m3u8
-#EXTINF:-1,###########SERVER4###########
+#EXTINF:-1,###########SERVER5###########
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -146,7 +150,7 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 9 " tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 9 
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1,###########SERVER3###########
+#EXTINF:-1,###########SERVER6###########
 
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="✪BEIN SPORT HD",beIN Sports MAX 1 ᴴᴰ
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/146122.m3u8
