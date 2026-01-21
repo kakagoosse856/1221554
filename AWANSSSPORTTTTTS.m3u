@@ -2,8 +2,10 @@
 http://91.109.114.8/alcatlan/index.m3u8
 #EXTINF:-1,ALWAN SPORT 1 Alcatlan
 http://91.109.114.8/alcatlan/index.m3u8
-#EXTINF:-1,ALWAN SPORT 2 Alcatlan
+#EXTINF:-1,ALWAN SPORT HD 2 Alcatlan
 https://py.dencreak.com/alwan_hd2.m3u8
+#EXTINF:-1,ALWAN SPORT SD 2 Alcatlan
+https://py.dencreak.com/alwan_sd2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 HD
