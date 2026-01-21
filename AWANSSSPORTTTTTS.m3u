@@ -31,37 +31,9 @@ https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
 
 
 
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 
-https://stream.ashur-iraq-4g.online/hls/stream.m3u8
-#EXTINF:-1 group-title="TOD TEST" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,TOD TEST
-https://a3.akamaized.live/hq/index.m3u8?sid=1768333637.157418775101536&edge=1
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859098&extension=ts&play_token=qUKYFFjsT3
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859097&extension=ts&play_token=mMdPqKCvdQ
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859096&extension=ts&play_token=XoQUPch7lu
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859095&extension=ts&play_token=4rCiy337Wm
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859094&extension=ts&play_token=RzgDFqiWBq
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859093&extension=ts&play_token=DUOnz8wyig
-
-
 
 #EXTINF:-1 tvg-name="========== السرفر الرابع ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الرابع ==========
 https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD 
-https://live21.bozztv.com/akamaissh101/ssh101/mos2/chunks.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD A
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 1 HD B
-https://s3.news-api-gen.lol//alwan_sport1/index.m3u8?token=c7eab60bfcc57d5587af1188ba989c6c9c0045bb-171b617c5e8551f20bc82144e3b464b1-1768106788-1768095988&remote=104.28.193.116
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",ألوان الرياضية 2 HD C
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.m3u8
 
 
 
