@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
 https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 1ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 1ᶠᴴᴰ
-http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 1" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 1ᶠᴴᴰ
+http://stream.shabakaty.com:6010/sport/ch9/adaptive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 2ᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 2ᴴᴰ
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/236895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 2ᶠᴴᴰ" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png" group-title="AR| THMANYAH الدوري السعودي",AR| THMANYAH 2ᶠᴴᴰ
