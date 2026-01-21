@@ -1,7 +1,7 @@
 #EXTINF:-1,###########SERVER1###########
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
-#EXTINF:-1,beIN SPORTS auto
-https://gist.githubusercontent.com/iraqapps/4aeab0cf71838899ec60b9b100e00403/raw/dhoomtv_b1auto.m3u8
+#EXTINF:-1,beIN SPORTS auto 1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1,beIN SPORTS 1 
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 
