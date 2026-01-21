@@ -1,14 +1,14 @@
 [
 
-{ "chaine": { "nom":"Mejar 1", "url":"base64:aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvcS1vVnFReVNwclNqd293TnJWQmdYODA0Ri9peEo2bHBxVjJZT0pPRWo4QTN3SWlGWE40WGlSVE1LdFVQWG5fcVVwN1VvZWVJblB6dm5XNFgxMW1Ia2h6UQ==" }},
+
   { "chaine": { "nom":"THMANYAH 1","url":"https://bbb.exoadash.com/TVD1451/index.mpd" }},
   { "chaine": { "nom":"THMANYAH 2","url":"https://bbb.exoadash.com/TVD1403/index.mpd" }},
   { "chaine": { "nom":"THMANYAH 3","url":"https://bbb.exoadash.com/TVD6737/index.mpd" }},
   { "chaine": { "nom":"THMANYAH","url":"https://bbb.exoadash.com/TVD1454/index.mpd" }},
-  { "chaine": { "nom":"Starzplay Sports ","url":"https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/BBSS1.M3U8" }},
-  { "chaine": { "nom":"TEST","url":"https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd" }},
-  { "chaine": { "nom":"THMANYAH","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6127/index.m3u8" }},
-  { "chaine": { "nom":"THMANYAH","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6128/index.m3u8" }},
-  { "chaine": { "nom":"THMANYAH","url":"http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8" }},
-  { "chaine": { "nom":"THMANYAH","url": "http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/53376.m3u8" }}
+  { "chaine": { "nom":"Mejar 1", "url":"base64:aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvcS1vVnFReVNwclNqd293TnJWQmdYODA0Ri9peEo2bHBxVjJZT0pPRWo4QTN3SWlGWE40WGlSVE1LdFVQWG5fcVVwN1VvZWVJblB6dm5XNFgxMW1Ia2h6UQ==" }},
+  { "chaine": { "nom":"Mejar 2", "url":"base64:aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvcFl0WGJpSTNHNzgzaVgxWXhQN3c1aGh0cmNRalZDU28yMl9ZRXd3NHVZZUhHYWh0ZTREMFpHUUhIck45blV6eDdVUnRuUEJFR21uWkdBSlpyOVg1SUEvaWQ==" }},
+  { "chaine": { "nom":"Mejar 3", "url":"base64:aHR0cHM6Ly9jYXN0LXguY29tL3Rva2VuLnBocD9pZD1ubTNoZXYmdHlwZT1obHUmaD1odHRwczovL21lamFyaG9zdGluZy5jZmQmdHM9MTc2ODk3NjQxOSZzaWc9ZjFiODZjYzY2MGEzYzZlMGY4MDAzOTU0NDE2NzI5NWYxMjdkZTRkZGU1MzMwYTBjYTk0MWRhMTIwYmRmNDAwNw==" }},
+  { "chaine": { "nom":"Mejar 4", "url":"base64:aHR0cHM6Ly9jYXN0LXguY29tL3Rva2VuLnBocD9pZD1ubTRoZXYmdHlwZT1obHUmaD1odHRwczovL21lamFyaG9zdGluZy5jZmQmdHM9MTc2ODk3NjQxOSZzaWc9NThkN2NiMjE0OWZmZDQzZmY0ZmViNDJhMjQ4YzNjZjJhZjBlYzNiYzRiYmIwYTM3Y2JkYTBhOGRjZGE1ZmU3OQ==" }},
+  { "chaine": { "nom":"Mejar 5", "url":"base64:aHR0cHM6Ly9jYXN0LXguY29tL3Rva2VuLnBocD9pZD1ubTVoZXYmdHlwZT1obHUmaD1odHRwczovL21lamFyaG9zdGluZy5jZmQmdHM9MTc2ODk3NjQxOSZzaWc9ODIwN2Q1NjI5MzExNjM2ODc1Yzc1NmVkMGE3ZjhlNzQ0OTE1MmNhMWUwZjNmMzBkZmJkZmY5MjUzOTZmYjEyMA==" }},
+  { "chaine": { "nom":"Mejar 6", "url":"base64:aHR0cHM6Ly9jYXN0LXguY29tL3Rva2VuLnBocD9pZD1ubTZoZXYmdHlwZT1obHUmaD1odHRwczovL21lamFyaG9zdGluZy5jZmQmdHM9MTc2ODk3NjQxOSZzaWc9MmM0MGFlZmU1MWVkM2I4NzYxMDNlYTc3MjVjOWQ3YTNkN2E0MTRlMjk0ZGM1Nzg1OGE0MDRiOGM5MDEzMGU4Yg==" }}
 ]
