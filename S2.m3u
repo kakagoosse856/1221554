@@ -2,8 +2,10 @@
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 #EXTINF:-1,beIN SPORTS 
 https://sdmax111.provegooott.com/7_.m3u8
-#EXTINF:-1,beIN SPORTS Alcatlan
+#EXTINF:-1,beIN SPORTS HD 1
 http://91.109.114.8/Alcatlan8kbein1/index.m3u8
+#EXTINF:-1,beIN SPORTS SD 1
+http://91.109.114.8/beinsports1SdBEalcatlanTv/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 
