@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
-https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Shahid1.m3u8
+http://91.109.114.8/alcatlan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 " tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 HD
+http://91.109.114.8/alcatlan/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS & الوان الرياضية",AR| ALWAN SPORT 1 HD
 http://t77ert.top:8080/live/Saratov25/4WbQbxliPjEOMTN/237015.m3u8
