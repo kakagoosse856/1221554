@@ -8,7 +8,8 @@ http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
 http://91.109.114.8/Teatbein1/index.m3u8
 #EXTINF:-1,BEIN SPORT 3
 http://91.109.114.8/beinSports3AlcatlanTv/index.m3u8
-
+#EXTINF:-1,BEIN SPORT 5
+http://91.109.114.8/beinsports2aclatlanTv/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FHD
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FHD
