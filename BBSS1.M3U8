@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=350000,RESOLUTION=426x240
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=650000,RESOLUTION=640x360
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=1280x720
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/ch10_1080.m3u8
