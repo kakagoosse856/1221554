@@ -1,25 +1,23 @@
 #EXTINF:-1,###########SERVER1###########
-http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8
+https://py.achourtv.com/bn_s_hd1.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 1 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1.m3u8
+https://py.achourtv.com/bn_s_hd1.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 2 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2.m3u8
+https://py.achourtv.com/bn_s_hd2.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 3 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/3.m3u8
+https://py.achourtv.com/bn_s_hd3.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 4 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/4.m3u8
+https://py.achourtv.com/bn_s_hd4.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 5 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/5.m3u8
+https://py.achourtv.com/bn_s_hd5.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 6 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/6.m3u8
+https://py.achourtv.com/bn_s_hd6.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 7 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/7.m3u8
+https://py.achourtv.com/bn_s_hd7.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 8 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/8.m3u8
+https://py.achourtv.com/bn_s_hd8.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 9 HD
-http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/9.m3u8
+https://py.achourtv.com/bn_s_hd9.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 
 #EXTINF:-1,###########SERVER2###########
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
@@ -41,3 +39,25 @@ http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6130/index.m3u8
 #EXTINF:-1,BEIN SPORTS 9 HD
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6131/index.m3u8
+#EXTINF:-1,###########SERVER3###########
+http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/2.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/3.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/4.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/5.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/6.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/7.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/8.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/9.m3u8
+
