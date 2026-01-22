@@ -1,7 +1,7 @@
 [
   { "chaine": { "nom":"POST SPORT 1", "url":"https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8" }},
   { "chaine": { "nom":"NRT SPORT HD A", "url":"http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8" }},
-  { "chaine": { "nom":" برشلونة vs سلافيا براع", "url":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/-pmSzwNLobqNkgvKKsZQ6cFnzHLPe7SBEZVEYyKuPSxpAioWnj0VIZOyaFb47bPmrHVxDGS5_fgonHytlJZ2wA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live" }},
-  { "chaine": { "nom":"كارباغ اغدام vs فرانكفورت", "url":"https://bbb.exoadash.com/TVD1454/index.mpd" }},
-  { "chaine": { "nom":"Mejar 6", "url":"aHR0cHM6Ly9jYXN0LXguY29tL3Rva2VuLnBocD9pZD1ubTZoZXYmdHlwZT1obHUmaD1odHRwczovL21lamFyaG9zdGluZy5jZmQmdHM9MTc2ODk3NjQxOSZzaWc9MmM0MGFlZmU1MWVkM2I4NzYxMDNlYTc3MjVjOWQ3YTNkN2E0MTRlMjk0ZGM1Nzg1OGE0MDRiOGM5MDEzMGU4Yg==" }}
+  { "chaine": { "nom":"NRT SPORT HD B", "url":"https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8" }},
+  { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
+  { "chaine": { "nom":"Ldsport", "url":"http://109.123.245.192/Ldsport/index.m3u8" }}
 ]
