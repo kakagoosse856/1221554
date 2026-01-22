@@ -14,7 +14,7 @@
   { "chaine": { "nom":"bein sports 3","url":"http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2501/index.m3u8" }},
   { "chaine": { "nom":"BEIN SPORT 01 HD","url":"alZhLW1nOzroH3VmjoGXjB9lkMCbfBnhSAeoNJZug2kiOzrofMV0jMC6YJ9jN2ehjB9skBnxSl5z\nL1wiLdZfXB1wCBSjN2nxLWknNYDnLYZzfJ0yDsC5DKCsRKLwRKj1NdknLdFoNJZ2fYDqLcynOzq0\njdInNJZufW5vjlO6OdGlg1wiH3GijdVsNID0LYOxH3GijdVsNWmqgcVZNcqsg24opT==" }},
   { "chaine": { "nom":"BEIN SPORT 2 HD", "url":"I0VYVElORjotMSBnb3VwLXRpdGxlPSJMSVZFIEVWRU5UIixTdXBlciBMaWcgMjUvMjY6IEtPQyBWcyBUU1IgKEwpICgyMDowNSBXSUIpIC0gQkVJTiBTVE9SVCAyIEhECiNFWFRWTERPVlA6aHR0cC11c2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjAsIFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoSFRNTCwgbGlrZS1HZWNrbykgQ2hyb21lLzEzNS4wLjAuMCBTYWZhcmkvNTM3LjM2CiNLT0RJUFJPUDogaW5wdXRzdHJlYW0uYWRhcHRpdmUubGljZW5zZV90eXBlPWNsZWFya2V5CiNLT0RJUFJPUDogaW5wdXRzdHJlYW0uYWRhcHRpdmUubGljZW5zZV9rZXk9M2Q3NTZkNTY2Y2E5NGU2NDk5NTE4ZmZiMTQ3NGQ1ZDBkOmRiZTRhZDY4MDNlNzQ3MzliOGY5NTRkMjNjYzU4ZTdiCmh0dHBzOi8vZDZtM3NmYTdlNTh6NS5jbG91ZGZyb250Lm5ldC9vdXQvdjEvY2ZjYWE1MjdkMGYxNjQwMzM5NmE3MWIyZDNkNTRjMzJmL2luZGV4Lm1wZA==" }},
- { "chaine": { "nom":"السرفر الثاني","url": "https://py.achourtv.com/meta/16317.m3u8" }},
+ { "chaine": { "nom":"السرفر الثاني","url": "https://py.achourtv.com/meta/16317.m3u8?token=" }},
   { "chaine": { "nom":"beIN SPORTS 1","url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd" }},
   { "chaine": { "nom":"beIN SPORTS 2","url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd" }},
   { "chaine": { "nom":"ssc-1","url": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd" }},
