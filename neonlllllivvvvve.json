@@ -4,8 +4,16 @@
   { "chaine": { "nom":"NRT SPORT HD B", "url":"https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8" }},
   { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
   { "chaine": { "nom":"Ldsport", "url":"http://109.123.245.192/Ldsport/index.m3u8" }},
-  { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
+  { "chaine": { "nom":"gzcspor", "url":"http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8" }},
   { "chaine": { "nom":"Ldsport A", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
   { "chaine": { "nom":"Avasport", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
-  { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }}
+  { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }},
+   { "chaine": { "nom":"DasinyaSport", "url":"http://116342296971.d4ktv.info/live/hicham_100081/E8fk82lZ/689911.m3u8" }},
+   { "chaine": { "nom":"Duhok_Sport A", "url":"http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8" }},
+   { "chaine": { "nom":"Duhok_Sport B", "url":"http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.m3u8" }},
+   { "chaine": { "nom":"GawharSport", "url":"https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8" }},
+   { "chaine": { "nom":"MMN HD SPORT 🇮🇶", "url":"http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8" }},
+   { "chaine": { "nom":"العراق سبور", "url":"https://iq.ashur-iraq-4g.online/hls/stream.m3u8" }},
+   { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }},
+   { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }}
 ]
