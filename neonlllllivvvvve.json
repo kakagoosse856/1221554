@@ -3,5 +3,9 @@
   { "chaine": { "nom":"NRT SPORT HD A", "url":"http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8" }},
   { "chaine": { "nom":"NRT SPORT HD B", "url":"https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8" }},
   { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
-  { "chaine": { "nom":"Ldsport", "url":"http://109.123.245.192/Ldsport/index.m3u8" }}
+  { "chaine": { "nom":"Ldsport", "url":"http://109.123.245.192/Ldsport/index.m3u8" }},
+  { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
+  { "chaine": { "nom":"Ldsport A", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
+  { "chaine": { "nom":"Avasport", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
+  { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }}
 ]
