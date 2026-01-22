@@ -1,7 +1,23 @@
 #EXTINF:-1,###########SERVER1###########
 https://py.achourtv.com/bn_s_hd1.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
-#EXTINF:-1,BEIN SPORTS 1 4K
-https://py.achourtv.com/bn_g_4k1.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 1 FHD
+https://py.achourtv.com/bn_s_fhd1.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 2 FHD
+https://py.achourtv.com/bn_s_fhd2.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 3 FHD
+https://py.achourtv.com/bn_s_fhd3.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 4 FHD
+https://py.achourtv.com/bn_s_fhd4.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 5 FHD
+https://py.achourtv.com/bn_s_fhd5.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 6 FHD
+https://py.achourtv.com/bn_s_fhd6.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 7 FHD
+https://py.achourtv.com/bn_s_fhd7.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 8 FHD
+https://py.achourtv.com/bn_s_fhd8.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
+#EXTINF:-1,BEIN SPORTS 9 FHD
+https://py.achourtv.com/bn_s_fhd9.m3u8?token=t9afo4.Tc7D5S9TSF27a9ZH&
 #EXTINF:-1,BEIN SPORTS 1 HD
 https://py.achourtv.com/bn_s_hd1.m3u8?token=t9a1hr.X3A_4rS1ua3awXZz&
 #EXTINF:-1,BEIN SPORTS 2 HD
