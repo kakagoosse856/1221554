@@ -1,5 +1,11 @@
 #EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859098&extension=m3u8
+#EXTINF:-1,ALWAN AFLAM 1 4K
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859080&extension=m3u8
+#EXTINF:-1,ALWAN AFLAM 2 4K
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859079&extension=m3u8
+#EXTINF:-1,ALWAN DOC  4K
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859078&extension=m3u8
 #EXTINF:-1,ALWAN SPORT 1 4K
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859098&extension=m3u8
 #EXTINF:-1,ALWAN SPORT 2 4K
