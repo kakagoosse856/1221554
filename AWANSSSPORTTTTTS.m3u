@@ -24,7 +24,20 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859089&extensio
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859088&extension=m3u8&play_token=tooUwgxEzk
 #EXTINF:-1,ALWAN SPORT 6 HD
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859087&extension=m3u8&play_token=tooUwgxEzk
-
+#EXTINF:-1,ALWAN SPORT 1 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859086&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 2 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859085&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 3 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859084&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 4 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859083&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 5 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859082&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 6 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859081&extension=m3u8&play_token=tooUwgxEzk
+#EXTINF:-1,ALWAN SPORT 7 SD
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859080&extension=m3u8&play_token=tooUwgxEzk
 #EXTINF:-1 tvg-name="========== السرفر الثاني ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
 https://py.achourtv.com/alwan_sd1.m3u8?token=t9a4cn.YFUhLrs10cswvDhj&
 #EXTINF:-1,ALWAN SPORT 1 Alcatlan
