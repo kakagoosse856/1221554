@@ -1,5 +1,7 @@
 #EXTINF:-1,###########SERVER1###########
 http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1,TOD 360
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1347223&extension=m3u8&play_token=VoH4DDfWMd
 #EXTINF:-1,beIN SPORTS 2 FHD
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1411373&extension=m3u8&play_token=w8bLOqqu5z
 #EXTINF:-1,beIN SPORTS 6 LOW
