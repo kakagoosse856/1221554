@@ -1,6 +1,73 @@
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment S1",☘☘☘---BeIn Entertainment ---☘☘☘
-#EXTINF:-1 tvg-id="" tvg-name="beIN  Nat geo Wild  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="BEIN MEDIA -ميديا ",beIN  Nat geo Wild  FHD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/123127.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",##### BEIN ENTERTAINMANT A #####
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141584&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141583.png",AR| BEIN PREMIERE 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141583&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356721.png",AR| BEIN MOVIES 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356720.png",AR| BEIN MOVIES 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356719.png",AR| BEIN MOVIES 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356719&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356718.png",AR| BEIN MOVIES 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141582.png",AR| BEIN ACTION 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141582&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-3-DRAMA.png",AR| BEIN DRAMA 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141581&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-4-FAMILY.png",AR| BEIN FAMILY 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141580&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141579.png",AR| BEIN SERIES 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141579&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141578.png",AR| BEIN SERIES 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141578&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/BEIN-DRAMA-1.png",AR| BEIN DRAMA HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141577&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141575.png",AR| BEIN GOURMET HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141575&extension=m3u8
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-logo="http://picons.cmshulk.com/picons/1141574.png",AR| BEIN FATAFEET
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141574&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356723.png",AR| BEIN FOX HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356723&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141571.png",AR| BEIN FOX MOVIES HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141571&extension=m3u8
+#EXTINF:-1 tvg-id="FOXMoviesAction.qa" tvg-logo="http://picons.cmshulk.com/picons/1141570.png",AR| BEIN FOX ACTION HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141570&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141568.png",AR| BEIN STAR WORLD HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141568&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356722.png",AR| BEIN STAR MOVIES HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BEIN-ANIMAL-PLANET.png",AR| BEIN ANIMAL PLANET HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356726&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141567.png",AR| BEIN BBC EARTH HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141567&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141564.png",AR| BEIN NATIONAL GEO HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141564&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141563.png",AR| BEIN NATIONAL GEO WILD HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141563&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1356725.png",AR| BEIN TRAVEL HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356725&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BEIN-FOOD-NETWORK.png",AR| BEIN FOOD NETWORK HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356724&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141561.png",AR| BEIN HGTV HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141561&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141560.png",AR| BEIN BABY TV  HD AR AUDIO
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141560&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141559.png",AR| BEIN JEEM KIDS HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141558.png",AR| BEIN BARAEM KIDS
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141558&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141555.png",AR| BEIN BOOMERANG HD AR AUDIO
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141555&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1141553.png",AR| BEIN CARTOON NETWORK HD AR AUDIO
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141553&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/BEIN-DISCOVERY-FAMILY.png",AR| BEIN DISCOVERY FAMILY HD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141562&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",##### BEIN ENTERTAINMANT B #####
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141584&extension=m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN Animal Planet  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="BEIN MEDIA -ميديا ",beIN Animal Planet  FHD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/123115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein BARAEAM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="BEIN MEDIA -ميديا ",Bein BARAEAM 4K
@@ -107,9 +174,9 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/837376.m3u8
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/837378.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="",##### BEIN ENTERTAINMANT C #####
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141584&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S1 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment S2 ---☘☘☘
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6135/index.m3u8
 #EXTINF:-1,Bein Star World 
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/92698.m3u8
 #EXTINF:-1,Bein Star Moives 
@@ -179,8 +246,8 @@ http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/17687.m3u8
 http://aumaletv.com:8080/live/SuperIptv24/q9jLxX9hpq/62358.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="☘☘☘---BeIn Entertainment S3 ---☘☘☘" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2015/11/beIN-Channels.jpg" group-title="beIN Entertainment",☘☘☘---BeIn Entertainment S3 ---☘☘☘
-https://3.3lok3.site:443/live/12345/12345/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",##### BEIN ENTERTAINMANT D #####
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1141584&extension=m3u8
 
 
 
