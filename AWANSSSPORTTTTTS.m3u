@@ -6,6 +6,8 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859080&extensio
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859079&extension=m3u8
 #EXTINF:-1,ALWAN DOC  4K
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859078&extension=m3u8
+#EXTINF:-1,ALWAN KIDS  4K
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859077&extension=m3u8
 #EXTINF:-1,ALWAN SPORT 1 4K
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859098&extension=m3u8
 #EXTINF:-1,ALWAN SPORT 2 4K
