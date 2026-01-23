@@ -1,6 +1,6 @@
 #EXTINF:-1,###########SERVER1###########
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1806582.png",AR| SPORT 01 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1806582.png",AR| SPORT 01 4K القنوات تتأخر قليلا بالفتح 
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=2003810&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1806582.png",AR| SPORT 01 FHD
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=2003811&extension=m3u8
