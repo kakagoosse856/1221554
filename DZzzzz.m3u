@@ -86,6 +86,103 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=530382&extens
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=509328&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA B #####
+
+
+
+
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=812197&extension=m3u8
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6724.png",AR| EN TV ALGERIA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6724&extension=m3u8
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6723.png",AR| CANAL ALGERIE
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6723&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6722.png",AR| A3 ALGERIE
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/196191.png",AR| TV 6 ALGERIE
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=196191&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6715.png",AR| ECHOUROUK TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6715&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6716.png",AR| ECHOUROUK NEWS
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6716&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6700.png",AR| EL HEDDAF TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6700&extension=m3u8
+#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="http://103.176.90.118/piconsnew/samiratv.png",AR| SAMIRA TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6710&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/828228.png",AR| ZAHRA TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=828228&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/21717.png",AR| EL BILAD
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=21717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6708.png",AR| EL DJAZAIRIA TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6708&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/209712.png",AR| AL ANIS
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=209712&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6717.png",AR| ENNAHAR TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/819617.png",AR| AL24 NEWS
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=819617&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6709.png",AR| DZAIR JANNAH
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6709&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6707.png",AR| BAHIA TV ORAN
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6707&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6718.png",AR| BEUR TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6727.png",AR| BERBERE TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6727&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6703.png",AR| EL FADJR TV DZ
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6703&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/EL-FAJR-DRAMA.png",AR| EL FAJR DRAMA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=892110&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6721.png",AR| TV CORAN ALGERIE
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIE TAMAZIGH
+
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/8167.png",AR| TV5 MAGHREB
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=8167&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/550005.png",AR| EL DJAZAIR N1
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=550005&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIA 4 TAMAZIGHT
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=83669&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/83549.png",AR| AL THANYA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=83549&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/84254.png",AR| EL HAYAT ALGERIA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=84254&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/274151.png",AR| CANAL ATLAS ALGERIA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=274151&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518624.png",AR| ALGERIE CANAL TV 2
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518624&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518623.png",AR| BEUR TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518623&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518620.png",AR| EL DJAZAIRIA1
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518620&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518619.png",AR| ALANES TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518619&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/892107.png",AR| ALGERIAN 4KIDS
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=892107&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/arabic/AL-SALAM.png",AR| AL SALAM
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518618&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518617.png",AR| AL SAHRAA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518617&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518616.png",AR| EL WATANIA TV ALGERIA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518616&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518614.png",AR| ALGERIE ELMAARIFA TV7
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518614&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1472001.png",AR| ALGERIA ONE TV HD
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=1472001&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518613.png",AR| ALGERIE EN TV 1
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518613&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518612.png",AR| ALGERIE TV8 EDHAKIRA
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518612&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/530382.png",AR| AL ANIS TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=530382&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/509328.png",AR| ALMAGHARIBIA TV
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=509328&extension=m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA D #####
+
+
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=812197&extension=m3u8
  
 
@@ -241,7 +338,7 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/872038.m3u8
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/872057.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA C #####
+#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA F #####
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=812197&extension=m3u8
 
 #EXTINF:-1 tvg-name="Dz | Canal Algerie TV1" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
