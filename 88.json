@@ -1,12 +1,12 @@
 [
-  { "chaine": { "nom":"STARZPLAY Sport 1", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993327&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 2", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993328&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 3", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993329&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 1 A", "url":"https://bbb.exoadash.com/TVD1451/index.mpd" }},
-  { "chaine": { "nom":"THMANYAH 2 A", "url":"https://bbb.exoadash.com/TVD1403/index.mpd" }},
-  { "chaine": { "nom":"THMANYAH 2 B", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 3 A", "url":"https://bbb.exoadash.com/TVD6737/index.mpd" }},
-  { "chaine": { "nom":"THMANYAH 3 B", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936351&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 4 B", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936350&extension=m3u8" }},
-  { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }}
+  { "name": "STARZPLAY Sport 1", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993327&extension=m3u8" },
+  { "name": "STARZPLAY Sport 2", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993328&extension=m3u8" },
+  { "name": "STARZPLAY Sport 3", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993329&extension=m3u8" },
+  { "name": "THMANYAH 1 A", "url": "https://bbb.exoadash.com/TVD1451/index.mpd" },
+  { "name": "THMANYAH 2 A", "url": "https://bbb.exoadash.com/TVD1403/index.mpd" },
+  { "name": "THMANYAH 2 B", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8" },
+  { "name": "THMANYAH 3 A", "url": "https://bbb.exoadash.com/TVD6737/index.mpd" },
+  { "name": "THMANYAH 3 B", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936351&extension=m3u8" },
+  { "name": "THMANYAH 4 B", "url": "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936350&extension=m3u8" },
+  { "name": "Avasport A", "url": "http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }
 ]
