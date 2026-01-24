@@ -1,172 +1,201 @@
 #EXTINF:-1,###########SERVER1###########
+#EXTINF:-1,BeiNs1 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8
+
+#EXTINF:-1,BeiNs2 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6124/index.m3u8
+
+#EXTINF:-1,BeiNs3 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6125/index.m3u8
+
+#EXTINF:-1,BeiNs4 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6126/index.m3u8
+
+#EXTINF:-1,BeiNs5 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6127/index.m3u8
+
+#EXTINF:-1,BeiNs6 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6128/index.m3u8
+
+#EXTINF:-1,BeiNs7 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8
+
+#EXTINF:-1,beIN Sports 1
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2499/index.m3u8
+
+#EXTINF:-1,beIN Sports 2
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2500/index.m3u8
+
+#EXTINF:-1,beIN Sports 3
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2501/index.m3u8
 #EXTINF:-1 tvg-id="1363480" tvg-name="AR| BEIN SPORTS 1ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363480.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 1ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363480&extension=m3u8&play_token=sDZUdUbn4v
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363480&extension=m3u8&play_token=sDZUdUbn4v
 #EXTINF:-1 tvg-id="1363481" tvg-name="AR| BEIN SPORTS 2ᵁᴴᴰ" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 2ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363481&extension=m3u8&play_token=oUZNyxUpNo
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363481&extension=m3u8&play_token=oUZNyxUpNo
 #EXTINF:-1 tvg-id="1363482" tvg-name="AR| BEIN SPORTS 3ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363482.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 3ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363482&extension=m3u8&play_token=HyXBkHq8yx
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363482&extension=m3u8&play_token=HyXBkHq8yx
 #EXTINF:-1 tvg-id="1363483" tvg-name="AR| BEIN SPORTS 4ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363483.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 4ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363483&extension=m3u8&play_token=fACe3Nxhad
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363483&extension=m3u8&play_token=fACe3Nxhad
 #EXTINF:-1 tvg-id="1363484" tvg-name="AR| BEIN SPORTS 5ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363484.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 5ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363484&extension=m3u8&play_token=RkUQ0EOfxF
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363484&extension=m3u8&play_token=RkUQ0EOfxF
 #EXTINF:-1 tvg-id="1363485" tvg-name="AR| BEIN SPORTS 6ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363485.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 6ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363485&extension=m3u8&play_token=dyDnvVpbNv
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363485&extension=m3u8&play_token=dyDnvVpbNv
 #EXTINF:-1 tvg-id="1363486" tvg-name="AR| BEIN SPORTS 7ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363486.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 7ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363486&extension=m3u8&play_token=ciHjHcE23n
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363486&extension=m3u8&play_token=ciHjHcE23n
 #EXTINF:-1 tvg-id="1363487" tvg-name="AR| BEIN SPORTS 8ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363487.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 8ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363487&extension=m3u8&play_token=XoejuYw9QR
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363487&extension=m3u8&play_token=XoejuYw9QR
 #EXTINF:-1 tvg-id="1363488" tvg-name="AR| BEIN SPORTS 9ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363488.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 9ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363488&extension=m3u8&play_token=81mR33Edhy
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363488&extension=m3u8&play_token=81mR33Edhy
 #EXTINF:-1 tvg-id="1363489" tvg-name="AR| BEIN SPORTS AFCᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363489.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS AFCᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363489&extension=m3u8&play_token=uoXyOWhEL3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363489&extension=m3u8&play_token=uoXyOWhEL3
 #EXTINF:-1 tvg-id="1363490" tvg-name="AR| BEIN SPORTS 1 AFCᵁᴴᴰ" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363490&extension=m3u8&play_token=ixloJn0aUQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363490&extension=m3u8&play_token=ixloJn0aUQ
 #EXTINF:-1 tvg-id="1363491" tvg-name="AR| BEIN SPORTS 2 AFCᵁᴴᴰ" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363491&extension=m3u8&play_token=62GF2ngSSQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363491&extension=m3u8&play_token=62GF2ngSSQ
 #EXTINF:-1 tvg-id="1363492" tvg-name="AR| BEIN SPORTS XTRA 1ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363492.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363492&extension=m3u8&play_token=6vbhuY3dCk
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363492&extension=m3u8&play_token=6vbhuY3dCk
 #EXTINF:-1 tvg-id="1363493" tvg-name="AR| BEIN SPORTS XTRA 2ᵁᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1363493.png" group-title="AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1363493&extension=m3u8&play_token=eYOYo9b95A
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1363493&extension=m3u8&play_token=eYOYo9b95A
 #EXTINF:-1 tvg-id="1330486" tvg-name="##### BEIN SPORTS LQ #####" group-title="AR| BEIN SPORTS SD",##### BEIN SPORTS LQ #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330486&extension=m3u8&play_token=aDsCb3sLuS
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330486&extension=m3u8&play_token=aDsCb3sLuS
 #EXTINF:-1 tvg-id="1330471" tvg-name="AR| BEIN SPORTS NEWS LQ" tvg-logo="http://picons.cmshulk.com/picons/1330471.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS NEWS LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330471&extension=m3u8&play_token=eFAkca0fyv
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330471&extension=m3u8&play_token=eFAkca0fyv
 #EXTINF:-1 tvg-id="1330472" tvg-name="AR| BEIN SPORTS GLOBAL LQ" tvg-logo="http://picons.cmshulk.com/picons/1330472.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS GLOBAL LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330472&extension=m3u8&play_token=RLHtYJYKxb
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330472&extension=m3u8&play_token=RLHtYJYKxb
 #EXTINF:-1 tvg-id="1330474" tvg-name="AR| BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 1 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330474&extension=m3u8&play_token=LX88MaijNS
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330474&extension=m3u8&play_token=LX88MaijNS
 #EXTINF:-1 tvg-id="1330475" tvg-name="AR| BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330475&extension=m3u8&play_token=nLorpMHt3z
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330475&extension=m3u8&play_token=nLorpMHt3z
 #EXTINF:-1 tvg-id="1330476" tvg-name="AR| BEIN SPORTS 3 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330476.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 3 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330476&extension=m3u8&play_token=Y5GyiHcFEc
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330476&extension=m3u8&play_token=Y5GyiHcFEc
 #EXTINF:-1 tvg-id="1330477" tvg-name="AR| BEIN SPORTS 4 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330477.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 4 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330477&extension=m3u8&play_token=BXqkvQ40dY
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330477&extension=m3u8&play_token=BXqkvQ40dY
 #EXTINF:-1 tvg-id="1330478" tvg-name="AR| BEIN SPORTS 5 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330478.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 5 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330478&extension=m3u8&play_token=VxKISPHqgQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330478&extension=m3u8&play_token=VxKISPHqgQ
 #EXTINF:-1 tvg-id="1330479" tvg-name="AR| BEIN SPORTS 6 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330479.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 6 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330479&extension=m3u8&play_token=5EJaMg5nLk
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330479&extension=m3u8&play_token=5EJaMg5nLk
 #EXTINF:-1 tvg-id="1330480" tvg-name="AR| BEIN SPORTS 7 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330480.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 7 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330480&extension=m3u8&play_token=3a8p1PWP4d
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330480&extension=m3u8&play_token=3a8p1PWP4d
 #EXTINF:-1 tvg-id="1330481" tvg-name="AR| BEIN SPORTS 8 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330481.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 8 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330481&extension=m3u8&play_token=9K36wZZlHO
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330481&extension=m3u8&play_token=9K36wZZlHO
 #EXTINF:-1 tvg-id="1330482" tvg-name="AR| BEIN SPORTS 9 LQ" tvg-logo="http://picons.cmshulk.com/picons/1330482.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 9 LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330482&extension=m3u8&play_token=sn3wb6Hhzx
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330482&extension=m3u8&play_token=sn3wb6Hhzx
 #EXTINF:-1 tvg-id="1330483" tvg-name="AR| BEIN SPORTS 1 XTRA LQ" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 1 XTRA LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330483&extension=m3u8&play_token=rvqVh0H2io
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330483&extension=m3u8&play_token=rvqVh0H2io
 #EXTINF:-1 tvg-id="1330484" tvg-name="AR| BEIN SPORTS 2 XTRA LQ" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 XTRA LQ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330484&extension=m3u8&play_token=fEaBRbSQSM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330484&extension=m3u8&play_token=fEaBRbSQSM
 #EXTINF:-1 tvg-id="1836256" tvg-name="BEIN SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1836256&extension=m3u8&play_token=fKMhawUHvc
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1836256&extension=m3u8&play_token=fKMhawUHvc
 #EXTINF:-1 tvg-id="1836255" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-NEWS.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS NEWS HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1836255&extension=m3u8&play_token=HtX3eUYX3E
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1836255&extension=m3u8&play_token=HtX3eUYX3E
 #EXTINF:-1 tvg-id="1660414" tvg-name="BEIN SPORTS 1 720" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 1 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660414&extension=m3u8&play_token=zAzrY0gyY0
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660414&extension=m3u8&play_token=zAzrY0gyY0
 #EXTINF:-1 tvg-id="1660412" tvg-name="BEIN SPORTS 2 720" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 2 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660412&extension=m3u8&play_token=C5r5qqE1xF
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660412&extension=m3u8&play_token=C5r5qqE1xF
 #EXTINF:-1 tvg-id="1660410" tvg-name="BEIN SPORTS 3 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 3 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660410&extension=m3u8&play_token=XEcfCJVxVZ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660410&extension=m3u8&play_token=XEcfCJVxVZ
 #EXTINF:-1 tvg-id="1660408" tvg-name="BEIN SPORTS 4 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 4 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660408&extension=m3u8&play_token=hXmFgkrxig
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660408&extension=m3u8&play_token=hXmFgkrxig
 #EXTINF:-1 tvg-id="1660406" tvg-name="BEIN SPORTS 5 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 5 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660406&extension=m3u8&play_token=E9OhCEXMOc
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660406&extension=m3u8&play_token=E9OhCEXMOc
 #EXTINF:-1 tvg-id="1660404" tvg-name="BEIN SPORTS 6 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 6 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660404&extension=m3u8&play_token=MAXJ2bEgmW
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660404&extension=m3u8&play_token=MAXJ2bEgmW
 #EXTINF:-1 tvg-id="1660402" tvg-name="BEIN SPORTS 7 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 7 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660402&extension=m3u8&play_token=Ug9SFXpvwp
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660402&extension=m3u8&play_token=Ug9SFXpvwp
 #EXTINF:-1 tvg-id="1660400" tvg-name="BEIN SPORTS 8 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 8 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660400&extension=m3u8&play_token=VNMckOnUPE
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660400&extension=m3u8&play_token=VNMckOnUPE
 #EXTINF:-1 tvg-id="1660398" tvg-name="BEIN SPORTS 9 720" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 9 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660398&extension=m3u8&play_token=d4x7mSQSjK
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660398&extension=m3u8&play_token=d4x7mSQSjK
 #EXTINF:-1 tvg-id="1836257" tvg-name="NBA HD" tvg-logo="http://picons.cmshulk.com/picons/nbatv.png" group-title="AR| BEIN SPORTS NX",NBA HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1836257&extension=m3u8&play_token=9BWJn2f4or
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1836257&extension=m3u8&play_token=9BWJn2f4or
 #EXTINF:-1 tvg-id="1660396" tvg-name="BEIN SPORTS ENGLISH 1 720" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660396&extension=m3u8&play_token=DN7wcN20qV
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660396&extension=m3u8&play_token=DN7wcN20qV
 #EXTINF:-1 tvg-id="1660394" tvg-name="BEIN SPORTS ENGLISH 2 720" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 720
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1660394&extension=m3u8&play_token=l6wYZRfpAn
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1660394&extension=m3u8&play_token=l6wYZRfpAn
 #EXTINF:-1 tvg-id="1294788" tvg-name="##### BEIN SPORTS HEVC #####" group-title="AR| BEIN SPORTS HEVC",##### BEIN SPORTS HEVC #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294788&extension=m3u8&play_token=hvVSK0UjxA
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294788&extension=m3u8&play_token=hvVSK0UjxA
 #EXTINF:-1 tvg-id="1330433" tvg-name="AR| BEIN SPORTS 1 HEVC" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330433&extension=m3u8&play_token=AgyzxLRrVa
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330433&extension=m3u8&play_token=AgyzxLRrVa
 #EXTINF:-1 tvg-id="1330432" tvg-name="AR| BEIN SPORTS 2 HEVC" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330432&extension=m3u8&play_token=GGaHl26BI7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330432&extension=m3u8&play_token=GGaHl26BI7
 #EXTINF:-1 tvg-id="1330431" tvg-name="AR| BEIN SPORTS 3 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330431.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 3 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330431&extension=m3u8&play_token=8AzWv2l0j7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330431&extension=m3u8&play_token=8AzWv2l0j7
 #EXTINF:-1 tvg-id="1330430" tvg-name="AR| BEIN SPORTS 4 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330430.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 4 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330430&extension=m3u8&play_token=0cRcroMCUI
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330430&extension=m3u8&play_token=0cRcroMCUI
 #EXTINF:-1 tvg-id="1330429" tvg-name="AR| BEIN SPORTS 5 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330429.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 5 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330429&extension=m3u8&play_token=ogiueWUleK
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330429&extension=m3u8&play_token=ogiueWUleK
 #EXTINF:-1 tvg-id="1330428" tvg-name="AR| BEIN SPORTS 6 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330428.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 6 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330428&extension=m3u8&play_token=1yzxuHP5ii
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330428&extension=m3u8&play_token=1yzxuHP5ii
 #EXTINF:-1 tvg-id="1330427" tvg-name="AR| BEIN SPORTS 7 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330427.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 7 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330427&extension=m3u8&play_token=1HUsPF15ge
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330427&extension=m3u8&play_token=1HUsPF15ge
 #EXTINF:-1 tvg-id="1330426" tvg-name="AR| BEIN SPORTS 8 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330426.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 8 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330426&extension=m3u8&play_token=sbitt0qSId
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330426&extension=m3u8&play_token=sbitt0qSId
 #EXTINF:-1 tvg-id="1330425" tvg-name="AR| BEIN SPORTS 9 HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330425.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 9 HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330425&extension=m3u8&play_token=Ga1FUfEgQK
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330425&extension=m3u8&play_token=Ga1FUfEgQK
 #EXTINF:-1 tvg-id="1330424" tvg-name="AR| BEIN SPORTS 1 XTRA HEVC" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 XTRA HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330424&extension=m3u8&play_token=EVoZPirs6q
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330424&extension=m3u8&play_token=EVoZPirs6q
 #EXTINF:-1 tvg-id="1330423" tvg-name="AR| BEIN SPORTS 2 XTRA HEVC" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 XTRA HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330423&extension=m3u8&play_token=pxcQwz3YvX
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330423&extension=m3u8&play_token=pxcQwz3YvX
 #EXTINF:-1 tvg-id="1330422" tvg-name="AR| BEIN SPORTS 3 XTRA HEVC" tvg-logo="http://picons.cmshulk.com/picons/1330422.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 3 XTRA HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330422&extension=m3u8&play_token=88g0Ql0Yhj
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330422&extension=m3u8&play_token=88g0Ql0Yhj
 #EXTINF:-1 tvg-id="1330421" tvg-name="AR| BEIN SPORTS 1 ENGLISH HEVC" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 ENGLISH HEVC
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330421&extension=m3u8&play_token=dDylRo8SIc
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330421&extension=m3u8&play_token=dDylRo8SIc
 #EXTINF:-1 tvg-id="815046" tvg-name="##### BEIN SPORTS HD #####" group-title="FR| SPORTS HD",##### BEIN SPORTS HD #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=815046&extension=m3u8&play_token=fqUHJdmnUB
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=815046&extension=m3u8&play_token=fqUHJdmnUB
 #EXTINF:-1 tvg-id="1356796" tvg-name="AR| STC PPV [LIVE-EVENTS]" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png" group-title="AR| BEIN SPORTS HD",AR| STC PPV [LIVE-EVENTS]
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1356796&extension=m3u8&play_token=YzdwodLEzL
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1356796&extension=m3u8&play_token=YzdwodLEzL
 #EXTINF:-1 tvg-id="1347223" tvg-name="AR| TOD 360 HD ( EVENT ONLY )" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="AR| BEIN SPORTS HD",AR| TOD 360 HD ( EVENT ONLY )
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1347223&extension=m3u8&play_token=MUm7ugHo8b
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1347223&extension=m3u8&play_token=MUm7ugHo8b
 #EXTINF:-1 tvg-id="1330434" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="http://picons.cmshulk.com/picons/1330434.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330434&extension=m3u8&play_token=M698QRL87F
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330434&extension=m3u8&play_token=M698QRL87F
 #EXTINF:-1 tvg-id="1330435" tvg-name="AR| BEIN SPORTS GLOBAL HD" tvg-logo="http://picons.cmshulk.com/picons/1330435.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS GLOBAL HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330435&extension=m3u8&play_token=hD7Coa7WYD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330435&extension=m3u8&play_token=hD7Coa7WYD
 #EXTINF:-1 tvg-id="1330437" tvg-name="AR| BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 1 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330437&extension=m3u8&play_token=exMWaKdJ7v
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330437&extension=m3u8&play_token=exMWaKdJ7v
 #EXTINF:-1 tvg-id="1330438" tvg-name="AR| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330438&extension=m3u8&play_token=Xejpijutx3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330438&extension=m3u8&play_token=Xejpijutx3
 #EXTINF:-1 tvg-id="1330439" tvg-name="AR| BEIN SPORTS 3 HD" tvg-logo="http://picons.cmshulk.com/picons/1330439.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 3 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330439&extension=m3u8&play_token=e9eDPvx6ZL
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330439&extension=m3u8&play_token=e9eDPvx6ZL
 #EXTINF:-1 tvg-id="1330440" tvg-name="AR| BEIN SPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/1330440.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 4 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330440&extension=m3u8&play_token=EJNkMV5Wml
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330440&extension=m3u8&play_token=EJNkMV5Wml
 #EXTINF:-1 tvg-id="1330441" tvg-name="AR| BEIN SPORTS 5 HD" tvg-logo="http://picons.cmshulk.com/picons/1330441.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 5 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330441&extension=m3u8&play_token=AFZBYzgzBK
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330441&extension=m3u8&play_token=AFZBYzgzBK
 #EXTINF:-1 tvg-id="1330442" tvg-name="AR| BEIN SPORTS 6 HD" tvg-logo="http://picons.cmshulk.com/picons/1330442.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 6 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330442&extension=m3u8&play_token=0OKbBNoTTN
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330442&extension=m3u8&play_token=0OKbBNoTTN
 #EXTINF:-1 tvg-id="1330443" tvg-name="AR| BEIN SPORTS 7 HD" tvg-logo="http://picons.cmshulk.com/picons/1330443.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 7 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330443&extension=m3u8&play_token=QvesKgYAOA
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330443&extension=m3u8&play_token=QvesKgYAOA
 #EXTINF:-1 tvg-id="1330444" tvg-name="AR| BEIN SPORTS 8 HD" tvg-logo="http://picons.cmshulk.com/picons/1330444.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 8 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330444&extension=m3u8&play_token=M4FMORzYrR
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330444&extension=m3u8&play_token=M4FMORzYrR
 #EXTINF:-1 tvg-id="1330445" tvg-name="AR| BEIN SPORTS 9 HD" tvg-logo="http://picons.cmshulk.com/picons/1330445.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 9 HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330445&extension=m3u8&play_token=NYRQ78OTB5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330445&extension=m3u8&play_token=NYRQ78OTB5
 #EXTINF:-1 tvg-id="1294774" tvg-name="##### BEIN SPORTS FHD #####" group-title="AR| BEIN SPORTS FHD",##### BEIN SPORTS FHD #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294774&extension=m3u8&play_token=GrVDnjEPxB
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294774&extension=m3u8&play_token=GrVDnjEPxB
 #EXTINF:-1 tvg-id="1764953" tvg-name="AR| BEIN SPORTS 4K/UHD [EVENT]" tvg-logo="http://picons.cmshulk.com/picons/1764953.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 4K/UHD [EVENT]
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1764953&extension=m3u8&play_token=HKvYwrs8EV
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1764953&extension=m3u8&play_token=HKvYwrs8EV
 #EXTINF:-1 tvg-id="1347222" tvg-name="AR| TOD 360 ULTRA 4K ( EVENT ONLY )" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="AR| BEIN SPORTS FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1347222&extension=m3u8&play_token=kVZTHuYN1J
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1347222&extension=m3u8&play_token=kVZTHuYN1J
 #EXTINF:-1 tvg-id="1294773" tvg-name="AR| BEIN SPORTS NEWS FHD" tvg-logo="http://picons.cmshulk.com/picons/1294773.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS NEWS FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294773&extension=m3u8&play_token=SJ51DH6f2a
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294773&extension=m3u8&play_token=SJ51DH6f2a
 #EXTINF:-1 tvg-id="1294772" tvg-name="AR| BEIN SPORTS GLOBAL FHD" tvg-logo="http://picons.cmshulk.com/picons/1294772.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294772&extension=m3u8&play_token=W9LHA2ZRrY
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294772&extension=m3u8&play_token=W9LHA2ZRrY
 #EXTINF:-1 tvg-id="1294764" tvg-name="AR| BEIN SPORTS 1 FHD" tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294764&extension=m3u8&play_token=Tm1UKuCjF0
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294764&extension=m3u8&play_token=Tm1UKuCjF0
 #EXTINF:-1 tvg-id="1294763" tvg-name="AR| BEIN SPORTS 2 FHD" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 2 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294763&extension=m3u8&play_token=4jlevkhpEu
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294763&extension=m3u8&play_token=4jlevkhpEu
 #EXTINF:-1 tvg-id="1294762" tvg-name="AR| BEIN SPORTS 3 FHD" tvg-logo="http://picons.cmshulk.com/picons/1294762.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 3 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294762&extension=m3u8&play_token=BWIsx3VvhN
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294762&extension=m3u8&play_token=BWIsx3VvhN
 #EXTINF:-1 tvg-id="1294761" tvg-name="AR| BEIN SPORTS 4 FHD" tvg-logo="http://picons.cmshulk.com/picons/1294761.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 4 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294761&extension=m3u8&play_token=cYsBrC0wbH
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294761&extension=m3u8&play_token=cYsBrC0wbH
 #EXTINF:-1 tvg-id="1294760" tvg-name="AR| BEIN SPORTS 5 FHD" tvg-logo="http://picons.cmshulk.com/picons/1294760.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 5 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294760&extension=m3u8&play_token=wlSoKsvCI2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294760&extension=m3u8&play_token=wlSoKsvCI2
 #EXTINF:-1 tvg-id="1294759" tvg-name="AR| BEIN SPORTS 6 FHD" tvg-logo="http://picons.cmshulk.com/picons/1294759.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 6 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294759&extension=m3u8&play_token=GXX1MWQV5v
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294759&extension=m3u8&play_token=GXX1MWQV5v
 #EXTINF:-1 tvg-id="1294758" tvg-name="AR|  BEIN  SPORTS 7 FHD" tvg-logo="http://picons.cmshulk.com/picons/1294758.png" group-title="AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 7 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1294758&extension=m3u8&play_token=jOglDS9nO7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294758&extension=m3u8&play_token=jOglDS9nO7
 #EXTINF:-1 tvg-id="1330412" tvg-name="AR|  BEIN  SPORTS 8 FHD" tvg-logo="http://picons.cmshulk.com/picons/1330412.png" group-title="AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 8 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330412&extension=m3u8&play_token=DmFFR0rSt3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330412&extension=m3u8&play_token=DmFFR0rSt3
 #EXTINF:-1 tvg-id="1330413" tvg-name="AR|  BEIN  SPORTS 9 FHD" tvg-logo="http://picons.cmshulk.com/picons/1330413.png" group-title="AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 9 FHD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1330413&extension=m3u8&play_token=VuNSCyws9I
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1330413&extension=m3u8&play_token=VuNSCyws9I
 
 #EXTINF:-1,###########SERVER2###########
 http://91.109.114.8/beINspoerts1HDalcatlan/index.m3u8
