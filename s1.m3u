@@ -1,3 +1,32 @@
+#EXTINF:-1 tvg-id="1851249" tvg-name="AR| BEIN SPORT 4K [EVENT ONLY]" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 4K [EVENT ONLY]
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1851249&extension=m3u8&play_token=DdVETkV5dI
+#EXTINF:-1 tvg-id="1806584" tvg-name="AR| BEIN SPORT" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806584&extension=m3u8&play_token=ZRyy0jqtTM
+#EXTINF:-1 tvg-id="1806583" tvg-name="AR| BEIN NEWS" group-title="BEE| BEIN SPORTS",AR| BEIN NEWS
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806583&extension=m3u8&play_token=jyNYC2F3so
+#EXTINF:-1 tvg-id="1806582" tvg-name="AR| BEIN SPORT 01 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 01 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806582&extension=m3u8&play_token=stF2Pf0iAV
+#EXTINF:-1 tvg-id="1806581" tvg-name="AR| BEIN SPORT 02 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 02 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806581&extension=m3u8&play_token=Yog1LvOYk1
+#EXTINF:-1 tvg-id="1806580" tvg-name="AR| BEIN SPORT 03 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 03 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806580&extension=m3u8&play_token=fG6scx5o3k
+#EXTINF:-1 tvg-id="1806579" tvg-name="AR| BEIN SPORT 04 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 04 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806579&extension=m3u8&play_token=QYwJgb27qJ
+#EXTINF:-1 tvg-id="1806578" tvg-name="AR| BEIN SPORT 05 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 05 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806578&extension=m3u8&play_token=sgGrgl80rn
+#EXTINF:-1 tvg-id="1806577" tvg-name="AR| BEIN SPORT 06 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 06 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806577&extension=m3u8&play_token=ZYy1ADAToH
+#EXTINF:-1 tvg-id="1806576" tvg-name="AR| BEIN SPORT 07 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 07 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806576&extension=m3u8&play_token=xte4gYNCoU
+#EXTINF:-1 tvg-id="1806575" tvg-name="AR| BEIN SPORT 08 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 08 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806575&extension=m3u8&play_token=2XBD234gse
+#EXTINF:-1 tvg-id="1806574" tvg-name="AR| BEIN SPORT 09 FHD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 09 FHD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806574&extension=m3u8&play_token=S0RWqarpiv
+#EXTINF:-1 tvg-id="1806573" tvg-name="AR| BEIN SPORT 01 HD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 01 HD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806573&extension=m3u8&play_token=JDd9yGsNx6
+#EXTINF:-1 tvg-id="1806572" tvg-name="AR| BEIN SPORT 02 HD" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 02 HD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806572&extension=m3u8&play_token=VxoUWG9zID
+
 #EXTINF:-1,###########SERVER1###########
 #EXTINF:-1 tvg-logo="" group-title="bein",Bein Sports Xtra Africa
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
