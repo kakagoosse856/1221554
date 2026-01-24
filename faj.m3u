@@ -24,28 +24,16 @@ https://3.3lok3.site:443/live/12345/12345/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 5" tvg-logo="" group-title="FAJER TV",Fajer Tv 5
 https://3.3lok3.site:443/live/12345/12345/89.m3u8
 #EXTINF:-1,###########SERVER3###########
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_1080p/manifest.m3u8
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer1 1080p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer1 720p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_1_720p/manifest.m3u8
-#EXTINF:-1,Al Fajer2 1080p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_2_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer2 720p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_2_720p/manifest.m3u8
-#EXTINF:-1,Al Fajer3 1080p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_3_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer3 720p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_3_720p/manifest.m3u8
-#EXTINF:-1,Al Fajer4 1080p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_4_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer4 720p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_4_720p/manifest.m3u8
-#EXTINF:-1,Al Fajer5 1080p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_5_1080p/manifest.m3u8
-#EXTINF:-1,Al Fajer5 720p
-https://cdn-js-mejarserver.aka-akamaized.net/fjr_5_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="1806744" tvg-name="AR| AL FAJER 1" group-title="BEE| AL FAJER",AR| AL FAJER 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806744&extension=m3u8&play_token=2zu6ZRLk8C
+#EXTINF:-1 tvg-id="1806743" tvg-name="AR| AL FAJER 2" group-title="BEE| AL FAJER",AR| AL FAJER 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806743&extension=m3u8&play_token=B9S1fmt2Yj
+#EXTINF:-1 tvg-id="1806742" tvg-name="AR| AL FAJER 3" group-title="BEE| AL FAJER",AR| AL FAJER 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806742&extension=m3u8&play_token=kzEK0EDV0t
+#EXTINF:-1 tvg-id="1806741" tvg-name="AR| AL FAJER 4" group-title="BEE| AL FAJER",AR| AL FAJER 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806741&extension=m3u8&play_token=tpECJIttw4
+#EXTINF:-1 tvg-id="1806740" tvg-name="AR| AL FAJER 5" group-title="BEE| AL FAJER",AR| AL FAJER 5
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806740&extension=m3u8&play_token=ZZyhm6HqgZ
 #EXTINF:-1,###########SERVER4###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
