@@ -1,3 +1,33 @@
+
+#EXTINF:-1 tvg-id="587355" tvg-name="##### KIDS TV #####" group-title="AR| KIDS",##### KIDS TV #####
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=587355&extension=m3u8
+#EXTINF:-1 tvg-id="587339" tvg-name="AR| ROTANA KIDS FHD" tvg-logo="http://picons.cmshulk.com/picons/587339.png" group-title="AR| KIDS",AR| ROTANA KIDS FHD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=587339&extension=m3u8
+#EXTINF:-1 tvg-id="587338" tvg-name="AR| MAJID KIDS FHD" tvg-logo="http://picons.cmshulk.com/picons/587338.png" group-title="AR| KIDS",AR| MAJID KIDS FHD
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=587338&extension=m3u8
+#EXTINF:-1 tvg-id="587337" tvg-name="AR| MAJID KIDS" tvg-logo="http://picons.cmshulk.com/picons/587337.png" group-title="AR| KIDS",AR| MAJID KIDS
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=587337&extension=m3u8
+#EXTINF:-1 tvg-id="1387896" tvg-name="AR| ADNAN & LINA" tvg-logo="http://picons.cmshulk.com/picons/1387896.png" group-title="AR| KIDS",AR| ADNAN & LINA
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387896&extension=m3u8
+#EXTINF:-1 tvg-id="1387892" tvg-name="AR| BILL & SEBASTIAN" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BILL-_-SEBASTIAN.png" group-title="AR| KIDS",AR| BILL & SEBASTIAN
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387892&extension=m3u8
+#EXTINF:-1 tvg-id="1387909" tvg-name="AR| CARTOON NETWORK" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARTOON-NETWORK.png" group-title="AR| KIDS",AR| CARTOON NETWORK
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387909&extension=m3u8
+#EXTINF:-1 tvg-id="1387899" tvg-name="AR| COCOMELON AR" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/COCOMELON-AR.png" group-title="AR| KIDS",AR| COCOMELON AR
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387899&extension=m3u8
+#EXTINF:-1 tvg-id="1387900" tvg-name="AR| COCOMELON EN" tvg-logo="http://picons.cmshulk.com/picons/1387900.png" group-title="AR| KIDS",AR| COCOMELON EN
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387900&extension=m3u8
+#EXTINF:-1 tvg-id="1387891" tvg-name="AR| MASHA & THE BEAR" tvg-logo="http://picons.cmshulk.com/picons/1387891.png" group-title="AR| KIDS",AR| MASHA & THE BEAR
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387891&extension=m3u8
+#EXTINF:-1 tvg-id="1387901" tvg-name="AR| MR BEAN" tvg-logo="http://picons.cmshulk.com/picons/1387901.png" group-title="AR| KIDS",AR| MR BEAN
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387901&extension=m3u8
+#EXTINF:-1 tvg-id="1387893" tvg-name="AR| SHAUN THE SHEEP" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHAUN-THE-SHEEP.png" group-title="AR| KIDS",AR| SHAUN THE SHEEP
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387893&extension=m3u8
+#EXTINF:-1 tvg-id="1387895" tvg-name="AR| SPONGEBOB" tvg-logo="http://picons.cmshulk.com/picons/1387895.png" group-title="AR| KIDS",AR| SPONGEBOB
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387895&extension=m3u8
+#EXTINF:-1 tvg-id="1387894" tvg-name="AR| TELETUBBIES" tvg-logo="http://picons.cmshulk.com/picons/1387894.png" group-title="AR| KIDS",AR| TELETUBBIES
+http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1387894&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Aghapy Kids " tvg-logo="https://i.imgur.com/8ariztD.png" group-title="KIDS  - أطفال",Aghapy Kids 
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/316812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atfal & Mawaheb" tvg-logo="http://x12tv.co/mbc/atfal-wa-mawahib.png" group-title="KIDS  - أطفال",Atfal & Mawaheb
