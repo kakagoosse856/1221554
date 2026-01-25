@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,###########NEON PLUS SERVER1###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
-#EXTINF:-1,shooflive2
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1,shooflive2 1080p
-https://liveeu-gcp.alkassdigital.net/shooflive2/20260102T033136Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1,Al kass 1 HD
 http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/131.m3u8
 #EXTINF:-1,Al kass 2 HD
@@ -18,18 +14,22 @@ https://liveeu-gcp.alkassdigital.net/shooflive/20251209T054015Z/mux_video_1080p_
 #EXTINF:-1,Al kass 6 HD
 https://liveeu-gcp.alkassdigital.net/alkass6-p/20251212T182329Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1,###########NEON PLUS SERVER2###########
-#EXTINF:-1,Al kass 1 HD
-https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251218T024018Z/mux_video_720p_ts/index-1.m3u8
-#EXTINF:-1,Al kass 2 HD
-https://liveeu-gcp.alkassdigital.net/alkass2-p/20260102T032831Z/mux_video_240p_ts/index-1.m3u8
-#EXTINF:-1,Al kass 3 HD
-https://liveeu-gcp.alkassdigital.net/alkass3-p/20260102T033003Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1,Al kass 4 HD
-https://liveeu-gcp.alkassdigital.net/alkass4-p/20251213T060324Z/mux_video_720p_ts/index-1.m3u8
-#EXTINF:-1,Al kass 5 HD
-https://liveeu-gcp.alkassdigital.net/shooflive/20251209T054015Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1,Al kass 6 HD
-https://liveeu-gcp.alkassdigital.net/alkass6-p/20251212T182329Z/mux_video_720p_ts/index-1.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924606.png" group-title="_AR_SPORT_FULL_SD",AR - BEIN SPORTS NEWS LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924606&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924604.png" group-title="_AR_SPORT_FULL_SD",AR - SSC NEWS LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924604&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924603.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 1 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924603&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924602.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 2 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924602&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924601.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 3 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924601&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924600.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 4 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924600&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924599.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 5 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924599&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924598.png" group-title="_AR_SPORT_FULL_SD",AR - ALKASS 6 LQ
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=924598&extension=m3u8
 #EXTINF:-1,###########NEON PLUS SERVER3###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Sports",Alkass Five (1080p)
@@ -66,6 +66,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/in
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1,ShahidAnime
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_12.m3u8
+
 
 
 
