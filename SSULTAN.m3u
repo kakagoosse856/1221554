@@ -30,10 +30,42 @@ http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2500/index.m3u8
 http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2501/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1806582.png",AR| SPORT 01 4K القنوات تتأخر قليلا بالفتح 
 
-?mac=A0:BB:3E:AF:2C:14&stream=1806538&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1806537.png",AR| BEIN AFC 1 
 
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=596721&extension=m3u8
+#EXTINF:-1 tvg-name="ياسين 1" tvg-logo="http://i.epvpimg.com/BYM0cab.jpg",ياسين 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 2" tvg-logo="http://i.epvpimg.com/qUkIbab.jpg",ياسين 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/69854211/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 3" tvg-logo="http://i.epvpimg.com/mSFWeab.jpg",ياسين 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 4" tvg-logo="http://i.epvpimg.com/IAzDgab.jpg",ياسين 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 5" tvg-logo="http://i.epvpimg.com/wmgRcab.jpg",ياسين 5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 6" tvg-logo="http://i.epvpimg.com/Q93Feab.jpg",ياسين 6
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 7" tvg-logo="http://i.epvpimg.com/C65ebab.jpg",ياسين 7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/33523510/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 8" tvg-logo="http://i.epvpimg.com/POsKgab.jpg",ياسين 8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/44343411/index.m3u8
+
+#EXTINF:-1 tvg-name="ياسين 9" tvg-logo="http://i.epvpimg.com/mGFxeab.jpg",ياسين 9
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
+http://het000.4rouwanda-shop.store/live/34114434/index.m3u8
 
 
 
@@ -47,10 +79,10 @@ http://line.iptvwings.com:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1764953&
 http://line.iptvwings.com:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1347222&extension=m3u8
 
 #EXTINF:-1 tvg-id="1294773" tvg-name="AR| BEIN SPORTS NEWS FHD" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS NEWS FHD
-http://line.iptvwings.com:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294773&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:B3:11:98&stream=1294773&extension=m3u8
 
 #EXTINF:-1 tvg-id="1294772" tvg-name="AR| BEIN SPORTS GLOBAL FHD" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
-http://line.iptvwings.com:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294772&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:BE:C2:7C&stream=1294772&extension=m3u8
 
 #EXTINF:-1 tvg-id="1294764" tvg-name="AR| BEIN SPORTS 1 FHD" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
 http://line.iptvwings.com:80/play/live.php?mac=A0:BB:3E:AF:2C:14&stream=1294764&extension=m3u8
