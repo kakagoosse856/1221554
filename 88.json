@@ -1,10 +1,12 @@
 [
-  { "chaine": { "nom":"STARZPLAY Sport 1", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993327&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 2", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993328&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 3", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993329&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 1", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936353&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 2", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936354&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 3", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936355&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 4", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936350&extension=m3u8" }},
-  { "chaine": { "nom":"Avasport", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }}
+  {
+    "name": "BEIN SPORT 1",
+    "urls": ["http://sup-4k.org:80/play/live.php?mac=00:1A:79:37:47:85&stream=28939&extension=m3u8
+", "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:04:9F:3A&stream=1936356&extension=m3u8
+"]
+  },
+  {
+    "name": "BEIN SPORT 2",
+    "urls": ["http://link1.m3u8"]
+  }
 ]
