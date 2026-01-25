@@ -1,13 +1,16 @@
 #EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836256&extension=m3u8&play_token=JNFopajJIh
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 3 XTRA UHD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114051&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 3 UHD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3852&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XSTRA 3 SD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2539&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS XSTRA 3 SD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245834&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 4 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572904&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 5 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572908&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 6 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572912&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 7 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572916&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 8 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572920&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 9 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572924&extension=m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="بين سبورت_NX",BEIN SPORTS HD
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836256&extension=m3u8&play_token=JNFopajJIh
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-NEWS.png" group-title="بين سبورت_NX",BEIN SPORTS NEWS HD
