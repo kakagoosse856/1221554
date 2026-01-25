@@ -3,18 +3,30 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1859092&extensio
 
 #EXTINF:-1,ALWAN SPORT 1 HDالقنوات تتأخر قليلا بالفتح
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1859092&extension=m3u8
-#EXTINF:-1 tvg-id="1859098" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859098&extension=m3u8
-#EXTINF:-1 tvg-id="1859097" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859097&extension=m3u8
-#EXTINF:-1 tvg-id="1859096" tvg-name="AR| ALWAN SPORT 3 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 3 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859096&extension=m3u8
-#EXTINF:-1 tvg-id="1859095" tvg-name="AR| ALWAN SPORT 4 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 4 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859095&extension=m3u8
-#EXTINF:-1 tvg-id="1859094" tvg-name="AR| ALWAN SPORT 5 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 5 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859094&extension=m3u8
-#EXTINF:-1 tvg-id="1859093" tvg-name="AR| ALWAN SPORT 6 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 6 4K
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859093&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 1 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340994&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 2 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340993&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 3 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340992&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 4 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340991&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 5 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340990&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 6 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340989&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 1 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340988&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 2 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340987&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 3 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340986&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 4 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340985&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 5 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340984&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="_AR_ALWAN_SPORT",AR - ALWAN SPORT 6 SD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340983&extension=m3u8
 #EXTINF:-1 tvg-id="1859092" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 HD
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859092&extension=m3u8
 #EXTINF:-1 tvg-id="1859091" tvg-name="AR| ALWAN SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 HD
