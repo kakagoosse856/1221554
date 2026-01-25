@@ -1,0 +1,975 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912483&extension=m3u8&play_token=GWm1Ih2pXL
+#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE",TR| INFO KANAL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912482&extension=m3u8&play_token=pXESqsAE27
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT--4K.png" group-title="TR| TURKIYE",TR| TRT 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=916657&extension=m3u8&play_token=ZVsa2SxNMQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trt1.png" group-title="TR| TURKIYE",TR| TRT 1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912481&extension=m3u8&play_token=6Lc4Dx4sXF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trt1.png" group-title="TR| TURKIYE",TR| TRT 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912457&extension=m3u8&play_token=IP6aKHsgOJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trt2.png" group-title="TR| TURKIYE",TR| TRT 2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912480&extension=m3u8&play_token=6R5ooMwoYi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trt2.png" group-title="TR| TURKIYE",TR| TRT 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912456&extension=m3u8&play_token=qg1ouW85Gt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atv.png" group-title="TR| TURKIYE",TR| ATV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912479&extension=m3u8&play_token=LxeG9VVzeT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ATV-HD.png" group-title="TR| TURKIYE",TR| ATV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912455&extension=m3u8&play_token=eVw5VChdco
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanald.png" group-title="TR| TURKIYE",TR| KANAL D 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912478&extension=m3u8&play_token=5DzWQqjTzv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanald.png" group-title="TR| TURKIYE",TR| KANAL D HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912454&extension=m3u8&play_token=SHMzyyGxFJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-TV-HD.jpg" group-title="TR| TURKIYE",TR| STAR TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912477&extension=m3u8&play_token=QGrjhlQGQF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-TV-HD.jpg" group-title="TR| TURKIYE",TR| STAR TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912453&extension=m3u8&play_token=Vv1wGj3PAG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8.png" group-title="TR| TURKIYE",TR| TV 8 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912476&extension=m3u8&play_token=BZapzFuOfc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8.png" group-title="TR| TURKIYE",TR| TV 8 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912451&extension=m3u8&play_token=me77RCQcTs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOW-TV.png" group-title="TR| TURKIYE",TR| SHOW TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912475&extension=m3u8&play_token=yVmqZ4lQYQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOW-TV.png" group-title="TR| TURKIYE",TR| SHOW TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912452&extension=m3u8&play_token=aUGOLg8MD8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png" group-title="TR| TURKIYE",TR| NOW TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912474&extension=m3u8&play_token=m3u8lpDVsNsL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png" group-title="TR| TURKIYE",TR| NOW HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912449&extension=m3u8&play_token=PqXAeGh3nu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/TRT-WORLD.png" group-title="TR| TURKIYE",TR| TRT WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1603686&extension=m3u8&play_token=RQwwZa2dgK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8int.png" group-title="TR| TURKIYE",TR| TV 8 INT 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912473&extension=m3u8&play_token=hjulefcYQX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8.5.jpg" group-title="TR| TURKIYE",TR| TV 8.5 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912472&extension=m3u8&play_token=GM3YQiN9Nd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8.5.jpg" group-title="TR| TURKIYE",TR| TV 8.5 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912450&extension=m3u8&play_token=N46CZP9OR4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/teve2hd.jpg" group-title="TR| TURKIYE",TR| TEVE 2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912471&extension=m3u8&play_token=ToygNzybMa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/teve2hd.jpg" group-title="TR| TURKIYE",TR| TEVE 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1484841&extension=m3u8&play_token=VlOBatufoX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanal7.jpg" group-title="TR| TURKIYE",TR| KANAL 7 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912470&extension=m3u8&play_token=qfmbVfT3JG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="TR| TURKIYE",TR| KANAL 7 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912448&extension=m3u8&play_token=jb8wYE5R5E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beyaz.png" group-title="TR| TURKIYE",TR| BEYAZ TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912469&extension=m3u8&play_token=RTL3N8vDmZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beyaz.png" group-title="TR| TURKIYE",TR| BEYAZ TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912447&extension=m3u8&play_token=ynlnk8YBFW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/a2.png" group-title="TR| TURKIYE",TR| A2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912468&extension=m3u8&play_token=EeOFnuAakg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/a2.png" group-title="TR| TURKIYE",TR| A2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912444&extension=m3u8&play_token=Aq2QPeF3k6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/telekanal360.png" group-title="TR| TURKIYE",TR| KANAL 360 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912467&extension=m3u8&play_token=a9FsFJ7bnK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/telekanal360.png" group-title="TR| TURKIYE",TR| KANAL 360 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1484868&extension=m3u8&play_token=zlR3a5EGvV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/360tv.jpg" group-title="TR| TURKIYE",TR| 360 TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912443&extension=m3u8&play_token=bB60yzIXrC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/flashtv.jpg" group-title="TR| TURKIYE",TR| FLASH 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913463&extension=m3u8&play_token=mze3zoBRAQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtavaz.png" group-title="TR| TURKIYE",TR| TRT AVAZ HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912446&extension=m3u8&play_token=vP79o2I5YS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtturk.png" group-title="TR| TURKIYE",TR| TRT TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912445&extension=m3u8&play_token=5uAdlSMdSO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv4.png" group-title="TR| TURKIYE",TR| TV 4 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912442&extension=m3u8&play_token=NnrUALXmst
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/turkmeneli.jpg" group-title="TR| TURKIYE",TR| TURKMENELI TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912441&extension=m3u8&play_token=Dgyk2Geqak
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TR| AVRUPA & YEREL",##### TR AYRUPA 4K #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912466&extension=m3u8&play_token=Pk5Ik0hn6n
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 7 AVRUPA 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912465&extension=m3u8&play_token=VsqFBGYd5j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atvavrupa.png" group-title="TR| AVRUPA & YEREL",TR| ATV AVRUPA 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912464&extension=m3u8&play_token=aQ8o31ha9m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/eurostar.png" group-title="TR| AVRUPA & YEREL",TR| EURO STAR 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912463&extension=m3u8&play_token=deUvK8VgHE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/eurod.png" group-title="TR| AVRUPA & YEREL",TR| EURO D 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912462&extension=m3u8&play_token=VWeLKCiQUR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/showturk.png" group-title="TR| AVRUPA & YEREL",TR| SHOW TURK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912461&extension=m3u8&play_token=Dz2SgAGUXy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/showmax.jpg" group-title="TR| AVRUPA & YEREL",TR| SHOW MAX 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912460&extension=m3u8&play_token=d093l3DXoH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="TR| AVRUPA & YEREL",TR| KANAL AVRUPA 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912459&extension=m3u8&play_token=e0PtqBAVzR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TR| AVRUPA & YEREL",##### TR YEREL #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912838&extension=m3u8&play_token=pm27OcacPc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| DEHA TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912836&extension=m3u8&play_token=mLI4ZUFvO3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| PAMUKKALE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912831&extension=m3u8&play_token=Co4r1qAGeM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TEMPO TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912826&extension=m3u8&play_token=5I3vEvjl3P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| RUMELI TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912825&extension=m3u8&play_token=89eE35xGy4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TV 41
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912824&extension=m3u8&play_token=RgbFFG2MYl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| ORDU ALTAS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912823&extension=m3u8&play_token=WB3bjJnT0b
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TV 52 ORDU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912822&extension=m3u8&play_token=K6CbrBcDTR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| CAY TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912821&extension=m3u8&play_token=gslPhr23vT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KADIRGA TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912820&extension=m3u8&play_token=A9rZASiKwH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 32
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912819&extension=m3u8&play_token=5YpaG0jW9P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 15
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912818&extension=m3u8&play_token=w3x4ZASBHf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| ANADOLU VUSLAT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912816&extension=m3u8&play_token=znsiYWMXgp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| VIZYON 58
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912815&extension=m3u8&play_token=wfGeysWWNP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TV DEN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912814&extension=m3u8&play_token=FUdXq1D6Si
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| GRT TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912813&extension=m3u8&play_token=ekXNNvZKiz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TV NET HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912812&extension=m3u8&play_token=5R9hkmylJH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| TV 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912811&extension=m3u8&play_token=vu9SXAtuyt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| SAT7 TURK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912810&extension=m3u8&play_token=snYbFu4kVN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KOY TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912809&extension=m3u8&play_token=E77lCk4ori
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KON TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912808&extension=m3u8&play_token=UmpPpNrvKS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KENT TURK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912807&extension=m3u8&play_token=USnXoV8Jbt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KAYSERI TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912806&extension=m3u8&play_token=y39MGllgXX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL V
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912805&extension=m3u8&play_token=uc7FaYknev
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL URFA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912804&extension=m3u8&play_token=yw2ITPOMZX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 68
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912803&extension=m3u8&play_token=l7dJnjfHS3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 33
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912799&extension=m3u8&play_token=I6NrXHjCus
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912798&extension=m3u8&play_token=j8mzmmMHKS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 26
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912797&extension=m3u8&play_token=pqNBsS7fCy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 23
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912795&extension=m3u8&play_token=ZnZFQLbyoJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| HRT AKDENIZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912793&extension=m3u8&play_token=pXYcXRviJu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| GUNEYDOGU TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912792&extension=m3u8&play_token=sAfCiNsxN6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AKSU.png" group-title="TR| AVRUPA & YEREL",TR| AKSU TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1049650&extension=m3u8&play_token=pO4AjYgaYa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/brthd.png" group-title="TR| AVRUPA & YEREL",TR| BRT 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1123597&extension=m3u8&play_token=T6igxCzD57
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/brthd.png" group-title="TR| AVRUPA & YEREL",TR| BRT 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1123596&extension=m3u8&play_token=AcYS6pyFYy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/brthd.png" group-title="TR| AVRUPA & YEREL",TR| BRT 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1123595&extension=m3u8&play_token=FzFUchPYPz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| MAVI KARADENIZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912837&extension=m3u8&play_token=CoTSIJi6Hj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| FIRAT TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912791&extension=m3u8&play_token=qH6sSsHykw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| ES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912790&extension=m3u8&play_token=VoEzQIAtVh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| ER TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912789&extension=m3u8&play_token=a2UsUcSjJm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| EDESSA TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912788&extension=m3u8&play_token=gNNbuBe9r0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| DRT DENIZLI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912786&extension=m3u8&play_token=txF2kzOVqU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL SIRINLER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912785&extension=m3u8&play_token=x2xUI26IYA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL RAFADAN TAYFA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912784&extension=m3u8&play_token=WvPDQmdNYT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL PEPE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912783&extension=m3u8&play_token=2KgSPPWsH8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL KRAL SAKIR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912780&extension=m3u8&play_token=rR0siaa0QS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL EGE ILE GAGA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912775&extension=m3u8&play_token=I8Di71nvJL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL BOOBA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912774&extension=m3u8&play_token=PmI1k3wYeQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| BRT KARADENIZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912769&extension=m3u8&play_token=LZ34OeL443
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TR| HABER KANALLARI",##### TR HABER #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912930&extension=m3u8&play_token=4tiXKwIUYS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="TR| HABER KANALLARI",TR| TRT HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912929&extension=m3u8&play_token=2S4OMLOz71
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="TR| HABER KANALLARI",TR| TRT HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912928&extension=m3u8&play_token=qWz1cPdMMb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="TR| HABER KANALLARI",TR| A HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912927&extension=m3u8&play_token=AYfs2V4b9F
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="TR| HABER KANALLARI",TR| A HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912926&extension=m3u8&play_token=p1PucKPAtU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="TR| HABER KANALLARI",TR| HABERTURK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912925&extension=m3u8&play_token=dDtL7yjZnT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="TR| HABER KANALLARI",TR| HABER TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912924&extension=m3u8&play_token=ECH9CNAxYm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cnnturk.png" group-title="TR| HABER KANALLARI",TR| CNN TURK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912923&extension=m3u8&play_token=W0SZH2ri0E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cnnturk.png" group-title="TR| HABER KANALLARI",TR| CNN TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912922&extension=m3u8&play_token=54jqeSONkL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="TR| HABER KANALLARI",TR| NTV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912921&extension=m3u8&play_token=A072doStVj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="TR| HABER KANALLARI",TR| NTV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912920&extension=m3u8&play_token=QhYksqUI5t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="TR| HABER KANALLARI",TR| HALK TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912919&extension=m3u8&play_token=q4veaqiKml
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Halk.png" group-title="TR| HABER KANALLARI",TR| Halk TV FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1552759&extension=m3u8&play_token=3VSeJ8SkOR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="TR| HABER KANALLARI",TR| HALK TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912918&extension=m3u8&play_token=z7T1Lhp5gu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/akittv.jpg" group-title="TR| HABER KANALLARI",TR| AKIT TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912917&extension=m3u8&play_token=4qYDucedCF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/akittv.jpg" group-title="TR| HABER KANALLARI",TR| AKIT TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912916&extension=m3u8&play_token=cePp78rYNr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="TR| HABER KANALLARI",TR| HABER GLOBAL 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912915&extension=m3u8&play_token=Pkxap57gbu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="TR| HABER KANALLARI",TR| HABER GLOBAL HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912914&extension=m3u8&play_token=IhDqak47oJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="TR| HABER KANALLARI",TR| TV 100 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912913&extension=m3u8&play_token=dTseOrl8Vv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="TR| HABER KANALLARI",TR| TV 100 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912912&extension=m3u8&play_token=VxXAkBHeAe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/krt.png" group-title="TR| HABER KANALLARI",TR| KRT TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912911&extension=m3u8&play_token=Q2cGOiJr3L
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/krt.png" group-title="TR| HABER KANALLARI",TR| KRT TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912910&extension=m3u8&play_token=SPHxWSqKel
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ulketv.png" group-title="TR| HABER KANALLARI",TR| ULKE TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912909&extension=m3u8&play_token=GU6cGtDS81
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ulketv.png" group-title="TR| HABER KANALLARI",TR| ULKE TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912908&extension=m3u8&play_token=iZnISCaB31
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24-HABER.png" group-title="TR| HABER KANALLARI",TR| 24 HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912907&extension=m3u8&play_token=cxXyvcTuWl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24-HABER.png" group-title="TR| HABER KANALLARI",TR| 24 HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912906&extension=m3u8&play_token=BiBRNSSVB7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bloomberght.png" group-title="TR| HABER KANALLARI",TR| BLOOMBERGHT 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912905&extension=m3u8&play_token=HKQoRDCX1m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="TR| HABER KANALLARI",TR| TELE 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912904&extension=m3u8&play_token=chO71HBQXI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="TR| HABER KANALLARI",TR| TGRT HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912903&extension=m3u8&play_token=U1wPLzzne7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="TR| HABER KANALLARI",TR| TGRT HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912902&extension=m3u8&play_token=dCI76gYiwj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tgrteu.png" group-title="TR| HABER KANALLARI",TR| TGRT EU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912901&extension=m3u8&play_token=h7rHZOkiAz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="TR| HABER KANALLARI",TR| TH TURKHABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912900&extension=m3u8&play_token=vp94okfOx5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/benguturk.jpg" group-title="TR| HABER KANALLARI",TR| BENGUTURK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912899&extension=m3u8&play_token=xsL7Gze59q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ulusal.png" group-title="TR| HABER KANALLARI",TR| ULUSAL KANAL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912898&extension=m3u8&play_token=cOyYZ2CNb4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/uzayhaber.jpg" group-title="TR| HABER KANALLARI",TR| UZAY HABER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912897&extension=m3u8&play_token=A95MI9qTaI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rehbertv.jpg" group-title="TR| HABER KANALLARI",TR| REHBER TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912896&extension=m3u8&play_token=rksu8b64JL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ON4-TV-tr.jpeg" group-title="TR| HABER KANALLARI",TR| ON4 TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912895&extension=m3u8&play_token=r0kYE1F4vl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv5.png" group-title="TR| HABER KANALLARI",TR| TV 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912894&extension=m3u8&play_token=xyordTlMBm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="TR| HABER KANALLARI",TR| TVNET 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912893&extension=m3u8&play_token=jaMqgsmMHQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="TR| HABER KANALLARI",TR| TVNET HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912892&extension=m3u8&play_token=3CgfSDYH6N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="TR| HABER KANALLARI",TR| A PARA 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912891&extension=m3u8&play_token=R6aFyogN68
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="TR| HABER KANALLARI",TR| A PARA HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912890&extension=m3u8&play_token=D5qrdLdms2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="TR| HABER KANALLARI",TR| GLOBAL HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912889&extension=m3u8&play_token=SDrqg2PQmJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="TR| HABER KANALLARI",TR| GLOBAL HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912888&extension=m3u8&play_token=PtGRxMLQmd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="TR| HABER KANALLARI",TR| SZC TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1133616&extension=m3u8&play_token=66EgLevCMf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="TR| HABER KANALLARI",TR| TRT HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912887&extension=m3u8&play_token=srQTp66INb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="TR| HABER KANALLARI",TR| TRT HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912886&extension=m3u8&play_token=04AZDVWgf5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LIDER-HABER.png" group-title="TR| HABER KANALLARI",TR| LIDER HABER TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1526852&extension=m3u8&play_token=3B4sPiVMHB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/EKOL.png" group-title="TR| HABER KANALLARI",TR| EKOL TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1526853&extension=m3u8&play_token=F3v3mMh9eu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/EKO-TURK.png" group-title="TR| HABER KANALLARI",TR| EKO TURK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1552760&extension=m3u8&play_token=Aji4MoO6oI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-MUZIK.png" group-title="TR| MUZIK KANALLARI",##### TR MUZIK #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913033&extension=m3u8&play_token=MKZDMTMgaM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtmuzik.png" group-title="TR| MUZIK KANALLARI",TR| TRT MUZIK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913032&extension=m3u8&play_token=tVfw5XLGPc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtmuzik.png" group-title="TR| MUZIK KANALLARI",TR| TRT MUZIK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913031&extension=m3u8&play_token=3cpC1u8HwG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nr1.jpg" group-title="TR| MUZIK KANALLARI",TR| NR1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913030&extension=m3u8&play_token=u3T46E1FSA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nr1.jpg" group-title="TR| MUZIK KANALLARI",TR| NR1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913029&extension=m3u8&play_token=W7UrWjGbpg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NR1-TURK.png" group-title="TR| MUZIK KANALLARI",TR| NR1 TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1487165&extension=m3u8&play_token=WRCkVMyYG1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NR1-DAMAR.png" group-title="TR| MUZIK KANALLARI",TR| NR1 DAMAR HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1487167&extension=m3u8&play_token=UVjTUkkrSY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NR1-DANCE.png" group-title="TR| MUZIK KANALLARI",TR| NR1 DANCE HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1487170&extension=m3u8&play_token=Z24mAWuewP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NR1-ASK.png" group-title="TR| MUZIK KANALLARI",TR| NR1 ASK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1487166&extension=m3u8&play_token=f93KQLe58V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/powertv.png" group-title="TR| MUZIK KANALLARI",TR| POWER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913028&extension=m3u8&play_token=n8ZtDulqjN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/powertv.png" group-title="TR| MUZIK KANALLARI",TR| POWER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913027&extension=m3u8&play_token=P6g9rlzFoh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/powerturk.png" group-title="TR| MUZIK KANALLARI",TR| POWER TURK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913026&extension=m3u8&play_token=M1MeJ7NIKf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/powerturk.png" group-title="TR| MUZIK KANALLARI",TR| TATLISES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913025&extension=m3u8&play_token=NexTWslcXd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dreamturk.jpg" group-title="TR| MUZIK KANALLARI",TR| DREAM TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913024&extension=m3u8&play_token=SAodrgh3AJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dreamturk.jpg" group-title="TR| MUZIK KANALLARI",TR| DREAM TURK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913023&extension=m3u8&play_token=jn26XfT0s5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kraltv.png" group-title="TR| MUZIK KANALLARI",TR| KRAL TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913022&extension=m3u8&play_token=B9oqkyib1v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kraltv.png" group-title="TR| MUZIK KANALLARI",TR| KRAL POP HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913021&extension=m3u8&play_token=dEy8oiG9NU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tatlises.jpg" group-title="TR| MUZIK KANALLARI",TR| TATLISES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913020&extension=m3u8&play_token=mskWBvmjY1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/anadolu.jpg" group-title="TR| MUZIK KANALLARI",TR| ANADOLU DERNEK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913019&extension=m3u8&play_token=kUHiJZtRbl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FERDI-TAYFUR.png" group-title="TR| MUZIK KANALLARI",TR| FERDI TAYFUR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1548143&extension=m3u8&play_token=xhsnxe2kpa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MUSLUM-GURSES.png" group-title="TR| MUZIK KANALLARI",TR| MUSLUM GURSES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1548144&extension=m3u8&play_token=uvTQg5mNEK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ORHAN-GENCEBAY.png" group-title="TR| MUZIK KANALLARI",TR| ORHAN GENCEBAY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1548145&extension=m3u8&play_token=3ZaKhJypXZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-COCUK.png" group-title="TR| COCUK & DINI",##### TR COCUK #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913125&extension=m3u8&play_token=B1Dan9R2pb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtcocuk.png" group-title="TR| COCUK & DINI",TR| TRT COCUK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913124&extension=m3u8&play_token=GiIh9b6Uxw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/boomerang.png" group-title="TR| COCUK & DINI",TR| CARTOONITO 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913123&extension=m3u8&play_token=1OMn20tPzw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickelodeon.png" group-title="TR| COCUK & DINI",TR| NICKELODEON 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913122&extension=m3u8&play_token=dcLN1XMRBJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickjr.png" group-title="TR| COCUK & DINI",TR| NICK JR 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913121&extension=m3u8&play_token=5X9eKGBpC3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/disneychannel.png" group-title="TR| COCUK & DINI",TR| DISNEY CHANNEL 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913120&extension=m3u8&play_token=pmiIK7uHNs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/disneyjr.png" group-title="TR| COCUK & DINI",TR| DISNEY JR 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913119&extension=m3u8&play_token=ezlTb9jros
+#EXTINF:-1 tvg-logo="" group-title="TR| COCUK & DINI",TR| KUKULI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913118&extension=m3u8&play_token=we9jq68OQD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/babytv.png" group-title="TR| COCUK & DINI",TR| BABY TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913116&extension=m3u8&play_token=4BnewnEJbc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="TR| COCUK & DINI",TR| CARTOON NETWORK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913115&extension=m3u8&play_token=cuMicYeNh2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MINICA-GO.jpeg" group-title="TR| COCUK & DINI",TR| MINICA GO 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913114&extension=m3u8&play_token=xqGU3L2BRv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MINICA-COCUK.png" group-title="TR| COCUK & DINI",TR| MINIKA COCUK 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913113&extension=m3u8&play_token=GMtVyqU3G4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/niloya.png" group-title="TR| COCUK & DINI",TR| NILOYA 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913112&extension=m3u8&play_token=8aHxshkoNG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-DINI-KANALLARI.png" group-title="TR| COCUK & DINI",TR| ##### TR DINI KANALLARI #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913111&extension=m3u8&play_token=oYQk6E5dJ1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/semerkant.jpg" group-title="TR| COCUK & DINI",TR| SEMERKAND TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913110&extension=m3u8&play_token=1EvHXXKKMN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtdiyanet.png" group-title="TR| COCUK & DINI",TR| TRT DIYANET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913109&extension=m3u8&play_token=5wHVb4TSc3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOM-VE-JERYY.png" group-title="TR| COCUK & DINI",TR| TOM VE JERYY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913224&extension=m3u8&play_token=9ghu3ueuid
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dosttv.jpeg" group-title="TR| COCUK & DINI",TR| DOST TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913108&extension=m3u8&play_token=GDeyQOq0PX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/lalegul.png" group-title="TR| COCUK & DINI",TR| LALEGUL TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913107&extension=m3u8&play_token=11dfc0G6hK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KABE-TV.jpeg" group-title="TR| COCUK & DINI",TR| KABE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913106&extension=m3u8&play_token=PDtrjwdk1y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/saudisunnah.png" group-title="TR| COCUK & DINI",TR| SAUDI SUNNAH
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913105&extension=m3u8&play_token=y4NGW6NAf4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/meltemtv.png" group-title="TR| COCUK & DINI",TR| MELTEM TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913104&extension=m3u8&play_token=TlOPjosYzc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FM-TV.jpeg" group-title="TR| COCUK & DINI",TR| FM TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913103&extension=m3u8&play_token=XmhKD4r7Iv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-BELGESEL.png" group-title="TR| BELGESEL KANALLARI",##### TR BELGESEL #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913192&extension=m3u8&play_token=wjvgtRkLWC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913191&extension=m3u8&play_token=AKdbOqgJPw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913190&extension=m3u8&play_token=SYRY0O3zYe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowild.png" group-title="TR| BELGESEL KANALLARI",TR| NAT GEO WiLD 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913189&extension=m3u8&play_token=eV8qwAOrjK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowild.png" group-title="TR| BELGESEL KANALLARI",TR| NAT GEO WILD HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913188&extension=m3u8&play_token=pWanV0NwLZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/animalplanet.png" group-title="TR| BELGESEL KANALLARI",TR| ANIMAL PLANET 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913187&extension=m3u8&play_token=jGq0umEn8l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913186&extension=m3u8&play_token=ktgg21WQC0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913185&extension=m3u8&play_token=OY7CE046YV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeopeople.png" group-title="TR| BELGESEL KANALLARI",TR| NAT GEO PEOPLE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913184&extension=m3u8&play_token=7Og7Qej6nL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="TR| BELGESEL KANALLARI",TR| DiSCOWERY CHANNEL 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913183&extension=m3u8&play_token=UKUetJgjEG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY CHANNEL HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913182&extension=m3u8&play_token=rmFJhn7g9z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tlcn.png" group-title="TR| BELGESEL KANALLARI",TR| TLC 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913181&extension=m3u8&play_token=d6Tsa3N1bb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tlcn.png" group-title="TR| BELGESEL KANALLARI",TR| TLC HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913180&extension=m3u8&play_token=tJiW6XqtyZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="TR| BELGESEL KANALLARI",TR| TGRT BELGESEL 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913179&extension=m3u8&play_token=wIahbWoLls
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913178&extension=m3u8&play_token=FYHj2tbIWP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yabantv.jpg" group-title="TR| BELGESEL KANALLARI",TR|YABAN TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913177&extension=m3u8&play_token=nNNCnzP8G7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yabantv.jpg" group-title="TR| BELGESEL KANALLARI",TR| YABAN HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913176&extension=m3u8&play_token=FZJjYiBDfL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverysci.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY SCIENCE 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913175&extension=m3u8&play_token=iERXYvlxo1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverysci.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY SCIENCE HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913174&extension=m3u8&play_token=9gJ0HoYCVo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY IDX 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913173&extension=m3u8&play_token=9R4epS7Y3e
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="TR| BELGESEL KANALLARI",TR| DISCOVERY IDX HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913172&extension=m3u8&play_token=p6FZ6oiYSy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bbcearth.png" group-title="TR| BELGESEL KANALLARI",TR| BBC EARTH 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913171&extension=m3u8&play_token=dLNtYxMLRB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bbcearth.png" group-title="TR| BELGESEL KANALLARI",TR| BBC EARTH HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913170&extension=m3u8&play_token=nhoC4VAT3x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HISTORY--.png" group-title="TR| BELGESEL KANALLARI",TR| HISTORY 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913169&extension=m3u8&play_token=B5uoToS9zU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/iz-tv.png" group-title="TR| BELGESEL KANALLARI",TR| IZTV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913168&extension=m3u8&play_token=0xyJNKk9Rd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dmax.png" group-title="TR| BELGESEL KANALLARI",TR| DMAX 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913167&extension=m3u8&play_token=QTG9xWki6Z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dmax.png" group-title="TR| BELGESEL KANALLARI",TR| DMAX HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913166&extension=m3u8&play_token=Pbqyci7TyK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beingurme.png" group-title="TR| BELGESEL KANALLARI",TR| BEIN GURME 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913165&extension=m3u8&play_token=OD4jnzntrk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-HISTORY-HD.jpg" group-title="TR| BELGESEL KANALLARI",TR| VIASAT HISTORY HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913162&extension=m3u8&play_token=vz1E47GRN2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png" group-title="TR| BELGESEL KANALLARI",TR| VIASAT EXPLORE HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913161&extension=m3u8&play_token=Q2jyRXZU71
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/lovenature.png" group-title="TR| BELGESEL KANALLARI",TR| LOVE NATURE 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913160&extension=m3u8&play_token=IhCOT2A5cL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SINEMADIZI.png" group-title="TR| SINEMA KANALLARI",##### TR SINEMA/DIZI #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913334&extension=m3u8&play_token=CB1EVxZlDs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-TURK.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES TURK HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913333&extension=m3u8&play_token=A331FBCKaU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES FAMILY HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913332&extension=m3u8&play_token=xxpX6iEsxe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesstars.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES STARS HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913331&extension=m3u8&play_token=nOkSAWF9oQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesaction.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913330&extension=m3u8&play_token=cGRTqKObL7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesaction2.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913329&extension=m3u8&play_token=EZll5beCq5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviespremiere.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913328&extension=m3u8&play_token=mP6jGHxK3E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviespremiere2.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913327&extension=m3u8&play_token=XJ7mhIcLfE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinseriesvice.png" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913325&extension=m3u8&play_token=ELC7J75WCr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinseriesdrama.png" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913326&extension=m3u8&play_token=q0Ou42fNIi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinseriesscifi.png" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913323&extension=m3u8&play_token=mNu2eU7DtW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinseriescomedy.png" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 4 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913324&extension=m3u8&play_token=JCl0Q1v190
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-1.png" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1175357&extension=m3u8&play_token=ZQiXsa92l2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-2.png" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1175356&extension=m3u8&play_token=pDepmyB9uq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-3.png" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1175355&extension=m3u8&play_token=yFD3VbcY3o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sinema.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913322&extension=m3u8&play_token=tCTfhF17Fq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-2.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913321&extension=m3u8&play_token=xnWUgJLBVP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913320&extension=m3u8&play_token=Bqph01BqSp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913319&extension=m3u8&play_token=Jr72F8WMic
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AILE.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913318&extension=m3u8&play_token=zOSMPnW6DT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AILE-2.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913317&extension=m3u8&play_token=Jfrf3baKg5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913316&extension=m3u8&play_token=PJe2HK2hDU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913315&extension=m3u8&play_token=D058bDufh5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913314&extension=m3u8&play_token=mzAw0qkjAS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913313&extension=m3u8&play_token=vzWOkXEAKd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1001.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1001 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913312&extension=m3u8&play_token=GBpwe7W2ZR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1002.png" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1002 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913311&extension=m3u8&play_token=ixDBZxkmtk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DIZI-SMART-PREMIUM.png" group-title="TR| SINEMA KANALLARI",TR| DIZI SMART PREMIUM HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913307&extension=m3u8&play_token=G7E8ugpuyj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dizismartmax.jpg" group-title="TR| SINEMA KANALLARI",TR| DIZI SMART MAX HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913306&extension=m3u8&play_token=YoXEM3lFw0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fx.png" group-title="TR| SINEMA KANALLARI",TR| FX HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913305&extension=m3u8&play_token=17pcxS3LzE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV-IPX.png" group-title="TR| SINEMA KANALLARI",TR| FILMBOX KEMAL SUNAL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913209&extension=m3u8&play_token=lIU8ZCxlfm
+#EXTINF:-1 tvg-logo="" group-title="TR| SINEMA KANALLARI",TR| LOCA 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1423980&extension=m3u8&play_token=yWfp08mP8i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX PREMIER ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395474&extension=m3u8&play_token=t3G2hr7Xek
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX ACTION ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395475&extension=m3u8&play_token=ROOcgbUxmm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX FANTASTIC ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395477&extension=m3u8&play_token=AYebKp2BsX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX SCI-FI ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395476&extension=m3u8&play_token=dNKDG2eHik
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX FAMILY ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395482&extension=m3u8&play_token=4SLAEMwsCJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX ROMANTIC ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395481&extension=m3u8&play_token=M1VdpseM9c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX COMEDY ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395480&extension=m3u8&play_token=rtumBDIkvm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX HORROR ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395479&extension=m3u8&play_token=QXJIZ5cVXj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX DRAMA ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395478&extension=m3u8&play_token=rlgijM302c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX CUNEYT ARKIN ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395490&extension=m3u8&play_token=hxzjwhGlaJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX ILYAS SALMAN ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395489&extension=m3u8&play_token=mMYkHeglOE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX KADIR INANIR ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395488&extension=m3u8&play_token=ltEoekJWAR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX TARIK AKAN ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395487&extension=m3u8&play_token=0PIM5bqCKO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX ZEKI & METIN ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395486&extension=m3u8&play_token=c9LwA1X00z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX SENER SEN ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395485&extension=m3u8&play_token=T3TVsOM2bH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX YESILCAM ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395484&extension=m3u8&play_token=uVy0LhSXSY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="TR| SINEMA KANALLARI",FILMBOX YERLI ᴴᴰ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1395483&extension=m3u8&play_token=Vbr4nE1Oka
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| 007
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626875&extension=m3u8&play_token=8lZyNbj1p3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| AKSIYON 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626874&extension=m3u8&play_token=rUXZpWG9KW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| AKSIYON 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626873&extension=m3u8&play_token=WompvbODGO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| AKSIYON 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626872&extension=m3u8&play_token=HAJSEOW5MD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| ANIMASYON 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626871&extension=m3u8&play_token=eVhztTqVTI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| ANIMASYON 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626870&extension=m3u8&play_token=QkwZeSWg2B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| BELGESEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626869&extension=m3u8&play_token=kfla4j22vj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| BILIMKURGU 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626868&extension=m3u8&play_token=3E05QHTJ4B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| BILIMKURGU 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626867&extension=m3u8&play_token=JJ6BXrt2AW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| CEM YILMAZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626866&extension=m3u8&play_token=BAyZgCSiRD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| GOLD MIX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626865&extension=m3u8&play_token=GaItHwagxB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| KOMEDI 90'LAR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626864&extension=m3u8&play_token=ZzHmFYloHh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| MARVEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626863&extension=m3u8&play_token=zXIYYyCtIx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| SINEMA TURK 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626862&extension=m3u8&play_token=8XMjazVf1m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| SINEMA TURK 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626861&extension=m3u8&play_token=ddAOE5TdOU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| SINEMA TURK 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626860&extension=m3u8&play_token=fRUTGQAoti
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| TURKCE SHOW
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626859&extension=m3u8&play_token=4BBEHm5j0c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| VIZYON 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626858&extension=m3u8&play_token=bvIW9pr8wS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| VIZYON 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626857&extension=m3u8&play_token=mYNuNTlulD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="TR| REDBOX",TR| YESILCAM
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1626856&extension=m3u8&play_token=NLc2cxPxTD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SPOR.png" group-title="TR| SPOR KANALLARI",##### TR SPOR #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913406&extension=m3u8&play_token=g7pcbSR8pN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-SPOR-HD.jpeg" group-title="TR| SPOR KANALLARI",TR| A SPOR 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913404&extension=m3u8&play_token=qasKUy1adP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-SPOR-HD.jpeg" group-title="TR| SPOR KANALLARI",TR| A SPOR HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913403&extension=m3u8&play_token=XTtosKl34V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="TR| SPOR KANALLARI",TR| TRT SPOR 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913402&extension=m3u8&play_token=Y6gi7Xl0E0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="TR| SPOR KANALLARI",TR| TRT SPOR HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913401&extension=m3u8&play_token=1Z4kjdjweI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="TR| SPOR KANALLARI",TR| TRT SPOR YILDIZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913405&extension=m3u8&play_token=jEJh6uDa57
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="TR| SPOR KANALLARI",TR| HABER TURK SPOR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1639118&extension=m3u8&play_token=commjGhLhR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/taytv.jpg" group-title="TR| SPOR KANALLARI",TR| TAY TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913400&extension=m3u8&play_token=felYlPuO7y
+#EXTINF:-1 tvg-logo="" group-title="TR| SPOR KANALLARI",TR| EXXEN TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1337928&extension=m3u8&play_token=264reqE41H
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E X X E N SPORT 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913399&extension=m3u8&play_token=ORADWrCzjY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E X X E N SPOR 1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913398&extension=m3u8&play_token=EjwoBqg1O7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913397&extension=m3u8&play_token=v4yNkU2cc4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913396&extension=m3u8&play_token=ICS7TMeweO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913395&extension=m3u8&play_token=f80q9ivKNm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913394&extension=m3u8&play_token=nO8D4z0fw7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 3 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913393&extension=m3u8&play_token=6kjFuyQZxK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913392&extension=m3u8&play_token=6Veem5jmu8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPORT 4 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913391&extension=m3u8&play_token=bCUJx0FZTb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 4 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913390&extension=m3u8&play_token=tgDFhBoqcm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 5 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913389&extension=m3u8&play_token=D5lTDHhxWY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 5 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913388&extension=m3u8&play_token=b2CXL9usKl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 6 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913387&extension=m3u8&play_token=WeBmOvhZqb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 6 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913386&extension=m3u8&play_token=wLPzOtTK3n
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 7 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913385&extension=m3u8&play_token=H3yiojeeZG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 7 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913384&extension=m3u8&play_token=rJuNFjqnol
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E-X-X-E-N SPOR 8 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913383&extension=m3u8&play_token=jSIh5CrzHS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR-2.jpeg" group-title="TR| SPOR KANALLARI",TR| TRT SPOR 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913382&extension=m3u8&play_token=ecMVwFVqjC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ssport.png" group-title="TR| SPOR KANALLARI",TR| S-SPORT HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913381&extension=m3u8&play_token=2aB1fE5zzm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-2.png" group-title="TR| SPOR KANALLARI",TR| S-SPORT 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913380&extension=m3u8&play_token=jZx70YvqzX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="TR| SPOR KANALLARI",TR| S SPORT PLUS+
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913379&extension=m3u8&play_token=jpnjsfBCCG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="TR| SPOR KANALLARI",TR| S SPORT PLUS+1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913378&extension=m3u8&play_token=KyB1OW6XJz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="TR| SPOR KANALLARI",TR| S SPORT PLUS+2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913377&extension=m3u8&play_token=Ogw7k9pEp0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART.png" group-title="TR| SPOR KANALLARI",TR| SPOR SMART HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913376&extension=m3u8&play_token=TxCU51KuHk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART-2.png" group-title="TR| SPOR KANALLARI",TR| SPOR SMART 2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913375&extension=m3u8&play_token=sWrO8ZZ698
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sportstv.jpg" group-title="TR| SPOR KANALLARI",TR| SPORTSTV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913374&extension=m3u8&play_token=4HfoN6Hwg5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="TR| SPOR KANALLARI",TR| TIVIBUSPOR  4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1447189&extension=m3u8&play_token=AtwXJnlSet
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-1.png" group-title="TR| SPOR KANALLARI",TR| TIVIBUSPOR 1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913373&extension=m3u8&play_token=6lIdfpDMVT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-2.png" group-title="TR| SPOR KANALLARI",TR| TIVIBUSPOR 2 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913372&extension=m3u8&play_token=r3i0SSor5q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-3.png" group-title="TR| SPOR KANALLARI",TR| TIVIBUSPOR 3 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913371&extension=m3u8&play_token=BRRBWpm8wG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="TR| SPOR KANALLARI",TR| TIVIBUSPOR 4  4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1447190&extension=m3u8&play_token=cnwNAheTYX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART.png" group-title="TR| SPOR KANALLARI",TR| SPOR SMART 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913370&extension=m3u8&play_token=TBohDRlRws
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ssport.png" group-title="TR| SPOR KANALLARI",TR| S-SPORT 1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913369&extension=m3u8&play_token=qNvKAUBDWk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA-TV.png" group-title="TR| SPOR KANALLARI",TR| NBA TV 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913368&extension=m3u8&play_token=zbKpse89zG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tjktv.png" group-title="TR| SPOR KANALLARI",TR| TJK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913367&extension=m3u8&play_token=UfIIEw810s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/gstv.jpg" group-title="TR| SPOR KANALLARI",TR| GSTV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913366&extension=m3u8&play_token=QjbEP5Jei9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FBTV-HD.jpeg" group-title="TR| SPOR KANALLARI",TR| FBTV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913365&extension=m3u8&play_token=Inn89fTXMo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 1 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438082&extension=m3u8&play_token=oqbZoS66MK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 2 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438083&extension=m3u8&play_token=GyrPkl7Bx4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 3 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438084&extension=m3u8&play_token=WegmQ17B0X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 4 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438085&extension=m3u8&play_token=lDYqlUXfhF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 5 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438086&extension=m3u8&play_token=mn5PYPPgyo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 6 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438087&extension=m3u8&play_token=AnmnNEw4t9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 7 PPV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1438088&extension=m3u8&play_token=mH4wV39Ble
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS.png" group-title="TR| MAC KANALLARI",##### TR BEIN SPOR #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913462&extension=m3u8&play_token=tef9OyYREV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinsporthaber.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912885&extension=m3u8&play_token=fhdX9u4ypt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-HABER.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913461&extension=m3u8&play_token=dG2jWpboCv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-HABER.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913440&extension=m3u8&play_token=K7LuJRG9ad
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinsporthaber.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD (BK)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=912884&extension=m3u8&play_token=ZwoXS6FXpX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913460&extension=m3u8&play_token=9S57vvvfUH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913459&extension=m3u8&play_token=4qwvVIwnhV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913457&extension=m3u8&play_token=gi5kSnfqaH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913446&extension=m3u8&play_token=hTIfmqawfQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD FEED
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913447&extension=m3u8&play_token=IOUMdHIeqI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 UHD ULTRA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913448&extension=m3u8&play_token=vB6TYNVBHg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 4K
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913458&extension=m3u8&play_token=sBqEI0lFB9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913455&extension=m3u8&play_token=LOvgdHLdqt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913456&extension=m3u8&play_token=GHGoubMwH5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913445&extension=m3u8&play_token=ZaNqFet4pL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-3-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913454&extension=m3u8&play_token=auwzUtJa6d
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-3-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913444&extension=m3u8&play_token=VM5XiC8mI5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913453&extension=m3u8&play_token=2C1pCY78mE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913443&extension=m3u8&play_token=DPZUapfuvL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1091502&extension=m3u8&play_token=gSZihnyL3I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 + FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1091501&extension=m3u8&play_token=XY0NGN9zll
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 720
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913452&extension=m3u8&play_token=Ap3NSfVunO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913442&extension=m3u8&play_token=nDp8FwWbEY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 720
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913451&extension=m3u8&play_token=xLdh00vE6w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 1080
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=913441&extension=m3u8&play_token=FOITEb5bjJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TURKEY.png" group-title="TR| DIZILER VIP",##### DIZILER VIP #####
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994199&extension=m3u8&play_token=uaGhOWD6lW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| ADı SEVGI FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994198&extension=m3u8&play_token=1rgdSnkYxx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOX--TV.png" group-title="TR| DIZILER VIP",TR| AŞK MANTıK İNTIKAM FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994197&extension=m3u8&play_token=8ikPcLL9pl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| KALP YARASı FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994196&extension=m3u8&play_token=sMaF3TTAZr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-TV.png" group-title="TR| DIZILER VIP",TR| SADAKATSIZ FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994195&extension=m3u8&play_token=wVLjZPvsnO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| ADA MASALı FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994194&extension=m3u8&play_token=i0y7Cwtb0k
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| ANNEMIZI SAKLARKEN FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994193&extension=m3u8&play_token=ERr59e4qEO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| DESTINY FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994192&extension=m3u8&play_token=vzMachCjg8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| ELBET BIR GÜN FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994191&extension=m3u8&play_token=tPHOyMJ7fm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| GÜLÜMSE KADERINE FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994190&extension=m3u8&play_token=ch87kb8xT9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| IFFET FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994189&extension=m3u8&play_token=GBAQCyTw0c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| KANUNSUZ TOPRAKLAR FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994188&extension=m3u8&play_token=h7gKXFAIA0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| SON NEFESIME KADAR FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994187&extension=m3u8&play_token=OWbb97mWrA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| KıRMıZı ODA FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994186&extension=m3u8&play_token=Q8CrXu4RzA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BLU-TV.png" group-title="TR| DIZILER VIP",TR| ELIMI BıRAKMA FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994185&extension=m3u8&play_token=rUpebMA7aw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRT-1-TV-TR.png" group-title="TR| DIZILER VIP",TR| TEŞKILAT FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994184&extension=m3u8&play_token=bJKHEjusoq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| EVIL SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994183&extension=m3u8&play_token=qdHirvzqrr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| EVIL SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994182&extension=m3u8&play_token=n3TmmiGItu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| MASUM FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994181&extension=m3u8&play_token=y6UDy1mW92
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| SPY CITY FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994180&extension=m3u8&play_token=xmGYTHUVqS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| THE MAN WHO FELL TO EARTH FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994179&extension=m3u8&play_token=247ogrLSqh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEIN-OD.png" group-title="TR| DIZILER VIP",TR| ÜÇ KURUŞ FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994178&extension=m3u8&play_token=FYtjbuWQrj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| KURULUŞ OSMAN SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994177&extension=m3u8&play_token=gGwbBq9yEE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| KURULUŞ OSMAN SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994176&extension=m3u8&play_token=pKlwlNp77x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| KURULUŞ OSMAN SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994175&extension=m3u8&play_token=FUdsdNxV0Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOW-TV.png" group-title="TR| DIZILER VIP",TR| AZIZ FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994174&extension=m3u8&play_token=pW7mUKzRPz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| DESTAN FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994173&extension=m3u8&play_token=Ryj3Ire3D3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| SEVMEK ZAMANı FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994172&extension=m3u8&play_token=DGDi3C7M2c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOW-TV.png" group-title="TR| DIZILER VIP",TR| VAR BUNLAR FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994171&extension=m3u8&play_token=57ZuuhjJCt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| YALNıZ KURT FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994170&extension=m3u8&play_token=ZGFQJX1VUM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A-TV-TR.png" group-title="TR| DIZILER VIP",TR| İÇIMIZDEKI ATEŞ FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994169&extension=m3u8&play_token=gzQLyGSS4j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| 50 M² FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994168&extension=m3u8&play_token=CiCz6CKGha
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| ALL OF US ARE DEAD FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994167&extension=m3u8&play_token=AiE7NWER0N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| ALTERED CARBON SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994166&extension=m3u8&play_token=GnBgMbgU9S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| ALTERED CARBON SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994165&extension=m3u8&play_token=g4ECL1ZdpE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| AŞK 101 SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994164&extension=m3u8&play_token=lqSsoAsz1I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| AŞK 101 SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994163&extension=m3u8&play_token=WgZL90RMyV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| DARK SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994162&extension=m3u8&play_token=DBGw5jVvT9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| DARK SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994161&extension=m3u8&play_token=Yvs2QMEMef
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| DARK SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994160&extension=m3u8&play_token=XKjj3kZfSz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| EL CHAPO SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994159&extension=m3u8&play_token=PAvwIlDaaB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| EL CHAPO SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994158&extension=m3u8&play_token=oYdimzfDZ5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| EL CHAPO SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994157&extension=m3u8&play_token=5w6INeAO1V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| ERŞAN KUNERI FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994156&extension=m3u8&play_token=E8LZ2djyDA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| ESKI POLIS KOMISERININ SıRRı FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994155&extension=m3u8&play_token=sdidNfMrhj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| FIRST KILL FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994154&extension=m3u8&play_token=qxG35V9fp7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| INTO THE NIGHT SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994153&extension=m3u8&play_token=js64nEJO6Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| INTO THE NIGHT SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994152&extension=m3u8&play_token=70vf31vT6x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| KUŞ UÇUŞU FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994151&extension=m3u8&play_token=wovzEsJeVC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LA CASA DE PAPEL SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994150&extension=m3u8&play_token=JLq76Atv4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LA CASA DE PAPEL SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994149&extension=m3u8&play_token=jPE5Gel8FN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LA CASA DE PAPEL SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994148&extension=m3u8&play_token=BliQXOiDzm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LA CASA DE PAPEL SEZON 4 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994147&extension=m3u8&play_token=VwAgz1u7aX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LA CASA DE PAPEL SEZON 5 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994146&extension=m3u8&play_token=IpaHR1MwbH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LUPIN SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994145&extension=m3u8&play_token=XmrQj8fkDK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| LUPIN SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994144&extension=m3u8&play_token=bgYDy8g6iW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| MAN VS BEE FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994143&extension=m3u8&play_token=TdxttTwvkL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| MY NAME FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994142&extension=m3u8&play_token=gU2rrACZFH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| NARCOS  SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994141&extension=m3u8&play_token=TPkZ8uYtAZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| NARCOS SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994140&extension=m3u8&play_token=Cgd2dwOLYw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| NARCOS SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994139&extension=m3u8&play_token=5piGgpYHNh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| PERA PALASTA GECE YARıSı FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994138&extension=m3u8&play_token=qJ6WCt6fhJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| QUEEN OF THE SOUTH  SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994137&extension=m3u8&play_token=XHfy7PG74k
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| QUEEN OF THE SOUTH SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994136&extension=m3u8&play_token=xEnlghaRRb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| QUEEN OF THE SOUTH SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994135&extension=m3u8&play_token=IDbKILPtmo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| QUEEN OF THE SOUTH SEZON 4 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994134&extension=m3u8&play_token=YGP6lJY8yh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| QUEEN OF THE SOUTH SEZON 5 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994133&extension=m3u8&play_token=Gz6z0m6AI7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SPACE FORCE SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994132&extension=m3u8&play_token=fFFHRgmAIS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SPACE FORCE SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994131&extension=m3u8&play_token=50UazAWBDa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SQUID GAME FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994130&extension=m3u8&play_token=MLibLHqCok
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994129&extension=m3u8&play_token=I2u4nPEHdH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994128&extension=m3u8&play_token=VdHiv0m467
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994127&extension=m3u8&play_token=hP0W5CTJWc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 4 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994126&extension=m3u8&play_token=MpxHUwzzd8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 5 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994125&extension=m3u8&play_token=5sEGXVJIOC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 6 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994124&extension=m3u8&play_token=6aNxdsV8cJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 7 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994123&extension=m3u8&play_token=GcgBOhGsFs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 8 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994122&extension=m3u8&play_token=ahonxWwNPs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| SUITS SEZON 9 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994121&extension=m3u8&play_token=uFxxaxuEio
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| TITANS SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994120&extension=m3u8&play_token=7KC0FnWiFb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| TITANS SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994119&extension=m3u8&play_token=bBIq9u6Mak
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| TITANS SEZON 3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994118&extension=m3u8&play_token=sGvqGpWojO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| TOP BOY SEZON 1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994117&extension=m3u8&play_token=hAXbaDXO1w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| TOP BOY SEZON 2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994116&extension=m3u8&play_token=jteIflEr4T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| V WARS FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994115&extension=m3u8&play_token=5L9S6XsypE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| VIKINGS VALHALLA FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994114&extension=m3u8&play_token=2YX932lQqC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/netflix.png" group-title="TR| DIZILER VIP",TR| YAKAMOZ S-245 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994113&extension=m3u8&play_token=x7EvzWzkBz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOX--TV.png" group-title="TR| DIZILER VIP",TR| DOĞDUĞUN EV KADERINDIR FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994112&extension=m3u8&play_token=oyE3KQES6y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOX--TV.png" group-title="TR| DIZILER VIP",TR| KAĞıT EV FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994111&extension=m3u8&play_token=AvjhNKU5O2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOX--TV.png" group-title="TR| DIZILER VIP",TR| KAHRAMAN BABAM FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994110&extension=m3u8&play_token=0a4dSNLB49
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOX--TV.png" group-title="TR| DIZILER VIP",TR| ÖĞRETMEN FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=994109&extension=m3u8&play_token=FVbDRlqfLg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 1 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384240&extension=m3u8&play_token=QeqLgUYkqv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 2 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100327&extension=m3u8&play_token=y1mJgNp3IL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 3 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100328&extension=m3u8&play_token=hzjV1pHGVD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 4 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100329&extension=m3u8&play_token=r6Stau5w5u
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 5 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100330&extension=m3u8&play_token=bGca4XnHCJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 6 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100331&extension=m3u8&play_token=djGJvEnaJU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 7 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100332&extension=m3u8&play_token=cuokyXDrih
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 8 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100333&extension=m3u8&play_token=OBFpmeBmnl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 9 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100334&extension=m3u8&play_token=6O2TW0j631
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 10 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1100335&extension=m3u8&play_token=ih70QhVFD0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 11 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384250&extension=m3u8&play_token=eul4aT9xvk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 12 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384249&extension=m3u8&play_token=rbp1m4Xkqn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 13 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384248&extension=m3u8&play_token=Gwbgm8mS30
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 14 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384247&extension=m3u8&play_token=kxEUmZqa8O
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 15 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384246&extension=m3u8&play_token=TkWquNaIm1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 16 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384245&extension=m3u8&play_token=yTMGPslFWw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 17 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384244&extension=m3u8&play_token=XGIXtIyIzm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 18 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384243&extension=m3u8&play_token=KFWM4RT8pO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 19 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384242&extension=m3u8&play_token=FkvRdIrM1Z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 20 HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1384241&extension=m3u8&play_token=90PsyIOrij
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",####### TABII SPORT ᴿᴬᵂ #######
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625462&extension=m3u8&play_token=rqB3N6D3cS
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 1 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625461&extension=m3u8&play_token=8s0dtk7Ad3
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 2 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625460&extension=m3u8&play_token=9CJmDYU54r
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 3 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625459&extension=m3u8&play_token=GEd8APD2Zd
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 4 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625458&extension=m3u8&play_token=7BQY7sKH5F
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 5 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625457&extension=m3u8&play_token=2qf2PSc03n
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TR| TABII SPORT",TR| TABII SPORT 6 ᴿᴬᵂ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:08:8f:60&stream=1625456&extension=m3u8&play_token=2XgfbZFUxX
