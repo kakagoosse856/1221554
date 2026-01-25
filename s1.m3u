@@ -11,6 +11,19 @@ http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572916&extensio
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572920&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 9 4K
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572924&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 1 UHD FR
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=14&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 1 HD FR
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=11016&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 1 FR UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=149600&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 UHD FR
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=15&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 HD FR
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=11017&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 2 FR UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=149601&extension=m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="بين سبورت_NX",BEIN SPORTS HD
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836256&extension=m3u8&play_token=JNFopajJIh
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-NEWS.png" group-title="بين سبورت_NX",BEIN SPORTS NEWS HD
