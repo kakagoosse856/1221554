@@ -1,0 +1,92 @@
+{
+  "FHD": [
+    {
+      "nom": "BEIN SPORTS 1 FHD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294764&extension=m3u8",
+        "http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6123/index.m3u8",
+        "http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 2 FHD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8",
+        "http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6124/index.m3u8",
+        "http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6124/index.m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 3 FHD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294762&extension=m3u8",
+        "http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6125/index.m3u8",
+        "http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6125/index.m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 4 FHD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294761&extension=m3u8",
+        "http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6126/index.m3u8",
+        "http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6126/index.m3u8"
+      ]
+    }
+  ],
+  "HD": [
+    {
+      "nom": "BEIN SPORTS 1 HD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330437&extension=m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 2 HD",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330436&extension=m3u8"
+      ]
+    }
+  ],
+  "HEVC": [
+    {
+      "nom": "BEIN SPORTS 1 HEVC",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330433&extension=m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 2 HEVC",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330432&extension=m3u8"
+      ]
+    }
+  ],
+  "SD": [
+    {
+      "nom": "BEIN SPORTS 1 LQ",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330474&extension=m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 2 LQ",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330473&extension=m3u8"
+      ]
+    }
+  ],
+  "8K": [
+    {
+      "nom": "BEIN SPORTS 1 UHD 8K",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1411396&extension=m3u8"
+      ]
+    },
+    {
+      "nom": "BEIN SPORTS 2 UHD 8K",
+      "sources": [
+        "http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1411395&extension=m3u8"
+      ]
+    }
+  ]
+}
