@@ -44,7 +44,38 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859086&exten
 #EXTINF:-1 tvg-id="1859085" tvg-name="AR| ALWAN SPORT 2 SD" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 SD
 http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1859085&extension=m3u8
 
-
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 1 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210680&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 2 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210681&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 3 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210682&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 4 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210683&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 5 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210684&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 6 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210685&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 7 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210686&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 8 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210687&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 9 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210688&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 10 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210689&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 11 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210690&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 12 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210691&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 13 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210692&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 14 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210693&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 15 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210694&extension=m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12964.jpg?ver=31801" group-title="AR_KIDS_4K_▶_أطفال",AR: Akwam Kids 16 HD
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:80:C9:FD&stream=210695&extension=m3u8
 
 #EXTINF:-1,ALWAN SPORT 1 HDالقنوات تتأخر قليلا بالفتح
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1859092&extension=m3u8
