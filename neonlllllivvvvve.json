@@ -22,7 +22,10 @@
    { "chaine": { "nom":"GawharSport", "url":"https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8" }},
    { "chaine": { "nom":"MMN HD SPORT 🇮🇶", "url":"http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8" }},
    { "chaine": { "nom":"العراق سبور", "url":"https://iq.ashur-iraq-4g.online/hls/stream.m3u8" }},
-   { "chaine": { "nom":"ASTRO PREMIER LEAGUEmy", "url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571245&extension=m3u8" }},
+   { "chaine": { "nom":"ASTRO PREMIER LEAGUE", "url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571245&extension=m3u8" }},
+    { "chaine": { "nom":"ASTRO PREMIER LEAGUE 2 ", "url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571248&extension=m3u8" }},
+    { "chaine": { "nom":"العراق سبور", "url":"https://iq.ashur-iraq-4g.online/hls/stream.m3u8" }},
+    { "chaine": { "nom":"العراق سبور", "url":"https://iq.ashur-iraq-4g.online/hls/stream.m3u8" }},
    { "chaine": { "nom":"true premier football 3", "url":"http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775968&extension=m3u8" }}
 
 ]
