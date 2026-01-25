@@ -24,6 +24,271 @@ http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108161&extension
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121789&extension=m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 1 TOD
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272468&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 1 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2541&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 1 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245836&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 1 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269952&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=534830&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122213&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108162&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121790&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 2 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272467&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 2 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114052&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 2 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3853&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 2 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269944&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 2 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2540&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 2 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245835&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 2 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269953&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 3 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=4&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 3 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=534829&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 3 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122214&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 3 HD BEEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108164&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 3 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121791&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 3 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272465&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 3 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114050&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 3 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3851&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 3 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269945&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 3 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2538&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 3 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245833&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 3 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269954&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 4 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=5&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 4 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=534828&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 4 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122215&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 4 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108165&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 4 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121792&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 4 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272464&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 4 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114049&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 4 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3850&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 4 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269946&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 4 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=10795&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 4 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245832&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 4 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269962&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 5 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=6&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 5 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=534827&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 5 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122216&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 5 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108166&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 5 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121793&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 5 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272463&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 5 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114048&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 5 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3849&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 5 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269947&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 5 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2536&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 5 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245831&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 5 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269956&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 6 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=7&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 6 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=534826&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 6 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122217&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 6 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108167&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 6 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121794&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 6 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272462&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 6 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114047&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 6 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3848&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 6 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269948&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 6 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2535&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 6 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245830&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 6 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269957&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 7 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=8&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 7 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=578834&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 7 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122218&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 7 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108168&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 7 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121795&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 7 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272461&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 7 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114046&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 7 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3847&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 7 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269949&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 7 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2534&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 7 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245829&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 7 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269958&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 8 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=9&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 8 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=578835&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 8 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122219&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 8 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108169&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 8 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121796&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 8 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272460&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 8 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114045&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 8 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=10361&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 8 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269950&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 8 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2533&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS 8 SD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245828&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 8 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269961&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 9 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=10&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 9 ᴴᴰ
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=578836&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 9 Nexus
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1122220&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 9 HD BEE TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108170&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 9 APPEL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1121797&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS 9 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272459&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 9 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114044&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 9 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=10362&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 9 Nexus 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269951&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 9 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2532&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports 9 Nexus SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1269960&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SP⚽RTS 9 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245827&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 1 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117124&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 1 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117125&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 1 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117123&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 1 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117126&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 2 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117129&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 2 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117130&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 2 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117128&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2HD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 2 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=117131&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 3 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",BEIN SPORTS XSTRA 3 TOD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=272466&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XSTRA 3 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=108163&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 3 XTRA UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=114051&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 3 UHD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=3852&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XSTRA 3 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=2539&extension=m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN SPORTS XSTRA 3 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=245834&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 4 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572902&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 5 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572906&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 6 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572910&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 7 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572914&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 8 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572918&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports XTRA 9 HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572922&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 4 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572903&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 5 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572907&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 6 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572911&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 7 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572915&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 8 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572919&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_SD",beIN Sports XTRA 9 SD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572923&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 4 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572904&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 5 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572908&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 6 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572912&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 7 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572916&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 8 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572920&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 9 4K
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572924&extension=m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/bein/1294822.png",##### BEIN SPORTS B #####
