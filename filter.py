@@ -1,26 +1,50 @@
-import requests
+name: Filter Channels
 
-INPUT = "s4.m3u"
-OUTPUT = "s7.m3u"
+on:
+  workflow_dispatch:        # تشغيل يدوي
+  schedule:
+    - cron: "*/30 * * * *" # تشغيل تلقائي كل 30 دقيقة
 
-with open(INPUT, "r", encoding="utf-8", errors="ignore") as f:
-    lines = f.readlines()
+jobs:
+  filter:
+    runs-on: ubuntu-latest
 
-alive = ["#EXTM3U\n"]
+    steps:
+      # 1️⃣ استنساخ المستودع
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-for i in range(len(lines)):
-    if lines[i].startswith("#EXTINF"):
-        url = lines[i+1].strip()
+      # 2️⃣ إعداد Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-        try:
-            r = requests.head(url, timeout=8, allow_redirects=True)
-            if r.status_code in [200, 301, 302]:
-                alive.append(lines[i])
-                alive.append(lines[i+1])
-        except:
-            pass
+      # 3️⃣ تثبيت المكتبات المطلوبة
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests m3u8  # أضف أي مكتبات أخرى يحتاجها سكربتك
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.writelines(alive)
+      # 4️⃣ تشغيل سكربت الفلترة
+      - name: Run filter script
+        run: python filter.py
+        # إذا كان filter.py في مجلد فرعي استخدم:
+        # run: python path/to/filter.py
 
-print("DONE → Saved", OUTPUT)
+      # 5️⃣ إضافة الملفات الناتجة ورفعها بأمان
+      - name: Commit & push changes
+        run: |
+          git config user.name "BOT"
+          git config user.email "bot@github.com"
+          
+          # إضافة أي ملفات m3u تم إنشاؤها
+          git add *.m3u
+          
+          # إنشاء commit فقط إذا هناك تغييرات
+          git diff-index --quiet HEAD || git commit -m "Update alive channels"
+          
+          # دفع التغييرات باستخدام HTTPS و GITHUB_TOKEN
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
