@@ -1,37 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BEIN1" tvg-name="BEIN 1 🟡
+#EXTINF:-1 tvg-id="BEIN1" tvg-name="BEIN 1 🟡",BEIN 1 🟡
 https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8
 
-#EXTINF:-1 tvg-id="BEIN2" tvg-name="BEIN 2 
+#EXTINF:-1 tvg-id="BEIN2" tvg-name="BEIN 2 🟡",BEIN 2 🟡
 https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/2.m3u8
 
-#EXTINF:-1 tvg-id="BEIN3" tvg-name="BEIN 3 
+#EXTINF:-1 tvg-id="BEIN3" tvg-name="BEIN 3 🟡",BEIN 3 🟡
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/3.m3u8
 
-#EXTINF:-1 tvg-id="Fajer1" tvg-name="Fajer Tv 1
+#EXTINF:-1 tvg-id="Fajer1" tvg-name="Fajer Tv 1",Fajer Tv 1
 https://a.3lok3.site/live/aloka1/aloka1/33.m3u8
 
-#EXTINF:-1 tvg-id="Fajer2" tvg-name="Fajer Tv 2
+#EXTINF:-1 tvg-id="Fajer2" tvg-name="Fajer Tv 2",Fajer Tv 2
 https://a.3lok3.site/live/aloka1/aloka1/34.m3u8
 
-#EXTINF:-1 tvg-id="Fajer3" tvg-name="Fajer Tv 3
+#EXTINF:-1 tvg-id="Fajer3" tvg-name="Fajer Tv 3",Fajer Tv 3
 https://a.3lok3.site/live/aloka1/aloka1/35.m3u8
 
-#EXTINF:-1 tvg-id="Fajer4" tvg-name="Fajer Tv 4
+#EXTINF:-1 tvg-id="Fajer4" tvg-name="Fajer Tv 4",Fajer Tv 4
 https://a.3lok3.site/live/aloka1/aloka1/36.m3u8
 
-#EXTINF:-1 tvg-id="Fajer5" tvg-name="Fajer Tv 5
+#EXTINF:-1 tvg-id="Fajer5" tvg-name="Fajer Tv 5",Fajer Tv 5
 https://a.3lok3.site/live/aloka1/aloka1/37.m3u8
 
-#EXTINF:-1 tvg-id="Server3" tvg-name="SERVER3
+#EXTINF:-1 tvg-id="Server3" tvg-name="SERVER3",SERVER3
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C2:83:C5&stream=941568&extension=ts
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:00:02:A6&stream=35891&extension=ts
 
-#EXTINF:-1 tvg-id="Server4" tvg-name="SERVER4
+#EXTINF:-1 tvg-id="Server4" tvg-name="SERVER4",SERVER4
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2523.m3u8
 http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2525.m3u8
@@ -41,3 +41,4 @@ https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2528.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2529.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2530.m3u8
 https://airmaxx.boats:443/live/airmaxtvpro/syriaxfreevlp963/2531.m3u8
+
