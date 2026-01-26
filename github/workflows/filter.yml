@@ -1,12 +1,12 @@
 name: Filter Channels
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # لتشغيله يدويًا
   schedule:
-    - cron: "*/30 * * * *"  # كل 30 دقيقة (اختياري)
+    - cron: "*/10 * * * *"  # تشغيل كل 30 دقيقة
 
 permissions:
-  contents: write   # ضروري جدًا للكتابة على المستودع
+  contents: write  # مهم جدًا للكتابة على المستودع
 
 jobs:
   filter:
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true  # 🔥 يسمح باستخدام PAT تلقائيًا
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -37,18 +37,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # جلب التحديثات الأخيرة من main
+          # جلب التحديثات الأخيرة للتأكد من مزامنة الفرع
           git fetch origin main
           git checkout main
-          git reset --hard origin/main  # يجعل الفرع المحلي مطابق للـ main على GitHub
+          git reset --hard origin/main
 
-          # إضافة أي ملفات m3u جديدة
-          git add *.m3u
+          # إضافة الملف الجديد أو المحدث
+          git add s7.m3u
 
-          # إنشاء commit فقط إذا هناك تغييرات
+          # commit فقط إذا هناك تغييرات
           git diff --cached --quiet || git commit -m "Update alive channels"
 
-          # رفع التغييرات مباشرة على main باستخدام PAT
+          # رفع التغييرات مباشرة باستخدام PAT
           git push https://$PAT_TOKEN@github.com/kakagoosse856/1221554 main --force
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
