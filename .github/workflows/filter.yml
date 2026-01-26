@@ -21,6 +21,7 @@ jobs:
     # إذا وضعت filter.py داخل scripts/
     - run: python scripts/filter.py
 
+
     - run: |
         git config --global user.name "BOT"
         git config --global user.email "bot@github.com"
