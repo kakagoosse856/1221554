@@ -1,24 +1,20 @@
+#EXTM3U
 
-  channels: [
-    {
-      name: "BEIN 1 🟡",
-      urls: [
-        "https://tv.fan7live.workers.dev/live/beINAR/index.m3u8",
-        "http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8"
-      ]
-    },
-    {
-      name: "BEIN 2 🟡",
-      urls: [
-        "https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8",
-        "http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8"
-      ]
-    },
-    {
-      name: "Fajer 1",
-      urls: [
-        "https://a.3lok3.site/live/aloka1/aloka1/33.m3u8",
-        "http://backup.link/fajer1.m3u8"
+#EXTINF:-1 tvg-id="BEIN1" tvg-name="BEIN 1 🟡" group-title="SPORT"
+http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/1.m3u8
+#EXTINF:-1 tvg-id="BEIN1" tvg-name="BEIN 1 🟡" group-title="SPORT"
+http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8
+
+#EXTINF:-1 tvg-id="BEIN2" tvg-name="BEIN 2 🟡" group-title="SPORT"
+https://cdxcu.yallaliveshoot.online/hls/ch2/master.m3u8
+#EXTINF:-1 tvg-id="BEIN2" tvg-name="BEIN 2 🟡" group-title="SPORT"
+http://atlan2025.me/live/Rochdi70sam/d3hm7lsqrh/510909.m3u8
+
+#EXTINF:-1 tvg-id="Fajer1" tvg-name="Fajer 1" group-title="Fajer"
+https://a.3lok3.site/live/aloka1/aloka1/33.m3u8
+#EXTINF:-1 tvg-id="Fajer1" tvg-name="Fajer 1" group-title="Fajer"
+http://backup.link/fajer1.m3u8
+1.m3u8"
       ]
     }
   ]
