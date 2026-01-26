@@ -1,40 +1,45 @@
-name: Update alive channels
+name: Filter Channels
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # كل 6 ساعات (اختياري)
+    - cron: "*/30 * * * *"  # كل 30 دقيقة (اختياري)
 
-# 🔴 هذا السطر هو الأهم
 permissions:
-  contents: write
+  contents: write  # مهم جداً
 
 jobs:
-  update:
+  filter:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true   # مهم جدا
           fetch-depth: 0
+          persist-credentials: true  # 🔥 هذا يسمح بالpush بدون 403
 
-      - name: Setup Git
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run filter script
+        run: python filter.py
+
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Create or update m3u file
-        run: |
-          echo "#EXTM3U" > s7.m3u
-          date >> s7.m3u
+          # إنشاء فرع تلقائي أو استخدم main لو تحب
+          git checkout -B auto-update
 
-      - name: Commit changes
-        run: |
           git add *.m3u
           git diff --cached --quiet || git commit -m "Update alive channels"
-
-      - name: Push changes
-        run: |
-          git push origin main
+          git push origin auto-update --force
