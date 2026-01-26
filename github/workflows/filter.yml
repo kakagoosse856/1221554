@@ -3,7 +3,7 @@ name: Update Alive Channels
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # كل 30 دقيقة
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -28,14 +28,15 @@ jobs:
           python-version: "3.11"
 
       - name: Run filter script
-        run: |
-          echo "Running filter.py..."
-          python filter.py
+        run: python filter.py
 
-      - name: Commit & push changes
+      - name: Sync, commit & push
         run: |
           git config user.name "BOT"
           git config user.email "bot@github.com"
+
+          git fetch origin main
+          git reset --hard origin/main   # مزامنة كاملة مع آخر حالة في remote
 
           git add *.m3u || true
 
@@ -44,9 +45,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "تحديث القنوات النشطة"
-
-          # مزامنة نهائية قبل الدفع (الحل النهائي لمشكل fetch first)
-          git pull --rebase origin main
-
+          git commit -m "Update alive channels"
           git push origin HEAD:main
