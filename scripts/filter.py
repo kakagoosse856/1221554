@@ -1,7 +1,7 @@
 import requests
 
 INPUT_FILE = "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/beeenmonaw3llfaltara.m3u"
-OUTPUT_FILE = "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s6.m3u"
+OUTPUT_FILE = "s7.m3u"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
