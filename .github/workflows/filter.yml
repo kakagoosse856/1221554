@@ -2,8 +2,8 @@ name: Filter Channels
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # يعمل كل 2 دقيقة
+  workflow_dispatch:        # يمكن تشغيله يدويًا
 
 jobs:
   filter:
@@ -18,7 +18,8 @@ jobs:
 
     - run: pip install requests
 
-    - run: python filter.py
+    # إذا وضعت filter.py داخل scripts/
+    - run: python scripts/filter.py
 
     - run: |
         git config --global user.name "BOT"
