@@ -1,27 +1,26 @@
 import requests
 import re
 
-BASE = "https://v5on.site/"
-OUTPUT = "v5on_channels.m3u"
+HTML_URL = "https://raw.githubusercontent.com/kakagoosse856/1221554/main/v5.html"
+OUTPUT_M3U = "v5.m3u"
+BASE_PLAY_URL = "https://v5on.site/"
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+resp = requests.get(HTML_URL, timeout=20)
+resp.raise_for_status()
 
-print("📡 جلب الصفحة الرئيسية...")
-html = requests.get(BASE, headers=headers, timeout=15).text
+html = resp.text
 
-# استخراج كل IDs
-ids = sorted(set(re.findall(r'play\.php\?id=(\d+)', html)))
+# استخراج كل play.php?id=XXXX
+ids = re.findall(r'play\.php\?id=(\d+)', html)
 
-print(f"✅ تم استخراج {len(ids)} قناة")
+ids = list(dict.fromkeys(ids))  # حذف التكرار
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n\n")
-    for cid in ids:
-        f.write(
-            f'#EXTINF:-1 tvg-id="{cid}" group-title="V5ON",Channel {cid}\n'
-        )
-        f.write(f"{BASE}play.php?id={cid}\n\n")
+print(f"تم استخراج {len(ids)} قناة")
 
-print("🎉 تم إنشاء ملف M3U بنجاح")
+with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n")
+    for i, cid in enumerate(ids, 1):
+        f.write(f"#EXTINF:-1,Channel {i}\n")
+        f.write(f"{BASE_PLAY_URL}play.php?id={cid}\n")
+
+print("✔ تم إنشاء ملف v5.m3u بنجاح")
