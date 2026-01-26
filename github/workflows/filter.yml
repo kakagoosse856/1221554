@@ -3,14 +3,21 @@ name: Update Alive Channels
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # كل 30 دقيقة
+    - cron: "*/10 * * * *"   # كل 30 دقيقة
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-alive-channels
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -21,19 +28,25 @@ jobs:
           python-version: "3.11"
 
       - name: Run filter script
-        run: python filter.py
+        run: |
+          echo "Running filter.py..."
+          python filter.py
+
+      - name: Sync with remote main
+        run: |
+          git fetch origin main
+          git rebase origin/main || git rebase --abort
 
       - name: Commit & push changes
         run: |
           git config user.name "BOT"
           git config user.email "bot@github.com"
 
-          git pull --rebase origin main
+          git add *.m3u || true
 
-          git add *.m3u
-
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update alive channels"
-
-          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          if git diff --staged --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Update alive channels"
+            git push origin HEAD:main
+          fi
