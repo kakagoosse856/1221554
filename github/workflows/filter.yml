@@ -1,15 +1,12 @@
 name: Update Alive Channels
 
 on:
-  workflow_dispatch:      # تشغيل يدوي
+  workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"  # تحديث كل 15 دقيقة
-
-permissions:
-  contents: write         # مهم للكتابة على المستودع
+    - cron: "*/30 * * * *"   # كل 30 دقيقة
 
 jobs:
-  update-channels:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,36 +14,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
-
-      - name: Install dependencies
-        run: pip install --upgrade pip requests
+          python-version: "3.11"
 
       - name: Run filter script
         run: python filter.py
 
       - name: Commit & push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "BOT"
+          git config user.email "bot@github.com"
 
-          # مزامنة الفرع المحلي مع remote
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
+          git pull --rebase origin main
 
-          # إضافة الملف الجديد أو المحدث
-          git add s7.m3u
+          git add *.m3u
 
-          # commit فقط إذا هناك تغييرات
-          git diff --cached --quiet || git commit -m "Update alive channels"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update alive channels"
 
-          # رفع التغييرات مباشرة
-          git push https://$PAT_TOKEN@github.com/kakagoosse856/1221554 main --force
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
