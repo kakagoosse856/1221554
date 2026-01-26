@@ -1,38 +1,52 @@
 [
-  { "chaine": { "nom":"STARZPLAY Sport 1", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993327&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 2", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993328&extension=m3u8" }},
-  { "chaine": { "nom":"STARZPLAY Sport 3", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=993329&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 1", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936353&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 2", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936354&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 3", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936355&extension=m3u8" }},
-  { "chaine": { "nom":"THMANYAH 4", "url":"http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936350&extension=m3u8" }},
-  { "chaine": { "nom":"POST SPORT 1", "url":"https://live21.bozztv.com/akamaissh101/ssh101/beinmixflix/chunks.m3u8" }},
-  { "chaine": { "nom":"bein1", "url":"https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd?|drmScheme=clearkey&drmLicense=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78" }},
-  { "chaine": { "nom":"NRT SPORT HD A", "url":"http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8" }},
-  { "chaine": { "nom":"NRT SPORT HD B", "url":"https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8" }},
-  { "chaine": { "nom":"Zaxosport", "url":"http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8" }},
-  { "chaine": { "nom":"Ldsport", "url":"http://109.123.245.192/Ldsport/index.m3u8" }},
-  { "chaine": { "nom":"gzcspor", "url":"http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8" }},
-  { "chaine": { "nom":"Ldsport A", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
-  { "chaine": { "nom":"Avasport", "url":"http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8" }},
-  { "chaine": { "nom":"Avasport A", "url":"http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8" }},
-   { "chaine": { "nom":"DasinyaSport", "url":"http://116342296971.d4ktv.info/live/hicham_100081/E8fk82lZ/689911.m3u8" }},
-   { "chaine": { "nom":"Duhok_Sport A", "url":"http://d478.dtv.homes:2082//live/star25_982663/w8Shzhse/129834.m3u8" }},
-   { "chaine": { "nom":"Duhok_Sport B", "url":"http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.m3u8" }},
-   { "chaine": { "nom":"GawharSport", "url":"https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8" }},
-   { "chaine": { "nom":"MMN HD SPORT 🇮🇶", "url":"http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8" }},
-   { "chaine": { "nom":"العراق سبور", "url":"https://iq.ashur-iraq-4g.online/hls/stream.m3u8" }},
-   { "chaine": { "nom":"ASTRO PREMIER LEAGUE","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571245&extension=m3u8" }},
-    { "chaine": { "nom":"ASTRO PREMIER LEAGUE 2","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571248&extension=m3u8" }},
-    { "chaine": { "nom":"ASTRO GRANDSTAND","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571247&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE ","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032487&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE 2","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032486&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE 3 ","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032485&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE 4 ","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032484&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE 5","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032483&extension=m3u8" }},
-    { "chaine": { "nom":"NOW PREMIER LEAGUE 6","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571246&extension=m3u8" }},
-    { "chaine": { "nom":"ASTRO FOOTBALL ","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1032482&extension=m3u8" }},
-    { "chaine": { "nom":"ASTRO FOOTBALL ","url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571246&extension=m3u8" }},
-   { "chaine": { "nom":"true premier football 3","url":"http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775968&extension=m3u8" }}
+  {
+    "chaine": {
+      "nom": "STARZPLAY Sport 1",
+      "urls": [
+        "http://backup-server.com/starz1.m3u8",
+        "http://5678999.life:2082/live/adamusa1242025/attalah77448866/667204.m3u8"
+      ]
+    }
+  },
 
+  {
+    "chaine": {
+      "nom": "THMANYAH",
+      "urls": [
+        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936353&extension=m3u8",
+        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936354&extension=m3u8",
+        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936355&extension=m3u8"
+      ]
+    }
+  },
+
+  {
+    "chaine": {
+      "nom": "NRT SPORT HD",
+      "urls": [
+        "http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8"
+      ]
+    }
+  },
+
+  {
+    "chaine": {
+      "nom": "Avasport",
+      "urls": [
+        "http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8",
+        "http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8"
+      ]
+    }
+  },
+
+  {
+    "chaine": {
+      "nom": "Duhok Sport",
+      "urls": [
+        "http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/129834.m3u8",
+        "http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.m3u8"
+      ]
+    }
+  }
 ]
