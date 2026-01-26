@@ -1,515 +1,619 @@
-#EXTINF:-1 tvg-name="========== السرفر الأول ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
-#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
-#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
-#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=m3u8
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=m3u8
-#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension==m3u8
-#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
-#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGAL/BEIN-SPORT-4K.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 4K [EVENT ONLY]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1851249&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806584.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806584&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806583.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN NEWS
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806583&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806582.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 01 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806582&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806581.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 02 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806581&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806580.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 03 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806580&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806579.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 04 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806579&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806578.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 05 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806578&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806577.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 06 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806577&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806576.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 07 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806576&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806575.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 08 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806575&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806574.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 09 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806574&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806573.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 01 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806573&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806572.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 02 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806572&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806571.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 03 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806571&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806570.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 04 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806570&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806569.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 05 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806569&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806568.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 06 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806568&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806567.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 07 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806567&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806566.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 08 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806566&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806565.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 09 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806565&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806564.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 1 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806564&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806563.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 2 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806563&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806562.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 3 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806562&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806561.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 4 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806561&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806560.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 5 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806560&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806559.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 6 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806559&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806558.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 7 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806558&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806557.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 8 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806557&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806556.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 9 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806556&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806555.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 01 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806555&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806554.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 02 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806554&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806553.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 03 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806553&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806552.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 04 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806552&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806551.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 05 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806551&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806550.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 06 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806550&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806549.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 07 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806549&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806548.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 08 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806548&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806547.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 09 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806547&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806546.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT 01  EN
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806546&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806545.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806545&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806544.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806544&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806543.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 03 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806543&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806542.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806542&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806541.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806541&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806540.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 03 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806540&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-4.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832943&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-5.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 5 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832942&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-6.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 6 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832941&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-7.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 7 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832940&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-8.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 8 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832939&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEIN-SPORT-XTRA-9.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT XTRA 9 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1832938&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806539.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT AFC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806539&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806538.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN SPORT AFC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806538&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806537.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806537&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806536.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806536&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806535.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806535&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806534.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806534&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806533.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 3 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806533&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1806532.png" group-title="⚽ بين سبورت بث خاص",AR| BEIN AFC 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1806532&extension=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 4 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572904&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 5 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572908&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 6 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572912&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 7 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572916&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 8 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572920&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports XTRA 9 4K
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=1572924&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294774.png" group-title="⚽ بين سبورت_FHD",##### BEIN SPORTS FHD #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294774&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1764953.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 4K/UHD [EVENT]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1764953&extension=m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="⚽ بين سبورت_FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1347222&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294773.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS NEWS FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294773&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294772.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS GLOBAL FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294772&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294764.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294764&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294763.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294762.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 3 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294762&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294761.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 4 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294761&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294760.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 5 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294760&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294759.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 6 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294759&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294758.png" group-title="⚽ بين سبورت_FHD",AR|  BEIN  SPORTS 7 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294758&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330412.png" group-title="⚽ بين سبورت_FHD",AR|  BEIN  SPORTS 8 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330412&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330413.png" group-title="⚽ بين سبورت_FHD",AR|  BEIN  SPORTS 9 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330413&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294895.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 1 XSTRA FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294895&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294894.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 2 XSTRA FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294894&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330411.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 3 XSTRA FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330411&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330419.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 1 ENGLISH FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330419&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330418.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 2 ENGLISH FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330418&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330417.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 1 FRANCE FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330417&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330416.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 2 FRANCE FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330416&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330415.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS 3 FRANCE FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330415&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330414.png" group-title="⚽ بين سبورت_FHD",AR| BEIN SPORTS NBA FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330414&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 1 UHD FR
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=14&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 1 HD FR
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=11016&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 1 FR UHD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=149600&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 UHD FR
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=15&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_HD",beIN Sports 2 HD FR
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=11017&extension=m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="_AR_✪_BEIN_SPORT_4K",beIN Sports 2 FR UHD
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:54:FB:E6&stream=149601&extension=m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="بين سبورت_NX",BEIN SPORTS HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836256&extension=m3u8&play_token=JNFopajJIh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-NEWS.png" group-title="بين سبورت_NX",BEIN SPORTS NEWS HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836255&extension=m3u8&play_token=UmGvsakjLC
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_NX",BEIN SPORTS 1 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660414&extension=m3u8&play_token=yBunZZxCkN
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_NX",BEIN SPORTS 2 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660412&extension=m3u8&play_token=1lJ03XJEbP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="بين سبورت_NX",BEIN SPORTS 3 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660410&extension=m3u8&play_token=qgjUAJbkCr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png" group-title="بين سبورت_NX",BEIN SPORTS 4 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660408&extension=m3u8&play_token=SRE2KHaJwb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png" group-title="بين سبورت_NX",BEIN SPORTS 5 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660406&extension=m3u8&play_token=2r1xzk9LhE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png" group-title="بين سبورت_NX",BEIN SPORTS 6 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660404&extension=m3u8&play_token=rlHnDwrBx8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png" group-title="بين سبورت_NX",BEIN SPORTS 7 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660402&extension=m3u8&play_token=mMIn0ThVIK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="بين سبورت_NX",BEIN SPORTS 8 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660400&extension=m3u8&play_token=Q8La0ojTQo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="بين سبورت_NX",BEIN SPORTS 9 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660398&extension=m3u8&play_token=GMt11DgCa0
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png" group-title="بين سبورت_NX",NBA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836257&extension=m3u8&play_token=Ccj0oFru3s
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png" group-title="بين سبورت_NX",BEIN SPORTS ENGLISH 1 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660396&extension=m3u8&play_token=rZh4fUIp6u
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png" group-title="بين سبورت_NX",BEIN SPORTS ENGLISH 2 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660394&extension=m3u8&play_token=VNof4NLMED
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-1.png" group-title="بين سبورت_NX",BEIN SPORTS XTRA 1 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660391&extension=m3u8&play_token=295Q2O01Wj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-2.png" group-title="بين سبورت_NX",BEIN SPORTS XTRA 2 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660387&extension=m3u8&play_token=iuUpK7UXKV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-3.png" group-title="بين سبورت_NX",BEIN SPORTS XTRA 3 720
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660388&extension=m3u8&play_token=VhgRVaKZKz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411398.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411398&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411397.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411397&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411396.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS1 ᵁᴴᴰ8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411396&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411395.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411395&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411394.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411394&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411393.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411393&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411392.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411392&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411391.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS6 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411391&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411390.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411390&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411389.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411389&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411388.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411388&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411385.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411385&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411384.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411384&extension=m3u8
 
-#EXTINF:-1 tvg-name="========== السرفر الثاني ==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",========== السرفر الأول ==========
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411383.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS1 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411383&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411382.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS2 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411382&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411381.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS3 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411381&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411380.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS4 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411380&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411379.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS5 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411379&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS6 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411378&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411377.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS7 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411377&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411376.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS8 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411376&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411375.png" group-title="⚽ بين سبورت_ᵁᴴᴰ_4K",BEIN SPORTS9 ᵁᴴᴰ 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411375&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="بين سبورت_NX",BEIN SPORTS SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836244&extension=m3u8&play_token=sItxilWWbk
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_NX",BEIN SPORTS 1 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660413&extension=m3u8&play_token=PKe1Wdhh5d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_NX",BEIN SPORTS 2 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660411&extension=m3u8&play_token=iN192UdAhB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="بين سبورت_NX",BEIN SPORTS 3 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660409&extension=m3u8&play_token=fboHR9khuh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png" group-title="بين سبورت_NX",BEIN SPORTS 4 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660407&extension=m3u8&play_token=YiM9ltaDts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png" group-title="بين سبورت_NX",BEIN SPORTS 5 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660405&extension=m3u8&play_token=zMzgjQX08m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png" group-title="بين سبورت_NX",BEIN SPORTS 6 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660403&extension=m3u8&play_token=s5uZ5oRccH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png" group-title="بين سبورت_NX",BEIN SPORTS 7 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660401&extension=m3u8&play_token=NoJRmTmSqF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="بين سبورت_NX",BEIN SPORTS 8 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660399&extension=m3u8&play_token=Np4Ivn43v4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="بين سبورت_NX",BEIN SPORTS 9 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660397&extension=m3u8&play_token=ZcdUPVYoKe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-1.png" group-title="بين سبورت_NX",BEIN SPORTS XTRA 1 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836243&extension=m3u8&play_token=Su8WhTxycS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-2.png" group-title="بين سبورت_NX",BEIN SPORTS XTRA 2 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836242&extension=m3u8&play_token=kSxKfT2e2F
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png" group-title="بين سبورت_NX",BEIN SPORTS ENGLISH 1 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660395&extension=m3u8&play_token=iUaPHCAnbK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png" group-title="بين سبورت_NX",BEIN SPORTS ENGLISH 2 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660393&extension=m3u8&play_token=Kp71ndaKyY
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1660385.png" group-title="بين سبورت_NX",BEIN SPORTS  AFC 480
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1660385&extension=m3u8&play_token=T9LqqgCMdR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-1.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 1
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836254&extension=m3u8&play_token=pzle8k27Yy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-2.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 2
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836253&extension=m3u8&play_token=qqDM7qvUen
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-3.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 3
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836252&extension=m3u8&play_token=AfPZxczekZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-4.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 4
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836251&extension=m3u8&play_token=pHFxgjvOU3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-5.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 5
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836250&extension=m3u8&play_token=g4JCuiKT01
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-6.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 6
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836249&extension=m3u8&play_token=dH26H2MRrm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-8.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 8
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836248&extension=m3u8&play_token=sTBUdBuoV5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-9.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 9
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836247&extension=m3u8&play_token=Xs7O17Z01g
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-7.png" group-title="بين سبورت_NX",BEIN SPORTS LOW 7
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1836246&extension=m3u8&play_token=6R7oqWh11G
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="بين سبورت_SD",##### BEIN SPORTS LQ #####
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330486&extension=m3u8&play_token=KZAnnB8Zp0
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330471.png" group-title="بين سبورت_SD",AR| BEIN SPORTS NEWS LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330471&extension=m3u8&play_token=DH0693wQy9
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330472.png" group-title="بين سبورت_SD",AR| BEIN SPORTS GLOBAL LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330472&extension=m3u8&play_token=2fNbV5F3mP
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 1 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330474&extension=m3u8&play_token=4sOigqexCL
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 2 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330475&extension=m3u8&play_token=OlsZBkpWWR
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330476.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 3 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330476&extension=m3u8&play_token=xqol5s1jR1
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330477.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 4 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330477&extension=m3u8&play_token=gOCILIIVp8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330478.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 5 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330478&extension=m3u8&play_token=7qr5GzliL8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330479.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 6 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330479&extension=m3u8&play_token=iKIaEKNvPS
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330480.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 7 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330480&extension=m3u8&play_token=q3JYUbxgM9
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330481.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 8 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330481&extension=m3u8&play_token=mG2tuu6hli
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330482.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 9 LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330482&extension=m3u8&play_token=btYDLSZ5by
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 1 XTRA LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330483&extension=m3u8&play_token=fmdJfzORqa
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 2 XTRA LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330484&extension=m3u8&play_token=eDD59ovGlz
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330485.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 3 XTRA LQ
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330485&extension=m3u8&play_token=UwNIpq2lU1
-#EXTINF:-1 tvg-logo="" group-title="بين سبورت_SD",##### BEIN SPORTS SD #####
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1294856&extension=m3u8&play_token=0z6ifH2XuZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="بين سبورت_SD",AR| TOD 360 SD ( EVENT ONLY )
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1347224&extension=m3u8&play_token=e0PReNtGce
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330455.png" group-title="بين سبورت_SD",AR| BEIN SPORTS NEWS SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330455&extension=m3u8&play_token=F9jUZhbfmN
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330456.png" group-title="بين سبورت_SD",AR| BEIN SPORTS GLOBAL SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330456&extension=m3u8&play_token=b5MLVFjMGN
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 1 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330457&extension=m3u8&play_token=zq4cEquDGN
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 2 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330458&extension=m3u8&play_token=M77mylFvfY
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330459.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 3 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330459&extension=m3u8&play_token=V2ICPitk6h
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330460.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 4 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330460&extension=m3u8&play_token=w6RC4r716n
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330461.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 5 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330461&extension=m3u8&play_token=3sYKqGpe9E
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330462.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 6 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330462&extension=m3u8&play_token=qTnnFQzQPQ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330463.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 7 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330463&extension=m3u8&play_token=ksbZdRsi4N
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330464.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 8 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330464&extension=m3u8&play_token=XgHALaxZpH
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330465.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 9 SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330465&extension=m3u8&play_token=9mHOyki9aV
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 1 XTRA SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330466&extension=m3u8&play_token=hdAwxexbso
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 2 XTRA SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330467&extension=m3u8&play_token=4UwwDlRMII
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330468.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 3 XTRA SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330468&extension=m3u8&play_token=4Vo5kw265B
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 1 ENGLISH SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330469&extension=m3u8&play_token=kdc4rf8vvw
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_SD",AR| BEIN SPORTS 2 ENGLISH SD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330470&extension=m3u8&play_token=M2rfy6RDnh
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="بين سبورت_HD",##### BEIN SPORTS HD #####
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1294822&extension=m3u8&play_token=X39AIfM5IP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png" group-title="بين سبورت_HD",AR| STC PPV [LIVE-EVENTS]
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1356796&extension=m3u8&play_token=ncbemb9EQM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="بين سبورت_HD",AR| TOD 360 HD ( EVENT ONLY )
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1347223&extension=m3u8&play_token=VoH4DDfWMd
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330434.png" group-title="بين سبورت_HD",AR| BEIN SPORTS NEWS HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330434&extension=m3u8&play_token=WEdlqQ7bAc
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330435.png" group-title="بين سبورت_HD",AR| BEIN SPORTS GLOBAL HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330435&extension=m3u8&play_token=e8EeGrKxtO
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 1 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330437&extension=m3u8&play_token=lklLyrXbm4
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 2 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330438&extension=m3u8&play_token=7DqCeci31a
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330439.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 3 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330439&extension=m3u8&play_token=ZwaiwkdqBR
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330440.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 4 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330440&extension=m3u8&play_token=NavGekivbT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330441.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 5 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330441&extension=m3u8&play_token=EiTrllpamy
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330442.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 6 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330442&extension=m3u8&play_token=dWD3GUpeFb
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330443.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 7 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330443&extension=m3u8&play_token=5ozi50PJqt
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330444.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 8 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330444&extension=m3u8&play_token=fGb5TvL3Ik
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330445.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 9 HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330445&extension=m3u8&play_token=If55qLGK58
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 1 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330446&extension=m3u8&play_token=pSEED3HulA
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 2 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330447&extension=m3u8&play_token=ItkKANkHV3
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330448.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 3 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330448&extension=m3u8&play_token=ujBqGPlZmT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-4.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 4 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777675&extension=m3u8&play_token=6sRkAPDNph
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-5.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 5 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777674&extension=m3u8&play_token=TtrcAnKhWA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-6.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 6 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777673&extension=m3u8&play_token=a139PPZjkQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-7.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 7 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777672&extension=m3u8&play_token=eCOMqQo4b6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-8.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 8 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777671&extension=m3u8&play_token=rab8IkB0vb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-XTRA-9.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 9 XTRA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1777670&extension=m3u8&play_token=qZt8cRXw99
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 1 ENGLISH HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330449&extension=m3u8&play_token=OiOlcLYl9W
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 2 ENGLISH HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330450&extension=m3u8&play_token=ToyCkhN08Q
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd1.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 1 FRANCE HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330451&extension=m3u8&play_token=Gp8qYu7vEK
-#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 2 FRANCE HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330452&extension=m3u8&play_token=dCHnvUAtfD
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1330453.png" group-title="بين سبورت_HD",AR| BEIN SPORTS 3 FRANCE HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330453&extension=m3u8&play_token=pHeUQaNECT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png" group-title="بين سبورت_HD",AR| BEIN SPORTS NBA HD
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:FB:3B:98&stream=1330454&extension=m3u8&play_token=yzN19yVdlM
-#EXTINF:-1 tvg-id="1294822" tvg-name="##### السرفر الثالث #####" group-title="AR| BEIN SPORTS HD",##### BEIN SPORTS HD #####
-
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294822&extension=m3u8
-
-#EXTINF:-1 tvg-id="1294822" tvg-name="##### BEIN SPORTS HD #####" group-title="AR| BEIN SPORTS HD",##### BEIN SPORTS HD #####
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294822&extension=m3u8
-
-#EXTINF:-1 tvg-id="1356796" tvg-name="AR| STC PPV [LIVE-EVENTS]" group-title="AR| BEIN SPORTS HD",AR| STC PPV [LIVE-EVENTS]
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1356796&extension=m3u8
-
-#EXTINF:-1 tvg-id="1347223" tvg-name="AR| TOD 360 HD ( EVENT ONLY )" group-title="AR| BEIN SPORTS HD",AR| TOD 360 HD ( EVENT ONLY )
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1347223&extension=m3u8
-#EXTINF:-1 tvg-id="1330434" tvg-name="AR| BEIN SPORTS NEWS HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330434&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330435" tvg-name="AR| BEIN SPORTS GLOBAL HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS GLOBAL HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330435&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330437" tvg-name="AR| BEIN SPORTS 1 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 1 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330437&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330438" tvg-name="AR| BEIN SPORTS 2 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330438&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330439" tvg-name="AR| BEIN SPORTS 3 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 3 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330439&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330440" tvg-name="AR| BEIN SPORTS 4 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 4 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330440&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330441" tvg-name="AR| BEIN SPORTS 5 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 5 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330441&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330442" tvg-name="AR| BEIN SPORTS 6 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 6 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330442&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330443" tvg-name="AR| BEIN SPORTS 7 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 7 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330443&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330444" tvg-name="AR| BEIN SPORTS 8 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 8 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330444&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330445" tvg-name="AR| BEIN SPORTS 9 HD" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 9 HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330445&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330486" tvg-name="##### BEIN SPORTS LQ #####" group-title="AR| BEIN SPORTS SD",##### BEIN SPORTS LQ #####
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330486&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330471" tvg-name="AR| BEIN SPORTS NEWS LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS NEWS LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330471&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330472" tvg-name="AR| BEIN SPORTS GLOBAL LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS GLOBAL LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330472&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330474" tvg-name="AR| BEIN SPORTS 1 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 1 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330474&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330475" tvg-name="AR| BEIN SPORTS 2 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330475&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330476" tvg-name="AR| BEIN SPORTS 3 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 3 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330476&extension=m3u8
-#EXTINF:-1 tvg-id="1330477" tvg-name="AR| BEIN SPORTS 4 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 4 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330477&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330478" tvg-name="AR| BEIN SPORTS 5 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 5 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330478&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330479" tvg-name="AR| BEIN SPORTS 6 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 6 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330479&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330480" tvg-name="AR| BEIN SPORTS 7 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 7 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330480&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330481" tvg-name="AR| BEIN SPORTS 8 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 8 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330481&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330482" tvg-name="AR| BEIN SPORTS 9 LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 9 LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330482&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330483" tvg-name="AR| BEIN SPORTS 1 XTRA LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 1 XTRA LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330483&extension=m3u8
-
-#EXTINF:-1 tvg-id="1330484" tvg-name="AR| BEIN SPORTS 2 XTRA LQ" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 XTRA LQ
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1330484&extension=m3u8
-
-#EXTINF:-1 tvg-id="1836256" tvg-name="BEIN SPORTS HD" group-title="AR| BEIN SPORTS NX",BEIN SPORTS HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1836256&extension=m3u8&play_token=lP3KJ9yde0
-
-#EXTINF:-1 tvg-id="1836255" tvg-name="BEIN SPORTS NEWS HD" group-title="AR| BEIN SPORTS NX",BEIN SPORTS NEWS HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1836255&extension=m3u8&play_token=4dCvj3CN5T
-
-#EXTINF:-1 tvg-id="1660414" tvg-name="BEIN SPORTS 1 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 1 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660414&extension=m3u8&play_token=feLsIqjT1F
-
-#EXTINF:-1 tvg-id="1660412" tvg-name="BEIN SPORTS 2 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 2 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660412&extension=m3u8&play_token=XhN2ykypIr
-
-#EXTINF:-1 tvg-id="1660410" tvg-name="BEIN SPORTS 3 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 3 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660410&extension=m3u8&play_token=Z19uimhwzA
-
-#EXTINF:-1 tvg-id="1660408" tvg-name="BEIN SPORTS 4 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 4 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660408&extension=m3u8&play_token=MGq1Zqxm4i
-
-#EXTINF:-1 tvg-id="1660406" tvg-name="BEIN SPORTS 5 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 5 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660406&extension=m3u8&play_token=iWlOe8s3y2
-
-#EXTINF:-1 tvg-id="1660404" tvg-name="BEIN SPORTS 6 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 6 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660404&extension=m3u8&play_token=Li1RuCCxlR
-
-#EXTINF:-1 tvg-id="1660402" tvg-name="BEIN SPORTS 7 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 7 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660402&extension=m3u8&play_token=sixrPYtTi5
-
-#EXTINF:-1 tvg-id="1660400" tvg-name="BEIN SPORTS 8 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 8 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660400&extension=m3u8&play_token=XDcTXCaRvu
-
-#EXTINF:-1 tvg-id="1660398" tvg-name="BEIN SPORTS 9 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 9 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660398&extension=m3u8&play_token=qLtlJlaWNj
-
-#EXTINF:-1 tvg-id="1836257" tvg-name="NBA HD" group-title="AR| BEIN SPORTS NX",NBA HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1836257&extension=m3u8&play_token=WqUUbbOkNW
-
-#EXTINF:-1 tvg-id="1660396" tvg-name="BEIN SPORTS ENGLISH 1 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660396&extension=m3u8&play_token=RGUR70KIdG
-
-#EXTINF:-1 tvg-id="1660394" tvg-name="BEIN SPORTS ENGLISH 2 720" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 720
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1660394&extension=m3u8&play_token=vFeADGaL0y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363480.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 1ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363480&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363481.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 2ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363481&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363482.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 3ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363482&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363483.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 4ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363483&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363484.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 5ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363484&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363485.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 6ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363485&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363486.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 7ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363486&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363487.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 8ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363487&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363488.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 9ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363488&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363489.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS AFCᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363489&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363490.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363490&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363491.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363491&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363492.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363492&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363493.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363493&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363494.png" group-title="⚽ بين سبورت_ᵁᴴᴰ",AR| BEIN SPORTS XTRA 3ᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1363494&extension=m3u8
 
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836259.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836259&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836258.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS NEWS FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836258&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836268.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836268&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836267&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836266.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836266&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836265.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836265&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836264.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836264&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836263.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836263&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836262&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836261.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836261&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836260.png" group-title="⚽ بين سبورت_NX_FHD",BEIN SPORTS FHD 9
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836260&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836245.png" group-title="⚽ بين سبورت_NX_FHD",BEIN AFC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836245&extension=m3u8
 
-#EXTINF:-1,###########SERVER1###########
-#EXTINF:-1 tvg-logo="" group-title="bein",Bein Sports Xtra Africa
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 A1
-http://het000.4rouwanda-shop.store/live/978480008877005/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 B
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6123/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 A
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6124/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 B
-http://207.180.229.26/stream.php?id=138135
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6125/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6126/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6127/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6128/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6129/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6130/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
-http://f335f3de.ottclub.xyz/iptv/QPRSSCLKLK6HZ2/6131/index.m3u8
-#EXTINF:-1,###########SERVER2###########
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6131/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6129/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9
-http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6130/index.m3u8
-#EXTINF:-1,###########SERVER3###########
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 1 
-https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 2 
-https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 3 
-https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 4 
-https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 5 
-https://tv.fan7live.workers.dev/live/beINAR5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 6 
-https://tv.fan7live.workers.dev/live/beINAR6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 7 
-https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 8 
-https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bein",BeIn Sports 9 
-https://tv.fan7live.workers.dev/live/beINAR9/index.m3u8
-#EXTINF:-1,###########SERVER4###########
-https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
-#EXTINF:0 CUID="86" tvg-name="BEİN SPORTS 1 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
-https://v.arectv30.sbs/static/bs1.m3u8
-#EXTINF:0 CUID="87" tvg-name="BEİN SPORTS 2 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 2 VİP TR
-https://v.arectv30.sbs/static/bs2.m3u8
-#EXTINF:0 CUID="88" tvg-name="BEİN SPORTS 3 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 3 VİP TR
-https://v.arectv30.sbs/static/bs3.m3u8
-#EXTINF:0 CUID="89" tvg-name="BEİN SPORTS 4 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 4 VİP TR
-https://v.arectv30.sbs/static/bs4.m3u8
-#EXTINF:0 CUID="90" tvg-name="BEİN SPORTS 5 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
-https://v.arectv30.sbs/static/bs5.m3u8
-#EXTINF:-1,###########SERVER5###########
-https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
-#EXTINF:-1,FR : BEINSPORT 1 FR
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287920.m3u
-#EXTINF:-1,FR : BEINSPORT 2 FR
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287921.m3u
-#EXTINF:-1,FR : BEINSPORT 3 FR
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287922.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-04
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287924.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-05
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287925.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-06
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287926.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-07
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287927.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-08
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287928.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-09
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287929.m3u
-#EXTINF:-1,FR : BEINSPORT-MAX-10
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/287923.m3u
-#EXTINF:-1,PLEX_US: BEIN SPORTS XTRA
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/318467.m3u
-#EXTINF:-1,PLEX_US: BEIN SPORTS XTRA EN ESPAÑOL
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/318468.m3u
-
-#EXTINF:-1,###########SERVER5###########
-#EXTINF:-1,BeinSport1.fr
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
-#EXTINF:-1,BeinSport2.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
-#EXTINF:-1,BeinSport3.fr
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=m3u8
-#EXTINF:-1,###########SERVER6###########
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411374.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS1 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411374&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411373.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS2 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411373&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411372.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS3 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411372&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411371.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS4 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411371&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411370.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS5 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411370&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411369.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS6 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411369&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411368.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS7 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411368&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411367.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS8 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411367&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411366.png" group-title="⚽ بين سبورت_G_ᵁᴴᴰ",BEIN SPORTS9 Gᵁᴴᴰ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1411366&extension=m3u8
 
 
-#EXTINF:-1,###########SERVER3###########
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294788.png" group-title="⚽ بين سبورت_HEVC",##### BEIN SPORTS HEVC #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294788&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330433.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 1 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330433&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330432.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 2 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330432&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330431.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 3 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330431&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330430.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 4 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330430&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330429.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 5 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330429&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330428.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 6 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330428&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 7 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330427&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330426.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 8 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330426&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330425.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 9 HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330425&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330424.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 1 XTRA HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330424&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330423.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 2 XTRA HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330423&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330422.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 3 XTRA HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330422&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330421.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 1 ENGLISH HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330421&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330420.png" group-title="⚽ بين سبورت_HEVC",AR| BEIN SPORTS 2 ENGLISH HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330420&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294822.png" group-title="⚽ بين سبورت_HD",##### BEIN SPORTS HD #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294822&extension=m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png" group-title="⚽ بين سبورت_HD",AR| STC PPV [LIVE-EVENTS]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1356796&extension=m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="⚽ بين سبورت_HD",AR| TOD 360 HD ( EVENT ONLY )
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1347223&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330434.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS NEWS HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330434&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330435.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS GLOBAL HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330435&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330437.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330437&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330438.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330438&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330439.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330439&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330440.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330440&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330441.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 5 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330441&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330442.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 6 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330442&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330443.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 7 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330443&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330444.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 8 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330444&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330445.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 9 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330445&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330446.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 1 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330446&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330447.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 2 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330447&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330448.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 3 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330448&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777675.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 4 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777675&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777674.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 5 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777674&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777673.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 6 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777673&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777672.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 7 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777672&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777671.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 8 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777671&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1777670.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 9 XTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1777670&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330449.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 1 ENGLISH HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330449&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330450.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 2 ENGLISH HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330450&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330451.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 1 FRANCE HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330451&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330452.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 2 FRANCE HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330452&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330453.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS 3 FRANCE HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330453&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330454.png" group-title="⚽ بين سبورت_HD",AR| BEIN SPORTS NBA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330454&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330486.png" group-title="⚽ بين سبورت_SD",##### BEIN SPORTS LQ #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330486&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330471.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS NEWS LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330471&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330472.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS GLOBAL LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330472&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330474.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 1 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330474&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330475.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 2 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330475&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330476.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 3 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330476&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330477.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 4 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330477&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330478.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 5 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330478&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330479.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 6 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330479&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330480.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 7 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330480&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330481.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 8 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330481&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330482.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 9 LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330482&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330483.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 1 XTRA LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330483&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330484.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 2 XTRA LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330484&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330485.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 3 XTRA LQ
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330485&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294856.png" group-title="⚽ بين سبورت_SD",##### BEIN SPORTS SD #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294856&extension=m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="⚽ بين سبورت_SD",AR| TOD 360 SD ( EVENT ONLY )
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1347224&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330455.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS NEWS SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330455&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330456.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS GLOBAL SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330456&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330457.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 1 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330457&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330458.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 2 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330458&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330459.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 3 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330459&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330460.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 4 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330460&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330461.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 5 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330461&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330462.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 6 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330462&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330463.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 7 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330463&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330464.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 8 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330464&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330465.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 9 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330465&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330466.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 1 XTRA SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330466&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330467.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 2 XTRA SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330467&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330468.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 3 XTRA SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330468&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330469.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 1 ENGLISH SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330469&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330470.png" group-title="⚽ بين سبورت_SD",AR| BEIN SPORTS 2 ENGLISH SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1330470&extension=m3u8
 
-#EXTINF:-1,###########SERVER4###########
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836256.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836256&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836255.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS NEWS HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836255&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660414.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 1 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660414&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660412.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 2 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660412&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660410.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 3 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660410&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660408.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 4 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660408&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660406.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 5 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660406&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660404.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 6 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660404&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660402.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 7 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660402&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660400.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 8 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660400&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660398.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS 9 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660398&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836257.png" group-title="⚽ بين سبورت_NX_LOW",NBA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836257&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660396.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS ENGLISH 1 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660396&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660394.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS ENGLISH 2 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660394&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660391.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS XTRA 1 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660391&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660387.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS XTRA 2 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660387&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660388.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS XTRA 3 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660388&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660386.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS  AFC 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660386&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660383.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS AFC 1 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660383&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660381.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS AFC 2 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660381&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660379.png" group-title="⚽ بين سبورت_NX_720",BEIN SPORTS AFC 3 720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660379&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836270.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836270&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836269.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS NEWS 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836269&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660415.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 1 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660415&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660426.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 2 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660426&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660425.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 3 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660425&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660424.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 4 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660424&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660423.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 5 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660423&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660422.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 6 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660422&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660421.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 7 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660421&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660420.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 8 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660420&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660419.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS 9 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660419&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836271.png" group-title="⚽ بين سبورت_NX_4K",NBA HD 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836271&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660418.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS ENGLISH 1 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660418&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660417.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS ENGLISH 2 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660417&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660392.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS XTRA 1 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660392&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660390.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS XTRA 2 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660390&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660389.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS XTRA 3 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660389&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660416.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS  AFC 4k
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660416&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660384.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS AFC 1 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660384&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660382.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS AFC 2 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660382&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660380.png" group-title="⚽ بين سبورت_NX_4K",BEIN SPORTS AFC 3 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660380&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836244.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836244&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660413.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 1 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660413&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660411.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 2 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660411&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660409.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 3 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660409&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660407.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 4 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660407&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660405.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 5 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660405&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660403.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 6 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660403&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660401.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 7 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660401&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660399.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 8 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660399&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660397.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS 9 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660397&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836243.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS XTRA 1 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836243&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836242.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS XTRA 2 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836242&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660395.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS ENGLISH 1 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660395&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660393.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS ENGLISH 2 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660393&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660385.png" group-title="⚽ بين سبورت_NX_480",BEIN SPORTS  AFC 480
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1660385&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836254.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836254&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836253.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836253&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836252.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836252&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836251.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836251&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836250.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836250&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836249.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836249&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836248.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836248&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836247.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 9
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836247&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836246.png" group-title="⚽ بين سبورت_NX_LOW",BEIN SPORTS LOW 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1836246&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454203.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454203&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454200.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 1 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454200&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454197.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 2 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454197&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454194.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 3 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454194&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454191.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 4 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454191&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454188.png" group-title="⚽ بين سبورت_AFC_4K",AR| BEIN SPORTS AFC 5 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454188&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454205.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454205&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454202.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454202&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454199.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454199&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454196.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454196&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454193.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454193&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454190.png" group-title="⚽ بين سبورت_AFC_HD",AR| BEIN SPORTS AFC 5 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454190&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454204.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454204&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454201.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC 1 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454201&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454198.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC 2 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454198&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454195.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC 3 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454195&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454192.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC 4 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454192&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454189.png" group-title="⚽ بين سبورت_AFC_SD",AR| BEIN SPORTS AFC 5 SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1454189&extension=m3u8
