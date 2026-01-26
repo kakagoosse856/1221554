@@ -1,0 +1,41 @@
+name: Auto Update M3U
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # كل ساعة
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Generate M3U
+        run: |
+          python generate_m3u.py
+
+      - name: Commit and Push M3U
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add v5.m3u
+          git commit -m "Auto update M3U"
+          git pull --rebase origin main
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
