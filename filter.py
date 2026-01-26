@@ -1,50 +1,25 @@
-name: Filter Channels
+import requests
 
-on:
-  workflow_dispatch:        # تشغيل يدوي
-  schedule:
-    - cron: "*/30 * * * *" # تشغيل تلقائي كل 30 دقيقة
+# ملف القنوات الأصلي
+input_file = "all_channels.m3u"
+# ملف الإخراج للقنوات الحية
+output_file = "KASSSSKASSSK.m3u"
 
-jobs:
-  filter:
-    runs-on: ubuntu-latest
+alive_channels = []
 
-    steps:
-      # 1️⃣ استنساخ المستودع
-      - name: Checkout repository
-        uses: actions/checkout@v3
+with open(input_file, "r") as f:
+    channels = [line.strip() for line in f if line.strip()]
 
-      # 2️⃣ إعداد Python
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
+for url in channels:
+    try:
+        r = requests.head(url, timeout=5)
+        if r.status_code == 200:
+            alive_channels.append(url)
+    except:
+        continue
 
-      # 3️⃣ تثبيت المكتبات المطلوبة
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests m3u8  # أضف أي مكتبات أخرى يحتاجها سكربتك
+with open(output_file, "w") as f:
+    for ch in alive_channels:
+        f.write(ch + "\n")
 
-      # 4️⃣ تشغيل سكربت الفلترة
-      - name: Run filter script
-        run: python filter.py
-        # إذا كان filter.py في مجلد فرعي استخدم:
-        # run: python path/to/filter.py
-
-      # 5️⃣ إضافة الملفات الناتجة ورفعها بأمان
-      - name: Commit & push changes
-        run: |
-          git config user.name "BOT"
-          git config user.email "bot@github.com"
-          
-          # إضافة أي ملفات m3u تم إنشاؤها
-          git add *.m3u
-          
-          # إنشاء commit فقط إذا هناك تغييرات
-          git diff-index --quiet HEAD || git commit -m "Update alive channels"
-          
-          # دفع التغييرات باستخدام HTTPS و GITHUB_TOKEN
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+print(f"تم تحديث {len(alive_channels)} قناة حية في {output_file}")
