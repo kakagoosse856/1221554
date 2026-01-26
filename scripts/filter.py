@@ -1,45 +1,26 @@
 import requests
 
-print("SCRIPT STARTED OK")
+INPUT = "s4.m3u"
+OUTPUT = "KASSSSKASSSK.m3u"
 
-INPUT_FILE = "SSULTAN.m3u"
-OUTPUT_FILE = "KASSSSKASSSK.m3u"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Referer": "https://v5on.site/"
-}
-
-def alive(url):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=8, stream=True)
-        return r.status_code == 200
-    except Exception as e:
-        print("ERROR:", e)
-        return False
-
-with open(INPUT_FILE, encoding="utf-8", errors="ignore") as f:
+with open(INPUT, "r", encoding="utf-8", errors="ignore") as f:
     lines = f.readlines()
 
-out = ["#EXTM3U\n"]
-i = 0
+alive = ["#EXTM3U\n"]
 
-while i < len(lines):
+for i in range(len(lines)):
     if lines[i].startswith("#EXTINF"):
-        info = lines[i]
-        url = lines[i + 1].strip()
-        print("CHECK:", url)
-        if alive(url):
-            out.append(info)
-            out.append(url + "\n")
-            print(" OK")
-        else:
-            print(" DEAD")
-        i += 2
-    else:
-        i += 1
+        url = lines[i+1].strip()
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.writelines(out)
+        try:
+            r = requests.head(url, timeout=8, allow_redirects=True)
+            if r.status_code in [200, 301, 302]:
+                alive.append(lines[i])
+                alive.append(lines[i+1])
+        except:
+            pass
 
-print("DONE:", (len(out) - 1) // 2)
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    f.writelines(alive)
+
+print("DONE → Saved", OUTPUT)
