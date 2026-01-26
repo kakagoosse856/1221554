@@ -1,19 +1,19 @@
-name: Filter Channels
+name: Update Alive Channels
 
 on:
-  workflow_dispatch:   # لتشغيله يدويًا
+  workflow_dispatch:      # تشغيل يدوي
   schedule:
-    - cron: "*/10 * * * *"  # تشغيل كل 30 دقيقة
+    - cron: "*/15 * * * *"  # تشغيل كل 15 دقيقة لتحديث أسرع
 
 permissions:
-  contents: write  # مهم جدًا للكتابة على المستودع
+  contents: write         # مهم للكتابة على المستودع
 
 jobs:
-  filter:
+  update-channels:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -25,9 +25,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests
+        run: pip install --upgrade pip requests
 
       - name: Run filter script
         run: python filter.py
@@ -37,18 +35,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # جلب التحديثات الأخيرة للتأكد من مزامنة الفرع
+          # مزامنة الفرع قبل push
           git fetch origin main
           git checkout main
           git reset --hard origin/main
 
-          # إضافة الملف الجديد أو المحدث
           git add s7.m3u
-
-          # commit فقط إذا هناك تغييرات
           git diff --cached --quiet || git commit -m "Update alive channels"
 
-          # رفع التغييرات مباشرة باستخدام PAT
           git push https://$PAT_TOKEN@github.com/kakagoosse856/1221554 main --force
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
