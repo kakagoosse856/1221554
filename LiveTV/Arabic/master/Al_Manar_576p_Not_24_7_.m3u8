@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1920x1080
+http://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1300000,CODECS="avc1.640033,mp4a.40.2",RESOLUTION=1024x576
+http://edge.fastpublish.me/live/tracks-v2a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=790000,CODECS="avc1.640033,mp4a.40.2",RESOLUTION=640x360
+http://edge.fastpublish.me/live/tracks-v3a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=380000,CODECS="avc1.640033,mp4a.40.2",RESOLUTION=426x240
+http://edge.fastpublish.me/live/tracks-v4a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=340000,CODECS="avc1.640033,mp4a.40.2",RESOLUTION=256x144
+http://edge.fastpublish.me/live/tracks-v5a1/mono.m3u8

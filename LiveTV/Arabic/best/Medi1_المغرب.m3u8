@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_1080p/chunks_dvr.m3u8

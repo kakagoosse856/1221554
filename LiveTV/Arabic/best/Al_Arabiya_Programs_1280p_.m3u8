@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=11000000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=2276x1280
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_source/chunks.m3u8

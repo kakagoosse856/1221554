@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8

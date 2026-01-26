@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=390000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_360p/chunks.m3u8?nimblesessionid=120534737
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8?nimblesessionid=120534737
+#EXT-X-STREAM-INF:BANDWIDTH=810000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_720p/chunks.m3u8?nimblesessionid=120534737
+#EXT-X-STREAM-INF:BANDWIDTH=510000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8?nimblesessionid=120534737
+#EXT-X-STREAM-INF:BANDWIDTH=430000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_240p/chunks.m3u8?nimblesessionid=120534737
+#EXT-X-STREAM-INF:BANDWIDTH=300000,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=284x160
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_160p/chunks.m3u8?nimblesessionid=120534737

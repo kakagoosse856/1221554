@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://live.kwikmotion.com/bahry1live/bahry1.smil/bahry1publish/bahry1_480p/chunks.m3u8

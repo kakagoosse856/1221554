@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="",RESOLUTION=1920x1080
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8

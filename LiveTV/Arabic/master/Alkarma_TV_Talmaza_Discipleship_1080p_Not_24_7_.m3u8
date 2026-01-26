@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2300000,CODECS="",RESOLUTION=1920x1080
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/chunklist_w912227465_b2328000_slar.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="",RESOLUTION=1280x720
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/chunklist_w912227465_b1628000_slar.m3u8

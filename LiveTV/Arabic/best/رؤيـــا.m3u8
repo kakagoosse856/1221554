@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2000000,CODECS="",RESOLUTION=1920x1080
+https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8

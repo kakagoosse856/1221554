@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3300000,CODECS="avc1.4d0028,mp4a.40.2",RESOLUTION=1920x1080
+https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8

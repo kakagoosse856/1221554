@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=864x486
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_1628.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1100000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_928.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_528.m3u8

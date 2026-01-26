@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=8900000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_1.m3u8

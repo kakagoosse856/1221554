@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=570000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1024x576
+https://svs.itworkscdn.net/nour1satlive/livestream/chunks.m3u8

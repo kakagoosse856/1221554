@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="",RESOLUTION=1920x1080
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8

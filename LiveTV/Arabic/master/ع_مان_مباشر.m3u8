@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="",RESOLUTION=1920x1080
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="",RESOLUTION=1280x720
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=900000,CODECS="",RESOLUTION=854x480
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=250000,CODECS="",RESOLUTION=426x240
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8

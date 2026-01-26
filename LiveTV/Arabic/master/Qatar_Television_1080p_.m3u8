@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3200000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_source/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=630000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_240p/chunks.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=768x432
+http://alwifaklive.info:1935/live/myStream/chunklist_w213353687.m3u8

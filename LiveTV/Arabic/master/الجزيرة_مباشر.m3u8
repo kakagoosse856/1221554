@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://live-hls-web-ajm-fa.thehlive.com/AJM/01.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3100000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://live-hls-web-ajm-fa.thehlive.com/AJM/02.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540
+https://live-hls-web-ajm-fa.thehlive.com/AJM/03.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=746x420
+https://live-hls-web-ajm-fa.thehlive.com/AJM/04.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=810000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360
+https://live-hls-web-ajm-fa.thehlive.com/AJM/05.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=430000,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=426x240
+https://live-hls-web-ajm-fa.thehlive.com/AJM/06.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3400000,CODECS="avc1.42c028,mp4a.40.2",RESOLUTION=1920x1080
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1100000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=570000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_240p/chunks.m3u8

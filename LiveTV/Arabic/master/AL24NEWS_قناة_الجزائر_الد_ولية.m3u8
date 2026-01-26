@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3800000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_720p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=970000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_360p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=720000,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8

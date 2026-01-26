@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5600000,CODECS="avc1.4D4028,mp4a.40.2",RESOLUTION=1920x1080
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8

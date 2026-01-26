@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1928235299_b2487000.m3u8

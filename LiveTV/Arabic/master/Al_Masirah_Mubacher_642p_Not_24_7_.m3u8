@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2300000,CODECS="avc1.42c028,mp4a.40.2",RESOLUTION=1920x1080
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_1080p/chunks.m3u8?nimblesessionid=20620236
+#EXT-X-STREAM-INF:BANDWIDTH=1700000,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8?nimblesessionid=20620236
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=854x480
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_480p/chunks.m3u8?nimblesessionid=20620236
+#EXT-X-STREAM-INF:BANDWIDTH=750000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_360p/chunks.m3u8?nimblesessionid=20620236
+#EXT-X-STREAM-INF:BANDWIDTH=430000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_240p/chunks.m3u8?nimblesessionid=20620236

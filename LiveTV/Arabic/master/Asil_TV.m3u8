@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d001e,mp4a.40.2",RESOLUTION=1024x576
+https://live.asil.tv/asiltv/tracks-v1a1/mono.m3u8

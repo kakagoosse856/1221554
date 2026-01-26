@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_480p/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=830000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_360p/chunks_dvr.m3u8

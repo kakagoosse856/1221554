@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=1100000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_td96b2fba17073e4656baa24f8e382b08_r1397152102.m3u8?llhlsHBs=0.5
+#EXT-X-STREAM-INF:BANDWIDTH=800000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_td96b2fba17073e4656baa24f8e382b08_r1397152101.m3u8?llhlsHBs=0.5
+#EXT-X-STREAM-INF:BANDWIDTH=530000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_td96b2fba17073e4656baa24f8e382b08_r1397152100.m3u8?llhlsHBs=0.5
+#EXT-X-STREAM-INF:BANDWIDTH=460000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_td96b2fba17073e4656baa24f8e382b08_r1397152099.m3u8?llhlsHBs=0.5
+#EXT-X-STREAM-INF:BANDWIDTH=290000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_td96b2fba17073e4656baa24f8e382b08_r1397152098.m3u8?llhlsHBs=0.5

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/manifest/video/720p1750kbps/video.m3u8

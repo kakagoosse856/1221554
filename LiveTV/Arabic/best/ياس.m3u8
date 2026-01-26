@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index_yas1_video_enc_720p25.m3u8

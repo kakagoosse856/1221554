@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,CODECS="avc1.42c02a,mp4a.40.2",RESOLUTION=1920x1080
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/chunks.m3u8

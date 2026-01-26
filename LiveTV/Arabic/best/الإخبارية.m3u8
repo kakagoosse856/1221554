@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/720p1750kbps/video.m3u8

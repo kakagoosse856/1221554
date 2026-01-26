@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7200000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
+https://edge18.vedge.infomaniak.com/livecast/ik:radiomars/chunklist_w2066835060.m3u8

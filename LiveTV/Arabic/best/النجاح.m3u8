@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=4700000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
+https://streaming.najah.edu:8443/hls/AlNajah_fullhd.m3u8

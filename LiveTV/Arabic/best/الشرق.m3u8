@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2600000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8

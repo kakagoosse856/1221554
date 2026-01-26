@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1700000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+https://live.kwikmotion.com/bahry1live/bahry1.smil/bahry1publish/bahry1_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.42c028,mp4a.40.2",RESOLUTION=1920x1080
+https://live.kwikmotion.com/bahry1live/bahry1.smil/bahry1publish/bahry1_source/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4400000,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720
+https://live.kwikmotion.com/bahry1live/bahry1.smil/bahry1publish/bahry1_720p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=568x320
+https://live.kwikmotion.com/bahry1live/bahry1.smil/bahry1publish/bahry1_320p/chunks.m3u8

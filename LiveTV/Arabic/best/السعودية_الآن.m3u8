@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/manifest/video/720p1750kbps/video.m3u8

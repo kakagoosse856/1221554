@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1920x1080
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__6.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1280x720
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__5.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,CODECS="mp4a.40.2,avc1.42C029",RESOLUTION=960x540
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=980000,CODECS="mp4a.40.2,avc1.42C01E",RESOLUTION=640x360
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=530000,CODECS="mp4a.40.2,avc1.42C01E",RESOLUTION=416x234
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__2.m3u8

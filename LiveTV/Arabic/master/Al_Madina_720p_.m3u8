@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=3600000,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.ts.m3u8

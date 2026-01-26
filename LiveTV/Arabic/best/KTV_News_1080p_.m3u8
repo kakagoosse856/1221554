@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,CODECS="",RESOLUTION=1920x1080
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8

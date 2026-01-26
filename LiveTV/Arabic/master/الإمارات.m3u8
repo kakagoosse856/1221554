@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index_emarat_video_enc_720p25.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=960x540
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index_emarat_video_enc_540p25.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1300000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=854x480
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index_emarat_video_enc_480p25.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6500000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index_emarat_video_enc_1080p25.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=780000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=640x360
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index_emarat_video_enc_360p25.m3u8

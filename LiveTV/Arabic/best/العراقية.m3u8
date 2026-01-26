@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8

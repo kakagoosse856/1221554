@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/720p1750kbps/video.m3u8

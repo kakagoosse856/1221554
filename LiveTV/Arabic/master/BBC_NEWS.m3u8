@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1800000,CODECS="mp4a.40.2,avc1.100.31",RESOLUTION=960x540
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=704x396
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=570000,CODECS="mp4a.40.5,avc1.66.30",RESOLUTION=512x288
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv5/b=437056/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000,CODECS="mp4a.40.5,avc1.66.21",RESOLUTION=384x216
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8

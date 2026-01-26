@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="",RESOLUTION=960x540
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2700000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="",RESOLUTION=852x480
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=400000,CODECS="",RESOLUTION=424x240
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b400000.m3u8

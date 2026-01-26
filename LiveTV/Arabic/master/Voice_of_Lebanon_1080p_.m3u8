@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4300000,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1920x1080
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=970000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=854x480
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv_360p/chunks.m3u8
