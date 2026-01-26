@@ -1,33 +1,38 @@
-name: Check M3U Channels
+name: Check Working Channels
 
 on:
   schedule:
-    - cron: '0 12 * * *' # يعمل كل يوم الساعة 12:00 UTC
-  workflow_dispatch: # يمكن تشغيله يدوياً من GitHub Actions
+    - cron: '*/5 * * * *' # تشغيل كل 5 دقائق
+  workflow_dispatch: # تشغيل يدوي من GitHub
 
 jobs:
-  check_channels:
+  fetch-and-validate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests m3u8
 
-      - name: Run script
-        run: python script.py
+      - name: Download M3U file
+        run: |
+          curl -o channels.m3u https://raw.githubusercontent.com/Khz2025/Iptv/refs/heads/main/Sup%D8%A8%D9%83%D9%88%D8%B1.m3u
 
-      - name: Upload working channels file
-        uses: actions/upload-artifact@v3
+      - name: Check working channels
+        run: |
+          python check_channels.py
+
+      - name: Upload working channels
+        uses: actions/upload-artifact@v4
         with:
           name: working_channels
           path: working_channels.m3u
