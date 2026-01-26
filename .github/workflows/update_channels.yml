@@ -1,0 +1,64 @@
+name: Update Alive Channels
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # كل 30 دقيقة
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-alive-channels
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2️⃣ Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 streamlink pytz
+
+      # 4️⃣ Run IPTV Processor (collector + filter)
+      - name: Run IPTV Processor
+        run: python iptv_processor.py
+
+      # 5️⃣ Commit & push changes safely
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "BOT"
+          git config user.email "bot@github.com"
+
+          # Sync first لتجنب رفض push
+          git fetch origin main
+          git reset --hard origin/main
+
+          # أضف الملفات الجديدة
+          git add LiveTV/* || true
+
+          # تحقق من وجود تغييرات
+          if git diff --staged --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          git commit -m "Update alive channels"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
