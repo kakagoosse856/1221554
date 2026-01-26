@@ -1,0 +1,55 @@
+import requests
+from bs4 import BeautifulSoup
+
+# رابط الصفحة التي تحتوي على القنوات
+URL = "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/v5.html"
+
+# جلب الصفحة
+resp = requests.get(URL)
+resp.raise_for_status()
+html = resp.text
+
+# تحليل الصفحة
+soup = BeautifulSoup(html, "html.parser")
+
+# استخراج كل القنوات
+channels = []
+for a in soup.select("a.channel-card"):
+    href = a.get("href")
+    if not href or "play.php?id=" not in href:
+        continue
+
+    # استخراج ID من الرابط
+    channel_id = href.split("id=")[-1]
+    # الرابط النهائي للقناة
+    url = f"https://v5on.site/play.php?id={channel_id}"
+
+    # اسم القناة
+    name_tag = a.select_one(".card-info h4")
+    name = name_tag.text.strip() if name_tag else f"Channel {channel_id}"
+
+    # شعار القناة (logo)
+    logo_tag = a.select_one(".card-thumbnail img")
+    logo = logo_tag.get("src") if logo_tag else ""
+
+    channels.append({
+        "name": name,
+        "url": url,
+        "logo": logo
+    })
+
+# توليد M3U
+m3u_lines = ["#EXTM3U\n"]
+for ch in channels:
+    extinf = f'#EXTINF:-1 tvg-id="{ch["name"]}" tvg-name="{ch["name"]}"'
+    if ch["logo"]:
+        extinf += f' tvg-logo="{ch["logo"]}"'
+    extinf += f', {ch["name"]}'
+    m3u_lines.append(extinf)
+    m3u_lines.append(ch["url"])
+
+# كتابة الملف
+with open("v5.m3u", "w", encoding="utf-8") as f:
+    f.write("\n".join(m3u_lines))
+
+print(f"تم استخراج {len(channels)} قناة وتوليد v5.m3u بنجاح!")
