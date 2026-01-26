@@ -1,53 +1,39 @@
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
-HTML_URL = "https://raw.githubusercontent.com/kakagoosse856/1221554/main/v5.html"
-BASE_PLAY_URL = "https://v5on.site/play.php?id="
+# رابط HTML على GitHub
+URL = "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/v5.html"
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-resp = requests.get(HTML_URL, headers=headers)
+# جلب الصفحة
+resp = requests.get(URL)
 resp.raise_for_status()
+html = resp.text
 
-soup = BeautifulSoup(resp.text, "html.parser")
-
+# تحليل الصفحة
+soup = BeautifulSoup(html, "html.parser")
 channels = []
 
+# البحث عن كل القنوات
 for a in soup.select("a.channel-card"):
-    href = a.get("href", "")
-    if "id=" not in href:
-        continue
-
-    channel_id = href.split("id=")[-1]
-
+    link = a.get("href")
     name_tag = a.select_one("h4")
-    name = name_tag.text.strip() if name_tag else f"Channel {channel_id}"
-
-    img_tag = a.select_one("img")
-    logo = img_tag["src"] if img_tag and img_tag.get("src") else ""
-
-    play_url = BASE_PLAY_URL + channel_id
-
+    name = name_tag.get_text(strip=True) if name_tag else "قناة بدون اسم"
+    logo_tag = a.select_one("img")
+    logo = logo_tag["src"] if logo_tag else ""
     channels.append({
-        "id": channel_id,
         "name": name,
-        "logo": logo,
-        "url": play_url
+        "url": link,
+        "logo": logo
     })
 
-# توليد M3U
-with open("v5.m3u", "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n\n")
-    for ch in channels:
-        f.write(
-            f'#EXTINF:-1 tvg-id="{ch["id"]}" '
-            f'tvg-name="{ch["name"]}" '
-            f'tvg-logo="{ch["logo"]}" '
-            f'group-title="beIN Sports",{ch["name"]}\n'
-        )
-        f.write(ch["url"] + "\n\n")
+# توليد ملف M3U
+m3u_content = "#EXTM3U\n\n"
+for ch in channels:
+    m3u_content += f'#EXTINF:-1 tvg-id="" tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="Live TV",{ch["name"]}\n'
+    m3u_content += f'{ch["url"]}\n\n'
 
-print(f"✔ تم استخراج {len(channels)} قناة بنجاح")
+# حفظ الملف
+with open("v5.m3u", "w", encoding="utf-8") as f:
+    f.write(m3u_content)
+
+print(f"{len(channels)} قناة تم استخراجها وحفظها في v5.m3u")
