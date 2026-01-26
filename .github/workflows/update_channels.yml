@@ -3,7 +3,7 @@ name: Update Alive Channels
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # كل 30 دقيقة
+    - cron: "*/10 * * * *"   # كل 10 دقيقة
 
 jobs:
   update:
