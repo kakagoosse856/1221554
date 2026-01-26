@@ -1,47 +1,26 @@
 import requests
 
-INPUT_FILE = "SSULTAN.m3u"
-OUTPUT_FILE = "KASSSSKASSSK.m3u"
+INPUT = "s4.m3u"
+OUTPUT = "s7.m3u"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Referer": "https://v5on.site/"
-}
-
-TIMEOUT = 8
-
-def alive(url):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
-        return r.status_code == 200
-    except:
-        return False
-
-with open(INPUT_FILE, encoding="utf-8", errors="ignore") as f:
+with open(INPUT, "r", encoding="utf-8", errors="ignore") as f:
     lines = f.readlines()
 
-output = ["#EXTM3U\n"]
-i = 0
+alive = ["#EXTM3U\n"]
 
-while i < len(lines):
+for i in range(len(lines)):
     if lines[i].startswith("#EXTINF"):
-        info = lines[i]
-        url = lines[i + 1].strip()
+        url = lines[i+1].strip()
 
-        print("Checking:", url)
+        try:
+            r = requests.head(url, timeout=8, allow_redirects=True)
+            if r.status_code in [200, 301, 302]:
+                alive.append(lines[i])
+                alive.append(lines[i+1])
+        except:
+            pass
 
-        if alive(url):
-            output.append(info)
-            output.append(url + "\n")
-            print(" ✔ WORKS")
-        else:
-            print(" ✖ DEAD")
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    f.writelines(alive)
 
-        i += 2
-    else:
-        i += 1
-
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.writelines(output)
-
-print("Done. Saved channels:", (len(output) - 1) // 2)
+print("DONE → Saved", OUTPUT)
