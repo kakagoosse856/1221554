@@ -1,35 +1,50 @@
 name: Filter Channels
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:        # تشغيل يدوي
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *" # تشغيل تلقائي كل 30 دقيقة
 
 jobs:
   filter:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # 1️⃣ استنساخ المستودع
+      - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2️⃣ إعداد Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      - name: Install deps
-        run: pip install requests  # أضف مكتبات أخرى إذا يحتاجها سكربتك
+      # 3️⃣ تثبيت المكتبات المطلوبة
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests m3u8  # أضف أي مكتبات أخرى يحتاجها سكربتك
 
-      - name: Run filter
-        run: python filter.py  # ضع المسار الصحيح إذا لم يكن في الجذر
+      # 4️⃣ تشغيل سكربت الفلترة
+      - name: Run filter script
+        run: python filter.py
+        # إذا كان filter.py في مجلد فرعي استخدم:
+        # run: python path/to/filter.py
 
-      - name: Commit result
+      # 5️⃣ إضافة الملفات الناتجة ورفعها
+      - name: Commit & push changes
         run: |
           git config user.name "BOT"
           git config user.email "bot@github.com"
-          git add KASSSSKASSSK.m3u
-          git commit -m "Update alive channels" || echo "No changes"
+          
+          # إضافة أي ملفات m3u تم إنشاؤها
+          git add *.m3u
+          
+          # إنشاء commit فقط إذا هناك تغييرات
+          git diff-index --quiet HEAD || git commit -m "Update alive channels"
+          
+          # دفع التغييرات
           git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
