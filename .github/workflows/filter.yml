@@ -2,7 +2,7 @@ name: Filter Channels
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # يعمل كل 2 دقيقة
+    - cron: '*/1 * * * *'  # يعمل كل 2 دقيقة
   workflow_dispatch:        # يمكن تشغيله يدويًا
 
 jobs:
