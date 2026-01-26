@@ -19,10 +19,10 @@ jobs:
           python-version: "3.x"
 
       - name: Install deps
-        run: pip install requests
+        run: pip install requests  # أضف مكتبات أخرى إذا يحتاجها سكربتك
 
       - name: Run filter
-        run: python filter.py
+        run: python filter.py  # ضع المسار الصحيح إذا لم يكن في الجذر
 
       - name: Commit result
         run: |
@@ -30,4 +30,6 @@ jobs:
           git config user.email "bot@github.com"
           git add KASSSSKASSSK.m3u
           git commit -m "Update alive channels" || echo "No changes"
-          git push
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
