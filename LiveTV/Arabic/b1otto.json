@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-27 01:09:05",
+  "channels": {
+    "Other": [
+      {
+        "name": "##### GR| ΓΕΝΙΚΟΣ/GENERAL VIP #####",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+        "group": "Other",
+        "source": "https://raw.githubusercontent.com/Ghassanjab/Iptv-list/refs/heads/main/04_gh3.m3u.m3u",
+        "url": "http://delta8k.xyz:80/play/live.php.m3u8"
+      }
+    ],
+    "RX| RELAX 4K ☼": [
+      {
+        "name": "###### RELAX 4K ######",
+        "logo": "https://i.ibb.co/cS1c5DtG/Relax-GIF.gif",
+        "group": "RX| RELAX 4K ☼",
+        "source": "https://raw.githubusercontent.com/Ghassanjab/Iptv-list/refs/heads/main/cf_wizx_cloud_001a79b5f988_Unbekannt.m3u.m3u",
+        "url": "http://cf.wizx.cloud:80/play/live.php.m3u8"
+      }
+    ]
+  }
+}
