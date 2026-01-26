@@ -4,7 +4,7 @@ import requests
 input_file = "s4.m3u"
 
 # اسم ملف الإخراج للقنوات الحية
-output_file = "KASSSSKASSSK.m3u"
+output_file = "s7.m3u"
 
 alive_channels = []
 
