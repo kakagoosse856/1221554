@@ -1,7 +1,7 @@
 name: Filter Channels
 
 permissions:
-  contents: write   # 🔥 مهم جدًا – بدون هذا يحدث خطأ 403
+  contents: write   # 🔥 هذا هو المفتاح
 
 on:
   workflow_dispatch:
@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # 🔥 مهم جدًا
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -31,9 +34,9 @@ jobs:
 
       - name: Commit & push changes
         run: |
-          git config user.name "BOT"
-          git config user.email "bot@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add *.m3u
-          git diff-index --quiet HEAD || git commit -m "Update alive channels"
+          git diff --quiet && echo "No changes" || git commit -m "Update alive channels"
           git push
