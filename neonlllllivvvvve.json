@@ -1,52 +1,12 @@
-[
-  {
-    "chaine": {
-      "nom": "STARZPLAY Sport 1",
-      "urls": [
-        "http://backup-server.com/starz1.m3u8",
-        "http://5678999.life:2082/live/adamusa1242025/attalah77448866/667204.m3u8"
-      ]
-    }
-  },
-
-  {
-    "chaine": {
-      "nom": "THMANYAH",
-      "urls": [
-        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936353&extension=m3u8",
-        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936354&extension=m3u8",
-        "http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936355&extension=m3u8"
-      ]
-    }
-  },
-
-  {
-    "chaine": {
-      "nom": "NRT SPORT HD",
-      "urls": [
-        "http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8",
-        "https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8"
-      ]
-    }
-  },
-
-  {
-    "chaine": {
-      "nom": "Avasport",
-      "urls": [
-        "http://illusion8k.pro/live/22880967180224/PFjywtK3F2/1537191.m3u8",
-        "http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8"
-      ]
-    }
-  },
-
-  {
-    "chaine": {
-      "nom": "Duhok Sport",
-      "urls": [
-        "http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/129834.m3u8",
-        "http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.m3u8"
-      ]
-    }
+{
+  "chaine": {
+    "nom": "NRT SPORT HD",
+    "strategy": "auto",
+    "timeout": 6000,
+    "urls": [
+      { "url": "http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8" },
+      { "url": "https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8" },
+      { "url": "http://backup-server.com/nrt.m3u8" }
+    ]
   }
-]
+}
