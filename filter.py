@@ -2,9 +2,10 @@ import requests
 import os
 from concurrent.futures import ThreadPoolExecutor
 
-INPUT_FILE = "s4.m3u"
+INPUT_FILE = "all_channels.m3u"
 OUTPUT_FILE = "s7.m3u"
 
+# حفظ القنوات القديمة لتجنب فقدانها
 existing_channels = set()
 if os.path.exists(OUTPUT_FILE):
     with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -15,20 +16,21 @@ if os.path.exists(OUTPUT_FILE):
 
 new_alive = set()
 
-def check_channel(url):
-    if not url or url.startswith("#"):
+def check_channel(line):
+    if not line or line.startswith("#"):
         return None
     try:
-        r = requests.head(url, timeout=5, allow_redirects=True)
+        r = requests.head(line, timeout=5, allow_redirects=True)
         if r.status_code == 200:
-            print("✔ حي:", url)
-            return url
+            print("✔ حي:", line)
+            return line
         else:
-            print("✖ ميت:", url)
+            print("✖ ميت:", line)
     except:
-        print("✖ خطأ:", url)
+        print("✖ خطأ:", line)
     return None
 
+# قراءة جميع القنوات
 try:
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
@@ -44,6 +46,7 @@ for url in results:
     if url:
         new_alive.add(url)
 
+# دمج القنوات القديمة مع الجديدة
 merged_alive = existing_channels.union(new_alive)
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
