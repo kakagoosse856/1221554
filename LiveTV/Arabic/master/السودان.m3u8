@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=860000,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=480x384
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/sudan_tv-avc1_600000=2-mp4a_145600_ara=3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=450000,CODECS="avc1.4d400d,mp4a.40.2",RESOLUTION=320x256
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/sudan_tv-avc1_249984=1-mp4a_145600_ara=3.m3u8

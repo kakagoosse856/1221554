@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_source/chunks_dvr.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=460000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_360p/chunks_dvr.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=340000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_240p/chunks_dvr.m3u8

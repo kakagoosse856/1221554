@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=4900000,CODECS="avc1.640029,mp4a.40.2,mp4a.40.5",RESOLUTION=1920x1080
-https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist_4300.m3u8

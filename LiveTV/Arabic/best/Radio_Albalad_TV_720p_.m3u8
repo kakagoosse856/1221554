@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1024x576
-http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.ts.m3u8

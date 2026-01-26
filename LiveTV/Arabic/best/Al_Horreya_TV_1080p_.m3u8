@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2700000,CODECS="avc1.4d002a,mp4a.40.2",RESOLUTION=1920x1080
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/chunklist_w11490908.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3300000,CODECS="avc1.4d0028,mp4a.40.2",RESOLUTION=1920x1080
-https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=570000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=854x480
-https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_480p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=320000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
-https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_240p/chunks.m3u8

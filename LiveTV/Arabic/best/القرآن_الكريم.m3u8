@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=5400000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_source/hdntl=exp=1769541294~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=0c2280af178085a76ba67d92a9d067c5ddea3cd66f7e414fc4716d8c7112ca1e/chunks_dvr.m3u8

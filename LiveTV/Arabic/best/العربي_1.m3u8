@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-STREAM-INF:BANDWIDTH=3800000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8

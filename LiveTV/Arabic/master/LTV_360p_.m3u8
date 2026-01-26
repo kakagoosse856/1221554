@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=880000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360
-https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=620000,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=512x288
-https://p-ltv.akamaized.net/ltv/ltv_0.m3u8
