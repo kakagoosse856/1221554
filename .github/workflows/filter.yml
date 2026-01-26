@@ -37,13 +37,13 @@ jobs:
         run: |
           git config user.name "BOT"
           git config user.email "bot@github.com"
-          
+
           # إضافة أي ملفات m3u تم إنشاؤها
           git add *.m3u
-          
+
           # إنشاء commit فقط إذا هناك تغييرات
           git diff-index --quiet HEAD || git commit -m "Update alive channels"
-          
+
           # دفع التغييرات باستخدام HTTPS و GITHUB_TOKEN
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
         env:
