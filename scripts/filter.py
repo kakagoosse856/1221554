@@ -1,24 +1,34 @@
 import requests
 
-# قائمة القنوات لاختبار مثال
-channels = [
-    "http://example.com/stream1.m3u8",
-    "http://example.com/stream2.m3u8"
-]
+# اسم ملف M3U الأصلي الذي يحتوي على جميع القنوات
+input_file = "all_channels.m3u"
+
+# اسم ملف الإخراج للقنوات الحية
+output_file = "KASSSSKASSSK.m3u"
 
 alive_channels = []
 
+# قراءة القنوات من الملف
+with open(input_file, "r") as f:
+    channels = [line.strip() for line in f if line.strip()]
+
+print(f"تم العثور على {len(channels)} قناة في الملف الأصلي.")
+
+# اختبار كل قناة
 for url in channels:
     try:
         r = requests.head(url, timeout=5)
         if r.status_code == 200:
             alive_channels.append(url)
-    except:
-        continue
+            print(f"[✔] قناة حية: {url}")
+        else:
+            print(f"[✖] قناة غير متاحة: {url}")
+    except Exception as e:
+        print(f"[✖] خطأ في القناة: {url} ({e})")
 
-# حفظ النتائج في ملف M3U
-with open("KASSSSKASSSK.m3u", "w") as f:
+# حفظ القنوات الحية في ملف M3U
+with open(output_file, "w") as f:
     for ch in alive_channels:
         f.write(ch + "\n")
 
-print("تم تحديث القنوات الحية")
+print(f"تم حفظ {len(alive_channels)} قناة حية في الملف '{output_file}'")
