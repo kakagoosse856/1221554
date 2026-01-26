@@ -1,0 +1,21 @@
+name: Update Botto Channels
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # كل 30 دقيقة
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version:
