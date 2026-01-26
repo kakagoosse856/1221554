@@ -3,7 +3,7 @@ name: Update Alive Channels
 on:
   workflow_dispatch:      # تشغيل يدوي
   schedule:
-    - cron: "*/15 * * * *"  # تشغيل كل 15 دقيقة لتحديث أسرع
+    - cron: "*/15 * * * *"  # تحديث كل 15 دقيقة
 
 permissions:
   contents: write         # مهم للكتابة على المستودع
@@ -35,14 +35,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # مزامنة الفرع قبل push
+          # مزامنة الفرع المحلي مع remote
           git fetch origin main
           git checkout main
           git reset --hard origin/main
 
+          # إضافة الملف الجديد أو المحدث
           git add s7.m3u
+
+          # commit فقط إذا هناك تغييرات
           git diff --cached --quiet || git commit -m "Update alive channels"
 
+          # رفع التغييرات مباشرة
           git push https://$PAT_TOKEN@github.com/kakagoosse856/1221554 main --force
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
