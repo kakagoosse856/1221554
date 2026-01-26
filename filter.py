@@ -1,34 +1,35 @@
 import requests
 
-# ملف القنوات الأصلي
-input_file = "s4.m3u"
+INPUT_FILE = "s4.m3u"
+OUTPUT_FILE = "s7.m3u"
 
-# ملف الإخراج للقنوات الحية
-output_file = "s7.m3u"
+alive = []
 
-alive_channels = []
+try:
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+except FileNotFoundError:
+    print("❌ ملف all_channels.m3u غير موجود")
+    exit(0)
 
-# قراءة القنوات من الملف الأصلي
-with open(input_file, "r") as f:
-    channels = [line.strip() for line in f if line.strip()]
+for line in lines:
+    url = line.strip()
+    if not url or url.startswith("#"):
+        continue
 
-print(f"تم العثور على {len(channels)} قناة في الملف الأصلي.")
-
-# اختبار القنوات
-for url in channels:
     try:
-        r = requests.head(url, timeout=5)
+        r = requests.head(url, timeout=5, allow_redirects=True)
         if r.status_code == 200:
-            alive_channels.append(url)
-            print(f"[✔] قناة حية: {url}")
+            alive.append(url)
+            print("✔ حي:", url)
         else:
-            print(f"[✖] قناة غير متاحة: {url}")
-    except Exception as e:
-        print(f"[✖] خطأ في القناة: {url} ({e})")
+            print("✖ ميت:", url)
+    except:
+        print("✖ خطأ:", url)
 
-# حفظ القنوات الحية في ملف M3U
-with open(output_file, "w") as f:
-    for ch in alive_channels:
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n")
+    for ch in alive:
         f.write(ch + "\n")
 
-print(f"تم حفظ {len(alive_channels)} قناة حية في الملف '{output_file}'")
+print(f"✅ تم حفظ {len(alive)} قناة حية في {OUTPUT_FILE}")
