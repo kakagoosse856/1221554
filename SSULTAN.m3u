@@ -72,7 +72,11 @@ https://sdmax111.provegooott.com/44_.m3u8
 https://sdmax111.provegooott.com/45_.m3u8
 
 #EXTINF:-1,###########SERVER3###########
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/333799.m3u8
+#EXTINF:-1,beIN Sports 1 auto
+https://gist.githubusercontent.com/iraqapps/4aeab0cf71838899ec60b9b100e00403/raw/dhoomtv_b1auto.m3u8
+#EXTINF:-1,beIN Sports 2 auto
+https://gist.githubusercontent.com/iraqapps/4aeab0cf71838899ec60b9b100e00403/raw/dhoomtv_b2auto.m3u8
+
 
 #EXTINF:-1 tvg-id="BS1" tvg-name="BEIN SPORTS   1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORTS   1 4K
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/333799.m3u8
