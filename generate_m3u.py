@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # رابط الموقع الأساسي
 BASE_URL = "https://v5on.site/"
 # رابط صفحة القنوات
-PAGE_URL = BASE_URL + "playlist-page.html"  # عدله حسب الصفحة الصحيحة
+PAGE_URL = BASE_URL + "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/v5.html"  # عدله حسب الصفحة الصحيحة
 
 # اسم ملف M3U النهائي
 M3U_FILE = "channels.m3u"
