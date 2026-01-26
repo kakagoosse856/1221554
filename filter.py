@@ -1,6 +1,6 @@
 import requests
 
-INPUT_FILE = "all_channels.m3u"
+INPUT_FILE = "s4.m3u"
 OUTPUT_FILE = "s7.m3u"
 
 alive = []
