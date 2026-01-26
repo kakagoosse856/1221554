@@ -1,6 +1,6 @@
 import requests
 
-INPUT_FILE = "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/beeenmonaw3llfaltara.m3u"
+INPUT_FILE = "SSULTAN.m3u"
 OUTPUT_FILE = "s7.m3u"
 
 HEADERS = {
