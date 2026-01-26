@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif" group-title="Other",##### GR| ΓΕΝΙΚΟΣ/GENERAL VIP #####
+http://delta8k.xyz:80/play/live.php.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cS1c5DtG/Relax-GIF.gif" group-title="RX| RELAX 4K ☼",###### RELAX 4K ######
+http://cf.wizx.cloud:80/play/live.php.m3u8
