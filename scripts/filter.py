@@ -1,7 +1,7 @@
 import requests
 
 # اسم ملف M3U الأصلي الذي يحتوي على جميع القنوات
-input_file = "all_channels.m3u"
+input_file = "s4.m3u"
 
 # اسم ملف الإخراج للقنوات الحية
 output_file = "KASSSSKASSSK.m3u"
