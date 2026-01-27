@@ -1,10 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 
+# رابط صفحة الباقة
 URL = "https://v5on.site/index.php?cat=579"
-OUTPUT_FILE = "ALWANSPORT.m3u"
-ALLOWED = ["alwan sport"]  # الكلمات المفتاحية للقنوات المطلوبة
 
+# اسم الملف الناتج
+OUTPUT_FILE = "ALWANSPORT.m3u"
+
+# الكلمات المفتاحية للقنوات المراد جلبها
+ALLOWED = ["alwan sport"]
+
+# ترويسة لتجنب حظر الموقع
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
