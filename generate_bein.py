@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 
-# رابط صفحة قنوات beIN
+# رابط الموقع الذي يحتوي على قنوات بين سبور
 URL = "https://v5on.site/index.php?cat=29"
 
-# ملف الإخراج
+# اسم ملف M3U الناتج
 OUTPUT_FILE = "bein.m3u"
 
 resp = requests.get(URL)
@@ -12,25 +12,26 @@ resp.raise_for_status()
 
 soup = BeautifulSoup(resp.text, "html.parser")
 
+# استخراج كل القنوات
 channels = []
-
-# البحث عن كل القنوات
-for a in soup.find_all("a", class_="channel-card"):
+for a in soup.select("a.channel-card"):
     href = a.get("href")
-    if not href or "play.php?id=" not in href:
+    if "play.php?id=" not in href:
         continue
-    ch_id = href.split("id=")[-1]
-    name_tag = a.find("h4")
-    name = name_tag.text.strip() if name_tag else f"beIN {ch_id}"
-    logo_tag = a.find("img")
-    logo = logo_tag.get("src") if logo_tag else ""
-    channels.append({"id": ch_id, "name": name, "logo": logo})
+    ch_id = href.split("id=")[-1].strip()
+    name_tag = a.select_one(".card-info h4")
+    name = name_tag.text.strip() if name_tag else f"Channel {ch_id}"
+    logo_tag = a.select_one(".card-thumbnail img")
+    logo = logo_tag["src"] if logo_tag else ""
+    channels.append((ch_id, name, logo))
 
-# توليد ملف M3U
+# كتابة ملف M3U
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
-    for ch in channels:
-        f.write(f'#EXTINF:-1 tvg-id="{ch["id"]}" tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}",{ch["name"]}\n')
-        f.write(f'play.php?id={ch["id"]}\n')
+    for ch_id, name, logo in channels:
+        line1 = f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}",{name}\n'
+        line2 = f'play.php?id={ch_id}\n'
+        f.write(line1)
+        f.write(line2)
 
-print(f"Generated {OUTPUT_FILE} with {len(channels)} channels.")
+print(f"{len(channels)} قناة مكتوبة في {OUTPUT_FILE}")
