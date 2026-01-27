@@ -1,0 +1,55 @@
+#EXTM3U
+#=================================
+# Developed By: OMNIX EMPIER
+# IPTV Telegram Channels: https://t.me/omnix_Empire
+# Last Updated: 2026-01-27 01:02 PM (BD Time)
+# TV channel counts :- 24
+#==================================
+#EXTINF:-1 tvg-logo="https://www.discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png" group-title="Mlive",Discovery Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png" group-title="Mlive",HUM TV HD
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IA0stCTLJn0FZRYYEzin68yIwzZ9zwYfxz9V5MX0hES3FWjUftiIAY4GWPOKcn83w0basU72=s160-c-k-c0x00ffffff-no-rj" group-title="Mlive",Hum Masala
+https://g4wlkwx8l23a-hls-live.5centscdn.com/masala/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1686797701-98438974.png?v=8.5.1" group-title="Mlive",Hum Masala
+https://g4wlkwx8l23a-hls-live.5centscdn.com/masala/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&amp;w=3840&amp;q=30" group-title="Mlive",Myco Live
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/683837d04af76c0b35ca39e9
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&amp;w=3840&amp;q=30" group-title="Mlive",Mix ONE
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/67764d04d040a3a0e2597a40
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&amp;w=3840&amp;q=30" group-title="Mlive",Mix Bel Araby
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/67764e92c13e0a3cd924cf54
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&amp;w=3840&amp;q=30" group-title="Mlive",CGTN Arabic
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/66ea67498dcc00534340d4a1
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&amp;w=3840&amp;q=30" group-title="Mlive",Saudi Quran TV
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/68402aeac265d95410f152d5
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&amp;w=3840&amp;q=30" group-title="Mlive",Al Jazeera
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/6890babe3f4c9b18f49426d0
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb1jpg-1726843358649.webp&amp;w=3840&amp;q=30" group-title="Mlive",CGTN English
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/66ea658e13a6f6fce0bab8b2
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&amp;w=3840&amp;q=30" group-title="Mlive",Aaj News
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/682f1c9595dce935340d76d1
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&amp;w=3840&amp;q=30" group-title="Mlive",Abbtakk News
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/685babbf23efb8c4f551a9d9
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&amp;w=3840&amp;q=30" group-title="Mlive",Capital TV
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/685bab0f8593d91eb46a15be
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&amp;w=3840&amp;q=30" group-title="Mlive",Channel 5 News HD
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/68382ec7a8a42ec476af2959
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&amp;w=3840&amp;q=30" group-title="Mlive",Time News HD
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/68309e5379580b256d1b1b82
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-9jpg-1751381481661.webp&amp;w=3840&amp;q=30" group-title="Mlive",Mix TV
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/670533a7bf8a4684f0188155
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&amp;w=3840&amp;q=30" group-title="Mlive",Green Entertainment TV | Live Free Streaming
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/685ba90f23efb8c4f551a6ed
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&amp;w=3840&amp;q=30" group-title="Mlive",8XM HD
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&amp;w=3840&amp;q=30" group-title="Mlive",Aaj Entertainment
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/682f1e66d132b2399b27ab00
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&amp;w=3840&amp;q=30" group-title="Mlive",MUN TV
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/683074438dfcfbbcde5c20d6
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&amp;w=3840&amp;q=30" group-title="Mlive",Madani Channel
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/68402415d2d30d092c1cc5d4
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&amp;w=3840&amp;q=30" group-title="Mlive",Hyder TV
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/6840238bc265d95410f14ea8
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&amp;w=3840&amp;q=30" group-title="Mlive",CGTN Documentary
+https://sportsbd.top/playlist/myco.php?id=https://myco.io/videohome/6798e14cc13e0a3cd93d24f0
