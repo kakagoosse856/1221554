@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # رابط الموقع الذي يحتوي على قنوات بين سبور
-URL = "https://v5on.site/index.php?cat=29"
+URL = "https://v5on.site/index.php?q=bein"
 
 # اسم ملف M3U الناتج
 OUTPUT_FILE = "bein.m3u"
