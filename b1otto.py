@@ -3,9 +3,11 @@ import os
 import datetime
 import pytz
 
+# مجلد حفظ الملفات
 OUTPUT_DIR = "playlist"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# المصادر
 SOURCES = [
     ("Armenia", "https://sportsbd.top/playlist/playlist.m3u?id=a1a89c360e48"),
     ("Azerbaijan", "https://sportsbd.top/playlist/playlist.m3u?id=88b1c3bd791e"),
@@ -13,6 +15,7 @@ SOURCES = [
     # أضف باقي المصادر هنا
 ]
 
+# ترويسة طلبات HTTP
 HEADERS = {
     "User-Agent": "VLC/3.0.18 LibVLC/3.0.18",
     "Accept": "*/*",
