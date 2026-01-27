@@ -3,14 +3,14 @@ name: ALWANSPORT M3U
 on:
   schedule:
     - cron: '0 * * * *'  # كل ساعة
-  workflow_dispatch:    # يمكن تشغيله يدويًا
+  workflow_dispatch:     # يمكن تشغيله يدوياً
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -21,18 +21,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Generate M3U
+      - name: Generate ALWANSPORT M3U
         run: python ALWANSPORT.py
 
-      - name: Commit & Push changes
+      - name: Commit & Push if file exists
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
           if [ -f ALWANSPORT.m3u ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
             git add ALWANSPORT.m3u
-            git commit -m "Auto update kisas.m3u" || echo "No changes to commit"
+            git commit -m "Auto update ALWANSPORT.m3u" || echo "No changes to commit"
             git pull --rebase
             git push
           else
-            echo "ALWANSPORT.m3u does not exist, skipping commit."
-          fi
+            echo "⚠️ ALWANSPORT.m3u does not exist, skipping commit."
