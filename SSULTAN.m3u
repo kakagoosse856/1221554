@@ -41,6 +41,13 @@ http://5.135.26.128/stream/bein/bein1/out/index.m3u8
 #EXTINF:-1,beIN Sports 3 HD 
 http://5.135.26.128/stream/bein/bein1/out/index.m3u8
 
+#EXTINF:-1,beIN Sports 1 HD BEE
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1,beIN Sports 2 HD BEE
+https://sdmax111.provegooott.com/33_.m3u8
+#EXTINF:-1,beIN Sports 3 HD BEE
+https://sdmax111.provegooott.com/34_.m3u8
+
 #EXTINF:-1,beIN Sports 4 HD BEE
 https://sdmax111.provegooott.com/35_.m3u8
  
