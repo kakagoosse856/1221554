@@ -7,10 +7,11 @@ URL = "https://v5on.site/index.php?cat=597"
 # اسم ملف M3U الناتج
 OUTPUT_FILE = "bssd.m3u"
 
-# اسم القناة التي تريد استثناؤها تمامًا
-EXCLUDE_NAME = "اسم القناة المراد استثناءها"  # معلومات عن الخدمة
+# استثناء القنوات حسب tvg-id أو الاسم
+EXCLUDE_IDS = ["1515459"]            # استثناء حسب ID
+EXCLUDE_NAMES = ["معلومات عن الخدمة"]  # استثناء حسب الاسم
 
-# إعداد headers لتجنب الحظر
+# إعداد headers
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -24,7 +25,7 @@ soup = BeautifulSoup(resp.text, "html.parser")
 
 channels = []
 for a in soup.select("a.channel-card"):
-    href = a.get("href")
+    href = a.get("href", "")
     if "play.php?id=" not in href:
         continue
 
@@ -32,9 +33,9 @@ for a in soup.select("a.channel-card"):
     name_tag = a.select_one(".card-info h4")
     name = name_tag.text.strip() if name_tag else f"Channel {ch_id}"
 
-    # استثناء القناة المحددة
-    if EXCLUDE_NAME.lower() in name.lower():
-        print(f"⚠️ تم استثناء القناة: {name}")
+    # استثناء القناة إذا كان الـ ID أو الاسم موجود في القوائم
+    if ch_id in EXCLUDE_IDS or name in EXCLUDE_NAMES:
+        print(f"⚠️ تم استثناء القناة: {name} (ID: {ch_id})")
         continue
 
     logo_tag = a.select_one(".card-thumbnail img")
