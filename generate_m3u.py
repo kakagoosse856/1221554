@@ -1,34 +1,27 @@
 import requests
-from datetime import datetime
+from bs4 import BeautifulSoup
 
-# رابط ملف BEIN.m3u
-url = "https://raw.githubusercontent.com/omnixmain/OMNIX-PLAYLIST-ZONE/refs/heads/main/playlist/BEIN.m3u"
+URL = "https://v5on.site/index.php?cat=29"
+OUTPUT_FILE = "v5.m3u"
 
-# جلب الملف
-resp = requests.get(url)
+resp = requests.get(URL)
 resp.raise_for_status()
 
-lines = resp.text.splitlines()
+soup = BeautifulSoup(resp.text, "html.parser")
 channels = []
 
-for i, line in enumerate(lines):
-    if line.startswith("#EXTINF:"):
-        # استخراج الاسم
-        name_match = line.split(",")[-1].strip()
-        # استخراج id من الرابط الذي يليه
-        try:
-            url_line = lines[i+1]
-            if "play.php?id=" in url_line:
-                id_val = url_line.split("play.php?id=")[-1].strip()
-                channels.append({"name": name_match, "id": id_val})
-        except IndexError:
-            continue
+for a in soup.find_all("a", class_="channel-card"):
+    href = a.get("href", "")
+    if "play.php?id=" in href:
+        channel_id = href.split("play.php?id=")[-1]
+        h4 = a.find("h4")
+        name = h4.text.strip() if h4 else f"Channel {channel_id}"
+        channels.append({"name": name, "id": channel_id})
 
-# إنشاء ملف M3U
-with open("v5.m3u", "w", encoding="utf-8") as f:
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
     for ch in channels:
-        f.write(f"#EXTINF:-1 tvg-name=\"{ch['name']}\", {ch['name']}\n")
-        f.write(f"http://v5on.site/play.php?id={ch['id']}\n\n")
+        f.write(f"#EXTINF:-1 tvg-name=\"{ch['name']}\",{ch['name']}\n")
+        f.write(f"play.php?id={ch['id']}\n\n")
 
-print(f"[{datetime.now()}] تم إنشاء ملف v5.m3u بعدد {len(channels)} قناة.")
+print(f"تم إنشاء {OUTPUT_FILE} بعدد {len(channels)} قناة.")
