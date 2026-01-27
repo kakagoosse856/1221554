@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 URL = "https://v5on.site/index.php"
 OUTPUT_FILE = "rmc.m3u"
 
-ALLOWED = ["rmc", "bein", "sky", "canal"]
+ALLOWED = ["RMC", "bein", "sky", "canal"]
 
 resp = requests.get(URL)
 resp.raise_for_status()
