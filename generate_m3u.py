@@ -1,48 +1,34 @@
 import requests
+from datetime import datetime
 
-# رابط M3U الجديد
-URL = "https://raw.githubusercontent.com/omnixmain/OMNIX-PLAYLIST-ZONE/refs/heads/main/playlist/BEIN.m3u"
+# رابط ملف BEIN.m3u
+url = "https://raw.githubusercontent.com/omnixmain/OMNIX-PLAYLIST-ZONE/refs/heads/main/playlist/BEIN.m3u"
 
 # جلب الملف
-resp = requests.get(URL)
+resp = requests.get(url)
 resp.raise_for_status()
-data = resp.text
 
-# تقسيم الأسطر
-lines = data.splitlines()
+lines = resp.text.splitlines()
 channels = []
 
-# قراءة القنوات
 for i, line in enumerate(lines):
     if line.startswith("#EXTINF:"):
-        info = line
-        url = lines[i + 1] if i + 1 < len(lines) else ""
-        
-        # استخراج الاسم من tvg-name
-        import re
-        name_match = re.search(r'tvg-name="([^"]+)"', info)
-        logo_match = re.search(r'tvg-logo="([^"]+)"', info)
-        name = name_match.group(1) if name_match else "قناة بدون اسم"
-        logo = logo_match.group(1) if logo_match else ""
-        
-        channels.append({
-            "name": name,
-            "url": url,
-            "logo": logo
-        })
+        # استخراج الاسم
+        name_match = line.split(",")[-1].strip()
+        # استخراج id من الرابط الذي يليه
+        try:
+            url_line = lines[i+1]
+            if "play.php?id=" in url_line:
+                id_val = url_line.split("play.php?id=")[-1].strip()
+                channels.append({"name": name_match, "id": id_val})
+        except IndexError:
+            continue
 
-# توليد M3U جديد
-m3u_lines = ["#EXTM3U\n"]
-for ch in channels:
-    extinf = f'#EXTINF:-1 tvg-id="{ch["name"]}" tvg-name="{ch["name"]}"'
-    if ch["logo"]:
-        extinf += f' tvg-logo="{ch["logo"]}"'
-    extinf += f', {ch["name"]}'
-    m3u_lines.append(extinf)
-    m3u_lines.append(ch["url"])
+# إنشاء ملف M3U
+with open("v5.m3u", "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n\n")
+    for ch in channels:
+        f.write(f"#EXTINF:-1 tvg-name=\"{ch['name']}\", {ch['name']}\n")
+        f.write(f"http://v5on.site/play.php?id={ch['id']}\n\n")
 
-# حفظ الملف
-with open("BEIN_new.m3u", "w", encoding="utf-8") as f:
-    f.write("\n".join(m3u_lines))
-
-print(f"تم استخراج {len(channels)} قناة وتوليد BEIN_new.m3u بنجاح!")
+print(f"[{datetime.now()}] تم إنشاء ملف v5.m3u بعدد {len(channels)} قناة.")
