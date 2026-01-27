@@ -1,37 +1,35 @@
-name: Auto Update BEIN M3U
+name: Auto Update M3U
 
 on:
   schedule:
-    # يفحص كل ساعة، يمكنك تغيير الوقت حسب رغبتك
-    - cron: "0 * * * *"
-  workflow_dispatch: # لتشغيله يدويًا أيضًا
+    - cron: '0 * * * *'   # كل ساعة
+  workflow_dispatch:      # يمكن تشغيله يدوياً
 
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
 
-      - name: Install requests
-        run: pip install requests
+    - name: Install dependencies
+      run: pip install requests
 
-      - name: Run generate_m3u.py
-        run: python generate_m3u.py
+    - name: Run generate_m3u.py
+      run: python generate_m3u.py
 
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add BEIN_new.m3u
-          git commit -m "Auto update BEIN M3U"
-          git pull --rebase origin main
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+        git add v5.m3u
+        git diff --cached --quiet || git commit -m "Auto update M3U"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
