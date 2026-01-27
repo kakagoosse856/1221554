@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # رابط الموقع الذي يحتوي على القنوات
-URL = "https://v5on.site/index.php"
+URL = "https://v5on.site/index.php?cat=1736"
 
 # اسم ملف M3U الناتج
 OUTPUT_FILE = "rmc.m3u"
