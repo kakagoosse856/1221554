@@ -1,0 +1,38 @@
+name: 888s M3U
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # كل ساعة
+  workflow_dispatch:    # يمكن تشغيله يدويًا
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate M3U
+        run: python 888s.py
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          if [ -f 888s.m3u ]; then
+            git add 888s.m3u
+            git commit -m "Auto update 888s.m3u" || echo "No changes to commit"
+            git pull --rebase
+            git push
+          else
+            echo "888s.m3u does not exist, skipping commit."
+          fi
