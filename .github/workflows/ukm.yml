@@ -22,7 +22,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Generate M3U
-        run: python generate_bein.py
+        run: python generate_ukm.py
 
       - name: Commit & Push changes
         run: |
