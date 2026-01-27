@@ -1,35 +1,36 @@
-name: Auto Update M3U
+name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'   # كل ساعة
-  workflow_dispatch:      # يمكن تشغيله يدوياً
+    - cron: '0 * * * *' # كل ساعة
+  workflow_dispatch:   # لتشغيله يدويًا
 
 jobs:
-  update-m3u:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.11
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
 
-    - name: Install dependencies
-      run: pip install requests
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
-    - name: Run generate_m3u.py
-      run: python generate_m3u.py
+      - name: Generate M3U
+        run: python generate_m3u.py
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "github-actions"
-        git config user.email "actions@github.com"
-        git add v5.m3u
-        git diff --cached --quiet || git commit -m "Auto update M3U"
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add v5.m3u
+          git commit -m "Auto update M3U"
+          git pull --rebase
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
