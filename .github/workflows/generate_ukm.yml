@@ -1,4 +1,4 @@
-name: Update ukm M3U
+name: generate_ukm M3U
 
 on:
   schedule:
