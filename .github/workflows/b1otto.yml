@@ -1,4 +1,4 @@
-name: b1otto M3U
+name: B1OTTO M3U Update
 
 on:
   schedule:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -19,21 +19,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
+        run: pip install requests pytz
 
-      - name: Generate M3U
-        run: |
-          python b1otto.py
+      - name: Run b1otto.py
+        run: python b1otto.py
 
       - name: Commit & Push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          if [ -f b1otto.m3u ]; then
-            git add b1otto.m3u
-            git commit -m "Auto update b1otto.m3u" || echo "No changes to commit"
-            git pull --rebase
-            git push
-          else
-            echo "b1otto.m3u does not exist, skipping commit."
+          git add playlist/*.m3u
+          git commit -m "Auto update b1otto playlists" || echo "No changes to commit"
+          git pull --rebase
+          git push
