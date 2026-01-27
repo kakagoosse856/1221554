@@ -23,14 +23,18 @@ for a in soup.select("a.channel-card"):
     name = name_tag.text.strip() if name_tag else f"Channel {ch_id}"
     logo_tag = a.select_one(".card-thumbnail img")
     logo = logo_tag["src"] if logo_tag else ""
-    channels.append((ch_id, name, logo))
+    
+    # استخراج الرابط الكامل
+    channel_url = f"https://v5on.site/{href}"
+
+    channels.append((ch_id, name, logo, channel_url))
 
 # كتابة ملف M3U
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
-    for ch_id, name, logo in channels:
+    for ch_id, name, logo, channel_url in channels:
         line1 = f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}",{name}\n'
-        line2 = f'play.php?id={ch_id}\n'
+        line2 = f'{channel_url}\n'  # استخدام الرابط الكامل
         f.write(line1)
         f.write(line2)
 
