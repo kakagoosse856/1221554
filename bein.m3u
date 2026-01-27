@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="1515460" tvg-name="INFORMATIONS SUR LE SERVICE" tvg-logo="https://www.herault-tribune.com/wp-content/uploads/2021/03/2020-06-13_083257_new_Info1-500x318-1.jpg",INFORMATIONS SUR LE SERVICE
 https://v5on.site/play.php?id=1515460
@@ -9,8 +8,7 @@ https://v5on.site/play.php?id=1749297
 #EXTINF:-1 tvg-id="148461" tvg-name="TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png",TF1 ᵁᴴᴰ
 https://v5on.site/play.php?id=148461
 #EXTINF:-1 tvg-id="269" tvg-name="TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png",TF1 HD
-https://v5on.site/https://v5on.site/play.php?id=269
-https://v5on.site/https://v5on.site/play.php?id=32750
+https://v5on.site/play.php?id=269
 #EXTINF:-1 tvg-id="31505" tvg-name="TF1 HD +4" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HD+4.png",TF1 HD +4
 https://v5on.site/play.php?id=31505
 #EXTINF:-1 tvg-id="148463" tvg-name="FRANCE 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png",FRANCE 2 ᵁᴴᴰ
