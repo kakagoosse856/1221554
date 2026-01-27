@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 URL = "https://v5on.site/index.php?cat=579"
 OUTPUT_FILE = "ALWANSPORT.m3u"
-ALLOWED = ["ALWAN SPORT"]
+ALLOWED = ["alwan sport"]  # كل شيء صغير
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -11,7 +11,7 @@ HEADERS = {
                   "Chrome/117.0.0.0 Safari/537.36"
 }
 
-resp = requests.get(URL, headers=HEADERS, timeout=20)  # إضافة headers و timeout
+resp = requests.get(URL, headers=HEADERS, timeout=20)
 resp.raise_for_status()
 
 soup = BeautifulSoup(resp.text, "html.parser")
@@ -26,6 +26,9 @@ for a in soup.select("a.channel-card"):
     name_tag = a.select_one(".card-info h4")
     name = name_tag.text.strip() if name_tag else f"Channel {ch_id}"
 
+    print("Found channel:", name)  # 🔹 طباعة جميع القنوات
+
+    # فلترة
     if not any(k in name.lower() for k in ALLOWED):
         continue
 
@@ -35,12 +38,13 @@ for a in soup.select("a.channel-card"):
 
     channels.append((ch_id, name, logo, channel_url))
 
+# كتابة M3U
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     for ch_id, name, logo, channel_url in channels:
         f.write(
             f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" '
-            f'tvg-logo="{logo}" group-title="RMC",{name}\n'
+            f'tvg-logo="{logo}" group-title="ALWANSPORT",{name}\n'
         )
         f.write(channel_url + "\n")
 
