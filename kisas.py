@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://v5on.site/index.php?cat=579"
-OUTPUT_FILE = "قـــصـــص.m3u"
-ALLOWED = ["قـــصـــص"]
+OUTPUT_FILE = "ALWANSPORT.m3u"
+ALLOWED = ["ALWAN SPORT"]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
