@@ -3,7 +3,7 @@ name: ALWANSPORT M3U
 on:
   schedule:
     - cron: '0 * * * *'  # كل ساعة
-  workflow_dispatch:     # يمكن تشغيله يدوياً
+  workflow_dispatch:     # يمكن تشغيله يدويًا
 
 jobs:
   build:
@@ -35,3 +35,4 @@ jobs:
             git push
           else
             echo "⚠️ ALWANSPORT.m3u does not exist, skipping commit."
+          fi
