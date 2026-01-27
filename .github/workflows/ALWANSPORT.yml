@@ -1,4 +1,4 @@
-name: kisas M3U
+name: ALWANSPORT M3U
 
 on:
   schedule:
@@ -22,17 +22,17 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Generate M3U
-        run: python kisas.py
+        run: python ALWANSPORT.py
 
       - name: Commit & Push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          if [ -f kisas.m3u ]; then
-            git add kisas.m3u
+          if [ -f ALWANSPORT.m3u ]; then
+            git add ALWANSPORT.m3u
             git commit -m "Auto update kisas.m3u" || echo "No changes to commit"
             git pull --rebase
             git push
           else
-            echo "bein.m3u does not exist, skipping commit."
+            echo "ALWANSPORT.m3u does not exist, skipping commit."
           fi
