@@ -12,7 +12,24 @@ SOURCES = [
     ("Armenia", "https://sportsbd.top/playlist/playlist.m3u?id=a1a89c360e48"),
     ("Azerbaijan", "https://sportsbd.top/playlist/playlist.m3u?id=88b1c3bd791e"),
     ("Bangladesh", "https://sportsbd.top/playlist/playlist.m3u?id=a82b3259436a"),
-    # أضف باقي المصادر هنا
+    ("FireTV", "https://sportsbd.top/playlist/playlist.m3u?id=ce416fed25ec"),
+    ("Kolkata", "https://sportsbd.top/playlist/playlist.m3u?id=c8483c6b6eab"),
+    ("YuppTV", "https://sportsbd.top/playlist/playlist.m3u?id=f4291f2c6262"),
+    ("African", "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=563e69359077"),
+    ("Movie_Combo", "https://sportsbd.top/playlist/playlist.m3u?id=aa874d8d4e27"),
+    ("Unosottor", "https://sportsbd.top/playlist/playlist.m3u?id=5ca2a68409c7"),
+    ("Tamasha_PK_Live", "https://sportsbd.top/playlist/playlist.m3u?id=8db266792bd4"),
+    ("Myco", "https://sportsbd.top/playlist/playlist.m3u?id=cea2dcb46ead"),
+    ("SKY_Sports", "https://sportsbd.top/playlist/playlist.m3u?id=7e854b76b082"),
+    ("Ayna_2", "https://sportsbd.top/playlist/playlist.m3u?id=498c4c3483df"),
+    ("ZONG_TV", "https://sportsbd.top/playlist/playlist.m3u?id=5b145afee099"),
+    ("Combo_IPTV", "https://sportsbd.top/playlist/playlist.m3u?id=4d9b2514bf56"),
+    ("Biostar_TV_World", "https://sportsbd.top/playlist/playlist.m3u?id=73451d7d68b3"),
+    ("Arabic_Sports", "https://sportsbd.top/playlist/playlist.m3u?id=73451d7d68b3"),
+    ("Kids", "https://sportsbd.top/playlist/playlist.m3u?id=ef50d071ac38"),
+    ("Pakistan", "https://sportsbd.top/playlist/playlist.m3u?id=ec7045b206e0"),
+    ("Tamasha_PK_Only", "https://sportsbd.top/playlist/playlist.m3u?id=6e07226c623a"),
+    ("MBC_Arabic", "https://sportsbd.top/playlist/playlist.m3u?id=8b9cd39546f6"),
 ]
 
 # ترويسة طلبات HTTP
