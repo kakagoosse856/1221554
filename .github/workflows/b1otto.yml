@@ -19,10 +19,12 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install requests beautifulsoup4
 
       - name: Generate M3U
-        run: python b1otto.py
+        run: |
+          python b1otto.py
 
       - name: Commit & Push changes
         run: |
