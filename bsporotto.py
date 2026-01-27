@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://v5on.site/index.php?cat=29"  # رابط الصفحة التي تحتوي على القنوات
-OUTPUT_FILE = "v5.m3u"
+OUTPUT_FILE = "b11otto.m3u"
 
 resp = requests.get(URL)
 resp.raise_for_status()
