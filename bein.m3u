@@ -355,6 +355,8 @@ https://v5on.site/play.php?id=1269960
 https://v5on.site/play.php?id=245827
 #EXTINF:-1 tvg-id="117124" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",beIN Sports XTRA 1 HD
 https://v5on.site/play.php?id=117124
+#EXTINF:-1 tvg-id="1859590" tvg-name="beIN SPORTS Xtra 1 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 1 HD (b)
+https://v5on.site/play.php?id=1859590
 #EXTINF:-1 tvg-id="117125" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",beIN Sports XTRA 1 HD
 https://v5on.site/play.php?id=117125
 #EXTINF:-1 tvg-id="117123" tvg-name="beIN Sports XTRA 1 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",beIN Sports XTRA 1 UHD
@@ -363,6 +365,8 @@ https://v5on.site/play.php?id=117123
 https://v5on.site/play.php?id=117126
 #EXTINF:-1 tvg-id="117129" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",beIN Sports XTRA 2 HD
 https://v5on.site/play.php?id=117129
+#EXTINF:-1 tvg-id="1859592" tvg-name="beIN SPORTS Xtra 2 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 2 HD (b)
+https://v5on.site/play.php?id=1859592
 #EXTINF:-1 tvg-id="117130" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",beIN Sports XTRA 2 HD
 https://v5on.site/play.php?id=117130
 #EXTINF:-1 tvg-id="117128" tvg-name="beIN Sports XTRA 2 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",beIN Sports XTRA 2 UHD
@@ -371,6 +375,8 @@ https://v5on.site/play.php?id=117128
 https://v5on.site/play.php?id=117131
 #EXTINF:-1 tvg-id="3" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XTRA 3 HD
 https://v5on.site/play.php?id=3
+#EXTINF:-1 tvg-id="1859594" tvg-name="beIN SPORTS Xtra 3 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 3 HD (b)
+https://v5on.site/play.php?id=1859594
 #EXTINF:-1 tvg-id="108163" tvg-name="beIN Sports XSTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XSTRA 3 HD
 https://v5on.site/play.php?id=108163
 #EXTINF:-1 tvg-id="114051" tvg-name="beIN Sports 3 XTRA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports 3 XTRA UHD
@@ -383,16 +389,28 @@ https://v5on.site/play.php?id=2539
 https://v5on.site/play.php?id=245834
 #EXTINF:-1 tvg-id="1572902" tvg-name="beIN Sports XTRA 4 HD" tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png",beIN Sports XTRA 4 HD
 https://v5on.site/play.php?id=1572902
+#EXTINF:-1 tvg-id="1859596" tvg-name="beIN SPORTS Xtra 4 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 4 HD (b)
+https://v5on.site/play.php?id=1859596
 #EXTINF:-1 tvg-id="1572906" tvg-name="beIN Sports XTRA 5 HD" tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png",beIN Sports XTRA 5 HD
 https://v5on.site/play.php?id=1572906
+#EXTINF:-1 tvg-id="1859598" tvg-name="beIN SPORTS Xtra 5 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 5 HD (b)
+https://v5on.site/play.php?id=1859598
 #EXTINF:-1 tvg-id="1572910" tvg-name="beIN Sports XTRA 6 HD" tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png",beIN Sports XTRA 6 HD
 https://v5on.site/play.php?id=1572910
+#EXTINF:-1 tvg-id="1859600" tvg-name="beIN SPORTS Xtra 6 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 6 HD (b)
+https://v5on.site/play.php?id=1859600
 #EXTINF:-1 tvg-id="1572914" tvg-name="beIN Sports XTRA 7 HD" tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png",beIN Sports XTRA 7 HD
 https://v5on.site/play.php?id=1572914
+#EXTINF:-1 tvg-id="1859602" tvg-name="beIN SPORTS Xtra 7 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 7 HD (b)
+https://v5on.site/play.php?id=1859602
 #EXTINF:-1 tvg-id="1572918" tvg-name="beIN Sports XTRA 8 HD" tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png",beIN Sports XTRA 8 HD
 https://v5on.site/play.php?id=1572918
+#EXTINF:-1 tvg-id="1859604" tvg-name="beIN SPORTS Xtra 8 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 8 HD (b)
+https://v5on.site/play.php?id=1859604
 #EXTINF:-1 tvg-id="1572922" tvg-name="beIN Sports XTRA 9 HD" tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png",beIN Sports XTRA 9 HD
 https://v5on.site/play.php?id=1572922
+#EXTINF:-1 tvg-id="1859606" tvg-name="beIN SPORTS Xtra 9 HD (b)" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg",beIN SPORTS Xtra 9 HD (b)
+https://v5on.site/play.php?id=1859606
 #EXTINF:-1 tvg-id="1572903" tvg-name="beIN Sports XTRA 4 SD" tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png",beIN Sports XTRA 4 SD
 https://v5on.site/play.php?id=1572903
 #EXTINF:-1 tvg-id="1572907" tvg-name="beIN Sports XTRA 5 SD" tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png",beIN Sports XTRA 5 SD
