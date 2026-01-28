@@ -1,4 +1,4 @@
-name: Auto Update M3U8
+name: bm3u8
 
 # تشغيل كل ساعة (يمكن تغييره حسب الحاجة)
 on:
