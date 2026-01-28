@@ -1,13 +1,5 @@
-[
-  {
-    "name": "LIVE | India vs West Indies, 1st Test",
-    "link": "https://v5on.site/api/playlist.php?id=22837",
-    "logo": "https://image.tsports.com/images/mobile_thumbnail/1759314297-Promo-thum-1280.jpg",
-    "origin": "https://v5on.site",
-    "referrer": "https://v5on.site",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=http://v5on.site/
+#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://v5on.site/api/playlist.php?id=150404
+
