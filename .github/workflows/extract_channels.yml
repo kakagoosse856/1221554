@@ -1,0 +1,35 @@
+name: Extract IPTV Channels
+
+on:
+  schedule:
+    # تشغيل كل ساعة
+    - cron: "0 * * * *"
+  workflow_dispatch: # لتشغيله يدويًا أيضًا
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: استنساخ المستودع
+        uses: actions/checkout@v3
+
+      - name: تثبيت Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: تثبيت المكتبات المطلوبة
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: تشغيل السكربت
+        run: |
+          python extract_channels.py
+
+      - name: حفظ ملفات M3U كأرتيفاكت
+        uses: actions/upload-artifact@v3
+        with:
+          name: m3u-files
+          path: m3u/
