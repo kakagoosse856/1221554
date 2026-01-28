@@ -2,31 +2,27 @@ name: bm3u8
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # كل 30 دقيقة
+    - cron: '0 * * * *' # تشغيل كل ساعة
   workflow_dispatch:
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - name: Setup Python
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'
+        python-version: 3.11
 
-    - name: Install deps
-      run: pip install requests
-
-    - name: Run extractor
-      run: python bm3u8.py
-
-    - name: Commit & Push
+    - name: Install dependencies
       run: |
-        git config user.name "github-actions"
-        git config user.email "actions@github.com"
-        git add channels/*.m3u8
-        git commit -m "Auto update channels" || echo "No changes"
-        git push
+        python -m pip install --upgrade pip
+        pip install requests bs4 pytz
+
+    - name: Run BM3U8 Script
+      run: |
+        python bm3u8.py
