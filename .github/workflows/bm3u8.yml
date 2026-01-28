@@ -2,32 +2,36 @@ name: bm3u8
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # كل 30 دقيقة
-  workflow_dispatch:
+    - cron: '0 * * * *'   # كل ساعة
+  workflow_dispatch:       # لتشغيله يدويًا من GitHub أيضًا
 
 jobs:
-  build:
+  update-m3u8:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pytz
 
-      - name: Generate m3u8 files
+      - name: Run bm3u8 scraper
         run: python bm3u8.py
 
-      - name: Commit & Push
+      - name: Commit and push updated M3U8 files
         run: |
-          git config --global user.name "omnix-bot"
-          git config --global user.email "omnix@users.noreply.github.com"
-          git add channels/
-          git commit -m "Auto update channels m3u8" || exit 0
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add channels/*.m3u8
+          git commit -m "Auto-update M3U8 files [skip ci]" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
