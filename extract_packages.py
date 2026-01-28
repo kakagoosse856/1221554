@@ -1,24 +1,31 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import re
 import os
+import re
 import time
 
 BASE_URL = "https://v5on.site/"
 START_URL = "https://v5on.site/index.php"
 
-os.makedirs("m3u", exist_ok=True)
+os.makedirs("m3u", exist_ok=True)  # مجلد لحفظ الملفات
 
 def clean_name(name):
+    """تنظيف اسم الباقة ليكون صالحًا كاسم ملف"""
     return re.sub(r'[\\/*?:"<>|]', "", name).strip().replace(" ", "_")
 
-# جلب الصفحة الرئيسية
-resp = requests.get(START_URL)
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
+
+session = requests.Session()
+session.headers.update(headers)
+
+# 1️⃣ جلب الصفحة الرئيسية واستخراج كل روابط الباقات
+resp = session.get(START_URL)
 resp.raise_for_status()
 soup = BeautifulSoup(resp.text, "html.parser")
 
-# استخراج كل الباقات
 categories = {}
 for a in soup.find_all("a", href=True):
     href = a["href"]
@@ -29,31 +36,28 @@ for a in soup.find_all("a", href=True):
 
 print(f"[+] تم العثور على {len(categories)} باقة")
 
-# معالجة كل باقة
+# 2️⃣ استخراج القنوات لكل باقة وإنشاء ملف M3U
 for cat_name, cat_url in categories.items():
     safe_name = clean_name(cat_name)
     output_file = f"m3u/{safe_name}.m3u"
+    print(f"[+] معالجة الباقة: {cat_name}")
 
-    print(f"[+] استخراج باقة: {cat_name}")
-
-    resp = requests.get(cat_url)
+    resp = session.get(cat_url)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     channels = []
-
     for a in soup.find_all("a", href=True):
-        href = a.get("href")
+        href = a["href"]
         if "play.php?id=" not in href:
             continue
 
         ch_id = href.split("id=")[-1].strip()
         name = a.get_text(strip=True) or f"Channel {ch_id}"
-
         img = a.find("img")
         logo = img["src"] if img else ""
-
         channel_url = urljoin(BASE_URL, href)
+
         channels.append((ch_id, name, logo, channel_url))
 
     # كتابة ملف M3U للباقة
@@ -68,7 +72,7 @@ for cat_name, cat_url in categories.items():
             )
             f.write(channel_url + "\n")
 
-    print(f"    ✔ {len(channels)} قناة → {output_file}")
-    time.sleep(1)
+    print(f"    ✔ {len(channels)} قناة محفوظة في {output_file}")
+    time.sleep(1)  # لتجنب الحظر
 
-print("\n✅ انتهى استخراج كل الباقات")
+print("\n✅ انتهى استخراج كل الباقات بنجاح")
