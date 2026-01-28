@@ -1,0 +1,33 @@
+name: bm3u8
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # كل 30 دقيقة
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate m3u8 files
+        run: python bm3u8.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "omnix-bot"
+          git config --global user.email "omnix@users.noreply.github.com"
+          git add channels/
+          git commit -m "Auto update channels m3u8" || exit 0
+          git push
