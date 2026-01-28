@@ -1,4 +1,4 @@
-name: Update M3U8 Channels
+name: bm3u8
 
 on:
   push:
