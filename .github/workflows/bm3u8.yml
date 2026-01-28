@@ -26,7 +26,7 @@ jobs:
 
       - name: Run BM3U8 Script
         run: |
-          python bm3u8_fixed.py
+          python bm3u8.py
 
       - name: Commit and Push Updates
         run: |
