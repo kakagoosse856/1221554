@@ -1,4 +1,4 @@
-# bm3u8_fixed.py
+# bm3u8.py
 import os
 import requests
 from bs4 import BeautifulSoup
