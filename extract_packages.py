@@ -27,22 +27,24 @@ resp = session.get(START_URL)
 resp.raise_for_status()
 soup = BeautifulSoup(resp.text, "html.parser")
 
-# استخراج كل روابط الباقات
+# 1️⃣ استخراج كل الباقات (cat + الاسم)
 categories = {}
-for a in soup.find_all("a", href=True):
+for a in soup.find_all("a", href=True, class_="nav-pill"):
     href = a["href"]
     if "cat=" in href:
-        name = a.get_text(strip=True)
-        if name and len(name) > 2:
-            categories[name] = urljoin(BASE_URL, href)
+        cat_id = href.split("cat=")[-1].strip()
+        cat_name = a.get_text(strip=True)  # النص داخل <a>
+        if cat_name:
+            categories[cat_id] = cat_name
 
 print(f"[+] تم العثور على {len(categories)} باقة")
 
-# معالجة كل باقة
-for cat_name, cat_url in categories.items():
+# 2️⃣ استخراج القنوات لكل باقة وإنشاء ملف M3U
+for cat_id, cat_name in categories.items():
     safe_name = clean_name(cat_name)
     output_file = os.path.join(OUTPUT_DIR, f"{safe_name}.m3u")
-    print(f"[+] استخراج باقة: {cat_name}")
+    cat_url = urljoin(BASE_URL, f"index.php?cat={cat_id}")
+    print(f"[+] استخراج باقة: {cat_name} (cat={cat_id})")
 
     resp = session.get(cat_url)
     resp.raise_for_status()
@@ -50,7 +52,7 @@ for cat_name, cat_url in categories.items():
 
     channels = []
 
-    # استخراج القنوات من الباقة
+    # استخراج كل القنوات داخل الباقة
     for a in soup.find_all("a", href=True):
         href = a["href"]
         if "play.php?id=" not in href:
@@ -64,7 +66,7 @@ for cat_name, cat_url in categories.items():
 
         channels.append((ch_id, name, logo, channel_url))
 
-    # كتابة ملف M3U
+    # كتابة ملف M3U للباقة
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for ch_id, name, logo, channel_url in channels:
@@ -79,4 +81,4 @@ for cat_name, cat_url in categories.items():
     print(f"    ✔ {len(channels)} قناة محفوظة في {output_file}")
     time.sleep(1)
 
-print("\n✅ انتهى استخراج جميع الباقات")
+print("\n✅ انتهى استخراج كل الباقات بنجاح")
