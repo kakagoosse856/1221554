@@ -72,4 +72,3 @@ for cat_name, cat_url in categories.items():
     time.sleep(1)
 
 print("\n✅ انتهى استخراج كل الباقات")
-print("Auto run finished")
