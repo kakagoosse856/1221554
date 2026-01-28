@@ -1,6 +1,11 @@
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ ستاربلاي و أبوظبي الرياضية",##### STARZPLAY / AD SPORT #####
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=988043&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT HD
+https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/3.m3u
+
+
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT HD
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790152.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT SD
