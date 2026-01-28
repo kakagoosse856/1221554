@@ -4,32 +4,32 @@ on:
   schedule:
     # تشغيل كل ساعة
     - cron: "0 * * * *"
-  workflow_dispatch: # لتشغيله يدويًا أيضًا
+  workflow_dispatch: # تشغيل يدوي
 
 jobs:
-  build:
+  extract:
     runs-on: ubuntu-latest
 
     steps:
-      - name: استنساخ المستودع
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: تثبيت Python
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: تثبيت المكتبات المطلوبة
+      - name: Install Dependencies
         run: |
-          python -m pip install --upgrade pip
+          pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: تشغيل السكربت
+      - name: Run extractor
         run: |
           python extract_channels.py
 
-      - name: حفظ ملفات M3U كأرتيفاكت
-        uses: actions/upload-artifact@v3
+      - name: Upload M3U files
+        uses: actions/upload-artifact@v4
         with:
           name: m3u-files
           path: m3u/
