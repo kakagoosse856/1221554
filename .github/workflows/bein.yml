@@ -1,9 +1,9 @@
-name: bein
+name: Auto Update IPTV Playlist
 
 on:
   schedule:
     - cron: '0 * * * *'   # كل ساعة UTC
-  workflow_dispatch:      # يسمح بالتشغيل اليدوي
+  workflow_dispatch:
 
 jobs:
   update-playlist:
@@ -26,5 +26,4 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 bein.py
+        run: python3 update_channels.py
