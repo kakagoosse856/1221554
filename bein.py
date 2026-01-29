@@ -2,8 +2,8 @@ import requests
 import os
 
 SOURCES = [
-    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
-    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
+    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
+    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u",
      "https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/refs/heads/main/Bin.tst.m3u"
 ]
 OUTPUT_DIR = "channels"
