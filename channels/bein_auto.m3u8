@@ -13,5 +13,7 @@ http://135.125.109.73:9000/beinsport4_.m3u8
 http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",beIN Sports 6 HD
 http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",beIN Sports 8 HD
+http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN Sports 2 HD
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
