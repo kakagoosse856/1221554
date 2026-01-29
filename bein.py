@@ -2,10 +2,10 @@ import requests
 import os
 
 SOURCES = [
-    " "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
-    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u""
+    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
+    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
+     "https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/refs/heads/main/Bin.tst.m3u"
 ]
-
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
