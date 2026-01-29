@@ -14,6 +14,7 @@ SOURCES = [
      "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u"
       "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u"
       "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u"
+      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/UDPTV.m3u"
       "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/tubi_playlist.m3u"
       "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u"
     # أضف مصادر أخرى هنا
