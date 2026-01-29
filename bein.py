@@ -1,9 +1,9 @@
 import requests
 import os
 
-# مصادر القنوات
+# مصدر القنوات
 SOURCES = [
-    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
+     "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
     "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
 ]
 
