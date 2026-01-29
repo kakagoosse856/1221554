@@ -32,8 +32,8 @@ CHANNEL_NAMES = [
 # مصادر M3U عامة
 # =====================
 M3U_SOURCES = [
-    "https://gist.githubusercontent.com",
-    
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/SSULTAN.m3u",
+    "https://github.com/",
 ]
 
 # =====================
