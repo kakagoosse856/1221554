@@ -5,7 +5,7 @@ import json
 import re
 
 # =====================
-# إعدادات GitHub
+# إعدادات GitHub (تأخذ من GitHub Actions)
 # =====================
 GITHUB_USER = os.getenv("GITHUB_USER")
 GITHUB_REPO = os.getenv("GITHUB_REPO")
@@ -23,9 +23,10 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_channels.m3u8")
 # أسماء القنوات (يمكن أن تكون بالعربية)
 # =====================
 CHANNEL_NAMES = [
-    "beIN Sports ",
+    "beIN Sports 1 ",
     "beIN ",
-        # أضف باقي القنوات هنا
+    "beIN Sports 3 ",
+    # أضف باقي القنوات هنا
 ]
 
 # =====================
@@ -33,15 +34,14 @@ CHANNEL_NAMES = [
 # =====================
 M3U_SOURCES = [
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/SSULTAN.m3u",
-    "https://github.com/",
+    # أضف أي مصدر آخر هنا
 ]
 
 # =====================
-# تحويل اسم القناة لاسم ملف صالح ASCII
+# تحويل اسم القناة لاسم ملف صالح ASCII لتجنب مشاكل الترميز
 # =====================
 def slugify(name):
-    name_ascii = re.sub(r'[^A-Za-z0-9_\-]', '_', name)
-    return name_ascii
+    return re.sub(r'[^A-Za-z0-9_\-]', '_', name)
 
 # =====================
 # تحميل المصادر وتجميع روابط القنوات
@@ -69,7 +69,12 @@ for source in M3U_SOURCES:
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     for name in CHANNEL_NAMES:
-        url = channel_links.get(name)
+        url = None
+        # بحث جزئي لتجنب مشكلة الاسم المختلف في المصادر
+        for key, link in channel_links.items():
+            if name.lower() in key.lower():
+                url = link
+                break
         if url:
             try:
                 r = requests.head(url, timeout=10)
@@ -92,8 +97,8 @@ print(f"[DONE] الملف المحلي تم إنشاؤه: {OUTPUT_FILE}")
 with open(OUTPUT_FILE, "rb") as f:
     content = base64.b64encode(f.read()).decode("utf-8")
 
-# اسم الملف ASCII لتجنب مشاكل الترميز
-filename = "all_channels.m3u8"
+# يمكن رفع الملف داخل مجلد "channels" داخل المستودع
+filename = "channels/all_channels.m3u8"
 
 api_url = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/contents/{filename}"
 headers = {
