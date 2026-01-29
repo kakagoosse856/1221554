@@ -58,14 +58,79 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:1 tvg-name="AI KASS 5 FHD" tvg-id="Sporta" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 5 FHD
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:1 tvg-name="AI KASS 6 FHD" tvg-id="Sports" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 6 FHD
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m
-#EXTINF:-1,ShahidSpooky
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_2.m3u8
-#EXTINF:-1,ShahidAction
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1,ShahidAnime
-https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_12.m3u8
+
+#EXTINF:-1,###########NEON PLUS SERVER4###########
+https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837336.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837346.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837356.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837345.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837355.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837365.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837337.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837347.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837357.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837338.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837348.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837358.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837339.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837349.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837359.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837340.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837350.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837360.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837341.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837351.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837361.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837342.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837352.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837362.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837343.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837353.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837363.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837344.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837354.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837364.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420171.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420172.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420173.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420174.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 5 HD
+
 
 
 
