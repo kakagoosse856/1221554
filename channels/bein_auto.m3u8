@@ -1,3 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="beIN Sports 1" tvg-logo="" group-title="BEIN",beIN Sports 1
-#EXTINF:-1 tvg-id="2" tvg-name="beIN Sports 2" tvg-logo="" group-title="BEIN",beIN Sports 2
+#EXTINF:0 CUID="10" tvg-name="BEIN SPORT⚽️" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
+https://bit.ly/3xYLaRh
+#EXTINF:0 CUID="11" tvg-name="⚽️كيف احصل على الكود" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
+https://bit.ly/3gj9PK5
+#EXTINF:0 CUID="12" tvg-name="beIN SPORTS NEWS (Backup 1)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS (Backup 1)
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD (Backup 1)" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD (Backup 1)
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS (Backup 2)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS (Backup 2)
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 1 En
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="BEIN SPORT بين سبور",Bein Sport 2 En
+http://135.125.109.73:9000/beinsporten2_.m3u8
+#EXTINF:0 CUID="19" tvg-name="LIVE 24 -01" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -01
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="20" tvg-name="LIVE 24 -01+" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -01+
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="21" tvg-name="LIVE 24 -02" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -02
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 CUID="44" tvg-name="NUBAR SPORT HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",NUBAR SPORT HD
+http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
+#EXTINF:0 CUID="45" tvg-name="SPORT HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 CUID="46" tvg-name="SPORT OUTDOOR HD" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="47" tvg-name="NUBARSport" tvg-logo="https://bit.ly/3EMQtXj" group-title="BEIN SPORT بين سبور",NUBARSport
+http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
+#EXTINF:0 CUID="59" tvg-name="Bien sport 1 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0 CUID="60" tvg-name="Bien sport 2 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 2 🇶🇦
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:0 CUID="61" tvg-name="Bien sport 3 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:0 CUID="62" tvg-name="Bien sport 4 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 4 🇶🇦
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:0 CUID="63" tvg-name="Bien sport 5 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 5 🇶🇦
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:0 CUID="64" tvg-name="Bien sport 6 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 6 🇶🇦
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:0 CUID="67" tvg-name="Bien sport 9 🇶🇦" tvg-id="ext" group-title="BEIN SPORT بين سبور",Bien sport 9 🇶🇦
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:0 CUID="75" tvg-name="bein_koora_sport_1++" group-title="BEIN SPORT بين سبور",bein_koora_sport_1++
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="76" tvg-name="bein_koora_sport_2++" group-title="BEIN SPORT بين سبور",bein_koora_sport_2++
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="86" tvg-name="BEİN SPORTS 1 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:0 CUID="87" tvg-name="BEİN SPORTS 2 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 2 VİP TR
+https://v.arectv30.sbs/static/bs2.m3u8
+#EXTINF:0 CUID="88" tvg-name="BEİN SPORTS 3 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 3 VİP TR
+https://v.arectv30.sbs/static/bs3.m3u8
+#EXTINF:0 CUID="89" tvg-name="BEİN SPORTS 4 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 4 VİP TR
+https://v.arectv30.sbs/static/bs4.m3u8
+#EXTINF:0 CUID="90" tvg-name="BEİN SPORTS 5 VİP TR" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
+https://v.arectv30.sbs/static/bs5.m3u8
+#EXTINF:0 CUID="117" tvg-name="BEINSPORTS 1 rectv" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1 rectv
+https://bs.arectv33.sbs/static/bs1.m3u8
+#EXTINF:0 CUID="496" tvg-name="BEIN SPORT⚽️" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
+https://bit.ly/3xYLaRh
+#EXTINF:0 CUID="497" tvg-name="⚽️كيف احصل على الكود" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
+https://bit.ly/3gj9PK5
+#EXTINF:0 CUID="641" tvg-name="Bein Sports Xtra" tvg-logo="https://iili.io/dK1XSpf.webp" group-title="SPORT VIP 🏆",Bein Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0 CUID="4426" tvg-name="BEIN SPORT EXTRA Ñ 🇪🇸" tvg-id="ext" group-title="SPORT VIP",BEIN SPORT EXTRA Ñ 🇪🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0 CUID="4427" tvg-name="BEIN SPORT EXTRA Ñ 🇪🇸" tvg-id="ext" group-title="SPORT VIP",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 CUID="794" tvg-name="Bein SportsXtra ñ 🇪🇸" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://canvas-lb.tubitv.com/opts/N4mMjnMVKDMNow==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjdAAQ==" group-title="🆁™ World Sports 🌎",Bein SportsXtra ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 CUID="927" tvg-name="Bein MEDIA" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA",Bein MEDIA
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="GENEL",BEİN SPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/14795.ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORT 1 480P
+https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport 1 720P (O)
+https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 720P (V)
+https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 8K FEED
+https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 H265
+https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 50FPS (V)
+https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 HD
+https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
+#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 HD TURKEY
+https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
