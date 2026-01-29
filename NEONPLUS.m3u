@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,StvSport1
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport1.m3u8
+#EXTINF:-1,StvSport2
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport2.m3u8
+#EXTINF:-1,StvSport3
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport3.m3u8
+#EXTINF:-1,StvSport4
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport4.m3u8
+#EXTINF:-1,StvSport5
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport5.m3u8
+
+
 #EXTINF:-1,Al HEDDAF
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1135.m3u8
 
@@ -98,3 +110,4 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1,SPORTITALIA SOLOCALCIO
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
