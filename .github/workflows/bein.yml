@@ -1,35 +1,39 @@
-name: BEIN Auto Update
+name: bein_auto
 
 on:
   schedule:
-    - cron: '0 * * * *'  # كل ساعة UTC
-  workflow_dispatch:     # إمكانية تشغيله يدويًا
+    - cron: '0 * * * *' # كل ساعة
+  workflow_dispatch: # لتشغيله يدويًا
 
 jobs:
-  update-bein:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install Requests
-        run: pip install requests
-
-      - name: Run BEIN Update Script
-        run: python3 bein.py
-
-      - name: Commit & Push updated M3U
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Git
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
+
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
+      - name: Update BEIN playlist
+        run: |
+          # مثال: إنشاء أو تحديث الملف bein_auto.m3u8
+          mkdir -p channels
+          echo "#EXTM3U" > channels/bein_auto.m3u8
+          echo "#EXTINF:-1 tvg-id=\"1\" tvg-name=\"beIN Sports 1\" tvg-logo=\"\" group-title=\"BEIN\",beIN Sports 1" >> channels/bein_auto.m3u8
+          echo "#EXTINF:-1 tvg-id=\"2\" tvg-name=\"beIN Sports 2\" tvg-logo=\"\" group-title=\"BEIN\",beIN Sports 2" >> channels/bein_auto.m3u8
+          # يمكنك إضافة باقي القنوات هنا أو استبدالها بملف خارجي
+
+      - name: Commit changes
+        run: |
           git add channels/bein_auto.m3u8
-          git commit -m "Auto update bein_auto.m3u [ci skip]" || echo "No changes"
-          git push
+          git commit -m "Auto update bein_auto.m3u8 [ci skip]" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push origin main
