@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Generate BEIN M3U
-        run: python generate_bein.py
+        run: python bein.py
 
       - name: Commit & Push changes
         run: |
