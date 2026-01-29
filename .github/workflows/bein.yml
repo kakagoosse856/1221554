@@ -1,17 +1,19 @@
-name: OTTTTTTTTTTTTTO
+name: 🔹 تحديث باقة BEIN تلقائيًا
 
 on:
   schedule:
     - cron: '0 * * * *'  # كل ساعة
-  workflow_dispatch:    # يمكن تشغيله يدويًا
+  workflow_dispatch:      # يمكن تشغيله يدويًا
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,13 +28,12 @@ jobs:
 
       - name: Commit & Push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          if [ -f bein_auto.m3u ]; then
-            git add bein_auto.m3u
-            git commit -m "Auto update bein_auto.m3u" || echo "No changes to commit"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          if [ -f channels/bein_auto.m3u8 ]; then
+            git add channels/bein_auto.m3u8
+            git commit -m "Auto update bein_auto.m3u8" || echo "No changes to commit"
             git pull --rebase
             git push
           else
-            echo "bein_auto.m3u does not exist, skipping commit."
-          fi
+            echo "bein_auto.m3u8 does not exist, skipping commit."
