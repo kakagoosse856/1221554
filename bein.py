@@ -6,7 +6,9 @@ import os
 # =====================
 SOURCES = [
     "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
-    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
+    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u",
+    "https://raw.githubusercontent.com/fareskhaled505/Me/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8"
+    
 ]
 
 CHANNEL_MAP = {
