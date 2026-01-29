@@ -31,5 +31,5 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add channels/bein_auto.m3u8
-          git commit -m "Update BEIN AUTO M3U [ci skip]" || echo "No changes"
+          git commit -m "Auto update bein_auto.m3u [ci skip]" || echo "No changes"
           git push
