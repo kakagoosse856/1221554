@@ -23,7 +23,7 @@ jobs:
 
       - name: Run IPTV Update Script
         env:
-          GITHUB_USER: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.repository }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_USER: "kakagoosse856"
+  GITHUB_REPO: "1221554"
+  GITHUB_TOKEN: "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"
         run: python3 bein.py
