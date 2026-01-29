@@ -41,16 +41,14 @@ http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 3 SD
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 4 SD
-http://135.125.109.73:9000/beinsport4_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 5 SD
 http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 6 SD
 http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 7 SD
-http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 8 SD
 http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS  Qatar 9 SD
+http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN SPORTS Qatar 1 SD
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",BIS HABER
