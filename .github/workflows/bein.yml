@@ -2,7 +2,7 @@ name: BEIN Auto Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # كل ساعة UTC
+  - cron: '*/5 * * * *'  # كل 5 دقائق UTC
   workflow_dispatch:     # إمكانية تشغيله يدويًا
 
 jobs:
