@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1, BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1,beIN SPORTS 1 
 http://213.199.33.203:8081/live/ch1.m3u8
 #EXTINF:-1,beIN SPORTS 2 
@@ -11,23 +21,5 @@ http://135.125.109.73:9000/beinsport4_.m3u8
 http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1,beIN SPORTS 6
 http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="GENEL",BEİN SPORTS HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
-http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/14795.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",Bein Sports vpn
-http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111898.ts
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport SD
-https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN Sport 1 720P (O)
-https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
-#EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="VPN",Test VPN beIN SPORTS 1 8K FEED
-https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="VPN",Test VPN beIN MOVIES STARS
-https://goldvod.org/live/hpgdiscoo/123456/346.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 1 FHD
-http://38gb.pro/live/11007889/9114811/73877.ts
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 2
+http://5.135.26.128/stream/bein/bein2/out/index.m3u8
