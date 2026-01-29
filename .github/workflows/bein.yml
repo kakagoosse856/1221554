@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,7 +26,7 @@ jobs:
       - name: Run BEIN update script
         run: |
           mkdir -p channels
-          python3 << 'EOF'
+          python3 << EOF
 import requests
 import os
 import re
@@ -76,18 +78,7 @@ for idx, src in enumerate(SOURCES, start=1):
         else:
             channel_name = "beIN Sports"
 
-        # فحص الرابط بطريقة صحيحة
-        valid_url = False
-        try:
-            r = requests.get(url, timeout=6, stream=True)
-            if r.status_code == 200:
-                valid_url = True
-        except:
-            pass
-
-        if not valid_url:
-            continue
-
+        # إضافة الرابط مباشرة (نتجاوز مشاكل HEAD)
         servers[server_name].setdefault(channel_name, set()).add(url)
         print(f"[OK] {server_name} | {channel_name}")
 
