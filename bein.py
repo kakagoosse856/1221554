@@ -1,124 +1,51 @@
 import requests
 import os
-import base64
-import json
-import re
 
-# =====================
-# إعدادات GitHub (تأخذ من GitHub Actions)
-# =====================
-GITHUB_USER = os.getenv("GITHUB_USER")
-GITHUB_REPO = os.getenv("GITHUB_REPO")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-BRANCH = "main"
+# أسماء القنوات فقط
+CHANNEL_NAMES = [
+    "beIN Sports 1",
+    "beIN Sports 2",
+    "beIN Sports 3",
+]
 
-# =====================
-# مجلد حفظ الملفات محلياً
-# =====================
+# مصادر M3U
+M3U_SOURCES = [
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/SSULTAN.m3u"
+]
+
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_channels.m3u8")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "beinotto.m3u8")
 
-# =====================
-# أسماء القنوات (يمكن أن تكون بالعربية)
-# =====================
-CHANNEL_NAMES = [
-    "beIN Sports 1 ",
-    "beIN ",
-    "beIN Sports 3 ",
-    # أضف باقي القنوات هنا
-]
+found = {}
 
-# =====================
-# مصادر M3U عامة
-# =====================
-M3U_SOURCES = [
-    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/SSULTAN.m3u",
-    # أضف أي مصدر آخر هنا
-]
+print("[INFO] بدء البحث...")
 
-# =====================
-# تحويل اسم القناة لاسم ملف صالح ASCII لتجنب مشاكل الترميز
-# =====================
-def slugify(name):
-    return re.sub(r'[^A-Za-z0-9_\-]', '_', name)
-
-# =====================
-# تحميل المصادر وتجميع روابط القنوات
-# =====================
-channel_links = {}
-for source in M3U_SOURCES:
+for src in M3U_SOURCES:
+    print(f"[INFO] تحميل المصدر: {src}")
     try:
-        print(f"[INFO] تحميل المصدر: {source}")
-        resp = requests.get(source, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
-        lines = resp.text.splitlines()
-        current_name = ""
-        for line in lines:
-            if line.startswith("#EXTINF"):
-                current_name = line.split(",")[-1].strip()
-            elif line.endswith(".m3u8") and current_name:
-                if current_name not in channel_links:
-                    channel_links[current_name] = line.strip()
-                current_name = ""
+        text = requests.get(src, timeout=20).text.splitlines()
     except Exception as e:
-        print(f"[WARN] فشل تحميل المصدر: {source} ({e})")
+        print(f"[ERROR] فشل تحميل المصدر: {e}")
+        continue
 
-# =====================
-# إنشاء ملف M3U واحد للقنوات الصالحة
-# =====================
+    for i, line in enumerate(text):
+        if line.startswith("#EXTINF"):
+            name = line.split(",")[-1].strip()
+            for ch in CHANNEL_NAMES:
+                if ch.lower() in name.lower() and ch not in found:
+                    if i + 1 < len(text):
+                        found[ch] = text[i + 1].strip()
+                        print(f"[FOUND] {ch}")
+
+# إنشاء ملف M3U
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
-    for name in CHANNEL_NAMES:
-        url = None
-        # بحث جزئي لتجنب مشكلة الاسم المختلف في المصادر
-        for key, link in channel_links.items():
-            if name.lower() in key.lower():
-                url = link
-                break
-        if url:
-            try:
-                r = requests.head(url, timeout=10)
-                if r.status_code == 200:
-                    f.write(f"#EXTINF:-1,{name}\n")
-                    f.write(f"{url}\n")
-                    print(f"[OK] {name} صالح")
-                else:
-                    print(f"[SKIP] {name} الرابط غير متاح")
-            except requests.RequestException:
-                print(f"[SKIP] {name} خطأ في الوصول للرابط")
+    for ch in CHANNEL_NAMES:
+        if ch in found:
+            f.write(f"#EXTINF:-1,{ch}\n")
+            f.write(found[ch] + "\n")
         else:
-            print(f"[NOT FOUND] {name} لم يتم العثور على رابط صالح")
+            print(f"[MISS] {ch} لم يُعثر عليه")
 
-print(f"[DONE] الملف المحلي تم إنشاؤه: {OUTPUT_FILE}")
-
-# =====================
-# رفع الملف إلى GitHub
-# =====================
-with open(OUTPUT_FILE, "rb") as f:
-    content = base64.b64encode(f.read()).decode("utf-8")
-
-# يمكن رفع الملف داخل مجلد "channels" داخل المستودع
-filename = "channels/all_channels.m3u8"
-
-api_url = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/contents/{filename}"
-headers = {
-    "Authorization": f"token {GITHUB_TOKEN}",
-    "Accept": "application/vnd.github+json"
-}
-
-resp_sha = requests.get(api_url, headers=headers)
-sha = resp_sha.json().get("sha") if resp_sha.status_code == 200 else None
-
-data = {
-    "message": "Auto-update all_channels.m3u8",
-    "content": content,
-    "branch": BRANCH
-}
-if sha:
-    data["sha"] = sha
-
-resp_put = requests.put(api_url, headers=headers, data=json.dumps(data))
-if resp_put.status_code in [200, 201]:
-    print("[GITHUB] الملف تم رفعه بنجاح!")
-else:
-    print(f"[ERROR] فشل رفع الملف: {resp_put.status_code} {resp_put.text}")
+print(f"[DONE] تم إنشاء الملف: {OUTPUT_FILE}")
