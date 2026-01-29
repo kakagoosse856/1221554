@@ -12,10 +12,8 @@ SOURCES = [
 ]
 
 CHANNEL_MAP = {
-    "beIN Sports 1 HD": ["bein1", "bn1", "/1", "sport1"],
-    "beIN Sports 2 HD": ["bein2", "bn2", "/2", "sport2"],
-    "beIN Sports 3 HD": ["bein3", "bn3", "/3", "sport3"],
-    "beIN Sports 4 HD": ["bein4", "bn4", "/4", "sport4"],
+    "beIN Sports ": ["bein", "bn", "/1"],
+    
 }
 
 OUTPUT_DIR = "channels"
