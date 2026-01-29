@@ -36,4 +36,5 @@ jobs:
             git pull --rebase
             git push
           else
-            echo "bein_auto.m3u8 does not exist, skipping commit."
+            echo "channels/bein_auto.m3u8 does not exist, skipping commit."
+          fi
