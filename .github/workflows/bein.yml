@@ -1,100 +1,38 @@
-name: 🔹 تحديث باقة BEIN تلقائيًا
+name: OTTTTTTTTTTTTTO
 
 on:
   schedule:
-    - cron: '0 * * * *' # كل ساعة
-  workflow_dispatch: # لتشغيله يدويًا
+    - cron: '0 * * * *'  # كل ساعة
+  workflow_dispatch:    # يمكن تشغيله يدويًا
 
 jobs:
-  update-playlist:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
-      - name: Run BEIN update script
+      - name: Generate M3U
+        run: python generate_bein.py
+
+      - name: Commit & Push changes
         run: |
-          mkdir -p channels
-          python3 <<EOF
-import requests
-import os
-import re
-
-SOURCES = [
-    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
-    "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
-]
-
-KEYWORD = "bein"
-OUTPUT_DIR = "channels"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
-
-servers = {}
-
-for idx, src in enumerate(SOURCES, start=1):
-    server_name = f"SERVER {idx}"
-    servers[server_name] = {}
-
-    try:
-        lines = requests.get(src, timeout=20).text.splitlines()
-    except Exception as e:
-        print(f"[ERROR] {e}")
-        continue
-
-    for i, line in enumerate(lines):
-        if not line.startswith("#EXTINF") or i + 1 >= len(lines):
-            continue
-
-        name = line.lower()
-        url = lines[i + 1].strip()
-        url_low = url.lower()
-
-        if KEYWORD not in name and KEYWORD not in url_low:
-            continue
-
-        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d)', name + url_low)
-        if num:
-            channel_name = f"beIN Sports {num.group(1)} HD"
-        elif "max" in name or "max" in url_low:
-            channel_name = "beIN Sports MAX"
-        elif "4k" in name or "4k" in url_low:
-            channel_name = "beIN Sports 4K"
-        else:
-            channel_name = "beIN Sports"
-
-        servers[server_name].setdefault(channel_name, set()).add(url)
-
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
-    for server, channels in servers.items():
-        for ch in sorted(channels.keys()):
-            for url in sorted(channels[ch]):
-                f.write(f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n')
-                f.write(url + "\n")
-EOF
-
-      - name: Configure Git
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-
-      - name: Pull latest changes
-        run: git pull origin main --rebase
-
-      - name: Commit & Push
-        run: |
-          git add channels/bein_auto.m3u8
-          git commit -m "Auto update bein_auto.m3u8 [ci skip]" || echo "No changes to commit"
-          git push origin main
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          if [ -f bein_auto.m3u ]; then
+            git add bein_auto.m3u
+            git commit -m "Auto update bein_auto.m3u" || echo "No changes to commit"
+            git pull --rebase
+            git push
+          else
+            echo "bein_auto.m3u does not exist, skipping commit."
+          fi
