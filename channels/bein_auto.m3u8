@@ -19,3 +19,45 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN Sports 2 HD
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports 1 HD
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports 1 HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports 1 HD
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Sports 1 HD
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Sports 5 HD
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 8",beIN Sports 4 HD
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 0 HD
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 0 HD
+http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",beIN Sports 3 HD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN Sports 1 HD
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN Sports 1 HD
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN Sports 2 HD
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
