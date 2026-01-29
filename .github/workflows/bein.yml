@@ -1,4 +1,4 @@
-name: bein_auto
+name: Auto Update BEIN Playlist
 
 on:
   schedule:
