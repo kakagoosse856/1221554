@@ -1,4 +1,4 @@
-name: Auto Update IPTV Playlist
+name: bein
 
 on:
   schedule:
@@ -26,4 +26,4 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 update_channels.py
+        run: python3 bein.py
