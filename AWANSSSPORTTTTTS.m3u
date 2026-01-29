@@ -1,10 +1,16 @@
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ ستاربلاي و أبوظبي الرياضية",##### STARZPLAY / AD SPORT #####
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| test
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/.m3u
-
+#EXTINF:-1 tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORT",Alwan Sport 1 HD
+https://3.3lok3.site:443/live/12345/12345/94.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
+https://3.3lok3.site:443/live/12345/12345/95.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
+https://3.3lok3.site:443/live/12345/12345/96.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
+https://3.3lok3.site:443/live/12345/12345/97.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
+https://3.3lok3.site:443/live/12345/12345/98.m3u8
+#EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 6 HD
+https://3.3lok3.site:443/live/12345/12345/99.m3u8
 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT HD
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
