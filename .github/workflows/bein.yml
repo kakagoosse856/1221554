@@ -26,7 +26,7 @@ jobs:
       - name: Run BEIN update script
         run: |
           mkdir -p channels
-          python3 << EOF
+          python3 <<EOF
 import requests
 import os
 import re
