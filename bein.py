@@ -32,9 +32,8 @@ CHANNEL_NAMES = [
 # مصادر M3U عامة
 # =====================
 M3U_SOURCES = [
-    "https://gist.githubusercontent.com/mohannad-art/1f08bae8819eb6ced114bc5fd9920dac/raw/Bein_sports.m3u",
-    "https://raw.githubusercontent.com/GhaniMaxime/iptv/master/sport.m3u",
-    "https://raw.githubusercontent.com/majdsassi/Sport-IPTV-FR/main/index.m3u",
+    "https://gist.githubusercontent.com",
+    
 ]
 
 # =====================
