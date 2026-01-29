@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="10" tvg-name="BEIN SPORT⚽️" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
-https://bit.ly/3xYLaRh
-#EXTINF:0 CUID="11" tvg-name="⚽️كيف احصل على الكود" tvg-id="ext" tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
-https://bit.ly/3gj9PK5
+
 #EXTINF:0 CUID="12" tvg-name="beIN SPORTS NEWS (Backup 1)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS (Backup 1)
 http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD (Backup 1)" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD (Backup 1)
