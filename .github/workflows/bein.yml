@@ -1,11 +1,12 @@
-name: bein
+name: BEIN Auto Update
+
 on:
   schedule:
-    - cron: '0 * * * *'   # كل ساعة UTC
-  workflow_dispatch:      # تشغيل يدوي
+    - cron: '0 * * * *'  # كل ساعة UTC
+  workflow_dispatch:     # إمكانية تشغيله يدويًا
 
 jobs:
-  update-playlist:
+  update-bein:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,13 +21,15 @@ jobs:
       - name: Install Requests
         run: pip install requests
 
-      - name: Run IPTV Update Script
+      - name: Run BEIN Update Script
         run: python3 bein.py
 
-      - name: Commit & Push Changes
+      - name: Commit & Push updated M3U
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add channels/beinouto.m3u8
-          git commit -m "Auto-update beinouto.m3u8" || echo "No changes to commit"
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add channels/bein_auto.m3u8
+          git commit -m "Update BEIN AUTO M3U [ci skip]" || echo "No changes"
           git push
