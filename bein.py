@@ -1,6 +1,5 @@
 import requests
 import os
-import re
 
 # مصادر القنوات
 SOURCES = [
@@ -8,69 +7,37 @@ SOURCES = [
     "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
 ]
 
-# كلمات مفتاحية للتعرف على قنوات BEIN
-KEYWORDS = ["bein", "bn", "sport"]
-
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
 
-servers = {}
+channels_found = 0
 
-print("[INFO] استخراج قنوات BEIN وترتيبها حسب السيرفر...")
-
-for idx, src in enumerate(SOURCES, start=1):
-    server_name = f"SERVER {idx}"
-    servers[server_name] = {}
-
-    print(f"[INFO] تحميل {server_name}: {src}")
-    try:
-        lines = requests.get(src, timeout=20).text.splitlines()
-    except Exception as e:
-        print(f"[ERROR] {e}")
-        continue
-
-    for i, line in enumerate(lines):
-        if not line.startswith("#EXTINF") or i + 1 >= len(lines):
-            continue
-
-        name = line.lower()
-        url = lines[i + 1].strip()
-        url_low = url.lower()
-
-        # تحقق من أي كلمة مفتاحية
-        if not any(k in name or k in url_low for k in KEYWORDS):
-            continue
-
-        # استخراج اسم القناة
-        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d+)', name + url_low)
-        if num:
-            channel_name = f"beIN Sports {num.group(1)} HD"
-        elif "max" in name or "max" in url_low:
-            channel_name = "beIN Sports MAX"
-        elif "4k" in name or "4k" in url_low:
-            channel_name = "beIN Sports 4K"
-        else:
-            channel_name = "beIN Sports"
-
-        # تحقق من أن الرابط حي
-        try:
-            r = requests.get(url, timeout=6, stream=True)
-            if r.status_code != 200:
-                continue
-        except:
-            continue
-
-        servers[server_name].setdefault(channel_name, set()).add(url)
-        print(f"[OK] {server_name} | {channel_name}")
-
-# إنشاء ملف M3U النهائي
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
-    for server, channels in servers.items():
-        for ch in sorted(channels.keys()):
-            for url in sorted(channels[ch]):
-                f.write(f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n')
-                f.write(url + "\n")
 
-print(f"[DONE] تم إنشاء الباقة: {OUTPUT_FILE}")
+    for src in SOURCES:
+        try:
+            lines = requests.get(src, timeout=20).text.splitlines()
+        except Exception as e:
+            print(f"[ERROR] لم أستطع تحميل المصدر {src}: {e}")
+            continue
+
+        for i, line in enumerate(lines):
+            if line.startswith("#EXTINF") and "BEIN" in line.upper() and i + 1 < len(lines):
+                url = lines[i + 1].strip()
+
+                # تحقق من أن الرابط حي
+                try:
+                    r = requests.get(url, timeout=6, stream=True)
+                    if r.status_code != 200:
+                        continue
+                except:
+                    continue
+
+                f.write(f"{line}\n")
+                f.write(f"{url}\n")
+                channels_found += 1
+                print(f"[OK] {line} | {url}")
+
+print(f"[DONE] تم استخراج {channels_found} قناة BEIN في {OUTPUT_FILE}")
