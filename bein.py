@@ -21,6 +21,8 @@ SOURCES = [
        "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u",
        "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
+        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
+    
     
     ]
 
