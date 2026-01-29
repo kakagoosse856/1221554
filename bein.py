@@ -38,7 +38,6 @@ for idx, src in enumerate(SOURCES, start=1):
         if KEYWORD not in name and KEYWORD not in url_low:
             continue
 
-        # استخراج اسم القناة الحقيقي
         num = re.search(r'(?:bein|bn|sport)[^\d]*(\d)', name + url_low)
         if num:
             channel_name = f"beIN Sports {num.group(1)} HD"
@@ -48,18 +47,6 @@ for idx, src in enumerate(SOURCES, start=1):
             channel_name = "beIN Sports 4K"
         else:
             channel_name = "beIN Sports"
-
-        # فحص الرابط بطريقة صحيحة
-        valid_url = False
-        try:
-            r = requests.get(url, timeout=6, stream=True)
-            if r.status_code == 200:
-                valid_url = True
-        except:
-            pass
-
-        if not valid_url:
-            continue
 
         servers[server_name].setdefault(channel_name, set()).add(url)
         print(f"[OK] {server_name} | {channel_name}")
