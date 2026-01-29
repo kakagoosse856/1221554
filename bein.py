@@ -2,12 +2,15 @@ import requests
 import os
 import re
 
+# مصادر القنوات
 SOURCES = [
     "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
     "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
 ]
 
-KEYWORD = "bein"
+# كلمات مفتاحية للتعرف على قنوات BEIN
+KEYWORDS = ["bein", "bn", "sport"]
+
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
@@ -35,10 +38,12 @@ for idx, src in enumerate(SOURCES, start=1):
         url = lines[i + 1].strip()
         url_low = url.lower()
 
-        if KEYWORD not in name and KEYWORD not in url_low:
+        # تحقق من أي كلمة مفتاحية
+        if not any(k in name or k in url_low for k in KEYWORDS):
             continue
 
-        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d)', name + url_low)
+        # استخراج اسم القناة
+        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d+)', name + url_low)
         if num:
             channel_name = f"beIN Sports {num.group(1)} HD"
         elif "max" in name or "max" in url_low:
@@ -47,6 +52,14 @@ for idx, src in enumerate(SOURCES, start=1):
             channel_name = "beIN Sports 4K"
         else:
             channel_name = "beIN Sports"
+
+        # تحقق من أن الرابط حي
+        try:
+            r = requests.get(url, timeout=6, stream=True)
+            if r.status_code != 200:
+                continue
+        except:
+            continue
 
         servers[server_name].setdefault(channel_name, set()).add(url)
         print(f"[OK] {server_name} | {channel_name}")
