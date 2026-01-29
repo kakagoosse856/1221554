@@ -12,7 +12,7 @@ SOURCES = [
      "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8"
      "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u"
      "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u"
-      
+      "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u"
     # أضف مصادر أخرى هنا
 ]
 
