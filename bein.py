@@ -3,10 +3,10 @@ import os
 import re
 
 # =====================
-# مصادر القنوات (كل مصدر = سيرفر)
+# مصادر القنوات
 # =====================
 SOURCES = [
-      "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
+    "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
     "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital/e3f60bd80f189c679415e6b2b51d79a77440793a/Cmcl%20digital",
      "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
@@ -19,11 +19,9 @@ SOURCES = [
       "https://raw.githubusercontent.com/lusianaputri/lusipunyalu/d5d1b411b6020519501860ab1f2dda128a033885/b.txt",
       "https://github.com/FunctionError/PiratesTv/blob/97aadde222f09567d5f03de4574cae49c3cf90ab/combined_playlist.m3u",
        "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u"
-    # أضف مصادر أخرى هنا
 ]
 
 KEYWORD = "bein"
-
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
@@ -47,27 +45,26 @@ for idx, src in enumerate(SOURCES, start=1):
         if not line.startswith("#EXTINF") or i + 1 >= len(lines):
             continue
 
-        name = line.lower()
         url = lines[i + 1].strip()
-        url_low = url.lower()
-
-        # فقط روابط .m3u8
-        if not url_low.endswith(".m3u8"):
+        if not url.lower().endswith(".m3u8"):
             continue
 
-        if KEYWORD not in name and KEYWORD not in url_low:
+        if KEYWORD not in line.lower() and KEYWORD not in url.lower():
             continue
 
         # استخراج اسم القناة الحقيقي
-        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d)', name + url_low)
-        if num:
-            channel_name = f"beIN Sports {num.group(1)} HD"
-        elif "max" in name or "max" in url_low:
-            channel_name = "beIN Sports MAX"
-        elif "4k" in name or "4k" in url_low:
-            channel_name = "beIN Sports 4K"
+        name_match = re.search(r'#EXTINF:-1.*?,(.*)', line)
+        if name_match:
+            channel_name = name_match.group(1).strip()
         else:
+            # fallback إذا لم نجد الاسم
             channel_name = "beIN Sports"
+
+        # تحسين أسماء خاصة
+        if "max" in channel_name.lower() or "max" in url.lower():
+            channel_name = "beIN Sports MAX"
+        elif "4k" in channel_name.lower() or "4k" in url.lower():
+            channel_name = "beIN Sports 4K"
 
         # فحص الرابط
         try:
