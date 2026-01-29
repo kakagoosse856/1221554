@@ -3,9 +3,9 @@ import os
 
 # أسماء القنوات فقط
 CHANNEL_NAMES = [
-    "beIN Sports 1",
-    "beIN Sports 2",
-    "beIN Sports 3",
+    "beIN Sports",
+    "beIN",
+
 ]
 
 # مصادر M3U
