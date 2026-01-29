@@ -2,16 +2,12 @@ import requests
 import os
 import re
 
-# =====================
-# مصادر القنوات (كل مصدر = سيرفر)
-# =====================
 SOURCES = [
-"https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
+    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u",
     "https://raw.githubusercontent.com/Yusufdkci/iptv/71fabe363ebf0c3d46ae0ce69f8e3202164b7edc/liste.m3u"
 ]
 
 KEYWORD = "bein"
-
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
@@ -53,29 +49,28 @@ for idx, src in enumerate(SOURCES, start=1):
         else:
             channel_name = "beIN Sports"
 
-        # فحص الرابط
+        # فحص الرابط بطريقة صحيحة
+        valid_url = False
         try:
-            r = requests.head(url, timeout=6, allow_redirects=True)
-            if r.status_code != 200:
-                continue
+            r = requests.get(url, timeout=6, stream=True)
+            if r.status_code == 200:
+                valid_url = True
         except:
+            pass
+
+        if not valid_url:
             continue
 
         servers[server_name].setdefault(channel_name, set()).add(url)
         print(f"[OK] {server_name} | {channel_name}")
 
-# =====================
 # إنشاء ملف M3U النهائي
-# =====================
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
-
     for server, channels in servers.items():
         for ch in sorted(channels.keys()):
             for url in sorted(channels[ch]):
-                f.write(
-                    f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n'
-                )
+                f.write(f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n')
                 f.write(url + "\n")
 
 print(f"[DONE] تم إنشاء الباقة: {OUTPUT_FILE}")
