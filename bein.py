@@ -11,7 +11,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital/e3f60bd80f189c679415e6b2b51d79a77440793a/Cmcl%20digital",
      "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8"
      "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u"
-     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u"
+     "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u"
       
     # أضف مصادر أخرى هنا
 ]
