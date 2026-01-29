@@ -2,11 +2,11 @@ import requests
 import os
 
 # =====================
-# أسماء القنوات الحقيقية (الاسم النهائي في M3U)
+# أسماء القنوات الحقيقية
 # =====================
 CHANNEL_NAMES = [
-    "beIN Sports ",
     "beIN ",
+    "beIN Sports ",
    
 ]
 
@@ -25,7 +25,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_channels.m3u8")
 
 # =====================
-# البحث عن كل الروابط الصالحة
+# جمع الروابط الصالحة
 # =====================
 found = {ch: [] for ch in CHANNEL_NAMES}
 
@@ -48,7 +48,7 @@ for src in M3U_SOURCES:
 
             for ch in CHANNEL_NAMES:
                 if ch.lower() in name.lower():
-                    # تحقق من أن الرابط يعمل (HEAD)
+                    # تحقق أن الرابط يعمل
                     try:
                         resp = requests.head(url, timeout=5, allow_redirects=True)
                         if resp.status_code == 200:
@@ -60,7 +60,7 @@ for src in M3U_SOURCES:
                         print(f"[SKIP] {ch} خطأ بالتحقق من الرابط: {url}")
 
 # =====================
-# كتابة ملف M3U النهائي
+# إنشاء ملف M3U النهائي
 # =====================
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
