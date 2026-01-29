@@ -108,7 +108,18 @@ http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859075&exten
 
 
 
-
+EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 1 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 1 FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56761.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Aflam 2 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Aflam 2 FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56762.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Alwathaeqye FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Alwathaeqye FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56763.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Atfal FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Atfal FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56764.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Mosalsalat FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56765.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Turkey FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",Alwan Turkey FHD VIP Arb
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/56766.m3u8
 
 
 
