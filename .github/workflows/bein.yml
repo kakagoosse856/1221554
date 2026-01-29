@@ -1,9 +1,9 @@
-name: 🔹 تحديث باقة BEIN تلقائيًا
+name: 🔹 تحديث قنوات BEIN تلقائيًا
 
 on:
   schedule:
     - cron: '0 * * * *'  # كل ساعة
-  workflow_dispatch:      # يمكن تشغيله يدويًا
+  workflow_dispatch:      # لتشغيله يدويًا
 
 jobs:
   update-playlist:
@@ -21,9 +21,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests
 
-      - name: Generate M3U
+      - name: Generate BEIN M3U
         run: python generate_bein.py
 
       - name: Commit & Push changes
