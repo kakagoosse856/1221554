@@ -23,10 +23,9 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_channels.m3u8")
 # أسماء القنوات (يمكن أن تكون بالعربية)
 # =====================
 CHANNEL_NAMES = [
-    "beIN Sports 1 HD",
-    "beIN Sports 2 HD",
-    "beIN Sports 3 HD",
-    # أضف باقي القنوات هنا
+    "beIN Sports ",
+    "beIN ",
+        # أضف باقي القنوات هنا
 ]
 
 # =====================
