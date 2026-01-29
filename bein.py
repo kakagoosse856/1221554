@@ -5,9 +5,10 @@ import os
 # أسماء القنوات الحقيقية
 # =====================
 CHANNEL_NAMES = [
-    "beIN Sports ",
-    "beIN  ",
-    
+    "beIN Sports 1 HD",
+    "beIN Sports 2 HD",
+    "beIN Sports 3 HD",
+    "beIN Sports 4 HD",
 ]
 
 # =====================
@@ -28,7 +29,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "beinouto.m3u8")
 # =====================
 # جمع الروابط الصالحة مع إزالة التكرار
 # =====================
-found = {ch: set() for ch in CHANNEL_NAMES}  # نستخدم set لإزالة التكرار
+found = {ch: set() for ch in CHANNEL_NAMES}
 
 print("[INFO] بدء البحث والتحقق من الروابط...")
 
@@ -49,11 +50,10 @@ for src in M3U_SOURCES:
 
             for ch in CHANNEL_NAMES:
                 if ch.lower() in name.lower():
-                    # تحقق أن الرابط يعمل
                     try:
                         resp = requests.head(url, timeout=5, allow_redirects=True)
                         if resp.status_code == 200:
-                            found[ch].add(url)  # يضيف الرابط فقط مرة واحدة
+                            found[ch].add(url)
                             print(f"[OK] {ch}: {url}")
                         else:
                             print(f"[SKIP] {ch} رابط غير متاح: {url}")
@@ -67,47 +67,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     for ch in CHANNEL_NAMES:
         if found[ch]:
-            for url in sorted(found[ch]):  # ترتيب الروابط للتنظيم
-                f.write(f"#EXTINF:-1,{ch}\n")
-                f.write(url + "\n")
-        else:
-            print(f"[MISS] {ch} لم يُعثر على روابط صالحة")
-
-print(f"[DONE] تم إنشاء الملف النهائي: {OUTPUT_FILE}")
-    try:
-        lines = requests.get(src, timeout=20).text.splitlines()
-    except Exception as e:
-        print(f"[ERROR] فشل تحميل المصدر: {e}")
-        continue
-
-    for i, line in enumerate(lines):
-        if line.startswith("#EXTINF"):
-            name = line.split(",")[-1].strip()
-            url = lines[i + 1].strip() if i + 1 < len(lines) else None
-            if not url:
-                continue
-
-            for ch in CHANNEL_NAMES:
-                if ch.lower() in name.lower():
-                    # تحقق أن الرابط يعمل
-                    try:
-                        resp = requests.head(url, timeout=5, allow_redirects=True)
-                        if resp.status_code == 200:
-                            found[ch].append(url)
-                            print(f"[OK] {ch}: {url}")
-                        else:
-                            print(f"[SKIP] {ch} رابط غير متاح: {url}")
-                    except:
-                        print(f"[SKIP] {ch} خطأ بالتحقق من الرابط: {url}")
-
-# =====================
-# إنشاء ملف M3U النهائي
-# =====================
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
-    for ch in CHANNEL_NAMES:
-        if found[ch]:
-            for url in found[ch]:
+            for url in sorted(found[ch]):
                 f.write(f"#EXTINF:-1,{ch}\n")
                 f.write(url + "\n")
         else:
