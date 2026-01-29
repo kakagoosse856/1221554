@@ -22,7 +22,7 @@ M3U_SOURCES = [
 # =====================
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_channels.m3u8")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "beinouto.m3u8")
 
 # =====================
 # جمع الروابط الصالحة
