@@ -1,8 +1,7 @@
 name: bein
-
 on:
   schedule:
-    - cron: '0 * * * *'   # كل ساعة
+    - cron: '0 * * * *'   # كل ساعة UTC
   workflow_dispatch:      # تشغيل يدوي
 
 jobs:
@@ -28,6 +27,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add channels/beinouto.m3u8
-          git commit -m "Auto-update beinouto.m3u8" || echo "No changes to commit"
+          git add channels/bein.m3u8
+          git commit -m "Auto-update bein.m3u8" || echo "No changes to commit"
           git push
