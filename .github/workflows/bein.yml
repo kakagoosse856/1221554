@@ -13,7 +13,79 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Git
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Update BEIN playlist
+        run: |
+          mkdir -p channels
+          python3 << 'EOF'
+import requests
+import os
+import re
+
+SOURCES = [
+    "https://raw.githubusercontent.com/omnixmain/OMNIX-PLAYLIST-ZONE/refs/heads/main/playlist/BEIN.m3u"
+]
+
+OUTPUT_FILE = "channels/bein_auto.m3u8"
+
+servers = {}
+KEYWORD = "bein"
+
+for idx, src in enumerate(SOURCES, start=1):
+    server_name = f"SERVER {idx}"
+    servers[server_name] = {}
+
+    try:
+        lines = requests.get(src, timeout=20).text.splitlines()
+    except Exception as e:
+        print(f"[ERROR] تحميل {src} فشل: {e}")
+        continue
+
+    for i, line in enumerate(lines):
+        if not line.startswith("#EXTINF") or i + 1 >= len(lines):
+            continue
+
+        url = lines[i + 1].strip()
+        name = line.lower()
+        url_low = url.lower()
+
+        if KEYWORD not in name and KEYWORD not in url_low:
+            continue
+
+        # استخراج اسم القناة
+        num = re.search(r'(?:bein|bn|sport)[^\d]*(\d)', name + url_low)
+        if num:
+            channel_name = f"beIN Sports {num.group(1)} HD"
+        elif "max" in name or "max" in url_low:
+            channel_name = "beIN Sports MAX"
+        elif "4k" in name or "4k" in url_low:
+            channel_name = "beIN Sports 4K"
+        else:
+            channel_name = "beIN Sports"
+
+        servers[server_name].setdefault(channel_name, set()).add(url)
+        print(f"[OK] {server_name} | {channel_name}")
+
+# إنشاء ملف M3U
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n")
+    for server, channels in servers.items():
+        for ch in sorted(channels.keys()):
+            for url in sorted(channels[ch]):
+                f.write(f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n')
+                f.write(url + "\n")
+
+print(f"[DONE] تم إنشاء الباقة: {OUTPUT_FILE}")
+EOF
+
+      - name: Configure Git
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
@@ -21,19 +93,8 @@ jobs:
       - name: Pull latest changes
         run: git pull origin main --rebase
 
-      - name: Update BEIN playlist
-        run: |
-          # مثال: إنشاء أو تحديث الملف bein_auto.m3u8
-          mkdir -p channels
-          echo "#EXTM3U" > channels/bein_auto.m3u8
-          echo "#EXTINF:-1 tvg-id=\"1\" tvg-name=\"beIN Sports 1\" tvg-logo=\"\" group-title=\"BEIN\",beIN Sports 1" >> channels/bein_auto.m3u8
-          echo "#EXTINF:-1 tvg-id=\"2\" tvg-name=\"beIN Sports 2\" tvg-logo=\"\" group-title=\"BEIN\",beIN Sports 2" >> channels/bein_auto.m3u8
-          # يمكنك إضافة باقي القنوات هنا أو استبدالها بملف خارجي
-
-      - name: Commit changes
+      - name: Commit & Push changes
         run: |
           git add channels/bein_auto.m3u8
           git commit -m "Auto update bein_auto.m3u8 [ci skip]" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push origin main
+          git push origin main
