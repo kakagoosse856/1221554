@@ -1,0 +1,23 @@
+name: Resolve M3U
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python generate_final_m3u.py --input sky-uk-nz.m3u --output sky-uk-nz.resolved.m3u
+      - run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u
+          git commit -m "Auto update resolved M3U" || echo "No changes"
+          git push
