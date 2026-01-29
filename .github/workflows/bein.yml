@@ -1,0 +1,31 @@
+name: bein
+
+# متى يتم تشغيل السكربت
+on:
+  schedule:
+    - cron: '0 * * * *'   # كل ساعة على الساعة (UTC)
+  workflow_dispatch:      # يسمح بالتشغيل اليدوي عند الحاجة
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run IPTV Update Script
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub يعطيك token تلقائي
+        run: |
+          python3 bein.py
