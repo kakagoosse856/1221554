@@ -2,7 +2,7 @@ name: bein
 
 on:
   schedule:
-    - cron: '0 * * * *'   # كل ساعة UTC
+    - cron: '0 * * * *'   # كل ساعة
   workflow_dispatch:      # تشغيل يدوي
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
       - name: Install Requests
         run: pip install requests
 
-      - name: Run Script
+      - name: Run IPTV Update Script
         run: python3 bein.py
 
       - name: Commit & Push Changes
