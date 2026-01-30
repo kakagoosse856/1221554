@@ -1,10 +1,10 @@
-name: dlhd_player1_m3u8
+name: Extract M3U8 Link
 
 on:
   workflow_dispatch:
     inputs:
       channel_id:
-        description: 'Channel ID to extract'
+        description: 'Channel ID to extract (e.g., 91, 92...)'
         required: true
         default: '91'
 
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v3
 
     - name: Set up Python
@@ -26,6 +26,5 @@ jobs:
         pip install -r requirements.txt
         playwright install chromium
 
-    - name: Run Python dlhd_player1_m3u8
-      run: |
-        python dlhd_player1_m3u8.py ${{ github.event.inputs.channel_id }}
+    - name: Run extraction dlhd_player1_m3u8
+      run: python dlhd_player1_m3u8.py ${{ github.event.inputs.channel_id }}
