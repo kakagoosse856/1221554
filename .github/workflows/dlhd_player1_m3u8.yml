@@ -6,25 +6,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    - name: Checkout repo
+      uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
 
-      - name: Generate M3U
-        run: python dlhd_player1_m3u8.py
+    - name: Install dependencies
+      run: pip install requests
 
-      - name: Commit & Push
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add channels.m3u
-          git commit -m "Auto update channels.m3u" || exit 0
-          git push
+    - name: Run updater
+      run: python dlhd_player1_m3u8.py
+
+    - name: Commit & Push
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add dlhd_player1_m3u8.m3u8
+        git commit -m "Auto update dlhd_player1" || exit 0
+        git push
