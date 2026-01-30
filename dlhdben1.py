@@ -96,8 +96,9 @@ def sniff_m3u8_with_playwright(player_url, referer):
 
         m3u8_holder = {"val": None}
 
+        # ✅ التعديل هنا: msg.text بدون ()
         def on_console(msg):
-            txt = msg.text()
+            txt = msg.text  # بدون ()
             if txt.startswith("M3U8::") and not m3u8_holder["val"]:
                 m3u8_holder["val"] = txt.split("M3U8::",1)[1].strip()
                 print(f"[CAPTURE][console] {m3u8_holder['val']}")
@@ -131,7 +132,6 @@ def sniff_m3u8_with_playwright(player_url, referer):
         print(f"[NAV] Goto player page: {player_url}")
         page.goto(player_url, wait_until="domcontentloaded", timeout=45000)
 
-        # محاولة تشغيل الفيديو
         try:
             page.mouse.click(200, 200)
             page.keyboard.press("Space")
@@ -141,7 +141,6 @@ def sniff_m3u8_with_playwright(player_url, referer):
         while time.time() < end_time and not m3u8_holder["val"]:
             time.sleep(0.25)
 
-        # Fallback من HTML
         if not m3u8_holder["val"]:
             html = page.content()
             m = M3U8_REGEX.search(html or "")
