@@ -143,3 +143,19 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",BEİN HABER Kapalı
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",BEİN SPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",BEİN SPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Bein Sports
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Test VPN beIN SPORTS 1 50FPS (V)
+https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Test VPN beIN SPORTS 1 HD TURKEY
+https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Test VPN beIN Sport 1 720P (O)
+https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Test VPN beIN Sport SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
