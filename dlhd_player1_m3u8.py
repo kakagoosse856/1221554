@@ -10,4 +10,4 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
         f.write(f"{BASE_URL}?id={CHANNEL_ID}&player={p}\n\n")
 
-print("channels.m3u created")
+print("channels.m3u updated")
