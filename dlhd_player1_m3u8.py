@@ -1,23 +1,22 @@
 from playwright.sync_api import sync_playwright
-import re
+import sys
 
-TARGET_URL = "https://dlhd.link/watch.php?id=91"
+WATCH_URL = "https://dlhd.link/watch.php?id=91"
 REFERER = "https://dlhd.link/"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 
-def extract_m3u8():
-    found = set()
+
+def main():
+    m3u8_links = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
             headless=True,
-            args=[
-                "--disable-blink-features=AutomationControlled",
-                "--no-sandbox"
-            ]
+            args=["--no-sandbox", "--disable-blink-features=AutomationControlled"]
         )
 
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+            user_agent=UA,
             extra_http_headers={
                 "Referer": REFERER
             }
@@ -28,42 +27,30 @@ def extract_m3u8():
         def on_response(response):
             url = response.url
             if ".m3u8" in url:
-                found.add(url)
-                print("[M3U8 FOUND]", url)
+                print(url)
+                m3u8_links.add(url)
 
         page.on("response", on_response)
 
-        print("[*] Opening page...")
-        page.goto(TARGET_URL, wait_until="networkidle", timeout=60000)
+        print("[INFO] Open watch page")
+        page.goto(WATCH_URL, wait_until="networkidle", timeout=60000)
 
-        # انتظر تحميل iframe
+        # انتظار تحميل iframe واللاعب
         page.wait_for_timeout(10000)
 
-        # جرب الضغط على جميع Players
-        buttons = page.locator(".player-btn")
-        count = buttons.count()
-
-        print(f"[*] Players detected: {count}")
-
-        for i in range(count):
-            try:
-                buttons.nth(i).click()
-                page.wait_for_timeout(5000)
-            except:
-                pass
+        # الضغط على Player 1 (إن وجد)
+        try:
+            page.locator("button.player-btn").first.click()
+            page.wait_for_timeout(8000)
+        except:
+            pass
 
         browser.close()
 
-    return found
+    if not m3u8_links:
+        print("ERROR: لم يتم العثور على أي m3u8", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    links = extract_m3u8()
-
-    if not links:
-        print("❌ لم يتم العثور على أي m3u8")
-        exit(1)
-
-    print("\n✅ روابط m3u8 النهائية:")
-    for l in links:
-        print(l)
+    main()
