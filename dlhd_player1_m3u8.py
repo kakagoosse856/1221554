@@ -4,6 +4,7 @@ import sys
 WATCH_URL = "https://dlhd.link/watch.php?id=91"
 REFERER = "https://dlhd.link/"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+OUTPUT_FILE = "dlhd_player1_m3u8.m3u8"
 
 
 def main():
@@ -27,7 +28,7 @@ def main():
         def on_response(response):
             url = response.url
             if ".m3u8" in url:
-                print(url)
+                print("[FOUND]", url)
                 m3u8_links.add(url)
 
         page.on("response", on_response)
@@ -50,6 +51,13 @@ def main():
     if not m3u8_links:
         print("ERROR: لم يتم العثور على أي m3u8", file=sys.stderr)
         sys.exit(1)
+
+    # حفظ النتائج في ملف
+    with open(OUTPUT_FILE, "w") as f:
+        for link in sorted(m3u8_links):
+            f.write(link + "\n")
+
+    print(f"[INFO] Saved {len(m3u8_links)} m3u8 link(s) to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
