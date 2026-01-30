@@ -67,7 +67,7 @@ for idx, src in enumerate(SOURCES, start=1):
         else:
             # fallback إذا لم نجد الاسم
             channel_name = "beIN Sports"
-
+            channel_name = "beİN"
         # تحسين أسماء خاصة
         if "max" in channel_name.lower() or "max" in url.lower():
             channel_name = "beIN Sports MAX"
