@@ -1,11 +1,7 @@
 #EXTINF:-1,###########SERVER1###########
 https://sdmax111.provegooott.com/32_.m3u8
-#EXTINF:-1,BeiN 7 تجريبي
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein_7.m3u8
-#EXTINF:-1,BeiN 8 تجريبي
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein_8.m3u8
-#EXTINF:-1,BeiN 9 تجريبي
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein_9.m3u8
+#EXTINF:-1,BEIN SPORTS 1 (Direct)
+https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/1.m3u8
 
 #EXTINF:-1,BeiNs1 QA
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8
