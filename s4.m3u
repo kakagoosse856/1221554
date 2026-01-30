@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,###########SERVER1###########
 http://h42.reelpush.online/live/918454578001/index.m3u8
+#EXTINF:-1,NUBARSport
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1,BeiN 1 HD
 http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:-1,BeiN 2 HD
