@@ -1,213 +1,58 @@
-import os
-import re
-import sys
-import time
-from urllib.parse import urljoin
-
 import requests
-import urllib3
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+import re
 
-# ===== الإعدادات =====
-WATCH_URL = os.getenv("WATCH_URL", "https://dlhd.dad/watch.php?id=91")
-BUTTON_TITLE = os.getenv("BUTTON_TITLE", "PLAYER 1")  # تم التعديل هنا
+WATCH_URL = "https://dlhd.dad/watch.php?id=91"
 M3U_PATH = "bein.m3u"
-DRY_RUN = os.getenv("DRY_RUN", "true").lower() == "true"
-ALLOW_INSECURE_SSL = os.getenv("ALLOW_INSECURE_SSL", "true").lower() == "true"
-CAPTURE_TIMEOUT_SEC = int(os.getenv("CAPTURE_TIMEOUT_SEC", "90"))
-
-if ALLOW_INSECURE_SSL:
-    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 DEFAULT_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/126.0.0.0 Safari/537.36"
 )
-M3U8_REGEX = re.compile(r'https?://[^\s\'"]+\.m3u8(?:[^\s\'"]*)?', re.IGNORECASE)
 
-SESSION = requests.Session()
-DEFAULT_HEADERS = {
-    "User-Agent": DEFAULT_UA,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9,ar;q=0.8",
-    "Connection": "keep-alive",
-}
+M3U8_REGEX = re.compile(r'https?://[^\s\'"]+\.m3u8[^\s\'"]*', re.IGNORECASE)
 
-# ========= Utilities =========
-def http_get(url, referer=None, retries=3, timeout=20):
-    headers = DEFAULT_HEADERS.copy()
-    if referer:
-        headers["Referer"] = referer
-    last_exc = None
-    for i in range(retries):
-        try:
-            resp = SESSION.get(
-                url,
-                headers=headers,
-                timeout=timeout,
-                allow_redirects=True,
-                verify=not ALLOW_INSECURE_SSL,
-            )
-            if resp.status_code == 200:
-                return resp
-            last_exc = RuntimeError(f"HTTP {resp.status_code} for {url}")
-        except Exception as e:
-            last_exc = e
-        time.sleep(1.0 + i * 0.5)
-    raise last_exc
+headers = {"User-Agent": DEFAULT_UA}
 
-def extract_player_url_from_watch(html, base_url, title="PLAYER 1"):
-    soup = BeautifulSoup(html, "html.parser")
-    btn = soup.find("button", attrs={"title": title})
-    if btn and btn.get("data-url"):
-        return urljoin(base_url, btn["data-url"])
-    for b in soup.find_all("button", class_=lambda c: c and "player-btn" in c):
-        data_url = b.get("data-url")
-        text = (b.get_text() or "").strip().lower()
-        ttl = (b.get("title") or "").strip().lower()
-        if (data_url and "stream-91.php" in data_url) or text.endswith("player 1") or ttl.endswith("player 1"):
-            if data_url:
-                return urljoin(base_url, data_url)
-    return urljoin(base_url, "/player/stream-91.php")
+# 1️⃣ جلب صفحة Watch
+resp = requests.get(WATCH_URL, headers=headers, timeout=20)
+html = resp.text
 
-# JS لمراقبة m3u8
-INIT_PATCH_JS = r"""
-(() => {
-  const log = (u) => { try { window.__reportM3U8 ? window.__reportM3U8(u) : console.log("M3U8::"+u); } catch(e){console.log("M3U8::"+u);} };
-  const isM3U8 = (u) => /https?:\/\/[^\s'"]+\.m3u8[^\s'"]*/i.test(String(u||""));
-  try { const _fetch = window.fetch; if(_fetch && !_fetch.__m3u8_patched){window.fetch=async(...args)=>{try{isM3U8(args[0])&&log(args[0])}catch(e){};const r=await _fetch(...args);try{isM3U8(r?.url)&&log(r.url)}catch(e){};return r};_fetch.__m3u8_patched=true;} } catch(e){}
-  try{ const _open=XMLHttpRequest.prototype.open,_send=XMLHttpRequest.prototype.send;if(!_open.__m3u8_patched){let lastUrl=null;XMLHttpRequest.prototype.open=function(m,u,...r){lastUrl=u;return _open.call(this,m,u,...r)};XMLHttpRequest.prototype.send=function(...a){try{isM3U8(lastUrl)&&log(lastUrl)}catch(e){};return _send.apply(this,a)};_open.__m3u8_patched=true;} } catch(e){}
-})();
-"""
+# 2️⃣ استخراج رابط Player 1
+soup = BeautifulSoup(html, "html.parser")
+btn = soup.find("button", {"title": "PLAYER 1"})
+player_url = btn.get("data-url") if btn else None
 
-def sniff_m3u8_with_playwright(player_url, referer):
-    print(f"[BROWSER] Launch Chromium headless…")
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent=DEFAULT_UA,
-            ignore_https_errors=ALLOW_INSECURE_SSL,
-            java_script_enabled=True,
-            timezone_id="Asia/Baghdad",
-            extra_http_headers={"Referer": referer, "Accept": "*/*"},
-        )
+if not player_url:
+    # fallback: iframe
+    iframe = soup.find("iframe", {"id": "playerFrame"})
+    player_url = iframe.get("src") if iframe else None
 
-        m3u8_holder = {"val": None}
+if not player_url:
+    raise RuntimeError("تعذر العثور على رابط Player 1")
 
-        # ✅ التعديل هنا: msg.text بدون ()
-        def on_console(msg):
-            txt = msg.text  # بدون ()
-            if txt.startswith("M3U8::") and not m3u8_holder["val"]:
-                m3u8_holder["val"] = txt.split("M3U8::",1)[1].strip()
-                print(f"[CAPTURE][console] {m3u8_holder['val']}")
+print("[INFO] Player URL:", player_url)
 
-        context.on("console", on_console)
+# 3️⃣ محاولة البحث عن أي رابط m3u8 في الصفحة
+m3u8_links = M3U8_REGEX.findall(html)
+print("[DEBUG] m3u8 links found:", m3u8_links)
 
-        def maybe_set(u):
-            if u and M3U8_REGEX.search(u) and not m3u8_holder["val"]:
-                m3u8_holder["val"] = u
-                print(f"[CAPTURE][net] {u}")
-
-        context.on("request", lambda req: maybe_set(req.url))
-        context.on("response", lambda res: maybe_set(res.url))
-        context.add_init_script(INIT_PATCH_JS)
-        context.expose_function("__reportM3U8", lambda u: on_console(type("X",(),{"text":lambda:"M3U8::"+u})()))
-
-        page = context.new_page()
-        print(f"[NAV] Goto watch page: {WATCH_URL}")
-        page.goto(WATCH_URL, wait_until="domcontentloaded", timeout=45000)
-
-        # انقر Player 1
-        try:
-            locator = page.locator(f"button[title='{BUTTON_TITLE}']")
-            if locator.count() == 0:
-                locator = page.get_by_text(BUTTON_TITLE, exact=False)
-            locator.first.click(timeout=8000)
-            print(f"[CLICK] Clicked '{BUTTON_TITLE}'")
-        except Exception:
-            print("[CLICK] Could not click button; may open player directly.")
-
-        print(f"[NAV] Goto player page: {player_url}")
-        page.goto(player_url, wait_until="domcontentloaded", timeout=45000)
-
-        try:
-            page.mouse.click(200, 200)
-            page.keyboard.press("Space")
-        except Exception: pass
-
-        end_time = time.time() + CAPTURE_TIMEOUT_SEC
-        while time.time() < end_time and not m3u8_holder["val"]:
-            time.sleep(0.25)
-
-        if not m3u8_holder["val"]:
-            html = page.content()
-            m = M3U8_REGEX.search(html or "")
-            if m:
-                m3u8_holder["val"] = m.group(0)
-                print("[FALLBACK] Captured from HTML content.")
-
-        context.close()
-        browser.close()
-
-        if not m3u8_holder["val"]:
-            raise ValueError("تعذر استخراج رابط m3u8.")
-
-        return m3u8_holder["val"]
-
-def validate_m3u8_head(url, referer):
-    try:
-        headers = DEFAULT_HEADERS.copy()
-        headers["Referer"] = referer
-        r = SESSION.get(url, headers=headers, timeout=20, stream=True, verify=not ALLOW_INSECURE_SSL)
-        if r.status_code < 400:
-            chunk = next(r.iter_content(chunk_size=2048), b"")
-            if b"#EXTM3U" in chunk:
-                return True
-    except Exception: pass
-    return False
-
-def update_bein_m3u(file_path, new_url):
-    with open(file_path,"r",encoding="utf-8") as f:
+# 4️⃣ تحديث bein.m3u
+if m3u8_links:
+    new_url = m3u8_links[0]  # أخذ أول رابط m3u8
+    with open(M3U_PATH, "r+", encoding="utf-8") as f:
         lines = f.read().splitlines()
-    idx = None
-    for i,line in enumerate(lines):
-        if "bein sports 1" in line.lower():
-            idx=i
-            break
-    if idx is None: raise ValueError("تعذر العثور على قناة 'bein sports 1' داخل bein.m3u")
-    url_line_i = None
-    for j in range(idx+1,min(idx+6,len(lines))):
-        if lines[j].strip().startswith("http"):
-            url_line_i=j
-            break
-    if url_line_i is None: lines.insert(idx+1,new_url)
-    else:
-        if lines[url_line_i].strip()==new_url.strip(): return False
-        lines[url_line_i]=new_url
-    with open(file_path,"w",encoding="utf-8") as f:
-        f.write("\n".join(lines)+"\n")
-    return True
-
-def main():
-    print(f"[INFO] Fetch watch page: {WATCH_URL}")
-    watch_resp = http_get(WATCH_URL)
-    player_url = extract_player_url_from_watch(watch_resp.text, WATCH_URL, title=BUTTON_TITLE)
-    print(f"[INFO] Player URL: {player_url}")
-    m3u8_url = sniff_m3u8_with_playwright(player_url, referer=WATCH_URL)
-    print(f"[OK] Extracted m3u8: {m3u8_url}")
-    is_valid = validate_m3u8_head(m3u8_url, referer=player_url)
-    print(f"[CHECK] m3u8 validation: {'PASS' if is_valid else 'WARN'}")
-    if DRY_RUN:
-        print("[DRY-RUN] لن يتم تعديل dlhdben1.m3u في هذا الوضع.")
-        return
-    changed = update_bein_m3u(M3U_PATH, m3u8_url)
-    print("[WRITE] dlhdben1.m3u updated." if changed else "[WRITE] No change needed.")
-
-if __name__=="__main__":
-    try:
-        main()
-    except Exception as e:
-        print(f"[ERROR] {e}", file=sys.stderr)
-        sys.exit(1)
+        for i, line in enumerate(lines):
+            if "bein sports 1" in line.lower():
+                for j in range(i + 1, min(i + 6, len(lines))):
+                    if lines[j].startswith("http"):
+                        lines[j] = new_url
+                        break
+                break
+        f.seek(0)
+        f.write("\n".join(lines) + "\n")
+        f.truncate()
+    print("[OK] dlhdben1.m3u updated with:", new_url)
+else:
+    print("[WARN] لم يتم العثور على أي m3u8 في الصفحة.")
