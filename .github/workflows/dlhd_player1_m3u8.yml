@@ -1,33 +1,27 @@
-name: dlhd_player1_m3u8
+name: Update Playlist
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # كل 5 دقائق
-  workflow_dispatch:
+    - cron: '*/5 * * * *'  # كل 5 دقائق
+  workflow_dispatch:      # لتشغيله يدويًا
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
-
-    - name: Install dependencies
-      run: pip install requests
-
-    - name: Run updater
-      run: python dlhd_player1_m3u8.py
-
-    - name: Commit & Push
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add dlhd_player1_m3u8.m3u8
-        git commit -m "Auto update dlhd_player1" || exit 0
-        git push
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.14"
+      - name: Install Requests
+        run: pip install requests
+      - name: Run Script
+        run: python dlhd_player1_m3u8.py
+      - name: Commit & Push Playlist
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dlhd_player1_m3u8
+          git commit -m "Update playlist $(date)"
+          git push
