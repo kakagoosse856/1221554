@@ -1,52 +1,46 @@
+import sys
 from playwright.sync_api import sync_playwright
 
-START_ID = 1
-END_ID   = 150   # عدّل العدد براحتك
-OUTPUT   = "channels.m3u"
+BASE_URL = "https://codepcplay.fun/premiumtv/daddyhd.php?id={}"
 
-with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
-    context = browser.new_context(
-        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-    )
+# لو ما مرّرت ID → جرّب من 1 إلى 200
+if len(sys.argv) > 1:
+    IDS = [int(sys.argv[1])]
+else:
+    IDS = range(1, 201)
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
+def extract_m3u8(channel_id):
+    url = BASE_URL.format(channel_id)
+    found = {"m3u8": None}
 
-        for channel_id in range(START_ID, END_ID + 1):
-            print(f"[+] Trying ID {channel_id}")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        page = context.new_page()
 
-            page = context.new_page()
-            m3u8_url = None
+        def on_response(response):
+            if ".m3u8" in response.url:
+                found["m3u8"] = response.url
 
-            def catch_request(req):
-                nonlocal m3u8_url
-                if ".m3u8" in req.url and not m3u8_url:
-                    m3u8_url = req.url
+        page.on("response", on_response)
 
-            page.on("request", catch_request)
+        try:
+            page.goto(url, wait_until="networkidle", timeout=30000)
+            page.wait_for_timeout(5000)
+        except Exception:
+            pass
 
-            try:
-                page.goto(
-                    f"https://dlhd.link/stream/stream-{channel_id}.php",
-                    wait_until="networkidle",
-                    timeout=20000
-                )
+        browser.close()
 
-                page.wait_for_timeout(5000)
+    return found["m3u8"]
 
-                if m3u8_url:
-                    print(f"    ✔ FOUND {m3u8_url}")
-                    f.write(f"#EXTINF:-1,DLHD {channel_id}\n")
-                    f.write(m3u8_url + "\n")
-                else:
-                    print("    ✖ No m3u8")
+for cid in IDS:
+    print(f"[+] Trying ID {cid}")
+    m3u8 = extract_m3u8(cid)
 
-            except Exception as e:
-                print(f"    ⚠ Error: {e}")
-
-            page.close()
-
-    browser.close()
-
-print("\n✅ DONE — saved to channels.m3u")
+    if m3u8:
+        print(f"✅ FOUND → ID {cid}")
+        print(m3u8)
+        break
+    else:
+        print("❌ Not found")
