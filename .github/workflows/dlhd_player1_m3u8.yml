@@ -1,27 +1,31 @@
 name: dlhd_player1_m3u8
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'  # كل 5 دقائق
-  workflow_dispatch:      # لتشغيله يدويًا
+  workflow_dispatch:
+    inputs:
+      channel_id:
+        description: "Channel ID (e.g. 91, 92)"
+        required: true
+        default: "91"
 
 jobs:
-  build:
+  extract:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
-      - name: Install Requests
-        run: pip install requests
-      - name: Run Script
-        run: python dlhd_player1_m3u8.py
-      - name: Commit & Push Playlist
+          python-version: "3.11"
+
+      - name: Install dependencies
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add dlhd_player1_m3u8
-          git commit -m "Update playlist $(date)"
-          git push
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run dlhd_player1_m3u8
+        run: |
+          python extractor.py ${{ github.event.inputs.channel_id }}
