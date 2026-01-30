@@ -4,28 +4,28 @@ on:
   workflow_dispatch:
     inputs:
       channel_id:
-        description: "Channel ID (e.g. 91, 92)"
+        description: 'Channel ID to extract'
         required: true
-        default: "91"
+        default: '91'
 
 jobs:
   extract:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          playwright install chromium
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        playwright install chromium
 
-      - name: Run dlhd_player1_m3u8
-        run: |
-          python extractor.py ${{ github.event.inputs.channel_id }}
+    - name: Run Python dlhd_player1_m3u8
+      run: |
+        python dlhd_player1_m3u8.py ${{ github.event.inputs.channel_id }}
