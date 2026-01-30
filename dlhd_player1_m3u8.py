@@ -1,43 +1,24 @@
 import sys
+import re
 from playwright.sync_api import sync_playwright
 
 if len(sys.argv) < 2:
-    print("Usage: python extractor.py <channel_id>")
+    print("Usage: python extract_m3u8.py <channel_id>")
     sys.exit(1)
 
 channel_id = sys.argv[1]
-
-STREAM_URL = f"https://dlhd.link/stream/stream-{channel_id}.php"
-REFERER = f"https://dlhd.link/watch.php?id={channel_id}"
-
-found = set()
+url = f"https://dlhd.link/stream/stream-{channel_id}.php"
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
-    context = browser.new_context(
-        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                   "(KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-        extra_http_headers={"Referer": REFERER}
-    )
-
-    page = context.new_page()
-
-    def on_request(req):
-        url = req.url
-        if ".m3u8" in url:
-            found.add(url)
-
-    page.on("request", on_request)
-
-    print(f"[+] Loading channel {channel_id}")
-    page.goto(STREAM_URL, wait_until="networkidle", timeout=30000)
-    page.wait_for_timeout(8000)
-
+    page = browser.new_page()
+    page.goto(url)
+    content = page.content()
     browser.close()
 
-if found:
-    print("\n[✔] M3U8 LINKS FOUND:")
-    for u in found:
-        print(u)
+# استخراج رابط m3u8 من المحتوى
+m3u8_match = re.search(r'(https://.*?\.m3u8\?token=.*?)["\']', content)
+if m3u8_match:
+    print(f"M3U8 URL: {m3u8_match.group(1)}")
 else:
-    print("\n[✘] No M3U8 found")
+    print("No m3u8 link found")
