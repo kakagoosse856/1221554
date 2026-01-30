@@ -9,6 +9,8 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN SPORTS 4
 http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN SPORTS 5
+http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN SPORTS 6
 http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN SPORTS 7
@@ -31,6 +33,8 @@ https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-ra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",BEIN SPORTS Qatar News SD
 http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",BEIN SPORTS Qatar SD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",BEIN SPORTS XTRA
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 2 SD
@@ -55,8 +59,6 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sports 1🎯
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sports 1🎯
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",beIN Sports MAX
 https://sdmax111.provegooott.com/11_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",beIN Sports MAX
