@@ -1,991 +1,454 @@
-#EXTM3U
-#EXTINF:-1 ,Tiji_H
-http://151.80.18.177:86/Tiji_HD/index.m3u8
-#EXTINF:-1 ,,Canal+_HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1 ,Canal+ Cinema HD
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1 ,Comedie+ HD
-http://151.80.18.177:86/Comedie+_HD/index.m3u8
-#EXTINF:-1 ,ARTE HD
-http://151.80.18.177:86/ARTE_HD/index.m3u8
-#EXTINF:-1 ,Paris Premiere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1 ,AB1 HD
-http://151.80.18.177:86/AB1/index.m3u8
-#EXTINF:-1 ,RTL 9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1 ,TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 ,Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1 ,National Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 ,Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1 ,Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1 RMC DECOUVERDE
-http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-#EXTINF:-1 ,M6 HD
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 ,W9 HD
-http://151.80.18.177:86/W9_HD/index.m3u8
-#EXTINF:-1 ,NRJ_12 HD
-http://151.80.18.177:86/NRJ_12_HD/index.m3u8
-#EXTINF:-1 ,TRACE URBAN
-http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
-#EXTINF:-1 ,D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
-#EXTINF:-1 ,CANAL+ Sport
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 ,GOLF+
-http://151.80.18.177:86/GOLF+_HD/index.m3u8
-#EXTINF:-1 ,Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 ,Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 ,Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 ,LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
-#EXTINF:-1,France 3
-http://thksmom.shop/FR_FRANCE3HDh/mpegts?token=5b4661671136c159cb9bcbad57b5e8b6
-#EXTINF:-1,France 4
-http://thksmom.shop/FR_FRANCE4HDh/index.m3u8?token=9570f373d5bd34000f7fdd5b3b72e5bf
-#EXTINF:-1,France 5
-http://thksmom.shop/FR_FRANCE5HD/index.m3u8?token=24c3550ac24f3a9ed20ae743b3be0940
-#EXTINF:-1,TF1
-http://familyip.vip/FR_TF1HD/mpegts?token=b2dd84f975b674a62fe694e223a9dfe6
-#EXTINF:-1,CA-FR | CPAC HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/6337.m3u8
-#EXTINF:-1,CA-FR | CGTN FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/9161.m3u8
-#EXTINF:-1,FR: ----- CINEMA -----
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17915.m3u8
-#EXTINF:-1,FR: CANAL+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17916.m3u8
-#EXTINF:-1,FR: CANAL+ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17917.m3u8
-#EXTINF:-1,FR: CANAL+ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17918.m3u8
-#EXTINF:-1,FR: CANAL+ BOX OFFICE SD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17919.m3u8
-#EXTINF:-1,FR: CANAL+ BOX OFFICE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17920.m3u8
-#EXTINF:-1,FR: CANAL+  CINEMA HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17921.m3u8
-#EXTINF:-1,FR: CANAL+ CINEMA HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17922.m3u8
-#EXTINF:-1,FR: CANAL+ CINEMA FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17923.m3u8
-#EXTINF:-1,FR: CINE+ OCS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17925.m3u8
-#EXTINF:-1,FR: CINE+ OCS SD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17926.m3u8
-#EXTINF:-1,FR: CINE+ OCS FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17927.m3u8
-#EXTINF:-1,FR: CINE+ FESTIVAL HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17928.m3u8
-#EXTINF:-1,FR: CINE+ FESTIVAL HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17929.m3u8
-#EXTINF:-1,FR: CINE+ FESTIVAL FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17930.m3u8
-#EXTINF:-1,FR: CINE+ EMOTION HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17931.m3u8
-#EXTINF:-1,FR: CINE+ EMOTION HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17932.m3u8
-#EXTINF:-1,FR: CINE+ EMOTION FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17933.m3u8
-#EXTINF:-1,FR: CINE+ FRISSON HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17934.m3u8
-#EXTINF:-1,FR: CINE+ FRISSON HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17935.m3u8
-#EXTINF:-1,FR: CINE+ FRISSON FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17936.m3u8
-#EXTINF:-1,FR: CINE+ FAMIZ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17937.m3u8
-#EXTINF:-1,FR: CINE+ FAMIZ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17938.m3u8
-#EXTINF:-1,FR: CINE+ FAMIZ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17939.m3u8
-#EXTINF:-1,FR: CINE+ CLUB HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17940.m3u8
-#EXTINF:-1,FR: CINE+ CLUB HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17941.m3u8
-#EXTINF:-1,FR: CINE+ CLUB FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17942.m3u8
-#EXTINF:-1,FR: CINE+ CLASSIC HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17943.m3u8
-#EXTINF:-1,FR: CINE+ CLASSIC HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17944.m3u8
-#EXTINF:-1,FR: CINE CLASSIC FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17945.m3u8
-#EXTINF:-1,FR: ACTION HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17946.m3u8
-#EXTINF:-1,FR: ACTION HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17947.m3u8
-#EXTINF:-1,FR: ACTION FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17948.m3u8
-#EXTINF:-1,FR: TCM CINEMA HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17949.m3u8
-#EXTINF:-1,FR: TCM CINEMA HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17950.m3u8
-#EXTINF:-1,FR: TCM CINEMA FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17951.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17952.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17953.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17954.m3u8
-#EXTINF:-1,FR: PARAMOUNT DECALE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17955.m3u8
-#EXTINF:-1,FR: PARAMOUNT DECALE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17956.m3u8
-#EXTINF:-1,FR: PARAMOUNT DECALE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17957.m3u8
-#EXTINF:-1,FR: NOLLYWOOD HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17958.m3u8
-#EXTINF:-1,FR: NOLLYWOOD TV EPIC HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17959.m3u8
-#EXTINF:-1,FR: NOLLYWOOD FULL HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17960.m3u8
-#EXTINF:-1,FR: A+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17962.m3u8
-#EXTINF:-1,FR: CANAL+ GRAND ECRAN FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17963.m3u8
-#EXTINF:-1,FR: CANAL+ SERIES HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17964.m3u8
-#EXTINF:-1,FR: CANAL+ SERIES HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17965.m3u8
-#EXTINF:-1,FR: CANAL+  SERIES FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17966.m3u8
-#EXTINF:-1,FR: TF1 SERIES FILMS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17967.m3u8
-#EXTINF:-1,FR: TF1 SERIES FILMS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17968.m3u8
-#EXTINF:-1,FR: TF1 SERIES FILMS FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17969.m3u8
-#EXTINF:-1,FR: COMEDIE+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17970.m3u8
-#EXTINF:-1,FR: COMEDIE+ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17971.m3u8
-#EXTINF:-1,FR: COMEDIE+ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17972.m3u8
-#EXTINF:-1,FR: WARNER TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17973.m3u8
-#EXTINF:-1,FR: WARNER TV HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17974.m3u8
-#EXTINF:-1,FR: WARNER TV FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17975.m3u8
-#EXTINF:-1,FR: POLAR+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17976.m3u8
-#EXTINF:-1,FR: POLAR+ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17977.m3u8
-#EXTINF:-1,FR: POLAR+ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17978.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17979.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17980.m3u8
-#EXTINF:-1,FR: CANAL+ BOX OFFICE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17981.m3u8
-#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17982.m3u8
-#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17983.m3u8
-#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17984.m3u8
-#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17985.m3u8
-#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17986.m3u8
-#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17987.m3u8
-#EXTINF:-1,FR: CINE OFFICE 7 WALT DISNEY HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17988.m3u8
-#EXTINF:-1,FR: CINE OFFICE 8 POLICIER HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17989.m3u8
-#EXTINF:-1,FR: CINE OFFICE 9 EPOUVANTE-HORREUR HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17990.m3u8
-#EXTINF:-1,FR: CINE OFFICE 10 COMEDY 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17991.m3u8
-#EXTINF:-1,FR: CINE OFFICE 11 ACTION 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17992.m3u8
-#EXTINF:-1,FR: CINE OFFICE 12 MANGAS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17993.m3u8
-#EXTINF:-1,FR: CINE OFFICE 13 DRAME HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17994.m3u8
-#EXTINF:-1,FR: CINE OFFICE 14 CONCERT HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17995.m3u8
-#EXTINF:-1,FR: CANALPLAY 1
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17996.m3u8
-#EXTINF:-1,FR: CANALPLAY 2
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17997.m3u8
-#EXTINF:-1,FR: CANALPLAY 3
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17998.m3u8
-#EXTINF:-1,FR: CANALPLAY 4
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/17999.m3u8
-#EXTINF:-1,FR: CANALPLAY 5
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18000.m3u8
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18001.m3u8
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18002.m3u8
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18003.m3u8
-#EXTINF:-1,FR: A LA CARTE 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18004.m3u8
-#EXTINF:-1,FR: A LA CARTE 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18005.m3u8
-#EXTINF:-1,FR: A LA CARTE 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18006.m3u8
-#EXTINF:-1,FR: A LA CARTE 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18007.m3u8
-#EXTINF:-1,FR: A LA CARTE 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18008.m3u8
-#EXTINF:-1,FR: A LA CARTE 9 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18009.m3u8
-#EXTINF:-1,FR: A LA CARTE 10 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18010.m3u8
-#EXTINF:-1,FR: VIP SKWEEK 6
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18019.m3u8
-#EXTINF:-1,FR: VIP SKWEEK 7
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18020.m3u8
-#EXTINF:-1,FR: VIP SKWEEK 8
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18021.m3u8
-#EXTINF:-1,FR: F1 BATTLE
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18022.m3u8
-#EXTINF:-1,FR: F1 DRIVER TRACKER
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18023.m3u8
-#EXTINF:-1,FR: F1 MULTI SCREEN - TEAM RADIO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18024.m3u8
-#EXTINF:-1,FR: F1 ON BOARD MIX
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18025.m3u8
-#EXTINF:-1,FR: F1 TIMING SCREEN
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18026.m3u8
-#EXTINF:-1,FR: F1 ON BOARD ALEXANDER ALBON
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18027.m3u8
-#EXTINF:-1,FR: F1 ON BOARD CARLOS SAINZ
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18028.m3u8
-#EXTINF:-1,FR: F1 ON BOARD CHARLES LECLERC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18029.m3u8
-#EXTINF:-1,FR: F1 ON BOARD ANDREA KIMI ANTONELLI
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18030.m3u8
-#EXTINF:-1,FR: F1 ON BOARD ESTEBAN OCON
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18031.m3u8
-#EXTINF:-1,FR: F1 ON BOARD FERNANDO ALONSO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18032.m3u8
-#EXTINF:-1,FR: F1 ON BOARD JACK DOOHAN
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18033.m3u8
-#EXTINF:-1,FR: F1 ON BOARD GEORGE RUSSEL
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18034.m3u8
-#EXTINF:-1,FR: F1 ON BOARD LIAM LAWSON
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18035.m3u8
-#EXTINF:-1,FR: F1 ON BOARD LANCE STROLL
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18036.m3u8
-#EXTINF:-1,FR: F1 ON BOARD LANDO NORRIS
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18037.m3u8
-#EXTINF:-1,FR: F1 ON BOARD LEWIS HAMILTON
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18038.m3u8
-#EXTINF:-1,FR: F1 ON BOARD MAX VERSTAPPEN
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18039.m3u8
-#EXTINF:-1,FR: F1 ON BOARD NICO HULKENBERG
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18040.m3u8
-#EXTINF:-1,FR: F1 ON BOARD OSCAR PIASTRI
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18041.m3u8
-#EXTINF:-1,FR: F1 ON BOARD PIERRE GASLY
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18042.m3u8
-#EXTINF:-1,FR: F1 ON BOARD ISACK HADJAR
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18043.m3u8
-#EXTINF:-1,FR: F1 ON BOARD GABRIEL BORTOLETO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18044.m3u8
-#EXTINF:-1,FR: F1 ON BOARD YUKI TSUNODA
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18045.m3u8
-#EXTINF:-1,FR: F1 ON BOARD OLIVER BEARMAN
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18046.m3u8
-#EXTINF:-1,FR: CANAL+ FOOT SD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18047.m3u8
-#EXTINF:-1,FR: CANAL+ FOOT HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18048.m3u8
-#EXTINF:-1,FR: CANAL+ FOOT FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18049.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT 360 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18050.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT 360 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18051.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT 360 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18052.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18053.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18054.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18055.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( VENDREDI MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18056.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( VENDREDI MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18057.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18058.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( SAMEDI MATCH 1 )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18059.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( SAMEDI MATCH 1 )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18060.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18061.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( SAMEDI MATCH 2 )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18062.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( SAMEDI MATCH 2 )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18063.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18064.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 1ER MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18065.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 1ER MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18066.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18067.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 2EME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18068.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 2EME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18069.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18070.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 3ÈME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18071.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 3EME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18072.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18073.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( DIMANCHE 4ÈME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18074.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( DIMANCHE 4EME MATCH )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18075.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18076.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 HD ( CANAL MULTIPLEX LIVE ONLY )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18077.m3u8
-#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( CANAL MULTIPLEX LIVE ONLY )
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18078.m3u8
-#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18079.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18080.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18081.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18082.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18083.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18084.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18085.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18086.m3u8
-#EXTINF:-1,FR: DAZN LIGUE 2 - 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18087.m3u8
-#EXTINF:-1,FR: DAZN EVENT 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18088.m3u8
-#EXTINF:-1,FR: DAZN EVENT 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18089.m3u8
-#EXTINF:-1,FR: DAZN EVENT 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18090.m3u8
-#EXTINF:-1,FR: DAZN EVENT 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18091.m3u8
-#EXTINF:-1,FR: DAZN EVENT 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18092.m3u8
-#EXTINF:-1,FR: DAZN EVENT 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18093.m3u8
-#EXTINF:-1,FR: DAZN EVENT 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18094.m3u8
-#EXTINF:-1,FR: DAZN EVENT 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18095.m3u8
-#EXTINF:-1,FR: DAZN EVENT 9 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18096.m3u8
-#EXTINF:-1,FR: DAZN EVENT 10 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18097.m3u8
-#EXTINF:-1,FR: DAZN EVENT 11 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18098.m3u8
-#EXTINF:-1,FR: DAZN EVENT 12 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18099.m3u8
-#EXTINF:-1,FR: DAZN EVENT 13 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18100.m3u8
-#EXTINF:-1,FR: DAZN EVENT 14 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18101.m3u8
-#EXTINF:-1,FR: DAZN EVENT 15 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18102.m3u8
-#EXTINF:-1,FR: DAZN EVENT 16 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18103.m3u8
-#EXTINF:-1,FR: DAZN EVENT 17 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18104.m3u8
-#EXTINF:-1,FR: DAZN EVENT 18 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18105.m3u8
-#EXTINF:-1,FR: DAZN EVENT 19 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18106.m3u8
-#EXTINF:-1,FR: DAZN EVENT 20 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18107.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 1 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18108.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18109.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 2 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18110.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18111.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 3 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18112.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18113.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 4 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18114.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18115.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 5 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18116.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18117.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 6 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18118.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18119.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 7 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18120.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18121.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 8 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18122.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18123.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 9 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18124.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 9 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18125.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 10 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18126.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 10 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18127.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 11 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18128.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 11 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18129.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 12 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18130.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 12 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18131.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 13 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18132.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 13 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18133.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 14 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18134.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 14 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18135.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 15 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18136.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 15 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18137.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 16 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18138.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 16 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18139.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 17 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18140.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 17 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18141.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 18 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18142.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 18 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18143.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 19 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18144.m3u8
-#EXTINF:-1,FR: CANAL+ LIVE 19 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18145.m3u8
-#EXTINF:-1,FR: |VIP| CANAL+ SPORT 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18146.m3u8
-#EXTINF:-1,FR: |VIP| CANAL+ SPORT 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18147.m3u8
-#EXTINF:-1,FR: |VIP| CANAL+ SPORT 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18148.m3u8
-#EXTINF:-1,FR: |VIP| CANAL+ SPORT 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18149.m3u8
-#EXTINF:-1,FR: |VIP| CANAL+ SPORT 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18150.m3u8
-#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18151.m3u8
-#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18152.m3u8
-#EXTINF:-1,FR: CANAL+ MOTO GP HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18153.m3u8
-#EXTINF:-1,FR: CANAL+ TOP14 RUGBY HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18154.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18155.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18156.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18157.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18158.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18159.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18160.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18161.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18162.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18163.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18164.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18165.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX  HD 5
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18166.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 5
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18167.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 6
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18168.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 6 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18169.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 7
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18170.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 8
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18171.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 9
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18172.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18173.m3u8
-#EXTINF:-1,FR: TECH & CO FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18174.m3u8
-#EXTINF:-1,FR: L'EQUIPE 21 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18175.m3u8
-#EXTINF:-1,FR: L'EQUIPE 21 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18176.m3u8
-#EXTINF:-1,FR: L'EQUIPE 21 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18177.m3u8
-#EXTINF:-1,FR: INFOSPORT+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18178.m3u8
-#EXTINF:-1,FR: INFOSPORT+ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18179.m3u8
-#EXTINF:-1,FR: INFOSPORT+ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18180.m3u8
-#EXTINF:-1,FR: RMC SPORT UHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18181.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18182.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18183.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18184.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18185.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18186.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18187.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18188.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18189.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18190.m3u8
-#EXTINF:-1,FR: RMC SPORT 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18191.m3u8
-#EXTINF:-1,FR: RMC SPORT  4 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18192.m3u8
-#EXTINF:-1,FR: RMC SPORT 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18193.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 6
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18194.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 7
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18195.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 10
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18196.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 13
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18197.m3u8
-#EXTINF:-1,FR: RMC SPORT NEWS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18198.m3u8
-#EXTINF:-1,FR: RMC ACCESS  2 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18199.m3u8
-#EXTINF:-1,FR: |VIP| LIGUE 2 PRIME VIDEO MPLX HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18200.m3u8
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18201.m3u8
-#EXTINF:-1,FR: EUROSPORT 1 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18202.m3u8
-#EXTINF:-1,FR: EUROSPORT 1 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18203.m3u8
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18204.m3u8
-#EXTINF:-1,FR: EUROSPORT 2 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18205.m3u8
-#EXTINF:-1,FR: EUROSPORT 2 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18206.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18207.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18208.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18209.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 4 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18210.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 5 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18211.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 6 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18212.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 7 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18213.m3u8
-#EXTINF:-1,FR: EUROSPORT 360 8 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18214.m3u8
-#EXTINF:-1,FR:  AUTOMOTO TV
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18215.m3u8
-#EXTINF:-1,FR: AUTOMOTO HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18216.m3u8
-#EXTINF:-1,FR: AUTOMOTO LA CHAINE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18217.m3u8
-#EXTINF:-1,FR: EQUIDIA HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18218.m3u8
-#EXTINF:-1,FR: EQUIDIA HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18219.m3u8
-#EXTINF:-1,FR: EQUIDIA FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18220.m3u8
-#EXTINF:-1,FR: GOLF+  HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18221.m3u8
-#EXTINF:-1,FR: GOLF+ HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18222.m3u8
-#EXTINF:-1,FR: GOLF CHANNEL
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18223.m3u8
-#EXTINF:-1,FR: GOLF CHANNEL HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18224.m3u8
-#EXTINF:-1,FR: EXTREME SPORTS FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18225.m3u8
-#EXTINF:-1,FR: SPORT EN FRANCE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18226.m3u8
-#EXTINF:-1,FR: GINX ESPORTS TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18227.m3u8
-#EXTINF:-1,FR: OL TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18228.m3u8
-#EXTINF:-1,FR: BFM SPORT
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18229.m3u8
-#EXTINF:-1,FR: L EQUIPE CINE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18230.m3u8
-#EXTINF:-1,FR: TRACE SPORTS STAR HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18231.m3u8
-#EXTINF:-1,FR: NAUTICAL TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18232.m3u8
-#EXTINF:-1,FR: |VIP| FIFA+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18233.m3u8
-#EXTINF:-1,FR: |VIP| GOLF CHANNEL HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18234.m3u8
-#EXTINF:-1,FR: |VIP| EQUIDIA LIVE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18235.m3u8
-#EXTINF:-1,FR: |VIP| HORSE TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18236.m3u8
-#EXTINF:-1,FR: |VIP| MOTORVISION HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18237.m3u8
-#EXTINF:-1,FR: |VIP| MOTORSPORT TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18238.m3u8
-#EXTINF:-1,FR: |VIP| MOTOR RACING HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18239.m3u8
-#EXTINF:-1,FR: |VIP| F1 TV
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18240.m3u8
-#EXTINF:-1,FR: |VIP| MCS EXTREME HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18241.m3u8
-#EXTINF:-1,FR: |VIP| ADVENTURE SPORTS TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18242.m3u8
-#EXTINF:-1,FR: |VIP| THE BOAT SHOW HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18243.m3u8
-#EXTINF:-1,FR: |VIP| FUEL TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18244.m3u8
-#EXTINF:-1,FR: |VIP| WORLD BILLIARDS TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18245.m3u8
-#EXTINF:-1,FR: |VIP| WWE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18246.m3u8
-#EXTINF:-1,FR: |VIP| GLORY KICKBOXING HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18247.m3u8
-#EXTINF:-1,FR: |VIP| MGG TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18248.m3u8
-#EXTINF:-1,FR: |VIP| BOULISTENAUTE HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18249.m3u8
-#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE FOOT HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18250.m3u8
-#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18251.m3u8
-#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18252.m3u8
-#EXTINF:-1,FR: |FR| EQUIDIA LIVE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18253.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 1 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18254.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 2 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18255.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 3 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18256.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 4 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18257.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 5 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18258.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 6 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18259.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 7 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18260.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 8 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18261.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 9 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18262.m3u8
-#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 10 HD (EVENT ONLY)
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18263.m3u8
-#EXTINF:-1,FR: DAZN SD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18264.m3u8
-#EXTINF:-1,FR: DAZN HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18265.m3u8
-#EXTINF:-1,FR: |VIP| DAZN 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18266.m3u8
-#EXTINF:-1,FR: |VIP| DAZN PPV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18267.m3u8
-#EXTINF:-1,FR: |FR| DRIVE TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18268.m3u8
-#EXTINF:-1,FR: |FR| RUGBY ZONE TV
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18269.m3u8
-#EXTINF:-1,FR: TVM 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18414.m3u8
-#EXTINF:-1,FR: FRANCE INFO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18415.m3u8
-#EXTINF:-1,FR: FRANCE INFO HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18416.m3u8
-#EXTINF:-1,FR: FRANCE INFO HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18417.m3u8
-#EXTINF:-1,FR: EURONEWS
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18418.m3u8
-#EXTINF:-1,FR: EURONEWS FR HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18419.m3u8
-#EXTINF:-1,FR: RT FRANCE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18420.m3u8
-#EXTINF:-1,FR: FRANCE 24 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18421.m3u8
-#EXTINF:-1,FR: CNEWS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18422.m3u8
-#EXTINF:-1,FR: CNEWS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18423.m3u8
-#EXTINF:-1,FR: CNEWS FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18424.m3u8
-#EXTINF:-1,FR: BFM TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18425.m3u8
-#EXTINF:-1,FR: BFM TV HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18426.m3u8
-#EXTINF:-1,FR: BFM TV FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18427.m3u8
-#EXTINF:-1,FR: BFM2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18428.m3u8
-#EXTINF:-1,FR: BFM PARIS FHD HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18429.m3u8
-#EXTINF:-1,FR: BFM BUSINESS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18430.m3u8
-#EXTINF:-1,FR: BFM BUSINESS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18431.m3u8
-#EXTINF:-1,FR: LCP HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18432.m3u8
-#EXTINF:-1,FR: LCP FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18433.m3u8
-#EXTINF:-1,FR: LCI HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18434.m3u8
-#EXTINF:-1,FR: LCI HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18435.m3u8
-#EXTINF:-1,FR: I24 NEWS
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18436.m3u8
-#EXTINF:-1,FR: I24 NEWS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18437.m3u8
-#EXTINF:-1,FR: KTO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18438.m3u8
-#EXTINF:-1,FR: LA CHAINE METEO HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18440.m3u8
-#EXTINF:-1,FR: ----- DOCUMENTAIRE -----
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18270.m3u8
-#EXTINF:-1,FR: PLANETE+ HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18271.m3u8
-#EXTINF:-1,FR: PLANETE+ FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18272.m3u8
-#EXTINF:-1,FR: PLANETE+ AVENTURE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18273.m3u8
-#EXTINF:-1,FR: PLANETE+ AVENTURE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18274.m3u8
-#EXTINF:-1,FR: PLANETE+ AVENTURE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18275.m3u8
-#EXTINF:-1,FR: PLANETE+ CRIME HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18276.m3u8
-#EXTINF:-1,FR: PLANETE+ CRIME HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18277.m3u8
-#EXTINF:-1,FR: PLANETE+ CI FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18278.m3u8
-#EXTINF:-1,FR: ARTE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18279.m3u8
-#EXTINF:-1,FR: ARTE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18280.m3u8
-#EXTINF:-1,FR: TV 5 MONDE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18281.m3u8
-#EXTINF:-1,FR: NAT GEO HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18282.m3u8
-#EXTINF:-1,FR: NAT GEO HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18283.m3u8
-#EXTINF:-1,FR: NAT GEO FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18284.m3u8
-#EXTINF:-1,FR: NAT GEO WILD HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18285.m3u8
-#EXTINF:-1,FR: NAT GEO WILD HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18286.m3u8
-#EXTINF:-1,FR: NAT GEO WILD FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18287.m3u8
-#EXTINF:-1,FR: USHUAIA TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18288.m3u8
-#EXTINF:-1,FR: USHUAIA TV HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18289.m3u8
-#EXTINF:-1,FR: USHUAIA FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18290.m3u8
-#EXTINF:-1,FR: RMC DECOUVERTE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18291.m3u8
-#EXTINF:-1,FR: RMC DECOUVERTE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18292.m3u8
-#EXTINF:-1,FR: RMC DECOUVERTE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18293.m3u8
-#EXTINF:-1,FR: RMC STORY HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18294.m3u8
-#EXTINF:-1,FR: RMC STORY HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18295.m3u8
-#EXTINF:-1,FR: RMC STORY FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18296.m3u8
-#EXTINF:-1,FR: MUSEUM CHANNEL HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18297.m3u8
-#EXTINF:-1,FR: SCIENCE ET VIE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18298.m3u8
-#EXTINF:-1,FR: SCIENCE ET VIE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18299.m3u8
-#EXTINF:-1,FR: SCIENCE ET VIE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18300.m3u8
-#EXTINF:-1,FR: TLC HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18301.m3u8
-#EXTINF:-1,FR: TLC HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18302.m3u8
-#EXTINF:-1,FR: DISCOVERY FRANCE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18303.m3u8
-#EXTINF:-1,FR: DISCOVERY FRANCE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18304.m3u8
-#EXTINF:-1,FR: CRIME DISTRICT HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18305.m3u8
-#EXTINF:-1,FR: CRIME DISTRICT HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18306.m3u8
-#EXTINF:-1,FR: DISCOVERY FRANCE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18307.m3u8
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18308.m3u8
-#EXTINF:-1,FR: DISCOVERY INVEST HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18309.m3u8
-#EXTINF:-1,FR: TLC FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18310.m3u8
-#EXTINF:-1,FR: TREK HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18311.m3u8
-#EXTINF:-1,FR: ABXPLORE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18312.m3u8
-#EXTINF:-1,FR: TREK TV HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18313.m3u8
-#EXTINF:-1,FR: HISTOIRE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18314.m3u8
-#EXTINF:-1,FR: HISTOIRE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18315.m3u8
-#EXTINF:-1,FR: TOUTE L HISTOIRE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18316.m3u8
-#EXTINF:-1,FR: TOUTE L.HISTOIRE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18317.m3u8
-#EXTINF:-1,FR: TOUTE L'HISTOIRE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18318.m3u8
-#EXTINF:-1,FR: ANIMAUX HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18319.m3u8
-#EXTINF:-1,FR: ANIMAUX HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18320.m3u8
-#EXTINF:-1,FR: ANIMAUX FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18321.m3u8
-#EXTINF:-1,FR: CHASSE ET PECHE HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18322.m3u8
-#EXTINF:-1,FR: CHASSE ET PÊCHE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18323.m3u8
-#EXTINF:-1,FR: SEASONS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18324.m3u8
-#EXTINF:-1,FR: SEASONS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18325.m3u8
-#EXTINF:-1,FR: ----- MUSIQUE -----
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18378.m3u8
-#EXTINF:-1,FR: M6 MUSIC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18379.m3u8
-#EXTINF:-1,FR: M6 MUSIC HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18380.m3u8
-#EXTINF:-1,FR: NRJ HITS HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18381.m3u8
-#EXTINF:-1,FR: NRJ HITS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18382.m3u8
-#EXTINF:-1,FR: NRJ 12 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18383.m3u8
-#EXTINF:-1,FR: NRJ 12 HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18384.m3u8
-#EXTINF:-1,FR: NRJ 12 FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18385.m3u8
-#EXTINF:-1,FR: MCM
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18386.m3u8
-#EXTINF:-1,FR: MCM HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18387.m3u8
-#EXTINF:-1,FR: MCM TOP
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18388.m3u8
-#EXTINF:-1,FR: MTV FRANCE
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18389.m3u8
-#EXTINF:-1,FR: MTV FRANCE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18390.m3u8
-#EXTINF:-1,FR: MTV HITS
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18391.m3u8
-#EXTINF:-1,FR: MTV HITS HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18392.m3u8
-#EXTINF:-1,FR: MTV DANCE
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18393.m3u8
-#EXTINF:-1,FR: BRAVA HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18394.m3u8
-#EXTINF:-1,FR: BRAVA HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18395.m3u8
-#EXTINF:-1,FR: MEZZO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18396.m3u8
-#EXTINF:-1,FR: MEZZO LIVE HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18397.m3u8
-#EXTINF:-1,FR: CSTAR HITS FRANCE FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18398.m3u8
-#EXTINF:-1,FR: TRACE URBAN
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18399.m3u8
-#EXTINF:-1,FR: TRACE URBAN HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18400.m3u8
-#EXTINF:-1,FR: TRACE AFRICA
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18401.m3u8
-#EXTINF:-1,FR: TRACE GOSPEL
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18402.m3u8
-#EXTINF:-1,FR: TRACE MZIKI
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18403.m3u8
-#EXTINF:-1,FR: TRACE TOCA
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18404.m3u8
-#EXTINF:-1,FR: TRACE
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18405.m3u8
-#EXTINF:-1,FR: TRACE LATINA
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18406.m3u8
-#EXTINF:-1,FR: TRACE AFRIKORA
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18407.m3u8
-#EXTINF:-1,FR: TRACE KITOKO
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18408.m3u8
-#EXTINF:-1,FR: MELODY TV
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18409.m3u8
-#EXTINF:-1,FR: MELODY FHD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18410.m3u8
-#EXTINF:-1,FR: RT
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18411.m3u8
-#EXTINF:-1,FR: RFM TV HEVC
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18412.m3u8
-#EXTINF:-1,FR: DJAZZ TV HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/18413.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = GENERAL = = = = =" tvg-logo="" group-title="FR: GENERAL",= = = = = GENERAL = = = = =
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FR: GENERAL",FR: TF1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="" group-title="FR: GENERAL",FR: TF1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1+1 HD" tvg-logo="" group-title="FR: GENERAL",FR: TF1+1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1+1 FHD" tvg-logo="" group-title="FR: GENERAL",FR: TF1+1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 2 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 FHD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 2 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 3 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 FHD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 3 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 NOA HD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 3 NOA HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 4 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 FHD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 4 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 HD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 5 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 FHD" tvg-logo="" group-title="FR: GENERAL",FR: FRANCE 5 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FR: GENERAL",FR: M6 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 FHD" tvg-logo="" group-title="FR: GENERAL",FR: M6 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FR: GENERAL",FR: 6TER HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER FHD" tvg-logo="" group-title="FR: GENERAL",FR: 6TER FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="" group-title="FR: GENERAL",FR: C8 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 FHD" tvg-logo="" group-title="FR: GENERAL",FR: C8 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="FR: GENERAL",FR: W9 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 FHD" tvg-logo="" group-title="FR: GENERAL",FR: W9 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FR: GENERAL",FR: TMC HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC FHD" tvg-logo="" group-title="FR: GENERAL",FR: TMC FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC+1 HD" tvg-logo="" group-title="FR: GENERAL",FR: TMC+1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FR: GENERAL",FR: PARIS PREMIERE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH HD" tvg-logo="" group-title="FR: GENERAL",FR: TV BREIZH HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH FHD" tvg-logo="" group-title="FR: GENERAL",FR: TV BREIZH FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="" group-title="FR: GENERAL",FR: E! ENTERTAINMENT HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FR: GENERAL",FR: SYFY HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDY CENTRAL  HD" tvg-logo="" group-title="FR: GENERAL",FR: COMEDY CENTRAL  HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOURMAND TV HD" tvg-logo="" group-title="FR: GENERAL",FR: GOURMAND TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = CULTURE = = = = =" tvg-logo="" group-title="FR: CULTURE",= = = = = CULTURE = = = = =
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="" group-title="FR: CULTURE",FR: PLANETE+ HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ FHD" tvg-logo="" group-title="FR: CULTURE",FR: PLANETE+ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CRIME HD" tvg-logo="" group-title="FR: CULTURE",FR: PLANETE+ CRIME HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI FHD" tvg-logo="" group-title="FR: CULTURE",FR: PLANETE+ CI FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE HD" tvg-logo="" group-title="FR: CULTURE",FR: ARTE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE FHD" tvg-logo="" group-title="FR: CULTURE",FR: ARTE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV 5 MONDE HD" tvg-logo="" group-title="FR: CULTURE",FR: TV 5 MONDE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO HD" tvg-logo="" group-title="FR: CULTURE",FR: NAT GEO HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO FHD" tvg-logo="" group-title="FR: CULTURE",FR: NAT GEO FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO WILD HD" tvg-logo="" group-title="FR: CULTURE",FR: NAT GEO WILD HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO WILD FHD" tvg-logo="" group-title="FR: CULTURE",FR: NAT GEO WILD FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA TV HD" tvg-logo="" group-title="FR: CULTURE",FR: USHUAIA TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA FHD" tvg-logo="" group-title="FR: CULTURE",FR: USHUAIA FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="" group-title="FR: CULTURE",FR: RMC DECOUVERTE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE FHD" tvg-logo="" group-title="FR: CULTURE",FR: RMC DECOUVERTE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY HD" tvg-logo="" group-title="FR: CULTURE",FR: RMC STORY HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY FHD" tvg-logo="" group-title="FR: CULTURE",FR: RMC STORY FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MUSEUM CHANNEL HD" tvg-logo="" group-title="FR: CULTURE",FR: MUSEUM CHANNEL HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="" group-title="FR: CULTURE",FR: SCIENCE ET VIE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE & VIE FHD" tvg-logo="" group-title="FR: CULTURE",FR: SCIENCE & VIE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="FR: CULTURE",FR: DISCOVERY SCIENCE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY FRANCE FHD" tvg-logo="" group-title="FR: CULTURE",FR: DISCOVERY FRANCE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FR: CULTURE",FR: CRIME DISTRICT HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="FR: CULTURE",FR: DISCOVERY INVESTIGATION HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="FR: CULTURE",FR: DISCOVERY SCIENCE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="" group-title="FR: CULTURE",FR: TREK HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ABXPLORE HD" tvg-logo="" group-title="FR: CULTURE",FR: ABXPLORE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: HISTOIRE HD" tvg-logo="" group-title="FR: CULTURE",FR: HISTOIRE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L HISTOIRE HD" tvg-logo="" group-title="FR: CULTURE",FR: TOUTE L HISTOIRE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L'HISTOIRE FHD" tvg-logo="" group-title="FR: CULTURE",FR: TOUTE L'HISTOIRE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="FR: CULTURE",FR: ANIMAUX HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX FHD" tvg-logo="" group-title="FR: CULTURE",FR: ANIMAUX FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="" group-title="FR: CULTURE",FR: CHASSE ET PECHE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PÊCHE FHD" tvg-logo="" group-title="FR: CULTURE",FR: CHASSE ET PÊCHE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASONS HD" tvg-logo="" group-title="FR: CULTURE",FR: SEASONS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVM 3 HD" tvg-logo="" group-title="FR: CULTURE",FR: TVM 3 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO" tvg-logo="" group-title="FR: CULTURE",FR: FRANCE INFO
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="" group-title="FR: CULTURE",FR: FRANCE INFO HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="" group-title="FR: CULTURE",FR: EURONEWS
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RT FRANCE HD" tvg-logo="" group-title="FR: CULTURE",FR: RT FRANCE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24 HD" tvg-logo="" group-title="FR: CULTURE",FR: FRANCE 24 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS HD" tvg-logo="" group-title="FR: CULTURE",FR: CNEWS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS FHD" tvg-logo="" group-title="FR: CULTURE",FR: CNEWS FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="" group-title="FR: CULTURE",FR: BFM TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV FHD" tvg-logo="" group-title="FR: CULTURE",FR: BFM TV FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="" group-title="FR: CULTURE",FR: BFM BUSINESS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP HD" tvg-logo="" group-title="FR: CULTURE",FR: LCP HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP FHD" tvg-logo="" group-title="FR: CULTURE",FR: LCP FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI HD" tvg-logo="" group-title="FR: CULTURE",FR: LCI HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: I24 NEWS" tvg-logo="" group-title="FR: CULTURE",FR: I24 NEWS
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="" group-title="FR: CULTURE",FR: KTO
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="FR: CULTURE",FR: TV5 MONDE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ CINEMA FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+ CINEMA FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DOCS FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+ DOCS FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FOOT FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+ FOOT FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ GRAND ECRAN FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+ GRAND ECRAN FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+  SERIES FHD" tvg-logo="" group-title="FR: CINEMA",FR: CANAL+  SERIES FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX FHD" tvg-logo="" group-title="FR: CINEMA",FR: OCS MAX FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIER FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE+ PREMIER FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ EMOTION FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE+ EMOTION FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FRISSON FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE+ FRISSON FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FAMIZ FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE+ FAMIZ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLUB FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE+ CLUB FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE CLASSIC FHD" tvg-logo="" group-title="FR: CINEMA",FR: CINE CLASSIC FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION FHD" tvg-logo="" group-title="FR: CINEMA",FR: ACTION FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA FHD" tvg-logo="" group-title="FR: CINEMA",FR: TCM CINEMA FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="FR: CINEMA",FR: PARAMOUNT CHANNEL FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT DECALE FHD" tvg-logo="" group-title="FR: CINEMA",FR: PARAMOUNT DECALE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOLLYWOOD FULL FHD" tvg-logo="" group-title="FR: CINEMA",FR: NOLLYWOOD FULL FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIES FILMS FHD" tvg-logo="" group-title="FR: CINEMA",FR: TF1 SERIES FILMS FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+ FHD" tvg-logo="" group-title="FR: CINEMA",FR: COMEDIE+ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV FHD" tvg-logo="" group-title="FR: CINEMA",FR: WARNER TV FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ FHD" tvg-logo="" group-title="FR: CINEMA",FR: POLAR+ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 FHD" tvg-logo="" group-title="FR: CINEMA",FR: CHERIE 25 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA FHD" tvg-logo="" group-title="FR: CINEMA",FR: TEVA FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 FHD" tvg-logo="" group-title="FR: CINEMA",FR: AB1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C STAR FHD" tvg-logo="" group-title="FR: CINEMA",FR: C STAR FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A+ HD" tvg-logo="" group-title="FR: CINEMA",FR: A+ HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="" group-title="FR: CINEMA",FR: DISNEY CINEMA HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET HD" tvg-logo="" group-title="FR: CINEMA",FR: BET HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FR: CINEMA",FR: SERIE CLUB HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9 HD" tvg-logo="" group-title="FR: CINEMA",FR: RTL 9 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE HD" tvg-logo="" group-title="FR: CINEMA",FR: 13 EME RUE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS TV HD" tvg-logo="" group-title="FR: CINEMA",FR: NOVELAS TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = 24/7 = = = = =" tvg-logo="" group-title="FR: CINEMA",= = = = = 24/7 = = = = =
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DREAMWORKS HD" tvg-logo="" group-title="FR: CINEMA",FR: DREAMWORKS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 1" tvg-logo="" group-title="FR: CINEMA",FR: CANALPLAY 1
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 2" tvg-logo="" group-title="FR: CINEMA",FR: CANALPLAY 2
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 3" tvg-logo="" group-title="FR: CINEMA",FR: CANALPLAY 3
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 4" tvg-logo="" group-title="FR: CINEMA",FR: CANALPLAY 4
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 5" tvg-logo="" group-title="FR: CINEMA",FR: CANALPLAY 5
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 2 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 2 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 3 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 3 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 4 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 4 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 5 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 5 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 6 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 6 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 7 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 8 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 8 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 9 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 9 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10 HD" tvg-logo="" group-title="FR: CINEMA",FR: A LA CARTE 10 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ F1 HD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ F1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ AUTOMOTO GP HD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ AUTOMOTO GP HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 360 HD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ SPORT 360 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 360 FHD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ SPORT 360 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ SPORT HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT FHD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ SPORT FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 360 HD" tvg-logo="" group-title="FR: SPORT",FR: CANAL+ SPORT 360 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24/24 HD" tvg-logo="" group-title="FR: SPORT",FR: FOOT+ 24/24 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24/24 FHD" tvg-logo="" group-title="FR: SPORT",FR: FOOT+ 24/24 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 2 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 FHD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 2 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 3 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 FHD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT 3 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORTS MAX 4 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORTS MAX 5 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT MAX 6 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT MAX 7 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT MAX 8 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORT MAX 9 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 10 HD" tvg-logo="" group-title="FR: SPORT",FR: BEIN SPORTS MAX 10 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 HD" tvg-logo="" group-title="FR: SPORT",FR: L'EQUIPE 21 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 FHD" tvg-logo="" group-title="FR: SPORT",FR: L'EQUIPE 21 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="FR: SPORT",FR: INFOSPORT+ HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ FHD" tvg-logo="" group-title="FR: SPORT",FR: INFOSPORT+ FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 2 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 2 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 3 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 3 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 4 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5 HD" tvg-logo="" group-title="FR: SPORT",FR: RMC SPORT 5 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME MULTIPLEX FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON PRIME MULTIPLEX FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME MATCH 3 FHD ( ONLY EVENTS )" tvg-logo="" group-title="FR: SPORT",FR: AMAZON PRIME MATCH 3 FHD ( ONLY EVENTS )
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON LIGUE2 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON LIGUE2 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON LIGUE2 2 FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON LIGUE2 2 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON LIGUE2 4 FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON LIGUE2 4 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON LIGUE2 6 FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON LIGUE2 6 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON LIGUE2 8 FHD" tvg-logo="" group-title="FR: SPORT",FR: AMAZON LIGUE2 8 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: EUROSPORT 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 FHD" tvg-logo="" group-title="FR: SPORT",FR: EUROSPORT 2 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO TV HD" tvg-logo="" group-title="FR: SPORT",FR: AUTOMOTO TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO LA CHAINE FHD" tvg-logo="" group-title="FR: SPORT",FR: AUTOMOTO LA CHAINE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA FHD" tvg-logo="" group-title="FR: SPORT",FR: EQUIDIA FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="FR: SPORT",FR: GOLF+ HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: EXTREME SPORTS FHD" tvg-logo="" group-title="FR: SPORT",FR: EXTREME SPORTS FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: GINX ESPORTS TV HD" tvg-logo="" group-title="FR: SPORT",FR: GINX ESPORTS TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV HD" tvg-logo="" group-title="FR: SPORT",FR: OL TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM SPORT HD" tvg-logo="" group-title="FR: SPORT",FR: BFM SPORT HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE SPORTS STAR HD" tvg-logo="" group-title="FR: SPORT",FR: TRACE SPORTS STAR HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAUTICAL TV HD" tvg-logo="" group-title="FR: SPORT",FR: NAUTICAL TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF + HD" tvg-logo="" group-title="FR: SPORT",FR: GOLF + HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN HD" tvg-logo="" group-title="FR: SPORT",FR: DAZN HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN SD" tvg-logo="" group-title="FR: SPORT",FR: DAZN SD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: M6 MUSIC
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: NRJ HITS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MCM HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MCM TOP HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV FRANCE HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MTV FRANCE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MTV HITS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV DANCE HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MTV DANCE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MEZZO HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HITS FRANCE FHD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: CSTAR HITS FRANCE FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY FHD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MELODY FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: RTS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DJAZZ TV HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: DJAZZ TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO TV HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: WEO TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MONACO INFO HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MONACO INFO HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: IL TV HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: IL TV HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM LYON HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: BFM LYON HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL 10" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: CANAL 10
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ KID HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: CANAL+ KID HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY+ HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: DISNEY+ HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: DISNEY CHANNEL HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: DISNEY JUNIOR HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: DISNEY XD HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: BOOMERANG HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: NICKELODEON HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICK JUNIOR HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: NICK JUNIOR HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON 4 TEEN HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: NICKELODEON 4 TEEN HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: BOING HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON +1 HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: TELETOON +1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: CANAL J HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: MANGAS HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE HD" tvg-logo="" group-title="FR: MUSIC/ENFANT",FR: GAME ONE HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/116659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1 LEAUGE 1 HD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 1 LEAUGE 1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1 LEAUGE 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 1 LEAUGE 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 3 LEAUGE 1 HD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 3 LEAUGE 1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 3 LEAUGE 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 3 LEAUGE 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 4 LEAUGE 1 HD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 4 LEAUGE 1 HD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 4 LEAUGE 1 FHD" tvg-logo="" group-title="FR: SPORT",FR: DAZN 4 LEAUGE 1 FHD
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/127383.m3u8
