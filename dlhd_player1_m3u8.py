@@ -1,13 +1,26 @@
-BASE_URL = "https://YOURDOMAIN/stream"
-CHANNEL_ID = 91
-OUTPUT = "channels.m3u"
+import requests
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n\n")
-    for p in range(1, 6):
-        f.write(f"#EXTINF:-1,BEIN SPORTS 1 | Player {p}\n")
-        f.write("#EXTVLCOPT:http-referrer=https://dlhd.link/\n")
-        f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
-        f.write(f"{BASE_URL}?id={CHANNEL_ID}&player={p}\n\n")
+SOURCE_URL = "https://dokko1new.dvalna.ru/dokko1/premium91/mono.css"
+OUTPUT_FILE = "dlhd_player1_m3u8"
 
-print("channels.m3u updated")
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Referer": "https://dokko1new.dvalna.ru/"
+}
+
+def main():
+    r = requests.get(SOURCE_URL, headers=headers, timeout=15)
+    r.raise_for_status()
+
+    content = r.text.strip()
+
+    if "#EXTM3U" not in content:
+        raise Exception("الملف ليس M3U8 صالح")
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print("✔ dlhd_player1_m3u8 تم تحديثه بنجاح")
+
+if __name__ == "__main__":
+    main()
