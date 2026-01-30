@@ -41,6 +41,8 @@ http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 3 SD
 http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 4 SD
+http://135.125.109.73:9000/beinsport4_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 5 SD
 http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 6 SD
@@ -51,6 +53,8 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS  Qatar 9 SD
 http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",beIN SPORTS Qatar 1 SD
+http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sports 1🎯
@@ -131,11 +135,7 @@ https://sdmax111.provegooott.com/7_.m3u8
 https://sdmax111.provegooott.com/9_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BeIN Sports 3
-http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Bein Sports 1
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Bein Sports 1
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
