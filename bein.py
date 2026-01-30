@@ -23,6 +23,8 @@ SOURCES = [
        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
         "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
          "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
+       "https://raw.githubusercontent.com/ashik4u/mrgify-clean/refs/heads/main/playlist.m3u",
+    
     
     
     ]
