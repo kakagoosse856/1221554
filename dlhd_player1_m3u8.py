@@ -1,64 +1,13 @@
-from playwright.sync_api import sync_playwright
-import sys
+BASE_URL = "https://YOURDOMAIN/stream"
+CHANNEL_ID = 91
+OUTPUT = "channels.m3u"
 
-WATCH_URL = "https://dlhd.link/watch.php?id=91"
-REFERER = "https://dlhd.link/"
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-OUTPUT_FILE = "dlhd_player1_m3u8.m3u8"
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n\n")
+    for p in range(1, 6):
+        f.write(f"#EXTINF:-1,BEIN SPORTS 1 | Player {p}\n")
+        f.write("#EXTVLCOPT:http-referrer=https://dlhd.link/\n")
+        f.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+        f.write(f"{BASE_URL}?id={CHANNEL_ID}&player={p}\n\n")
 
-
-def main():
-    m3u8_links = set()
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            headless=True,
-            args=["--no-sandbox", "--disable-blink-features=AutomationControlled"]
-        )
-
-        context = browser.new_context(
-            user_agent=UA,
-            extra_http_headers={
-                "Referer": REFERER
-            }
-        )
-
-        page = context.new_page()
-
-        def on_response(response):
-            url = response.url
-            if ".m3u8" in url:
-                print("[FOUND]", url)
-                m3u8_links.add(url)
-
-        page.on("response", on_response)
-
-        print("[INFO] Open watch page")
-        page.goto(WATCH_URL, wait_until="networkidle", timeout=60000)
-
-        # انتظار تحميل iframe واللاعب
-        page.wait_for_timeout(10000)
-
-        # الضغط على Player 1 (إن وجد)
-        try:
-            page.locator("button.player-btn").first.click()
-            page.wait_for_timeout(8000)
-        except:
-            pass
-
-        browser.close()
-
-    if not m3u8_links:
-        print("ERROR: لم يتم العثور على أي m3u8", file=sys.stderr)
-        sys.exit(1)
-
-    # حفظ النتائج في ملف
-    with open(OUTPUT_FILE, "w") as f:
-        for link in sorted(m3u8_links):
-            f.write(link + "\n")
-
-    print(f"[INFO] Saved {len(m3u8_links)} m3u8 link(s) to {OUTPUT_FILE}")
-
-
-if __name__ == "__main__":
-    main()
+print("channels.m3u created")
