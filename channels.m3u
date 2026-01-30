@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1,BEIN SPORTS 1 | Player 1
+#EXTVLCOPT:http-referrer=https://dlhd.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://YOURDOMAIN/stream?id=91&player=1
+
+#EXTINF:-1,BEIN SPORTS 1 | Player 2
+#EXTVLCOPT:http-referrer=https://dlhd.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://YOURDOMAIN/stream?id=91&player=2
+
+#EXTINF:-1,BEIN SPORTS 1 | Player 3
+#EXTVLCOPT:http-referrer=https://dlhd.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://YOURDOMAIN/stream?id=91&player=3
+
+#EXTINF:-1,BEIN SPORTS 1 | Player 4
+#EXTVLCOPT:http-referrer=https://dlhd.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://YOURDOMAIN/stream?id=91&player=4
+
+#EXTINF:-1,BEIN SPORTS 1 | Player 5
+#EXTVLCOPT:http-referrer=https://dlhd.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://YOURDOMAIN/stream?id=91&player=5
+
