@@ -22,6 +22,7 @@ SOURCES = [
        "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
         "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
+         "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
     
     
     ]
