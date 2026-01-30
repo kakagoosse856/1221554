@@ -2,29 +2,35 @@ name: dlhd_player1_m3u8
 
 on:
   workflow_dispatch:
-    inputs:
-      channel_id:
-        description: 'Channel ID to extract (e.g., 91, 92...)'
-        required: true
-        default: '91'
+  schedule:
+    - cron: "*/30 * * * *"   # كل 30 دقيقة
 
 jobs:
   extract:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        playwright install chromium
+      - name: Install deps
+        run: |
+          pip install playwright
+          playwright install chromium
 
-    - name: Run extraction dlhd_player1_m3u8
-      run: python dlhd_player1_m3u8.py ${{ github.event.inputs.channel_id }}
+      - name: Run dlhd_player1_m3u8
+        run: |
+          python dlhd_player1_m3u8.py
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add channels.m3u
+          git commit -m "update m3u8 list" || echo "no changes"
+          git push
