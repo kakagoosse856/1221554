@@ -3,34 +3,39 @@ name: dlhd_player1_m3u8
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # كل 30 دقيقة
+    - cron: "*/30 * * * *"   # كل 30 دقيقة (عدّلها لو حاب)
 
 jobs:
   extract:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install playwright
           playwright install chromium
 
-      - name: Run dlhd_player1_m3u8
+      - name: Run extractor
         run: |
           python dlhd_player1_m3u8.py
 
-      - name: Commit result
+      - name: Save result (if found)
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add channels.m3u
-          git commit -m "update m3u8 list" || echo "no changes"
-          git push
+          if grep -q "https.*m3u8" <<< "$(python dlhd_player1_m3u8.py)"; then
+            python dlhd_player1_m3u8.py > result.txt
+          fi
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: m3u8-result
+          path: result.txt
