@@ -21,6 +21,8 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",Bein Sports 1
 http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",Bein Sports 1
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 8",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
@@ -151,19 +153,13 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Habe
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Bein Sports
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 + D (V)
-https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 720P (V)
-https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 720P FEED
-https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 8K FEED
 https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN SPORTS 1 HD TURKEY
 https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN Sport 1 720P (O)
 https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Test VPN beIN Sport SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
