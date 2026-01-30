@@ -1,40 +1,69 @@
 from playwright.sync_api import sync_playwright
-import sys
+import re
 
-WATCH_URL = "https://dlhd.dad/watch.php?id=91"
-OUTPUT_FILE = "bein.m3u"
+TARGET_URL = "https://dlhd.link/watch.php?id=91"
+REFERER = "https://dlhd.link/"
 
 def extract_m3u8():
+    found = set()
+
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox"
+            ]
         )
+
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+            extra_http_headers={
+                "Referer": REFERER
+            }
+        )
+
         page = context.new_page()
-        m3u8_links = set()
 
-        def on_request(request):
-            url = request.url
-            if ".m3u8" in url and "beIN" in url:  # فلترة لقنوات beIN فقط
-                m3u8_links.add(url)
+        def on_response(response):
+            url = response.url
+            if ".m3u8" in url:
+                found.add(url)
+                print("[M3U8 FOUND]", url)
 
-        page.on("request", on_request)
-        page.goto(WATCH_URL, timeout=60000)
-        page.click("button.player-btn.is-active", timeout=15000)
-        page.wait_for_timeout(15000)
+        page.on("response", on_response)
+
+        print("[*] Opening page...")
+        page.goto(TARGET_URL, wait_until="networkidle", timeout=60000)
+
+        # انتظر تحميل iframe
+        page.wait_for_timeout(10000)
+
+        # جرب الضغط على جميع Players
+        buttons = page.locator(".player-btn")
+        count = buttons.count()
+
+        print(f"[*] Players detected: {count}")
+
+        for i in range(count):
+            try:
+                buttons.nth(i).click()
+                page.wait_for_timeout(5000)
+            except:
+                pass
+
         browser.close()
-        return list(m3u8_links)
+
+    return found
 
 
 if __name__ == "__main__":
     links = extract_m3u8()
+
     if not links:
-        print("[ERROR] لم يتم العثور على أي m3u8")
-        sys.exit(1)
+        print("❌ لم يتم العثور على أي m3u8")
+        exit(1)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        for l in links:
-            f.write(f"#EXTINF:-1,{l.split('/')[-2]}\n")  # اسم القناة من الرابط
-            f.write(f"{l}\n")
-
-    print(f"[INFO] Saved {len(links)} links to {OUTPUT_FILE}")
+    print("\n✅ روابط m3u8 النهائية:")
+    for l in links:
+        print(l)
