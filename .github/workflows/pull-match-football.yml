@@ -37,4 +37,4 @@ jobs:
           GITHUB_BRANCH: "main"
           DEST_REPO_PATH: "premierleague.m3u"
           COMMIT_MESSAGE: "chore: update premierleague URLs (Match!/TNT/Sky)"
-        run: python scripts/pull_channels_and_update.py
+        run: python pull_channels_and_update.py
