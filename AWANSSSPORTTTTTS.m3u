@@ -6,17 +6,17 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1936354.png" group-title="ثمانيــَـة بث خاص",AR| ثمانية 3  4K
 https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1 tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORT",Alwan Sport 1 HD
-https://3.3lok3.site:443/live/12345/12345/94.m3u8
+https://s3.news-api-gen.lol/alwan_sport1/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
-https://3.3lok3.site:443/live/12345/12345/95.m3u8
+https://s3.news-api-gen.lol/alwan_sport2/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
-https://3.3lok3.site:443/live/12345/12345/96.m3u8
+https://s3.news-api-gen.lol/alwan_sport3/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
-https://3.3lok3.site:443/live/12345/12345/97.m3u8
+https://s3.news-api-gen.lol/alwan_sport4/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
-https://3.3lok3.site:443/live/12345/12345/98.m3u8
+https://s3.news-api-gen.lol/alwan_sport5/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 6 HD
-https://3.3lok3.site:443/live/12345/12345/99.m3u8
+https://s3.news-api-gen.lol/alwan_sport6/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT HD
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
