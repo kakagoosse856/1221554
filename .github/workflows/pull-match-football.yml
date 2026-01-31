@@ -45,4 +45,4 @@ jobs:
           COMMIT_MESSAGE: "chore: update premierleague URLs (Match!/TNT/Sky)"
 
         run: |
-          python scripts/pull_channels_and_update.py
+          python pull_channels_and_update.py
