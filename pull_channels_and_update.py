@@ -1,28 +1,18 @@
-# scripts/pull_channels_and_update.py
 # -*- coding: utf-8 -*-
 """
 يسحب روابط قنوات محددة من RAW مصادر متعددة (M3U)
 ويقوم بتحديث ملف الوجهة (premierleague.m3u) باستبدال **سطر الرابط فقط**
 الذي يلي #EXTINF لنفس القناة، مع الحفاظ على مكانها ونص الـEXTINF كما هو.
 لا يضيف قنوات جديدة إن لم توجد في الملف الهدف.
-
-القنوات:
-  Match! Futbol 1, Match! Futbol 2, Match! Futbol 3,
-  TNT 1, TNT 2,
-  Sky Sports Main Event, Sky Sports Premier League
 """
 
-import os
-import re
-import sys
-import base64
+import os, re, sys, base64
 from pathlib import Path
 from typing import List, Tuple, Dict, Optional
 import requests
 
 # ===== إعدادات =====
 
-# قائمة جميع الروابط الممكنة (يمكنك إضافة المزيد لاحقًا)
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
@@ -47,39 +37,26 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
 ]
 
-# استخدم أول رابط صالح من environment أو القائمة
 SOURCE_URL = os.getenv("SOURCE_URL") or SOURCE_URLS[0]
-
-# الهدف
 DEST_RAW_URL = os.getenv(
     "DEST_RAW_URL",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
 )
-
-# GitHub
 GITHUB_TOKEN   = os.getenv("GITHUB_TOKEN", "").strip()
-GITHUB_REPO    = os.getenv("GITHUB_REPO", "kakagoosse856/m3u-broadcast")
+GITHUB_REPO    = os.getenv("GITHUB_REPO", "kakagoosse856/1221554")
 GITHUB_BRANCH  = os.getenv("GITHUB_BRANCH", "main")
 DEST_REPO_PATH = os.getenv("DEST_REPO_PATH", "premierleague.m3u")
 COMMIT_MESSAGE = os.getenv("COMMIT_MESSAGE", "chore: update premierleague URLs (Match!/TNT/Sky)")
-
 OUTPUT_LOCAL_PATH = os.getenv("OUTPUT_LOCAL_PATH", "./out/premierleague.m3u")
-
 TIMEOUT = 25
 VERIFY_SSL = True
 
 # القنوات المطلوبة
 WANTED_CHANNELS = [
-    "Match! Futbol 1",
-    "Match! Futbol 2",
-    "Match! Futbol 3",
-    "TNT 1",
-    "TNT 2",
-    "Sky Sports Main Event",
-    "Sky Sports Premier League",
+    "Match! Futbol 1", "Match! Futbol 2", "Match! Futbol 3",
+    "TNT 1", "TNT 2", "Sky Sports Main Event", "Sky Sports Premier League",
 ]
 
-# أنماط EXTINF
 ALIASES: Dict[str, List[re.Pattern]] = {
     "Match! Futbol 1": [re.compile(r"match!?\.?\s*futbol\s*1", re.I)],
     "Match! Futbol 2": [re.compile(r"match!?\.?\s*futbol\s*2", re.I)],
@@ -105,10 +82,8 @@ def parse_m3u_pairs(m3u_text: str) -> List[Tuple[str, Optional[str]]]:
         ln = lines[i].strip()
         if ln.startswith("#EXTINF"):
             url = None
-            if i + 1 < len(lines):
-                nxt = lines[i + 1].strip()
-                if nxt and not nxt.startswith("#"):
-                    url = nxt
+            if i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].strip().startswith("#"):
+                url = lines[i + 1].strip()
             out.append((ln, url))
             i += 2
             continue
@@ -121,31 +96,22 @@ def find_first_match(extinf: str, patterns: List[re.Pattern]) -> bool:
 def pick_wanted(source_pairs: List[Tuple[str, Optional[str]]]) -> Dict[str, str]:
     picked: Dict[str, str] = {}
     for extinf, url in source_pairs:
-        if not url:
-            continue
-        for official_name in WANTED_CHANNELS:
-            if official_name in picked:
-                continue
-            pats = ALIASES.get(official_name, [])
-            if find_first_match(extinf, pats):
-                picked[official_name] = url
+        if not url: continue
+        for name in WANTED_CHANNELS:
+            if name in picked: continue
+            if find_first_match(extinf, ALIASES.get(name, [])):
+                picked[name] = url
     return picked
 
 def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes: bytes, message: str, token: str):
-    base = "https://api.github.com"
-    url = f"{base}/repos/{repo}/contents/{path_in_repo}"
+    import base64, requests
+    url = f"https://api.github.com/repos/{repo}/contents/{path_in_repo}"
     headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     sha = None
     get_res = requests.get(url, headers=headers, params={"ref": branch}, timeout=TIMEOUT)
-    if get_res.status_code == 200:
-        sha = get_res.json().get("sha")
-    payload = {
-        "message": message,
-        "content": base64.b64encode(content_bytes).decode("utf-8"),
-        "branch": branch,
-    }
-    if sha:
-        payload["sha"] = sha
+    if get_res.status_code == 200: sha = get_res.json().get("sha")
+    payload = {"message": message, "content": base64.b64encode(content_bytes).decode("utf-8"), "branch": branch}
+    if sha: payload["sha"] = sha
     put_res = requests.put(url, headers=headers, json=payload, timeout=TIMEOUT)
     if put_res.status_code not in (200, 201):
         raise RuntimeError(f"GitHub PUT failed: {put_res.status_code} {put_res.text}")
@@ -153,23 +119,21 @@ def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes:
 
 def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]) -> str:
     lines = [ln.rstrip("\n") for ln in dest_text.splitlines()]
-    if not lines or not lines[0].strip().upper().startswith("#EXTM3U"):
-        lines = ["#EXTM3U"] + lines
+    if not lines or not lines[0].strip().upper().startswith("#EXTM3U"): lines = ["#EXTM3U"] + lines
     out: List[str] = []
     i = 0
     while i < len(lines):
         ln = lines[i]
         if ln.strip().startswith("#EXTINF"):
             matched_name = None
-            for official_name in WANTED_CHANNELS:
-                pats = ALIASES.get(official_name, [])
-                if find_first_match(ln, pats):
-                    matched_name = official_name
+            for name in WANTED_CHANNELS:
+                if find_first_match(ln, ALIASES.get(name, [])):
+                    matched_name = name
                     break
             if matched_name and matched_name in picked_urls:
                 out.append(ln)
                 new_url = picked_urls[matched_name]
-                if i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].strip().startswith("#"):
+                if i + 1 < len(lines) and lines[i+1].strip() and not lines[i+1].strip().startswith("#"):
                     out.append(new_url)
                     i += 2
                     continue
@@ -182,7 +146,6 @@ def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]
     return "\n".join(out).rstrip() + "\n"
 
 def main():
-    # جرّب كل رابط حتى ينجح
     for url in SOURCE_URLS:
         try:
             src_text = fetch_text(url)
@@ -193,33 +156,18 @@ def main():
     else:
         raise RuntimeError("No valid SOURCE_URL worked!")
 
-    # تحميل الوجهة
     dest_text = fetch_text(DEST_RAW_URL)
-
-    # استخراج روابط القنوات المطلوبة
     pairs = parse_m3u_pairs(src_text)
     picked_urls = pick_wanted(pairs)
 
     print("[i] Picked URLs:")
     for n in WANTED_CHANNELS:
-        tag = "✓" if n in picked_urls else "x"
-        print(f"  {tag} {n}")
+        print(f"  {'✓' if n in picked_urls else 'x'} {n}")
 
-    # تحديث الروابط فقط
     updated = render_updated_replace_urls_only(dest_text, picked_urls)
 
-    # كتابة على GitHub أو محلي
-    token = GITHUB_TOKEN
-    if token:
-        print(f"[i] Updating GitHub: {GITHUB_REPO}@{GITHUB_BRANCH}:{DEST_REPO_PATH}")
-        res = upsert_github_file(
-            repo=GITHUB_REPO,
-            branch=GITHUB_BRANCH,
-            path_in_repo=DEST_REPO_PATH,
-            content_bytes=updated.encode("utf-8"),
-            message=COMMIT_MESSAGE,
-            token=token,
-        )
+    if GITHUB_TOKEN:
+        res = upsert_github_file(GITHUB_REPO, GITHUB_BRANCH, DEST_REPO_PATH, updated.encode("utf-8"), COMMIT_MESSAGE, GITHUB_TOKEN)
         print("[✓] Updated:", res.get("content", {}).get("path"))
     else:
         p = Path(OUTPUT_LOCAL_PATH)
@@ -228,8 +176,5 @@ def main():
         print("[i] Wrote locally to:", p.resolve())
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print("[x] Error:", e)
-        sys.exit(1)
+    try: main()
+    except Exception as e: print("[x] Error:", e); sys.exit(1)
