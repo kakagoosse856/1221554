@@ -2,7 +2,7 @@
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845453&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845452.png" group-title="_EU_FRANCE_HEVC",FR - TF1 HEVC
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845452&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=526153&extension=m3u8&play_token=QXeSVfq6yE
+#http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=526153&extension=m3u8&play_token=QXeSVfq6yE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1161549.png" group-title="_EU_FRANCE_HEVC",FR - TF1+ STAR ACADEMY HEVC
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1161549&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845450.png" group-title="_EU_FRANCE_HEVC",FR - FRANCE 2 HEVC
@@ -13,6 +13,7 @@ http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=84544
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845448&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845447.png" group-title="_EU_FRANCE_HEVC",FR - FRANCE 4 HEVC
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845447&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=526152&extension=m3u8&play_token=l52vJxEJK0
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845446.png" group-title="_EU_FRANCE_HEVC",FR - FRANCE 5 HEVC
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845446&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845445.png" group-title="_EU_FRANCE_HEVC",FR - M6 HEVC
