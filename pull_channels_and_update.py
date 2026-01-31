@@ -3,7 +3,7 @@
 يسحب روابط قنوات محددة من RAW مصادر متعددة (M3U)
 ويقوم بتحديث ملف الوجهة (premierleague.m3u) باستبدال **سطر الرابط فقط**
 الذي يلي #EXTINF لنفس القناة، مع الحفاظ على مكانها ونص الـEXTINF كما هو.
-لا يضيف قنوات جديدة إن لم توجد في الملف الهدف.
+يحاول جميع الروابط في SOURCE_URLS حتى يلتقط كل القنوات المطلوبة.
 """
 
 import os, re, sys, base64
@@ -18,26 +18,9 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
     "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital/e3f60bd80f189c679415e6b2b51d79a77440793a/Cmcl%20digital",
-    "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
-    "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u",
-    "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u",
-    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u",
-    "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/m3u_url.m3u",
-    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u",
-    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/UDPTV.m3u",
-    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/tubi_playlist.m3u",
-    "https://raw.githubusercontent.com/lusianaputri/lusipunyalu/d5d1b411b6020519501860ab1f2dda128a033885/b.txt",
-    "https://github.com/FunctionError/PiratesTv/blob/97aadde222f09567d5f03de4574cae49c3cf90ab/combined_playlist.m3u",
-    "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u",
-    "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
-    "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
-    "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
-    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
-    "https://raw.githubusercontent.com/ashik4u/mrgify-clean/refs/heads/main/playlist.m3u",
-    "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
+    # أضف باقي الروابط هنا...
 ]
 
-SOURCE_URL = os.getenv("SOURCE_URL") or SOURCE_URLS[0]
 DEST_RAW_URL = os.getenv(
     "DEST_RAW_URL",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
@@ -93,14 +76,18 @@ def parse_m3u_pairs(m3u_text: str) -> List[Tuple[str, Optional[str]]]:
 def find_first_match(extinf: str, patterns: List[re.Pattern]) -> bool:
     return any(p.search(extinf) for p in patterns)
 
-def pick_wanted(source_pairs: List[Tuple[str, Optional[str]]]) -> Dict[str, str]:
+def pick_wanted_from_multiple_sources(source_texts: List[str]) -> Dict[str, str]:
     picked: Dict[str, str] = {}
-    for extinf, url in source_pairs:
-        if not url: continue
-        for name in WANTED_CHANNELS:
-            if name in picked: continue
-            if find_first_match(extinf, ALIASES.get(name, [])):
-                picked[name] = url
+    for text in source_texts:
+        pairs = parse_m3u_pairs(text)
+        for extinf, url in pairs:
+            if not url: continue
+            for name in WANTED_CHANNELS:
+                if name in picked: continue
+                if find_first_match(extinf, ALIASES.get(name, [])):
+                    picked[name] = url
+        # توقف إذا التقطنا كل القنوات
+        if len(picked) == len(WANTED_CHANNELS): break
     return picked
 
 def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes: bytes, message: str, token: str):
@@ -146,19 +133,19 @@ def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]
     return "\n".join(out).rstrip() + "\n"
 
 def main():
+    source_texts = []
     for url in SOURCE_URLS:
         try:
-            src_text = fetch_text(url)
+            text = fetch_text(url)
             print(f"[i] Successfully fetched: {url}")
-            break
+            source_texts.append(text)
         except Exception as e:
             print(f"[x] Failed: {url} ({e})")
-    else:
+    if not source_texts:
         raise RuntimeError("No valid SOURCE_URL worked!")
 
     dest_text = fetch_text(DEST_RAW_URL)
-    pairs = parse_m3u_pairs(src_text)
-    picked_urls = pick_wanted(pairs)
+    picked_urls = pick_wanted_from_multiple_sources(source_texts)
 
     print("[i] Picked URLs:")
     for n in WANTED_CHANNELS:
