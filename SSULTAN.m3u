@@ -1,62 +1,6 @@
 #EXTM3U
 #EXTINF:-1,###########SERVER1###########
-https://i.ibb.co/Y7w4SwbM/1abec56d-3cc5-4637-83b7-3d366125400e.png
-#EXTINF:-1,TEST 1 
-http://vibertv.online:2052/playlist/beviber1.m3u8?key=1vibertvx69
-#EXTINF:-1,BeiN 1  جودة عالية
-http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiNs1 2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
-https://sdmax111.provegooott.com/32_.m3u8
-#EXTINF:-1,BeiNs2
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-#EXTINF:-1,BeiNs3
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
-#EXTINF:-1,BeiNs4
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
-#EXTINF:-1,BeiNs5
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
-#EXTINF:-1,BeiNs6
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
-#EXTINF:-1,BeiNs7
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
-#EXTINF:-1,BeiNs8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8
-#EXTINF:-1,BeiNs9
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
-#EXTINF:-1,###########SERVER1###########
-https://sdmax111.provegooott.com/32_.m3u8
-#EXTINF:-1,BeiNs1 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8
 
-#EXTINF:-1,BeiNs2 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6124/index.m3u8
-
-#EXTINF:-1,BeiNs3 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6125/index.m3u8
-
-#EXTINF:-1,BeiNs4 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6126/index.m3u8
-
-#EXTINF:-1,BeiNs5 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6127/index.m3u8
-
-#EXTINF:-1,BeiNs6 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6128/index.m3u8
-
-#EXTINF:-1,BeiNs7 QA
-http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8
-
-#EXTINF:-1,beIN Sports 1
-http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2499/index.m3u8
-
-#EXTINF:-1,beIN Sports 2
-http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2500/index.m3u8
-
-#EXTINF:-1,beIN Sports 3
-http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2501/index.m3u8
-
-#EXTINF:-1,###########SERVER2###########
 https://sdmax111.provegooott.com/32_.m3u8
 #EXTINF:-1,beIN Sports 1 HD 
 http://5.135.26.128/stream/bein/bein1/out/index.m3u8 
@@ -104,42 +48,6 @@ https://sdmax111.provegooott.com/45_.m3u8
 #EXTINF:-1,###########SERVER3###########
 https://sdmax111.provegooott.com/32_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678280.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678286.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678292.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678281.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678287.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678293.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678282.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678288.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678294.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678278.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678283.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678289.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678295.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678284.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/678290.m3u8 
 #EXTINF:-1 tvg-id="BS1" tvg-name="BEIN SPORm3u8    1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8    1 4K
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/333799.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  1 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  1 FHD
@@ -212,30 +120,7 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/333816.m3u8
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/420141.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  9 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  9 SD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/420157.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885764.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 FHD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885767.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885770.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885773.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885765.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 FHD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885768.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885771.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885774.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 4K
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885766.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 FHD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885769.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885772.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 SD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/885775.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  XTRA 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  XTRA 1 4K
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/333819.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  XTRA 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  XTRA 2 4K
@@ -261,7 +146,7 @@ http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6130/index.m3u8
 #EXTINF:-1,BEIN SPORTS 9 HD
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6131/index.m3u8
-#EXTINF:-1,###########SERVER5###########
+#EXTINF:-1,######################
 https://sdmax111.provegooott.com/32_.m3u8
 
 #EXTINF:-1,BEIN SPORTS 1 HD
@@ -283,3 +168,86 @@ http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/8.m3u8
 #EXTINF:-1,BEIN SPORTS 9 HD
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/9.m3u8
 
+
+https://i.ibb.co/Y7w4SwbM/1abec56d-3cc5-4637-83b7-3d366125400e.png
+#EXTINF:-1,TEST 1 
+http://vibertv.online:2052/playlist/beviber1.m3u8?key=1vibertvx69
+#EXTINF:-1,BeiN 1  جودة عالية
+http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
+#EXTINF:-1,BeiNs1 2
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1,BeiNs2
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
+#EXTINF:-1,BeiNs3
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
+#EXTINF:-1,BeiNs4
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
+#EXTINF:-1,BeiNs5
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
+#EXTINF:-1,BeiNs6
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
+#EXTINF:-1,BeiNs7
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
+#EXTINF:-1,BeiNs8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8
+#EXTINF:-1,BeiNs9
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8
+#EXTINF:-1,#####################
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1,BeiNs1 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8
+
+#EXTINF:-1,BeiNs2 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6124/index.m3u8
+
+#EXTINF:-1,BeiNs3 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6125/index.m3u8
+
+#EXTINF:-1,BeiNs4 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6126/index.m3u8
+
+#EXTINF:-1,BeiNs5 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6127/index.m3u8
+
+#EXTINF:-1,BeiNs6 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6128/index.m3u8
+
+#EXTINF:-1,BeiNs7 QA
+http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6129/index.m3u8
+
+#EXTINF:-1,beIN Sports 1
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2499/index.m3u8
+
+#EXTINF:-1,beIN Sports 2
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2500/index.m3u8
+
+#EXTINF:-1,beIN Sports 3
+http://462202e7.edemist.com/iptv/RYNC6BS6WVETNVPTPTXVMP5D/2501/index.m3u8
+
+#EXTINF:-1,######################
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885764.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885767.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885770.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885773.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885765.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885768.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885771.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885774.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885766.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885769.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885772.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885775.m3u8 
