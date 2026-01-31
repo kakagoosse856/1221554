@@ -2,5 +2,8 @@
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 1080p
 
 http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 2 720p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 720p
 http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 360p
+
+http://het000.4rouwanda-shop.store/live/978480008877005/index.m3u8
