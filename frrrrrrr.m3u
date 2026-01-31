@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845453.png" group-title="_EU_FRANCE_HEVC",##### GENERAL #####
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=845453&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845452.png" group-title="_EU_FRANCE_HEVC",FR - TF1 HEVC
