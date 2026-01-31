@@ -6,7 +6,8 @@ import re
 # مصادر القنوات
 # =====================
 SOURCES = [
-   "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
+"https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/c7e028af5a8ece7f158a9fe0bae6a446f2323972/TURK_TV.m3u_plus",
+"https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
 "https://raw.githubusercontent.com/peanutstofusugarflavored/tasya/refs/heads/main/%E0%B8%96%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%A2.m3u",
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
