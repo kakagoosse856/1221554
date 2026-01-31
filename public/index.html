@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Kick Live Stream</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+html,body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  background:#000;
+}
+video {
+  width:100%;
+  height:100%;
+}
+</style>
+</head>
+<body>
+
+<video id="video" controls autoplay playsinline></video>
+
+<script>
+const video = document.getElementById('video');
+
+const streamUrl = "https://euw11.playlist.live-video.net/v1/playlist/CrUF0LdwK_pxqaySDrGO9o1o2N69WLFfWNNaVY3F31JPWbKFut7GA929_z-fxbvaDBAR30gyTubV2cLAcvKlO5RdLanCErgZa7sTNIykLzWGI6M34HRguDPWhAzrY_2dZwjcyIVtd_aplI-caI5WWwpcpxgWPP45kYBZzm7hgJLVNf3qEMxOmTYDuMuCOM7zLwdvPd2jeAQsqIR9NMFyOnCoMTB5ymP5XuQE95B1vU1hv_hXcpSHd4P9quo2_-tJMsoS8_g-l5j4EosPMfG27l04FWc30pEWxXoFH87ILENUCP-qqWiFjiK8Doo9XnZ5Gn3MHP1cAozT24Tsvt6Uq3QXupHBs841jghiZrPObc8E-mtyEVf1FdO5M43T8o2KEey1_awqSJd-JelyD_NMWKHCTNuR5-tqqVdCLuA32ZWbh0EuwaboeJTE1G8UItRiUY_mT9wR5TSOCZWUmO8TxLEHCny9hSfuw_kpbUDl4Zd1Q2nfwzLZ1RqfNDNS_e2_VW5_g3D149P1wGncQynnVMvF8cAR8dSI20bUedSSk9cbEGhf3P5a9OuEI_5AC7XIJmZsOp-uvXWDgvE9yabIqzX_87fy4KTZzs1SVIXHXV_E7XXKY8DxPBrS8RWsF7KcGo_WNNYsDp9vq3QXAuD0SV59QWlsL9ZA8WSNe7bcIjnDm3P-DNHQrOazztESy8jG8hAYR_Wztia96uvMXNEi-1amg0s9iXIgE-KXpxqgDZDA1KdmNBnA-3ikEJU5VJ8J9-iOH5-QX3OZKL5ASBl4Belk-FcaQoN2Th1RUbqqPYIOPe63inHMyWpWZHYrxlF_b27PD5crvSYI0VXZ-jx-vIi4rUOf_Bjtpp0Fz4TkOUzrVZmvugx_462CsE1DuLZ-taYuEEH0IOHEMNmjxtdp9bPn2v4zlcVtGgzadwE4-cRyfXTAPi8gASoJZXUtd2VzdC0yMKkO.m3u8";
+
+if (Hls.isSupported()) {
+  const hls = new Hls({
+    enableWorker: true,
+    lowLatencyMode: true
+  });
+  hls.loadSource(streamUrl);
+  hls.attachMedia(video);
+} else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+  video.src = streamUrl;
+}
+</script>
+
+</body>
+</html>
