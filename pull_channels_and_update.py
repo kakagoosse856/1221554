@@ -1,8 +1,8 @@
 # scripts/pull_channels_and_update.py
 # -*- coding: utf-8 -*-
 """
-يسحب روابط قنوات محددة من RAW مصدر (ALL.m3u)
-ويقوم بتحديث ملف وجهة (premierleague.m3u) باستبدال **سطر الرابط فقط**
+يسحب روابط قنوات محددة من RAW مصادر متعددة (M3U)
+ويقوم بتحديث ملف الوجهة (premierleague.m3u) باستبدال **سطر الرابط فقط**
 الذي يلي #EXTINF لنفس القناة، مع الحفاظ على مكانها ونص الـEXTINF كما هو.
 لا يضيف قنوات جديدة إن لم توجد في الملف الهدف.
 
@@ -22,7 +22,7 @@ import requests
 
 # ===== إعدادات =====
 
-# قائمة كل الروابط الممكنة
+# قائمة جميع الروابط الممكنة (يمكنك إضافة المزيد لاحقًا)
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
@@ -47,29 +47,28 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
 ]
 
-# استخدم أول رابط صالح من environment أو من القائمة
+# استخدم أول رابط صالح من environment أو القائمة
 SOURCE_URL = os.getenv("SOURCE_URL") or SOURCE_URLS[0]
 
-# الهدف صار premierleague.m3u
+# الهدف
 DEST_RAW_URL = os.getenv(
     "DEST_RAW_URL",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
 )
 
-# للتحديث المباشر على GitHub (اختياري):
-GITHUB_TOKEN   = os.getenv("GITHUB_TOKEN", "").strip()  # repo contents scope
+# GitHub
+GITHUB_TOKEN   = os.getenv("GITHUB_TOKEN", "").strip()
 GITHUB_REPO    = os.getenv("GITHUB_REPO", "kakagoosse856/m3u-broadcast")
 GITHUB_BRANCH  = os.getenv("GITHUB_BRANCH", "main")
 DEST_REPO_PATH = os.getenv("DEST_REPO_PATH", "premierleague.m3u")
 COMMIT_MESSAGE = os.getenv("COMMIT_MESSAGE", "chore: update premierleague URLs (Match!/TNT/Sky)")
 
-# للكتابة محليًا إن ماكو توكن:
 OUTPUT_LOCAL_PATH = os.getenv("OUTPUT_LOCAL_PATH", "./out/premierleague.m3u")
 
 TIMEOUT = 25
 VERIFY_SSL = True
 
-# القنوات المطلوبة (بالترتيب لا يؤثر هنا لأننا لا نضيف)
+# القنوات المطلوبة
 WANTED_CHANNELS = [
     "Match! Futbol 1",
     "Match! Futbol 2",
@@ -80,14 +79,14 @@ WANTED_CHANNELS = [
     "Sky Sports Premier League",
 ]
 
-# Aliases/أنماط مطابقة مرنة لسطر EXTINF
+# أنماط EXTINF
 ALIASES: Dict[str, List[re.Pattern]] = {
     "Match! Futbol 1": [re.compile(r"match!?\.?\s*futbol\s*1", re.I)],
     "Match! Futbol 2": [re.compile(r"match!?\.?\s*futbol\s*2", re.I)],
     "Match! Futbol 3": [re.compile(r"match!?\.?\s*futbol\s*3", re.I)],
-    "TNT 1":            [re.compile(r"\btnt\s*(sports)?\s*1\b", re.I)],
-    "TNT 2":            [re.compile(r"\btnt\s*(sports)?\s*2\b", re.I)],
-    "Sky Sports Main Event":     [re.compile(r"sky\s*sports\s*main\s*event", re.I)],
+    "TNT 1": [re.compile(r"\btnt\s*(sports)?\s*1\b", re.I)],
+    "TNT 2": [re.compile(r"\btnt\s*(sports)?\s*2\b", re.I)],
+    "Sky Sports Main Event": [re.compile(r"sky\s*sports\s*main\s*event", re.I)],
     "Sky Sports Premier League": [re.compile(r"sky\s*sports\s*premier\s*league", re.I)],
 }
 
@@ -136,12 +135,10 @@ def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes:
     base = "https://api.github.com"
     url = f"{base}/repos/{repo}/contents/{path_in_repo}"
     headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
-
     sha = None
     get_res = requests.get(url, headers=headers, params={"ref": branch}, timeout=TIMEOUT)
     if get_res.status_code == 200:
         sha = get_res.json().get("sha")
-
     payload = {
         "message": message,
         "content": base64.b64encode(content_bytes).decode("utf-8"),
@@ -149,7 +146,6 @@ def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes:
     }
     if sha:
         payload["sha"] = sha
-
     put_res = requests.put(url, headers=headers, json=payload, timeout=TIMEOUT)
     if put_res.status_code not in (200, 201):
         raise RuntimeError(f"GitHub PUT failed: {put_res.status_code} {put_res.text}")
@@ -159,7 +155,6 @@ def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]
     lines = [ln.rstrip("\n") for ln in dest_text.splitlines()]
     if not lines or not lines[0].strip().upper().startswith("#EXTM3U"):
         lines = ["#EXTM3U"] + lines
-
     out: List[str] = []
     i = 0
     while i < len(lines):
@@ -171,7 +166,6 @@ def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]
                 if find_first_match(ln, pats):
                     matched_name = official_name
                     break
-
             if matched_name and matched_name in picked_urls:
                 out.append(ln)
                 new_url = picked_urls[matched_name]
@@ -183,14 +177,12 @@ def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]
                     out.append(new_url)
                     i += 1
                     continue
-
         out.append(ln)
         i += 1
-
     return "\n".join(out).rstrip() + "\n"
 
 def main():
-    # حاول كل رابط حتى ينجح
+    # جرّب كل رابط حتى ينجح
     for url in SOURCE_URLS:
         try:
             src_text = fetch_text(url)
@@ -201,10 +193,10 @@ def main():
     else:
         raise RuntimeError("No valid SOURCE_URL worked!")
 
-    # 1) حمّل الوجهة
+    # تحميل الوجهة
     dest_text = fetch_text(DEST_RAW_URL)
 
-    # 2) التقط روابط القنوات المطلوبة من المصدر
+    # استخراج روابط القنوات المطلوبة
     pairs = parse_m3u_pairs(src_text)
     picked_urls = pick_wanted(pairs)
 
@@ -213,10 +205,10 @@ def main():
         tag = "✓" if n in picked_urls else "x"
         print(f"  {tag} {n}")
 
-    # 3) حدّث الملف الهدف باستبدال الروابط فقط
+    # تحديث الروابط فقط
     updated = render_updated_replace_urls_only(dest_text, picked_urls)
 
-    # 4) اكتب إلى GitHub أو محليًا
+    # كتابة على GitHub أو محلي
     token = GITHUB_TOKEN
     if token:
         print(f"[i] Updating GitHub: {GITHUB_REPO}@{GITHUB_BRANCH}:{DEST_REPO_PATH}")
