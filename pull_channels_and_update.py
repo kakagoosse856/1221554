@@ -13,7 +13,7 @@ import requests
 
 # ===== إعدادات =====
 
-SOURCES = [
+SOURCE_URLS = [
    "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
