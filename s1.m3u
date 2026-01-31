@@ -12,31 +12,32 @@ http://cyou.genral2025.cfd:8080/ha3.css?token=a45bb646f09fa02801433a9df8f70f79
 http://het124b.ycn-redirect.com/live/918454578001/index.m3u8
 #EXTINF:-1,BeiN 5  جودة عالية
 https://koralive.lol/aghmdev/kooralive/api/v22/statistics.php?channel=bein%201&info=
-#EXTINF:-1,BeiN 6  جودة عالية
-http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79
-#EXTINF:-1,BeiN 7  جودة عالية
-http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 8  جودة عالية
-http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 9  جودة عالية
-http://cyou.genralo.lat:8080/ha1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 2  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 3  جودة متوسطة
-http://cyou.genralo.lat:8080/sa3.css?token=a45bb646f09fa02801433a9df8f70f79
-#EXTINF:-1,BeiN 4  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 5  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 6  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 7  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 8  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 9  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
-#EXTINF:-1,BeiN 1  جودة متوسطة
-http://cyou.genral2025.cyou:8080/sa1.css?token=a45bb646f09fa02801433a9df8f70f79&ip=197.119.126.201
 
-
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports News UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=44&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS NEWS UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22198&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports Global UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=43&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS GLOBAL 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22199&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN UHD 2160P
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=190369&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114053&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3854&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114052&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3853&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3851&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114049&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3850&extension=m3u8
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114048&extension=m3u8
