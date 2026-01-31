@@ -8,87 +8,36 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2336.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2335.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 4
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/675021.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 1
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292702&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 2
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292701&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 3
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292700&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 4
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292699&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 5
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292698&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 6
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292697&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 7
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292696&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 8
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292695&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 9
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292694&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 10
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292693&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 11
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292692&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 12
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292691&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 13
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292690&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 14
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292689&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 15
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292688&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 16
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292687&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 17
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292686&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 18
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292685&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 19
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292684&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 20
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292683&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 21
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292682&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 22
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292681&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 23
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292680&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 24
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292679&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 25
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292678&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 26
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292677&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 27
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292676&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 28
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292675&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 29
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292674&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 30
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292673&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 31
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292672&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 32
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292671&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 33
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292670&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 34
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292669&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 35
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292668&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 36
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292667&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 37
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292666&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 38
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292665&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 39
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292664&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="_EU_BE_FR_DAZN_PPV_VIP",BE-FR - DAZN LIVE EVENT 40
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1292663&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/pic
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="(UK) TNT Sports 1 FHD" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png" group-title="(UK) TNT Sports",(UK) TNT Sports 1 FHD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/19.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="(UK) TNT Sports 1 HD" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png" group-title="(UK) TNT Sports",(UK) TNT Sports 1 HD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/20.m3u8
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="(UK) TNT Sports 2 FHD" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png" group-title="(UK) TNT Sports",(UK) TNT Sports 2 FHD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/22.m3u8
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="(UK) TNT Sports 2 HD" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png" group-title="(UK) TNT Sports",(UK) TNT Sports 2 HD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/23.m3u8
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK) TNT Sports 3 FHD" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png" group-title="(UK) TNT Sports",(UK) TNT Sports 3 FHD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/25.m3u8
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK) TNT Sports 3 HD" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png" group-title="(UK) TNT Sports",(UK) TNT Sports 3 HD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/26.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="(UK) TNT Sports 4 FHD" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png" group-title="(UK) TNT Sports",(UK) TNT Sports 4 FHD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/28.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="(UK) TNT Sports 4 HD" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png" group-title="(UK) TNT Sports",(UK) TNT Sports 4 HD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/29.m3u8
+#EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="(UK) TNT Ultimate UHD" tvg-logo="https://imgu.rs/i/TNT.png" group-title="(4k) UHD Content",(UK) TNT Ultimate UHD
+https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/6041.m3u8
+#EXTINF:-1,StvSport1
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport1.m3u8
+#EXTINF:-1,StvSport2
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport2.m3u8
+#EXTINF:-1,StvSport3
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport3.m3u8
+#EXTINF:-1,StvSport4
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport4.m3u8
+#EXTINF:-1,StvSport5
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport5.m3u8
+
+
 #EXTINF:-1, Barça TV	
 https://fcb-cdn-global.interactvty.net/VIDEOS/240502/hls/da2b08c980066f32275c7faf28e181e4ff12f150045f248c97675eaebce61252.m3u8
 #EXTINF:-1, Barça One	
