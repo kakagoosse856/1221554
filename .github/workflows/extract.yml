@@ -1,0 +1,25 @@
+name: Extract m3u8 Links
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Page URL to extract m3u8'
+        required: true
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install
+      - name: Run extractor
+        run: |
+          python extract_m3u8.py
