@@ -1,9 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 1080p
 
-http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 720p
-http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 360p
-
-http://het000.4rouwanda-shop.store/live/978480008877005/index.m3u8
+http://xmrcars.org:8080/bn14k/mono.m3u8
+#EXTINF:-1,BeiN 1 
+http://xmrcars.org:8080/bn14k/mono.m3u8
+#EXTINF:-1,BeiN 2 
+http://xmrcars.org:8080/bn24k/mono.m3u8
+#EXTINF:-1,BeiN 3 
+http://xmrcars.org:8080/bn34k/mono.m3u8
+#EXTINF:-1,BeiN 4
+http://xmrcars.org:8080/bn44k/mono.m3u8
+#EXTINF:-1,BeiN 5
+http://xmrcars.org:8080/bn54k/mono.m3u8
+#EXTINF:-1,BeiN 6 
+http://xmrcars.org:8080/bn64k/mono.m3u8
+#EXTINF:-1,BeiN 7 
+http://xmrcars.org:8080/bn74k/mono.m3u8
+#EXTINF:-1,BeiN 8 
+http://xmrcars.org:8080/bn84k/mono.m3u8
+#EXTINF:-1,BeiN 9
+http://xmrcars.org:8080/bn94k/mono.m3u8
