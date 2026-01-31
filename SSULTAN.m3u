@@ -1,6 +1,7 @@
 #EXTINF:-1,###########SERVER1###########
 https://sdmax111.provegooott.com/32_.m3u8
-
+#EXTINF:-1,TEST
+https://stream.veo.buzz:6050/sport/ch16/adaptive.m3u8
 #EXTINF:-1,BeiNs1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1,BeiNs2
