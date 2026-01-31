@@ -1,26 +1,27 @@
+# .github/workflows/update-premierleague.yml
 name: Pull MATCH! Football (every 5 min)
 
 on:
   schedule:
     - cron: "*/5 * * * *"   # كل 5 دقائق
-  workflow_dispatch:
+  workflow_dispatch:        # تشغيل يدوي
 
 permissions:
-  contents: write
+  contents: write           # حتى يقدر يحدّث الملف عبر GitHub API
 
 concurrency:
   group: pull-match-football
   cancel-in-progress: true
 
 jobs:
-  update-match-football:
+  update-premierleague:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -32,20 +33,16 @@ jobs:
 
       - name: Run updater script
         env:
-          # GitHub Actions token (مدمج)
+          # توكن الأكشن المدمج يكفي لتحديث الملف
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          # ===== إعداداتك =====
-          SOURCE_URL: "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
-
-          DEST_RAW_URL: "https://raw.githubusercontent.com/kakagoosse856/1221554/main/premierleague.m3u"
-
-          GITHUB_REPO: "kakagoosse856/1221554"
+          # (اختياري) يمكنك تغييره إذا أردت مصدر آخر
+          # SOURCE_URL: "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u"
+          DEST_RAW_URL: "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
+          GITHUB_REPO: "kakagoosse856/1221554"        # ضع repo الخاص بك هنا
           GITHUB_BRANCH: "main"
           DEST_REPO_PATH: "premierleague.m3u"
-
-          COMMIT_MESSAGE: "chore: auto update Match! / TNT / Sky links"
-          # ====================
+          COMMIT_MESSAGE: "chore: update premierleague URLs (Match!/TNT/Sky)"
 
         run: |
-          python pull_channels_and_update.py
+          python scripts/pull_channels_and_update.py
