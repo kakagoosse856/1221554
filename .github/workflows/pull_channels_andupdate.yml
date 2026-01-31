@@ -1,0 +1,51 @@
+name: Pull MATCH! Football (every 5 min)
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # كل 5 دقائق
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pull-match-football
+  cancel-in-progress: true
+
+jobs:
+  update-match-football:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run updater script
+        env:
+          # GitHub Actions token (مدمج)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # ===== إعداداتك =====
+          SOURCE_URL: "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+
+          DEST_RAW_URL: "https://raw.githubusercontent.com/kakagoosse856/1221554/main/premierleague.m3u"
+
+          GITHUB_REPO: "kakagoosse856/1221554"
+          GITHUB_BRANCH: "main"
+          DEST_REPO_PATH: "premierleague.m3u"
+
+          COMMIT_MESSAGE: "chore: auto update Match! / TNT / Sky links"
+          # ====================
+
+        run: |
+          python scripts/pull_channels_and_update.py
