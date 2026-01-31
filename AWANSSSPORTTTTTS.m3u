@@ -6,7 +6,7 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1936354.png" group-title="ثمانيــَـة بث خاص",AR| ثمانية 3  4K
 https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1 tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORT",Alwan Sport 1 HD
-https://s3.news-api-gen.lol//alwan_sport1/tracks-v1a1/mono.css?remote=197.119.126.201&remote=197.119.126.201/alwan_sport1/index.css?token=c97858353e97afe89e3f58a520f582297b6e90fe-1f467d96730b4ee0829264157a3aff23-1769895018-1769884218&token=821e826a74a70bc09405e7e5d74a0c5861a98a55-55e94c68edc239febd6baada9ee6edd0-1769895018-1769884218
+https://gist.githubusercontent.com/oneiraq/980386d1b469978dbaa66c2d555cea30/raw/alwan_auto_s1.png#hls
 #EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
 https://s3.news-api-gen.lol//alwan_sport2/index.m3u8?token=f8540ecef606ee0efcb3b8f16b8d4a2d147423c1-8171f627dbc8c888c9f9b65fcca49b7e-1769898537-1769887737&remote=197.119.126.201
 #EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
