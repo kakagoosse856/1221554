@@ -9,13 +9,12 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 https://s3.news-api-gen.lol//alwan_sport1/tracks-v1a1/mono.css?remote=197.119.126.201&remote=197.119.126.201/alwan_sport1/index.css?token=c97858353e97afe89e3f58a520f582297b6e90fe-1f467d96730b4ee0829264157a3aff23-1769895018-1769884218&token=821e826a74a70bc09405e7e5d74a0c5861a98a55-55e94c68edc239febd6baada9ee6edd0-1769895018-1769884218#EXTINF:-1 tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
 #EXTINF:-1 tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORT",Alwan Sport 2 HD
 https://s3.news-api-gen.lol:443//alwan_sport1/tracks-v1a1/mono.css?remote=197.119.126.201&remote=197.119.126.201/alwan_sport1/index.css?token=c97858353e97afe89e3f58a520f582297b6e90fe-1f467d96730b4ee0829264157a3aff23-1769895018-1769884218&token=821e826a74a70bc09405e7e5d74a0c5861a98a55-55e94c68edc239febd6baada9ee6edd0-1769895018-1769884218
-#EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
-https://s3.news-api-gen.lol/alwan_sport4/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
-#EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
-https://s3.news-api-gen.lol/alwan_sport5/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
-#EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 6 HD
-https://s3.news-api-gen.lol/alwan_sport6/tracks-v1a1/mono.css?token=0e76a2b27920954e4bf53cefae3ab10f091636de-079fb41d5c8475801284e4b2a2a799ea-1769894127-1769883327&remote=197.119.126.201
-
+#EXTINF:-1 tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORT",Alwan Sport 3 HD
+https://s3.news-api-gen.lol:443//alwan_sport1/tracks-v1a1/mono.css?remote=197.119.126.201&remote=197.119.126.201/alwan_sport1/index.css?token=c97858353e97afe89e3f58a520f582297b6e90fe-1f467d96730b4ee0829264157a3aff23-1769895018-1769884218&token=821e826a74a70bc09405e7e5d74a0c5861a98a55-55e94c68edc239febd6baada9ee6edd0-1769895018-1769884218
+#EXTINF:-1 tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORT",Alwan Sport 4 HD
+https://s3.news-api-gen.lol//alwan_sport4/index.m3u8?token=c685c3e578161038b381fc88ebee399c2632e7a6-fdec72b6e3d99b28189c0f7e2dd156ee-1769895305-1769884505&remote=197.119.126.201
+#EXTINF:-1 tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORT",Alwan Sport 5 HD
+https://s3.news-api-gen.lol//alwan_sport5/index.m3u8?token=be1d21593f079e93eedb1ded307fc8cacd797749-3dfdee9c64d250382f0bc7132af82a92-1769895453-1769884653&remote=197.119.126.201
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790153.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT HD
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1790153&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1790152.png" group-title="⚽ ستاربلاي و أبوظبي الرياضية",AR| AD SPORT FIGHT SD
