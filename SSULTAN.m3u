@@ -3,8 +3,24 @@ https://sdmax111.provegooott.com/32_.m3u8
 
 #EXTINF:-1,BeiNs1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
-#EXTINF:-1,BeiNs1
-https://py.achourtv.com/alwan_hd1.m3u8
+#EXTINF:-1,BeiNs2
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs3
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs4
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs5
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs6
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs7
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,BeiNs9
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:-1,###########SERVER1###########
+https://sdmax111.provegooott.com/32_.m3u8
 #EXTINF:-1,BeiNs1 QA
 http://fe3d3e4f.kazaktelekom.com/iptv/DHT98VWSBTRMG9/6123/index.m3u8
 
