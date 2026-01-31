@@ -2,3 +2,7 @@ requests
 beautifulsoup4
 playwright
 pytz
+fastapi
+uvicorn
+httpx
+m3u8
