@@ -24,6 +24,26 @@ http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=11566
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
 
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 6
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156644&extension=m3u8
+http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 7
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156643&extension=m3u8
+http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 8
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156642&extension=m3u8
+http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 9
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156641&extension=m3u8
+http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_01_HD
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/1.m3u8
