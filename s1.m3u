@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1294772" tvg-name="AR| BEIN SPORTS GLOBAL FHD" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS HD
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294772&extension=m3u8&play_token=wMoortvNvl
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 1 FHD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b1fhd.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 2 FHD
@@ -17,6 +19,18 @@ https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b7fhd.m3
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b8fhd.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 9 FHD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b9fhd.m3u8
+#EXTINF:-1 tvg-id="1294788" tvg-name="##### BEIN SPORTS HEVC #####" group-title="AR| BEIN SPORTS HD",##### BEIN SPORTS HD #####
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294788&extension=m3u8&play_token=aE67Maxwre
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_01_HD
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/1.m3u8
