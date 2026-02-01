@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-01 05:28 AM (BD Time)
-# TV channel counts :- 172
+# Last Updated: 2026-02-01 07:09 AM (BD Time)
+# TV channel counts :- 173
 #==================================
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",HAMARA TV
 https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
@@ -183,6 +183,8 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL KAFEEL TV
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
+#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Music",8XM (576p)
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" group-title="News",24 News HD (1080p)
 http://66.102.120.18:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="News",92 News HD (720p)
