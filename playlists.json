@@ -5,10 +5,5 @@
   "backup_sources": [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u",
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sa.m3u"
-  ],
-  "config": {
-    "check_interval_hours": 3,
-    "timeout_seconds": 15,
-    "max_retries": 2
-  }
+  ]
 }
