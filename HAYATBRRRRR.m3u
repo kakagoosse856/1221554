@@ -2,12 +2,16 @@
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 1 HD HUNG
 http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7329/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 2
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2336.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 3
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2335.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 4
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/675021.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 2 HD HUNG
+http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7330/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 3 HD HUNG
+http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7331/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 4 HD HUNG
+http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7332/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 5 HD HUNG
+http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7333/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", ARENA SPORT 6 HD HUNG
+http://maloj.cbilant.com/iptv/W8ETYAGKHEWG9P2A6MS7Q222/7331/index.m3u8
 #EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="(UK) TNT Sports 1 FHD" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png" group-title="(UK) TNT Sports",(UK) TNT Sports 1 FHD
 https://apexstrm.ch:443/live/Uio8V5yrW4/Bdud73hd7dh3/19.m3u8
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="(UK) TNT Sports 1 HD" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png" group-title="(UK) TNT Sports",(UK) TNT Sports 1 HD
