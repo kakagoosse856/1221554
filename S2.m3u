@@ -36,9 +36,27 @@ http://xcarscharge.pro:8080/bn74k/index.m3u8
 http://xcarscharge.pro:8080/bn84k/index.m3u8
 #EXTINF:-1,BeiN 9 4k السرفر الأول
 http://xcarscharge.pro:8080/bn94k/index.m3u8
-http://xmrcars.org:8080/bn14k/mono.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn14k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn24k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn34k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn44k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn54k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn64k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn74k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn84k/index.m3u8
+#EXTINF:-1,BeiN 1 HD السرفر الأول
+http://xcarscharge.pro:8080/bn94k/index.m3u8
+
 #EXTINF:-1,BeiN 1 
-http://xmrcars.org:8080/bn14k/mono.m3u8
+http://xmrcars.org:8080/bn1hd/mono.m3u8
 #EXTINF:-1,BeiN 2 
 http://xmrcars.org:8080/bn24k/mono.m3u8
 #EXTINF:-1,BeiN 3 
