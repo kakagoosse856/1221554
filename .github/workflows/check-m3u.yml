@@ -1,4 +1,4 @@
-name: M3U Playlist Auto-Checker
+name: check-m3u.yml
 
 on:
   schedule:
