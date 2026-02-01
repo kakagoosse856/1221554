@@ -9,8 +9,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",BeIN Sports UHD 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports MAX
-http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 4",BEIN SPORT EXTRA Ñ 🇪🇸
@@ -29,8 +27,6 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",Bein Sports 2
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 9",Bein Sports 1
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 9",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 11",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
@@ -59,8 +55,6 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",Bein Sports 1🎯
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
 https://sdmax111.provegooott.com/11_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
@@ -133,7 +127,5 @@ https://sdmax111.provegooott.com/6_.m3u8
 https://sdmax111.provegooott.com/7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
 https://sdmax111.provegooott.com/9_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",Bein Sports 1
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
