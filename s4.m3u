@@ -1,7 +1,30 @@
 #EXTM3U
 #EXTINF:-1,###########SERVER1###########
-http://h42.reelpush.online/live/918454578001/index.m3u8
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1,NUBARSport
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6123/index.m3u8
+#EXTINF:-1,BeiN 2 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6124/index.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6125/index.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6126/index.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6127/index.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6128/index.m3u8
+#EXTINF:-1,BeiN 1 HD
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6129/index.m3u8
+#EXTINF:-1,bein sports HD 1
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2499/index.m3u8
+#EXTINF:-1,bein sports HD 2
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2500/index.m3u8
+#EXTINF:-1,bein sports HD 3
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2501/index.m3u8
+
+#EXTINF:-1,###########SERVER2###########
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1,BeiN 1 HD
 http://h42.reelpush.online/live/69854211/index.m3u8
