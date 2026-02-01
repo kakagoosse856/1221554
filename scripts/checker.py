@@ -1,295 +1,165 @@
-#!/usr/bin/env python3
-"""
-M3U Playlist Checker for GitHub Actions - Updated for GHA new syntax
-"""
+name: M3U Playlist Auto-Checker
 
-import requests
-import sys
-import json
-import os
-from datetime import datetime
-import time
+on:
+  schedule:
+    # تشغيل كل 3 ساعات
+    - cron: '0 */3 * * *'
+  
+  # تشغيل يدوي
+  workflow_dispatch:
+    inputs:
+      custom_urls:
+        description: 'Custom M3U URLs (comma separated)'
+        required: false
+        default: ''
+  
+  # تشغيل عند التعديل
+  push:
+    paths:
+      - '.github/workflows/check-m3u.yml'
+      - 'scripts/checker.py'
+      - 'playlists.json'
 
-def validate_m3u_content(content):
-    """التحقق من محتوى M3U"""
-    lines = content.strip().split('\n')
+permissions:
+  contents: write
+
+jobs:
+  check-playlists:
+    runs-on: ubuntu-latest
     
-    if not lines or not lines[0].startswith('#EXTM3U'):
-        return False, 0, []
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
-    channels = []
-    current_channel = {}
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
     
-    for i, line in enumerate(lines):
-        line = line.strip()
+    - name: 📦 Install dependencies
+      run: |
+        pip install requests
+    
+    - name: 🔍 Run M3U Checker
+      id: checker
+      run: |
+        echo "Starting M3U playlist check..."
+        python scripts/checker.py
+    
+    - name: 📊 Generate Summary
+      if: always()
+      id: summary
+      run: |
+        # إنشاء ملف summary
+        echo "## M3U Playlist Check Summary" > summary.md
+        echo "" >> summary.md
         
-        if line.startswith('#EXTINF'):
-            # استخراج معلومات القناة
-            parts = line.split(',', 1)
-            channel_info = {
-                'duration': parts[0].split(':')[1] if ':' in parts[0] else '',
-                'name': parts[1] if len(parts) > 1 else 'Unknown',
-                'raw_info': line
-            }
-            current_channel = {'info': channel_info}
-            
-        elif line and not line.startswith('#') and current_channel:
-            # هذا هو رابط القناة
-            current_channel['url'] = line
-            channels.append(current_channel.copy())
-            current_channel = {}
-    
-    return True, len(channels), channels
+        if [ -f "check_results.json" ]; then
+          # استخدام Python لإنشاء التقرير
+          python3 -c "
+import json, datetime
 
-def check_m3u_url(url, timeout=15):
-    """فحص رابط M3U مع إعادة المحاولة"""
-    max_retries = 2
+try:
+    with open('check_results.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
     
-    for attempt in range(max_retries):
-        try:
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (compatible; M3U-Checker/2.0)'
-            }
-            
-            print(f"🔄 Attempt {attempt + 1}/{max_retries}: {url[:50]}...")
-            
-            response = requests.get(url, headers=headers, timeout=timeout)
-            
-            if response.status_code == 200:
-                is_valid, count, channels = validate_m3u_content(response.text)
-                
-                if is_valid:
-                    print(f"✅ Valid: {count} channels found")
-                    return {
-                        'status': 'valid',
-                        'channels_count': count,
-                        'content': response.text,
-                        'response_time': response.elapsed.total_seconds(),
-                        'size_kb': len(response.content) / 1024
-                    }
-                else:
-                    print(f"❌ Invalid M3U format")
-                    return {
-                        'status': 'invalid_format',
-                        'response_time': response.elapsed.total_seconds()
-                    }
-            else:
-                print(f"❌ HTTP Error: {response.status_code}")
-                return {
-                    'status': 'http_error',
-                    'status_code': response.status_code
-                }
-                
-        except requests.exceptions.Timeout:
-            print(f"⏰ Timeout on attempt {attempt + 1}")
-            if attempt == max_retries - 1:
-                return {'status': 'timeout'}
-        except requests.exceptions.ConnectionError:
-            print(f"🔌 Connection error on attempt {attempt + 1}")
-            if attempt == max_retries - 1:
-                return {'status': 'connection_error'}
-        except Exception as e:
-            print(f"⚠️ Error: {str(e)[:50]}")
-            if attempt == max_retries - 1:
-                return {'status': 'error', 'message': str(e)}
-        
-        if attempt < max_retries - 1:
-            time.sleep(2)
-    
-    return {'status': 'failed'}
-
-def merge_playlists(playlists_data):
-    """دمج قوائم التشغيل مع إزالة التكرارات"""
-    if not playlists_data:
-        return "#EXTM3U\n# No valid playlists found\n"
-    
-    merged_header = "#EXTM3U"
-    merged_channels = []
-    seen_urls = set()
-    total_channels = 0
-    
-    for playlist in playlists_data:
-        if playlist['status'] == 'valid' and 'content' in playlist:
-            lines = playlist['content'].strip().split('\n')
-            
-            if lines and lines[0].startswith('#EXTM3U'):
-                i = 1
-                while i < len(lines):
-                    if lines[i].startswith('#EXTINF'):
-                        info_line = lines[i]
-                        
-                        # البحث عن رابط القناة التالي
-                        if i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].startswith('#'):
-                            channel_url = lines[i + 1].strip()
-                            
-                            if channel_url not in seen_urls:
-                                seen_urls.add(channel_url)
-                                merged_channels.append(info_line)
-                                merged_channels.append(channel_url)
-                                total_channels += 1
-                            
-                            i += 2
-                        else:
-                            i += 1
-                    else:
-                        i += 1
-    
-    # إضافة التعليقات التوضيحية
-    comments = []
-    comments.append("\n# Generated by GitHub Actions")
-    comments.append(f"# Timestamp: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC")
-    comments.append(f"# Total Unique Channels: {total_channels}")
-    comments.append(f"# Sources: {len(playlists_data)}")
-    comments.append("#")
-    
-    for playlist in playlists_data:
-        if playlist['status'] == 'valid':
-            url_display = playlist.get('url', 'Unknown')
-            if len(url_display) > 50:
-                url_display = url_display[:47] + "..."
-            comments.append(f"# Source: {url_display}")
-            comments.append(f"#   Channels: {playlist.get('channels_count', 0)}")
-    
-    comments.append("")
-    
-    return merged_header + '\n'.join(comments) + '\n'.join(merged_channels)
-
-def load_urls_from_json():
-    """قراءة الروابط من playlists.json"""
+    # تنسيق الوقت
+    ts = data['timestamp']
     try:
-        if os.path.exists('playlists.json'):
-            with open('playlists.json', 'r', encoding='utf-8') as f:
-                config = json.load(f)
-            
-            urls = config.get('sources', [])
-            # إضافة المصادر الاحتياطية فقط إذا كانت المصادر الرئيسية فارغة
-            if not urls:
-                urls = config.get('backup_sources', [])
-            else:
-                urls.extend(config.get('backup_sources', []))
-            
-            return list(set(urls))  # إزالة التكرارات
-    except Exception as e:
-        print(f"⚠️ Error loading playlists.json: {e}")
+        dt = datetime.datetime.fromisoformat(ts.replace('Z', '+00:00'))
+        time_str = dt.strftime('%Y-%m-%d %H:%M:%S UTC')
+    except:
+        time_str = ts
     
-    return None
-
-def count_http_lines(content):
-    """عد الأسطر التي تبدأ بـ http"""
-    lines = content.split('\n')
-    count = 0
-    for line in lines:
-        if line.strip().startswith('http'):
-            count += 1
-    return count
-
-def main():
-    print("=" * 60)
-    print("M3U PLAYLIST CHECKER - GitHub Actions")
-    print("=" * 60)
+    print(f'**Check Time:** {time_str}')
+    print(f'**Status:** {\"✅ Success\" if data[\"success\"] else \"❌ Failed\"}')
+    print(f'**Valid Playlists:** {data[\"summary\"][\"valid_urls\"]}/{data[\"summary\"][\"total_urls_checked\"]}')
+    if 'total_channels' in data['summary']:
+        print(f'**Total Channels:** {data[\"summary\"][\"total_channels\"]}')
+    print('')
+    print('### Playlist Details:')
+    print('| Status | URL | Channels |')
+    print('|--------|-----|----------|')
     
-    # محاولة قراءة الروابط من playlists.json أولاً
-    urls = load_urls_from_json()
-    
-    # إذا لم يكن هناك ملف JSON، استخدم command line arguments
-    if not urls and len(sys.argv) > 1:
-        urls_input = sys.argv[1]
-        urls = []
-        for part in urls_input.replace(',', ' ').split():
-            url = part.strip()
-            if url and url.startswith('http'):
-                urls.append(url)
-    
-    # إذا لم توجد روابط، استخدم القيمة الافتراضية
-    if not urls:
-        urls = [
-            "https://raw.githubusercontent.com/kakagoosse856/1221554/2a5d587b525902b4a5fa4e13c977136839247f43/SSULTAN.m3u"
-        ]
-        print("ℹ️ Using default URL")
-    
-    print(f"📡 Checking {len(urls)} playlist(s)")
-    print("-" * 60)
-    
-    results = []
-    valid_playlists = []
-    
-    for idx, url in enumerate(urls, 1):
-        print(f"\n[{idx}/{len(urls)}] {url}")
+    for item in data['details']:
+        url_short = item['url']
+        if len(url_short) > 50:
+            url_short = url_short[:47] + '...'
         
-        result = check_m3u_url(url)
-        result['url'] = url
+        if item['status'] == 'valid':
+            status_icon = '✅'
+            channels = item.get('channels_count', 'N/A')
+        else:
+            status_icon = '❌'
+            channels = '0'
         
-        results.append(result)
+        print(f'| {status_icon} | \`{url_short}\` | {channels} |')
         
-        if result['status'] == 'valid':
-            valid_playlists.append(result)
+except Exception as e:
+    print(f'❌ Error generating summary: {str(e)}')
+" >> summary.md
+        else:
+          echo "❌ No results file generated" >> summary.md
+        
+        echo "" >> summary.md
+        echo "### 📁 Generated Files:" >> summary.md
+        echo "- **\`merged_channels.m3u\`**: Combined playlist" >> summary.md
+        echo "- **\`check_results.json\`**: Detailed results" >> summary.md
+        
+        # نسخ إلى GITHUB_STEP_SUMMARY
+        cat summary.md >> $GITHUB_STEP_SUMMARY
     
-    # دمج القوائم الصالحة
-    if valid_playlists:
-        merged_content = merge_playlists(valid_playlists)
-        
-        # حفظ الملف المدمج
-        with open('merged_channels.m3u', 'w', encoding='utf-8') as f:
-            f.write(merged_content)
-        
-        # عد القنوات
-        channels_count = count_http_lines(merged_content)
-        
-        print(f"\n✅ SUCCESS: Created merged_channels.m3u")
-        print(f"   - Valid playlists: {len(valid_playlists)}/{len(urls)}")
-        print(f"   - Total channels: {channels_count}")
-        
-        # حفظ النتائج كـ JSON
-        output_data = {
-            'success': True,
-            'timestamp': datetime.utcnow().isoformat(),
-            'summary': {
-                'total_urls_checked': len(urls),
-                'valid_urls': len(valid_playlists),
-                'failed_urls': len(urls) - len(valid_playlists),
-                'total_channels': channels_count
-            },
-            'details': results
-        }
-        
-    else:
-        print(f"\n❌ FAILED: No valid playlists found")
-        merged_content = "#EXTM3U\n# No valid playlists found\n"
-        
-        with open('merged_channels.m3u', 'w', encoding='utf-8') as f:
-            f.write(merged_content)
-        
-        output_data = {
-            'success': False,
-            'timestamp': datetime.utcnow().isoformat(),
-            'summary': {
-                'total_urls_checked': len(urls),
-                'valid_urls': 0,
-                'failed_urls': len(urls),
-                'total_channels': 0
-            },
-            'details': results
-        }
+    - name: 💾 Upload Artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: m3u-results
+        path: |
+          merged_channels.m3u
+          check_results.json
+          summary.md
+        retention-days: 7
     
-    # حفظ النتائج
-    with open('check_results.json', 'w', encoding='utf-8') as f:
-        json.dump(output_data, f, indent=2, ensure_ascii=False)
-    
-    # كتابة output للـ GitHub Actions (الطريقة الحديثة)
-    github_output = os.getenv('GITHUB_OUTPUT')
-    if github_output:
-        with open(github_output, 'a') as fh:
-            print(f'STATUS={"SUCCESS" if output_data["success"] else "FAILED"}', file=fh)
-            print(f'VALID_PLAYLISTS={len(valid_playlists)}', file=fh)
-            print(f'TOTAL_URLS={len(urls)}', file=fh)
-            print(f'CHANNELS_COUNT={output_data["summary"]["total_channels"]}', file=fh)
-    
-    print("\n" + "=" * 60)
-    print("✅ Process completed!")
-    print("📁 Output files:")
-    print("   - merged_channels.m3u")
-    print("   - check_results.json")
-    print("=" * 60)
-
-if __name__ == "__main__":
-    main()
+    - name: 📤 Auto Commit
+      if: success()
+      run: |
+        # تكوين Git
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # التحقق من التغييرات
+        git add merged_channels.m3u check_results.json || echo "No files to add"
+        
+        # إذا كان هناك تغييرات، قم بالـ commit
+        if ! git diff --cached --quiet; then
+          echo "Changes detected, committing..."
+          
+          # الحصول على الإحصائيات
+          if [ -f "check_results.json" ]; then
+            STATS=$(python3 -c "
+import json
+try:
+    with open('check_results.json') as f:
+        data = json.load(f)
+    valid = data['summary']['valid_urls']
+    total = data['summary']['total_urls_checked']
+    channels = data['summary'].get('total_channels', '?')
+    print(f'{valid}/{total} playlists, {channels} channels')
+except:
+    print('Updated playlist')
+")
+          else
+            STATS="Updated playlist"
+          fi
+          
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M")
+          COMMIT_MSG="📡 Update M3U playlist ($STATS) - $TIMESTAMP"
+          
+          git commit -m "$COMMIT_MSG"
+          git push
+          echo "✅ Changes committed and pushed"
+        else
+          echo "📭 No changes to commit"
+        fi
