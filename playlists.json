@@ -1,6 +1,12 @@
 {
   "sources": [
     "https://raw.githubusercontent.com/kakagoosse856/1221554/2a5d587b525902b4a5fa4e13c977136839247f43/SSULTAN.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s2.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s3.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s4.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s5.m3u"
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s6.m3u"
   ],
   "backup_sources": [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u",
