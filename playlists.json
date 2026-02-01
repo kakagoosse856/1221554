@@ -1,0 +1,10 @@
+{
+  "sources": [
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/2a5d587b525902b4a5fa4e13c977136839247f43/SSULTAN.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sa.m3u"
+  ],
+  "backup_sources": [
+    "https://raw.githubusercontent.com/freearhey/iptv/master/channels/ar.m3u"
+  ]
+}
