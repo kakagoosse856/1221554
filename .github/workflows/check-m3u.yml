@@ -1,0 +1,124 @@
+name: M3U Playlist Checker
+on:
+  schedule:
+    # تشغيل كل 6 ساعات (تعدل حسب الحاجة)
+    - cron: '0 */6 * * *'
+  # تشغيل يدوي من GitHub
+  workflow_dispatch:
+    inputs:
+      playlist_urls:
+        description: 'M3U URLs (separate by commas)'
+        required: false
+        default: 'https://raw.githubusercontent.com/kakagoosse856/1221554/2a5d587b525902b4a5fa4e13c977136839247f43/SSULTAN.m3u'
+  # تشغيل عند التعديل على السكربت
+  push:
+    paths:
+      - '.github/workflows/check-m3u.yml'
+      - 'scripts/checker.py'
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install python-dateutil
+    
+    - name: Run M3U Checker
+      id: checker
+      env:
+        PLAYLIST_URLS: ${{ github.event.inputs.playlist_urls || 'https://raw.githubusercontent.com/kakagoosse856/1221554/2a5d587b525902b4a5fa4e13c977136839247f43/SSULTAN.m3u' }}
+      run: |
+        echo "🔍 Checking M3U playlists..."
+        python scripts/checker.py "$PLAYLIST_URLS"
+        
+        # حفظ الإحصائيات ك output
+        if [ -f "check_results.json" ]; then
+          RESULTS=$(cat check_results.json)
+          echo "results=$RESULTS" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Upload Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: m3u-check-results
+        path: |
+          merged_channels.m3u
+          check_results.json
+          logs/
+    
+    - name: Commit and Push if Changed
+      id: commit
+      if: success()
+      run: |
+        if git diff --quiet HEAD -- merged_channels.m3u; then
+          echo "No changes detected"
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected, committing..."
+          
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add merged_channels.m3u
+          git add check_results.json
+          
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          git commit -m "📡 Updated M3U playlists - $TIMESTAMP" -m "Auto-update by GitHub Actions"
+          
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Push Changes
+      if: steps.commit.outputs.changed == 'true'
+      run: |
+        git push origin HEAD:${{ github.ref_name }}
+    
+    - name: Send Notification
+      if: always()
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const results = JSON.parse(process.env.RESULTS || '{}');
+          const changed = '${{ steps.commit.outputs.changed }}' === 'true';
+          
+          let message = '🎯 **M3U Playlist Check Complete**\n\n';
+          
+          if (results.stats) {
+            message += `**Statistics:**\n`;
+            message += `• Total URLs checked: ${results.stats.total_urls || 0}\n`;
+            message += `• Working URLs: ${results.stats.working_urls || 0}\n`;
+            message += `• Total channels: ${results.stats.total_channels || 0}\n`;
+            message += `• Last update: ${results.timestamp || 'N/A'}\n\n`;
+          }
+          
+          if (changed) {
+            message += '✅ **Changes were committed to repository**\n';
+            message += '📁 File: `merged_channels.m3u` updated';
+          } else {
+            message += '📭 No changes detected';
+          }
+          
+          // إنشاء comment على PR أو issue (اختياري)
+          // أو استخدام GitHub Actions notifications
+          
+          console.log(message);
+          
+          // يمكنك إضافة إرسال إلى Discord/Slack/Telegram هنا
+      env:
+        RESULTS: ${{ steps.checker.outputs.results }}
