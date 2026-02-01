@@ -1,69 +1,31 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1294772" tvg-name="AR| BEIN SPORTS GLOBAL FHD" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS HD
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294772&extension=m3u8&play_token=wMoortvNvl
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 1 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b1fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 2 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b2fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 3 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b3fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 4 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b4fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 5 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b5fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 6 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b6fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 7 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b7fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 8 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b8fhd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 9 FHD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b9fhd.m3u8
-#EXTINF:-1 tvg-id="1294788" tvg-name="##### BEIN SPORTS HEVC #####" group-title="AR| BEIN SPORTS HD",##### BEIN SPORTS HD #####
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294788&extension=m3u8&play_token=aE67Maxwre
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 1 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b1hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 2 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b2hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 3 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b3hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 4 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b4hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 5 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b5hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 6 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b6hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 7 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b7hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 8 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b8hd.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 9 HD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b9hd.m3u8
-
-#EXTINF:-1 tvg-id="1294788" tvg-name="##### BEIN SPORTS HEVC #####" group-title="AR| BEIN SPORTS SD",##### BEIN SPORTS SD #####
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294788&extension=m3u8&play_token=aE67Maxwre
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 1 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b1SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 2 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b2SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 3 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b3SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 4 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b4SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 5 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b5SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 6 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b6SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 7 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b7SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 8 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b8SD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_SD" tvg-logo="" group-title="Bein Sport Local",AR| BEIN SPORTS 9 SD
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/b9SD.m3u8
-
-
-
-
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور1 
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1178453&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور2 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور3 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور4 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور5 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور6 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور7 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور8 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور9 
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
 
 
 
