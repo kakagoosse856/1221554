@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1,###########NEON PLUS SERVER1###########
 https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
-#EXTINF:-1,Al kass 1 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/131.m3u8
-#EXTINF:-1,Al kass 2 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/132.m3u8
-#EXTINF:-1,Al kass 3 HD
-http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/133.m3u8
 #EXTINF:-1,Al kass 4 HD
 https://liveeu-gcp.alkassdigital.net/alkass4-p/20251213T060324Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1,Al kass 5 HD
@@ -130,6 +124,7 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/420173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 4 HD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/420174.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 5 HD
+
 
 
 
