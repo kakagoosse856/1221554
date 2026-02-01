@@ -3,24 +3,6 @@
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1,NUBARSport
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
-#EXTINF:-1,BeiN 1 HD السرفر الأول
-http://xcarscharge.pro:8080/bn1hevc/index.m3u8
-#EXTINF:-1,BeiN 2 HD السرفر الأول
-http://xcarscharge.pro:8080/bn2hevc/index.m3u8
-#EXTINF:-1,BeiN 3 HD السرفر الأول
-http://xcarscharge.pro:8080/bn3hevc/index.m3u8
-#EXTINF:-1,BeiN 4 HD السرفر الأول
-http://xcarscharge.pro:8080/bn4hevc/index.m3u8
-#EXTINF:-1,BeiN 5 HD السرفر الأول
-http://xcarscharge.pro:8080/bn5hevc/index.m3u8
-#EXTINF:-1,BeiN 6 HD السرفر الأول
-http://xcarscharge.pro:8080/bn6hevc/index.m3u8
-#EXTINF:-1,BeiN 7 HD السرفر الأول
-http://xcarscharge.pro:8080/bn7hevc/index.m3u8
-#EXTINF:-1,BeiN 8 HD السرفر الأول
-http://xcarscharge.pro:8080/bn8hevc/index.m3u8
-#EXTINF:-1,BeiN 9 HD السرفر الأول
-http://xcarscharge.pro:8080/bn9hevc/index.m3u8
 #EXTINF:-1,BeiN 1 HD
 http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6123/index.m3u8
 #EXTINF:-1,BeiN 2 HD
