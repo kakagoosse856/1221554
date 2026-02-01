@@ -1,70 +1,58 @@
-name: M3U Playlist Auto-Checker
+name: M3U Playlist Checker
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch:
-    inputs:
-      custom_urls:
-        description: 'Custom M3U URLs (comma separated)'
-        required: false
-        default: ''
-  push:
-    paths:
-      - '.github/workflows/check-m3u.yml'
-      - 'scripts/checker.py'
-      - 'playlists.json'
+    - cron: '0 */6 * * *'  # كل 6 ساعات
+  workflow_dispatch:  # تشغيل يدوي
 
 permissions:
   contents: write
 
 jobs:
-  check-playlists:
+  check-and-update:
     runs-on: ubuntu-latest
     
     steps:
-    - name: 📥 Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
-    - name: 🐍 Setup Python
+    - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
     
-    - name: 📦 Install dependencies
+    - name: Install dependencies
       run: pip install requests
     
-    - name: 🔍 Run M3U Checker
-      id: checker
+    - name: Run M3U Checker
       run: |
-        echo "Starting M3U playlist check..."
+        echo "🔍 Checking M3U playlists..."
         python scripts/checker.py
+        echo "✅ Check completed!"
     
-    - name: 💾 Upload Artifacts
-      uses: actions/upload-artifact@v4
-      with:
-        name: m3u-results
-        path: |
-          merged_channels.m3u
-          check_results.json
-    
-    - name: 📤 Auto Commit
+    - name: Commit and Push
       if: success()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # التحقق من التغييرات
-        git status
-        git diff
-        
-        if git diff --quiet HEAD merged_channels.m3u; then
-          echo "No changes to commit"
-        else
-          echo "Committing changes..."
+        # التحقق من وجود تغييرات
+        if git status --porcelain | grep -q "merged_channels.m3u\|check_results.json"; then
+          echo "📝 Changes detected, committing..."
           git add merged_channels.m3u check_results.json
-          git commit -m "📡 Update M3U playlist - $(date -u +'%Y-%m-%d %H:%M')"
+          git commit -m "📡 Update M3U playlist $(date -u +'%Y-%m-%d %H:%M')"
           git push
+          echo "✅ Changes pushed successfully"
+        else
+          echo "📭 No changes to commit"
         fi
+    
+    - name: Upload Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: playlist-results
+        path: |
+          merged_channels.m3u
+          check_results.json
