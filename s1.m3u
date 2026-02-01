@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:program=999
 #EXTVLCOPT:network-caching=1000
-##EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 1
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156649&extension=m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
