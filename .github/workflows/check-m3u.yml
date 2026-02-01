@@ -1,58 +1,167 @@
-name: M3U Playlist Checker
+name: M3U Playlist Auto-Checker
 
 on:
+  # تشغيل تلقائي كل 6 ساعات
   schedule:
-    - cron: '0 */6 * * *'  # كل 6 ساعات
-  workflow_dispatch:  # تشغيل يدوي
+    - cron: '0 */6 * * *'
+  
+  # تشغيل يدوي من GitHub
+  workflow_dispatch:
+    inputs:
+      custom_url:
+        description: 'Custom M3U URL (optional)'
+        required: false
+        default: ''
+  
+  # تشغيل عند تحديث الملفات
+  push:
+    paths:
+      - '.github/workflows/check-m3u.yml'
+      - 'scripts/checker.py'
+      - 'playlists.json'
 
+# الصلاحيات المطلوبة
 permissions:
   contents: write
 
 jobs:
-  check-and-update:
+  check-playlists:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+      # الخطوة 1: تحميل الكود
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # الخطوة 2: إعداد Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      # الخطوة 3: تثبيت المكتبات
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      # الخطوة 4: تشغيل الفحص
+      - name: Run M3U Checker
+        id: checker
+        run: |
+          echo "🔍 Checking M3U playlists..."
+          python scripts/checker.py
+          echo "✅ Check completed!"
+      
+      # الخطوة 5: تحميل النتائج كملف
+      - name: Upload results as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: m3u-playlist-results
+          path: |
+            merged_channels.m3u
+            check_results.json
+      
+      # الخطوة 6: تحديث الملفات في المستودع
+      - name: Commit and push changes
+        if: success()
+        run: |
+          # تكوين Git
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # إضافة الملفات
+          git add merged_channels.m3u check_results.json || echo "No files to add"
+          
+          # التحقق من وجود تغييرات
+          if ! git diff --cached --quiet; then
+            # قراءة الإحصائيات
+            if [ -f "check_results.json" ]; then
+              STATS=$(python3 -c "
+import json
+try:
+    with open('check_results.json', 'r') as f:
+        data = json.load(f)
+    summary = data['summary']
+    print(f'{summary[\"valid_urls\"]}/{summary[\"total_urls\"]} playlists, {summary[\"unique_channels\"]} channels')
+except Exception as e:
+    print('Updated playlist')
+")
+            else
+              STATS="Updated playlist"
+            fi
+            
+            # إنشاء رسالة الـ commit
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M")
+            COMMIT_MSG="📡 Update M3U playlist ($STATS) - $TIMESTAMP"
+            
+            # تنفيذ الـ commit و push
+            git commit -m "$COMMIT_MSG"
+            git push
+            echo "✅ Changes committed and pushed"
+          else
+            echo "📭 No changes to commit"
+          fi
+      
+      # الخطوة 7: إنشاء تقرير
+      - name: Generate summary
+        if: always()
+        run: |
+          echo "## 📊 M3U Playlist Check Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "check_results.json" ]; then
+            python3 << 'EOF'
+import json
+from datetime import datetime
+
+try:
+    with open('check_results.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
     
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+    # تنسيق الوقت
+    ts = data['timestamp']
+    try:
+        dt = datetime.fromisoformat(ts.replace('Z', '+00:00'))
+        time_str = dt.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        time_str = ts
     
-    - name: Install dependencies
-      run: pip install requests
+    print(f"**Check Time:** {time_str}")
     
-    - name: Run M3U Checker
-      run: |
-        echo "🔍 Checking M3U playlists..."
-        python scripts/checker.py
-        echo "✅ Check completed!"
+    summary = data['summary']
+    print(f"**Status:** {'✅ Success' if summary['valid_urls'] > 0 else '❌ Failed'}")
+    print(f"**Valid Playlists:** {summary['valid_urls']}/{summary['total_urls']}")
+    print(f"**Unique Channels:** {summary['unique_channels']}")
     
-    - name: Commit and Push
-      if: success()
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+    print("")
+    print("### 📋 Playlist Details:")
+    print("| Status | URL | Channels |")
+    print("|--------|-----|----------|")
+    
+    for result in data['results']:
+        url = result['url']
+        if len(url) > 50:
+            url = url[:47] + "..."
         
-        # التحقق من وجود تغييرات
-        if git status --porcelain | grep -q "merged_channels.m3u\|check_results.json"; then
-          echo "📝 Changes detected, committing..."
-          git add merged_channels.m3u check_results.json
-          git commit -m "📡 Update M3U playlist $(date -u +'%Y-%m-%d %H:%M')"
-          git push
-          echo "✅ Changes pushed successfully"
-        else
-          echo "📭 No changes to commit"
-        fi
-    
-    - name: Upload Results
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: playlist-results
-        path: |
-          merged_channels.m3u
-          check_results.json
+        if result['status'] == 'valid':
+            status = "✅"
+            channels = result['channels']
+        else:
+            status = "❌"
+            channels = 0
+        
+        print(f"| {status} | `{url}` | {channels} |")
+        
+except Exception as e:
+    print(f"❌ Error: {str(e)}")
+EOF
+          else
+            echo "❌ No results file found"
+          fi >> $GITHUB_STEP_SUMMARY
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📁 Generated Files:" >> $GITHUB_STEP_SUMMARY
+          echo "- **`merged_channels.m3u`** - Combined M3U playlist" >> $GITHUB_STEP_SUMMARY
+          echo "- **`check_results.json`** - Detailed check results" >> $GITHUB_STEP_SUMMARY
