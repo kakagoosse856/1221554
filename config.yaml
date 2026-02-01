@@ -1,0 +1,6 @@
+check_schedule: "0 */6 * * *"  # كل 6 ساعات
+timeout: 15
+max_retries: 2
+output_file: "merged_channels.m3u"
+log_level: "INFO"
+notify_on_failure: true
