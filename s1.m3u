@@ -3,11 +3,14 @@
 http://standard.pure-ott.pro/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156649&extension=m3u8
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/1.m3u8
+
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 2
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156648&extension=m3u8
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
+http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/2.m3u8
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 3
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156647&extension=m3u8
@@ -46,13 +49,11 @@ http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&ext
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_HD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_01_HD
-http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_01_Hevc50" tvg-logo="" group-title="Bein Sport Local",BEIN_Sport_01_Hevc50
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/52269.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_SD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_02_SD
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/3245.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_HD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_02_HD
-http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sport_02_Hevc50" tvg-logo="" group-title="Bein Sport Local",BEIN_Sport_02_Hevc50
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/48878.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_SD" tvg-logo="" group-title="Bein Sport Local",BeIN_Sport_03_SD
