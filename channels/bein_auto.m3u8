@@ -23,6 +23,8 @@ http://213.199.33.203:8081/live/ch3.m3u8
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",Bein Sports 2
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 9",Bein Sports 1
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 9",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 11",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
@@ -45,6 +47,8 @@ http://135.125.109.73:9000/beinsport3_.m3u8
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",Bein Sports 1🎯
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
 https://sdmax111.provegooott.com/11_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
