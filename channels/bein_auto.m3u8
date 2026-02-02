@@ -39,8 +39,6 @@ http://135.125.109.73:9000/beinsportglobal_.m3u8
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS  Qatar 2 SD
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS  Qatar 7 SD
-http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",Bein Sports 1🎯
