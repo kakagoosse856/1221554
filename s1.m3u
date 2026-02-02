@@ -4,14 +4,14 @@ http://standard.pure-ott.pro/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156649&
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
 http://213.199.33.203:8081/live/ch1.m3u8
-
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 2
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156648&extension=m3u8
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
 http://213.199.33.203:8081/live/ch2.m3u8
-
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 3
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156647&extension=m3u8
 http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
