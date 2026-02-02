@@ -1,35 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902442.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 1
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334744&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 2
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334743&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 3
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334742&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 1 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334741&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 2 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334740&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 3 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334739&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 4 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334738&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 5 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334737&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 6 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334736&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 7 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334735&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 8 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334734&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 9 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334733&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 10 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334732&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 11 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334731&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 12 HD
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334730&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
-
 
 #EXTINF:-1,Al HEDDAF
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/1135.m3u8
@@ -129,6 +98,39 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1,SPORTITALIA SOLOCALCIO
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902442.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 1
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334744&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 2
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334743&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID EVENT 3
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334742&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 1 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334741&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 2 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334740&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 3 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334739&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 4 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334738&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 5 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334737&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 6 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334736&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 7 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334735&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 8 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334734&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 9 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334733&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 10 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334732&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 11 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334731&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 12 HD
+http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334730&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 
 
 
