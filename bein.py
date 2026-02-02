@@ -6,7 +6,7 @@ import re
 # مصادر القنوات
 # =====================
 SOURCES = [
-    
+"https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/BEIN%20SPORTS%20sx.m3u",
 "https://raw.githubusercontent.com/raid35/channel-links/66249bc55f090eeead8d86599b4d3ac87ef30dfd/8K.m3u",
 "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/c7e028af5a8ece7f158a9fe0bae6a446f2323972/TURK_TV.m3u_plus",
 "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
