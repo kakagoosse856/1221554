@@ -25,6 +25,8 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:D9:8F:72&stream=1540614&ext
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:D9:8F:72&stream=1540615&extension=m3u8
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/56754.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340989&extension=m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",AlwanSport1 جودة تلقائية
+https://gist.githubusercontent.com/oneiraq/980386d1b469978dbaa66c2d555cea30/raw/alwan_auto_s1.png#hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSChkZkk/Alwan-Logo-Blue.gif" group-title="AR| ALWAN ENTERTAINMENT ▶",### ALWAN ENTERTAINMENT ###
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awantr.m3u8
