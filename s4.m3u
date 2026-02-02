@@ -1,70 +1,34 @@
 #EXTM3U
-#EXTINF:-1,###########SERVER1###########
-http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
-#EXTINF:-1,NUBARSport
-http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
-#EXTINF:-1,BeiN 3 TEST
-https://mejarserver.aka-akamaized.net/test/fhd/master.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6123/index.m3u8
-#EXTINF:-1,BeiN 2 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6124/index.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6125/index.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6126/index.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6127/index.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6128/index.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6129/index.m3u8
-#EXTINF:-1,bein sports HD 1
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2499/index.m3u8
-#EXTINF:-1,bein sports HD 2
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2500/index.m3u8
-#EXTINF:-1,bein sports HD 3
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/2501/index.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein1.png" group-title="رياضية",بي إن سبور 1
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein1/master.m3u8
 
-#EXTINF:-1,###########SERVER2###########
-http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1,BeiN 2 HD
-http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1,BeiN 3 HD
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1,BeiN 4 HD
-http://h42.reelpush.online/live/9787488847/index.m3u8
-#EXTINF:-1,BeiN 5 HD
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1,BeiN 7 HD
-http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1,BeiN 8 HD
-http://h42.reelpush.online/live/996251000/index.m3u8
-#EXTINF:-1,BeiN 9 HD
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1,BeiN 1 SD
-http://h42.reelpush.online/live/978480008877005/index.m3u8
-#EXTINF:-1,BeiN 2 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
-#EXTINF:-1,BeiN 3 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
-#EXTINF:-1,BeiN 4 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
-#EXTINF:-1,BeiN 5 SD
-http://h42.reelpush.online/live/115451004/index.m3u8
-#EXTINF:-1,BeiN 6 SD
-http://h42.reelpush.online/live/788550011/index.m3u8
-#EXTINF:-1,BeiN 7 SD
-http://h42.reelpush.online/live/14066007/index.m3u8
-#EXTINF:-1,BeiN 8 SD
-http://h42.reelpush.online/live/500021000/index.m3u8
-#EXTINF:-1,BeiN 9 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
-#EXTINF:-1,BeiN 2 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein3.png" group-title="رياضية",بي إن سبور 2
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein2/master.m3u8
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein3.png" group-title="رياضية",بي إن سبور 3
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein3/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein4.png" group-title="رياضية",بي إن سبور 4
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein3/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein5.png" group-title="رياضية",بي إن سبور 5
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein5/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein6.png" group-title="رياضية",بي إن سبور 6
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein6/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein7.png" group-title="رياضية",بي إن سبور 7
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein7/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein8.png" group-title="رياضية",بي إن سبور 8
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein8/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein9.png" group-title="رياضية",بي إن سبور 9
+https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein9/master.m3u8
