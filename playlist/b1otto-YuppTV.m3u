@@ -2,7 +2,7 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-02 12:50 PM (BD Time)
+# Last Updated: 2026-02-02 05:27 PM (BD Time)
 # TV channel counts :- 24
 #==================================
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthiyathalaimurai-black.png" group-title="YuppTV",Puthiya Thalaimurai
@@ -19,7 +19,7 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/shakthi-tv-white.png" group-title="YuppTV",Shakthi TV
 https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCN4vwNXfIJKcU7EY82QcBa9wek5Fv5kJCw&amp;s" group-title="YuppTV",Star Tamil
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCN4vwNXfIJKcU7EY82QcBa9wek5Fv5kJCw&s" group-title="YuppTV",Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/thala_tv_512X512_balck.png" group-title="YuppTV",Thalaa TV
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
@@ -49,7 +49,7 @@ https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr
 https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZaG0AcUC38WcLMe1_qaWOKwYtMfDsunrwkOpbw2bDjxz6hr8QwxjB3Vv932q-5Ic-pCzqLPN=s900" group-title="YuppTV",TV Derana
 https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2E7hFLq3iB7jB7GYnOgEvBTSp8qFr--a6A&amp;s" group-title="YuppTV",Rupavahini TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2E7hFLq3iB7jB7GYnOgEvBTSp8qFr--a6A&s" group-title="YuppTV",Rupavahini TV
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VYf3JNQqQGwKio4bqS7UsgA228wr5Q7UNU2fdgNE0N5KaTSUqju2roE67YL9hyYh0jub_LpO=s900" group-title="YuppTV",Charana TV
 https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
