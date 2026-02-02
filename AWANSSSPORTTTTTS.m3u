@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 1 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awa1.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340994&extension=m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 2 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awan2.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340993&extension=m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 3 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 3 HD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awan3.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340992&extension=m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 4 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 4 HD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awan3.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340991&extension=m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 5 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 5 HD
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/awan3.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340990&extension=m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية"Alwan Sport 6 HD
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 HD
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/56754.m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340989&extension=m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340993&extension=m3u8
