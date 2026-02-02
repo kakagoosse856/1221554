@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mYfK7rr/Alwan-Logo-Green.gif" group-title="AR| ALWAN SPORT ᴿᴬᵂ ⚽",##### ALWAN SPORT #####
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859092&extension=m3u8
+
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859092&extension=m3u8
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340994&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859092&extension=m3u8
+
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:D9:8F:72&stream=1540618&extension=m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859091&extension=m3u8
