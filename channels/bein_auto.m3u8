@@ -31,12 +31,16 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",BEIN SPORTS Qatar News SD
+http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",BEIN SPORTS Qatar SD
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",BEIN SPORTS XTRA
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS  Qatar 2 SD
 http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS  Qatar 3 SD
+http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS  Qatar 7 SD
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",BIS HABER
@@ -113,6 +117,8 @@ https://sdmax111.provegooott.com/6_.m3u8
 https://sdmax111.provegooott.com/7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",beIN Sports MAX
 https://sdmax111.provegooott.com/9_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",Bein Sports 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",BeinSports Xtra
