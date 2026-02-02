@@ -46,41 +46,4 @@ http://xcarscharge.pro:8080/bn94k/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" group-title="_AR_BEIN_SPORTS_8K",8K - BEIN SPORTS 1 1080p
-#EXTINF:-1,BeiN 1 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn1hevc/index.m3u8
-#EXTINF:-1,BeiN 2 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn2hevc/index.m3u8
-#EXTINF:-1,BeiN 3 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn3hevc/index.m3u8
-#EXTINF:-1,BeiN 4 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn4hevc/index.m3u8
-#EXTINF:-1,BeiN 5 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn5hevc/index.m3u8
-#EXTINF:-1,BeiN 6 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn6hevc/index.m3u8
-#EXTINF:-1,BeiN 7 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn7hevc/index.m3u8
-#EXTINF:-1,BeiN 8 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn8hevc/index.m3u8
-#EXTINF:-1,BeiN 9 hevc السرفر الأول
-http://xcarscharge.pro:8080/bn9hevc/index.m3u8
 
-#EXTINF:-1,BeiN 1 
-http://xmrcars.org:8080/bn1hd/mono.m3u8
-#EXTINF:-1,BeiN 2 
-http://xmrcars.org:8080/bn24k/mono.m3u8
-#EXTINF:-1,BeiN 3 
-http://xmrcars.org:8080/bn34k/mono.m3u8
-#EXTINF:-1,BeiN 4
-http://xmrcars.org:8080/bn44k/mono.m3u8
-#EXTINF:-1,BeiN 5
-http://xmrcars.org:8080/bn54k/mono.m3u8
-#EXTINF:-1,BeiN 6 
-http://xmrcars.org:8080/bn64k/mono.m3u8
-#EXTINF:-1,BeiN 7 
-http://xmrcars.org:8080/bn74k/mono.m3u8
-#EXTINF:-1,BeiN 8 
-http://xmrcars.org:8080/bn84k/mono.m3u8
-#EXTINF:-1,BeiN 9
-http://xmrcars.org:8080/bn94k/mono.m3u8
