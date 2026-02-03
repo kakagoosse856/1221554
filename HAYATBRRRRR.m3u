@@ -1,5 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 12 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 12 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 11 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 11 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 10 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 10 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 9 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 9 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 8 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 8 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 7 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 7 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 6 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 6 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 5 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 5 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 4 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 4 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 3 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 3 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 2 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 2 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 1 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 1 HD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5046.m3u8
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10745.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport 1 HD DE" tvg-logo="" group-title="Germany",Germany- Sky Sport 1 HD DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10769.m3u8
