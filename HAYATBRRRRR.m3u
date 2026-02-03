@@ -1,5 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Premier Sports 2 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",UKFHD | Premier Sports 2 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Premier Sports 1 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",FHD | Premier Sports 1 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKSD: Movies 24+1" tvg-logo="" group-title="UK SD and +1",UKSD: Movies 24+1
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports News 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports News 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Racing 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Racing 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Mix 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Mix 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports + 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports + 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Action / NFL 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Action / NFL 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports F1  50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports F1  50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Cricket 50FPS FHD" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Cricket 50FPS FHD
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Golf 50FPS" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Golf 50FPS
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Football 50 FPS" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Football 50 FPS
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Premier Leauge 50FPS" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Premier Leauge 50FPS
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD | Sky Sports Main Event 50 FPS" tvg-logo="" group-title="SKY SPORTS",UKFHD | Sky Sports Main Event 50 FPS
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15545.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 12 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 12 HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Event DAZN CA 11 HD" tvg-logo="" group-title="DAZN",Event DAZN CA 11 HD
