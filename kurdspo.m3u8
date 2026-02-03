@@ -21,11 +21,85 @@ https://oneiraq.pages.dev/ld-sport-chek-1?.mpd
 https://oneiraq.pages.dev/koblenz-sport-1-1?.mpd
 #EXTINF:-1,Amozhgary TV
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NewLine HD
+https://live9.karwan.tv/Newlineyusfstore/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NewLine HD 2
+https://live9.karwan.tv/Newline2yusstore/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",AVA 
+https://ava3.store/upload/ava.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",ZED TV
+https://live9.karwan.tv/zedhd/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",ZED TV Plus
+https://cdn.karwan.tv/zed-tv-plus/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Speda TV
+https://live9.karwan.tv/Spedtvyusfstore/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Speda Drama
+https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Rudaw HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",4kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Amozhgary
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Esra Quran
+https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Esra TV
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Esra TV 2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NRT HD
+https://media.streambrothers.com:1936/8226/8226/chunklist_w35466031.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NRT 2
+https://cdn.karwan.tv/nrt2/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NRT 3
+https://live9.karwan.tv/Nrt3/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",NRT Sport
+http://142.132.133.190:1935/live/NRT-SPORT-HawezHD/halabja88.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdistan24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Payam tv
+https://media2.streambrothers.com:1936/8218/8218/halabja88.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Avar
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",khak tv
+http://bblserver.ddns.net:1935/stream/khakhd/halabja88.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",EMAN TV
+http://avrstream.com:1935/live/emantv/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdsat
+http://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-mp4a_128000_eng=20000.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdsat news
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-mp4a_128000_eng=20000.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",Gali kurdisatn
+https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",karkuk
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdmax sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w657282923.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdmax badini
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w891498563.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdmax show sorani
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/chunklist_w1202888594.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH",kurdmax show badini
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/chunklist_w1487042778.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", Channel 8
+https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", KurdChannel
+https://cdn.northtelecom.org/KurdChannel.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", AfarinKids
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
+#EXTINF:-1 group-title="🇭🇺 KURDISH", AfrainBaxcha
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", ZarokKids
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", IstarQuran
+https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇭🇺 KURDISH", Quran Tv
+https://app.viloud.tv/hls/channel/a4c55fe3ab69b6ee25569b56b459b42e.m3u8
