@@ -7,7 +7,7 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1,SPORT Thamanih 1
 http://stream.shabakaty.com:6010/sport/ch9/adaptive.m3u8
-#EXTINF:-1,SPORT Thamanih 1
+#EXTINF:-1,SPORT Thamanih 2
 http://stream.shabakaty.com:6011/sport/ch10/adaptive.m3u8
 #EXTINF:-1,STARZPLAY SPORTS 3
 https://fastlyrwb-live.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
@@ -185,6 +185,7 @@ http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=13347
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334731&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 12 HD
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334730&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+
 
 
 
