@@ -27,59 +27,8 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3182.m3u8
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR- BeIN-Sports Premium HD3" tvg-logo="" group-title="Bein sports",AR- BeIN-Sports Premium HD3
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3184.m3u8
-#EXTINF:-1,beIN SPORTS 1 
-http://213.199.33.203:8081/live/ch1.m3u8
-#EXTINF:-1,beIN SPORTS 2 
-http://213.199.33.203:8081/live/ch2.m3u8
-#EXTINF:-1,beIN SPORTS 3 
-http://213.199.33.203:8081/live/ch3.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://213.199.33.203:8081/live/ch4.m3u8
-#EXTINF:-1,beIN SPORTS 5
-http://213.199.33.203:8081/live/ch5.m3u8
-#EXTINF:-1,beIN SPORTS 6
-http://213.199.33.203:8081/live/ch6.m3u8
-#EXTINF:-1,beIN SPORTS 7
-http://213.199.33.203:8081/live/ch7.m3u8
-#EXTINF:-1,beIN SPORTS 8
-http://213.199.33.203:8081/live/ch8.m3u8
-#EXTINF:-1,beIN SPORTS 9
-https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/channels/beIN_Sports_Global_HD%7CES%7C_%E2%9C%AA_BEIN_SPORT.m3u8
-#EXTINF:-1,BeiN 1 HD
-http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1,BeiN 2 HD
-http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1,BeiN 3 HD
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1,BeiN 4 HD
-http://h42.reelpush.online/live/9787488847/index.m3u8
-#EXTINF:-1,BeiN 5 HD
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1,BeiN 7 HD
-http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1,BeiN 8 HD
-http://h42.reelpush.online/live/996251000/index.m3u8
-#EXTINF:-1,BeiN 9 HD
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1,BeiN 1 SD
-http://h42.reelpush.online/live/978480008877005/index.m3u8
-#EXTINF:-1,BeiN 2 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
-#EXTINF:-1,BeiN 3 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
-#EXTINF:-1,BeiN 4 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
-#EXTINF:-1,BeiN 5 SD
-http://h42.reelpush.online/live/115451004/index.m3u8
-#EXTINF:-1,BeiN 6 SD
-http://h42.reelpush.online/live/788550011/index.m3u8
-#EXTINF:-1,BeiN 7 SD
-http://h42.reelpush.online/live/14066007/index.m3u8
-#EXTINF:-1,BeiN 8 SD
+
+
 
 http://h42.reelpush.online/live/500021000/index.m3u8
 #EXTINF:-1,BeiN 9 SD
