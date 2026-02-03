@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS 1 A
-http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1,beIN SPORTS 1 A auto
+https://gist.githubusercontent.com/oneiraq/79d86d5c3ae8b0f0e446cc844488d44b/raw/bein1_auto_s1.png#hls
 #EXTINF:-1,beIN SPORTS 1 B
 http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1,beIN SPORTS 2 A
