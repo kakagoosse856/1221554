@@ -8,8 +8,8 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1,starzplayarabia
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
-#EXTINF:-1,FIFA+FRANCE
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1,shahid-sports-5-enc
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
 
 #EXTINF:-1,INFO+SPORT
 http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521&type/91.m3u8
@@ -136,6 +136,7 @@ http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=13347
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334731&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 12 HD
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334730&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+
 
 
 
