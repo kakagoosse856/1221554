@@ -19,8 +19,8 @@ https://oneiraq.pages.dev/sima-sport-1?.mpd
 https://oneiraq.pages.dev/ld-sport-chek-1?.mpd
 #EXTINF:-1,koblenz-sport-1
 https://oneiraq.pages.dev/koblenz-sport-1-1?.mpd
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1,Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1,AVA_TV
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1,AVA_TV
