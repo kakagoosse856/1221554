@@ -5,8 +5,8 @@ https://bbb.exoadash.com/TVD1451/index.mpd
 https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SPORT Thamanih 3 " tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(1).jpeg" group-title="ðŸ† THAMANI SPORTS",SPORT Thamanih 3 SD
 https://bbb.exoadash.com/TVD6737/index.mpd
-#EXTINF:-1,STARZPLAY SPORTS 1
-https://fastlyrwb-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+#EXTINF:-1,shahid-sports-1
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 #EXTINF:-1,STARZPLAY SPORTS 2
 https://fastlyrwb-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #EXTINF:-1,STARZPLAY SPORTS 3
@@ -185,6 +185,7 @@ http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=13347
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334731&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1902441.png" group-title="_AR_SHAHID_SPORTS_LIVE",AR - SHAHID 12 HD
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1334730&extension=m3u8&proxy=93.174.121.131:80&user-agent=org.videolan.vlc
+
 
 
 
