@@ -1,85 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://i.ibb.co/tRQwnsV/81bc5c35-8c19-4e72-a74a-82e35244712b.png" group-title="رياضية",NEON PLUS
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420133.m3u8 
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 1
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420133.m3u8 
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
-
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222912.m3u8
-http://standard.pure-ott.pro/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156649&extension=m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch1.m3u8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6123/index.m3u8
-
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 2
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420134.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222913.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch2.m3u8
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6124/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 3
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420135.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222914.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch3.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6125/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 4
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420136.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222915.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch4.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6126/index.m3u8
-
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 5
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420137.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222916.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch5.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6127/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 6
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420138.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch6.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6128/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 7
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420139.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222918.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch7.m3u8
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/6129/index.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 8
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420140.m3u8 
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch8.m3u8
-
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",بي إن سبور 9
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420141.m3u8 
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1156641&extension=m3u8
-http://alpha-2ott.me/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1294763&extension=m3u8  
-http://line.iptvwings.com/play/live.php?mac=00:1A:79:7C:D9:24&stream=1294763&extension=m3u8
-http://213.199.33.203:8081/live/ch9.m3u8
-
-
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1 4k hd
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 1 HD 8K
+https://sdmax111.provegooott.com/23_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 1 HD 8K
+https://sdmax111.provegooott.com/7_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 2 4k hd
+https://sdmax111.provegooott.com/33_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 2 HD 8K
+https://sdmax111.provegooott.com/24_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 2 HD 8K
+https://sdmax111.provegooott.com/2_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 3 4k hd
+https://sdmax111.provegooott.com/34_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 3 HD 8K
+https://sdmax111.provegooott.com/25_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 3 HD 8K
+https://sdmax111.provegooott.com/9_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 4 4k hd
+https://sdmax111.provegooott.com/35_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 4 HD 8K
+https://sdmax111.provegooott.com/26_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 4 HD 8K
+https://sdmax111.provegooott.com/11_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 5 4k hd
+https://sdmax111.provegooott.com/36_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 5 HD 8K
+https://sdmax111.provegooott.com/27_.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 5 HD 8K
+https://sdmax111.provegooott.com/5_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 6 4k hd
+https://sdmax111.provegooott.com/37_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 6 HD 8K
+https://sdmax111.provegooott.com/12_.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 6 HD 8K
+https://sdmax111.provegooott.com/6_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 7 4k hd
+https://sdmax111.provegooott.com/38_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 7 HD 8K
+https://sdmax111.provegooott.com/29_.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 7 HD 8K
+https://sdmax111.provegooott.com/13_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 8 4k hd
+https://sdmax111.provegooott.com/39_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 8 HD 8K
+https://sdmax111.provegooott.com/30_.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 8 HD 8K
+https://sdmax111.provegooott.com/16_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9 4k hd
+https://sdmax111.provegooott.com/40_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9 HD 8K
+https://sdmax111.provegooott.com/31_.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 9 HD 8K
+https://sdmax111.provegooott.com/17_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
+https://sdmax111.provegooott.com/41_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 1
+https://sdmax111.provegooott.com/23_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 1 
+https://sdmax111.provegooott.com/7_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
+https://sdmax111.provegooott.com/42_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 2
+https://sdmax111.provegooott.com/33_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 2
+https://sdmax111.provegooott.com/24_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 2 
+https://sdmax111.provegooott.com/2_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
+https://sdmax111.provegooott.com/43_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 3
+https://sdmax111.provegooott.com/34_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 3 
+https://sdmax111.provegooott.com/25_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 3
+https://sdmax111.provegooott.com/9_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
+https://sdmax111.provegooott.com/44_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 4
+https://sdmax111.provegooott.com/35_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 4
+https://sdmax111.provegooott.com/26_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 4 
+https://sdmax111.provegooott.com/11_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
+https://sdmax111.provegooott.com/45_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 5
+https://sdmax111.provegooott.com/36_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 5 
+https://sdmax111.provegooott.com/27_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 5 
+https://sdmax111.provegooott.com/5_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
+https://sdmax111.provegooott.com/46_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 6
+https://sdmax111.provegooott.com/37_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 6
+https://sdmax111.provegooott.com/28_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 6 
+https://sdmax111.provegooott.com/6_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
+https://sdmax111.provegooott.com/47_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 7
+https://sdmax111.provegooott.com/38_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 7
+https://sdmax111.provegooott.com/29_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 7 
+https://sdmax111.provegooott.com/13_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
+https://sdmax111.provegooott.com/48_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 8
+https://sdmax111.provegooott.com/39_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 8
+https://sdmax111.provegooott.com/30_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 8 
+https://sdmax111.provegooott.com/16_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
+https://sdmax111.provegooott.com/49_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9
+https://sdmax111.provegooott.com/40_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN SPORT",BEIN SPORTS 9
+https://sdmax111.provegooott.com/31_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN SPORT",BEIN SPORTS 9 
+https://sdmax111.provegooott.com/17_.m3u8
