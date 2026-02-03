@@ -7,10 +7,10 @@ https://oneiraq.pages.dev/aso_sport_1?.mpd
 https://oneiraq.pages.dev/nrt-sport-1?.mpd
 #EXTINF:-1,zaxo-sport-1
 https://oneiraq.pages.dev/zaxo-sport-1?.mpd
+#EXTINF:-1,duhok-tv-sport-1
+https://oneiraq.pages.dev/duhok-tv-sport-1?.mpd
 #EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1,AVA_TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+https://oneiraq.pages.dev/elal-sport-1?.mpd
 #EXTINF:-1,AVA_TV
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1,AVA_TV
