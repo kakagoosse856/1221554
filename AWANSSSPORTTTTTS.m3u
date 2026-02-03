@@ -1,15 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:61:2e:ea&stream=1859092&extension=m3u8
-http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1276543.m3u8 
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641605.m3u8
-http://sbix.pro:80/ziP800/85704502/656813.m3u8
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641605.m3u8
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=1341000&extension=m3u8
-http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:EE:6D&stream=1340994&extension=m3u8
+https://py.dencreak.com/alwan_sd6.m3u8
 
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:D9:8F:72&stream=1540618&extension=m3u8
+
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641606.m3u8
 http://sbix.pro:80/ziP800/85704502/656815.m3u8
