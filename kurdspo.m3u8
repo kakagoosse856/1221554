@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Futbol_HD
-http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1,astrakhanrusporthd
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1,ava_sport_1
+https://oneiraq.pages.dev/ava_sport_1?.mpd
+#EXTINF:-1,aso_sport_1
+https://oneiraq.pages.dev/aso_sport_1?.mpd
 #EXTINF:-1,MatchArena
 http://194.143.148.28:8080/MatchArena/index.m3u8
 #EXTINF:-1,Match_Strana
