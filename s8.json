@@ -1,0 +1,73 @@
+{
+    "id": "6",
+    "channel_id": "",
+    "name": "0",
+    "url": "https://qanat5.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://www.yariga.live/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "1",
+    "channel_id": "",
+    "name": "s1",
+    "url": "https://yari2.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://yarigatv.basnews.com/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "2",
+    "channel_id": "",
+    "name": "s2",
+    "url": "https://yari21.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://yarigatv.basnews.com/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "3",
+    "channel_id": "",
+    "name": "s3",
+    "url": "https://yari10.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://yarigatv.basnews.com/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "4",
+    "channel_id": "",
+    "name": "s4",
+    "url": "https://yari5.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://yarigatv.basnews.com/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  },
+  {
+    "id": "5",
+    "channel_id": "",
+    "name": "s5",
+    "url": "https://yari12.site/upload/images/logo0.zip#hls",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2581 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "Referer": "https://yarigatv.basnews.com/",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
+  }
+];
