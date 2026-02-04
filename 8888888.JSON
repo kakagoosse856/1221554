@@ -48,6 +48,17 @@
       "description": "القنوات الرياضية من Starz Play",
       "url": "https://example.com/packages/starz.json",
       "channels": {
+ "sps1": {
+          "id": "sps1",
+          "name": "Starz Play Sports 1 A",
+          "logo": "https://example.com/logos/sps1.png",
+          "description": "القناة الرياضية الأولى من Starz Play",
+          "country": "AE",
+          "category": "sports",
+          "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+          "k1": "b253c726c24c7c94a3ddf9b1907e2c76",
+          "k2": "097963d6ad73c3d712a104981de0ed42"
+        },
           "sps1": {
           "id": "sps1",
           "name": "Starz Play Sports 2 A",
@@ -61,7 +72,7 @@
         },
         "sps2": {
           "id": "sps2",
-          "name": "Starz Play Sports 1",
+          "name": "Starz Play Sports 1 B",
           "logo": "https://example.com/logos/sps1.png",
           "description": "القناة الرياضية الأولى من Starz Play",
           "country": "AE",
@@ -72,7 +83,7 @@
         },
         "sps3": {
           "id": "sps3",
-          "name": "Starz Play Sports 2",
+          "name": "Starz Play Sports 2 B",
           "logo": "https://example.com/logos/sps2.png",
           "description": "القناة الرياضية الثانية من Starz Play",
           "country": "AE",
@@ -83,7 +94,7 @@
           },
           "sps4": {
           "id": "sps4",
-          "name": "STARZPLAY SPORTS 3",
+          "name": "STARZPLAY SPORTS 3 B",
           "logo": "https://via.placeholder.com/80x40/ffaa00/000?text=STARZPLAY",
           "description": "ستارزبلاي سبورتس",
           "country": "الإمارات",
