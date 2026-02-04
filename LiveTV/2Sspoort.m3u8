@@ -9,3 +9,7 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 #EXTINF:-1 ch-number="100" tvg-id="Starz Play Sports 2 A" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Starz Play Sports 2 A
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+#EXTINF:-1 ch-number="100" tvg-id="Starz Play Sports 3 A" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Starz Play Sports 3 A
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
