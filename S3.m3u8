@@ -2,24 +2,28 @@
 #EXTINF:-1,BeiN 1 HD A
 http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:-1,BeiN 1 HD B
-https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/1bbms.m3u8
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
 #EXTINF:-1,BeiN 2 HD A
 http://h42.reelpush.online/live/645587700/index.m3u8
 #EXTINF:-1,BeiN 2 HD B
-https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/2bbms.m3u8
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch2/ch2_1080.m3u8
 #EXTINF:-1,BeiN 3 HD A
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1,BeiN 3 HD B
-https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/3bbms.m3u8
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch3/ch3_1080.m3u8
 #EXTINF:-1,BeiN 4 HD A
 http://h42.reelpush.online/live/9787488847/index.m3u8
 #EXTINF:-1,BeiN 4 HD B
 https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/4bbms.m3u8
-#EXTINF:-1,BeiN 5 HD
+#EXTINF:-1,BeiN 5 HD A
 http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
+#EXTINF:-1,BeiN 5 HD B
+https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/5bbms.m3u8
+#EXTINF:-1,BeiN 6 HD A
 http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1,BeiN 6 HD
+#EXTINF:-1,BeiN 6 HD B
+https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/6bbms.m3u8
+#EXTINF:-1,BeiN 6 HD C
 http://h42.reelpush.online/live/1515000000/index.m3u8
 #EXTINF:-1,BeiN 7 HD
 http://h42.reelpush.online/live/33523510/index.m3u8
