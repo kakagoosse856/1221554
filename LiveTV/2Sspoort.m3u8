@@ -54,3 +54,14 @@ https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
 #EXTINF:-1 ch-number="100" tvg-id="Матч! 3" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Матч! 3
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 ch-number="100" tvg-id="Sport 2 SK" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Sport 2 SK
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#EXTINF:-1 ch-number="100" tvg-id="Fubo Sports 2" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
