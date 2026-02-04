@@ -50,14 +50,14 @@
       "channels": {
           "sps1": {
           "id": "sps1",
-          "name": "Starz Play Sports 1 A",
+          "name": "Starz Play Sports 2 A",
           "logo": "https://example.com/logos/sps1.png",
           "description": "القناة الرياضية الأولى من Starz Play",
           "country": "AE",
           "category": "sports",
-          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd",
-          "k1": "eb5a3a48f3e191a00e3ac1e2d470c491",
-          "k2": "2c8b7198563527e524d66628c092ef1f"
+          "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
+          "k1": "ee861edcd99093153a763a94b14c2c5a",
+          "k2": "ab3991f6a7729ba1ea4bcdba0c1ae6c0"
         },
         "sps2": {
           "id": "sps2",
