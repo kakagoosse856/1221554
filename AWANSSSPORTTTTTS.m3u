@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
-https://py.dencreak.com/alwan_sd6.m3u8
-
+https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/ALWAN%20TV%201.m3u8
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641606.m3u8
