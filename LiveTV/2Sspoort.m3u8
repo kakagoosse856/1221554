@@ -1,4 +1,8 @@
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#EXTINF:-1 ch-number="100" tvg-id="Starz Play Sports 1 A" tvg-logo="https://example.com/logos/sps1.png" group-title="Deportes", Starz Play Sports 1 A
+https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
