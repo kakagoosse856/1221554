@@ -80,7 +80,18 @@
           "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
           "k1": "ee861edcd99093153a763a94b14c2c5a",
           "k2": "ab3991f6a7729ba1ea4bcdba0c1ae6c0"
-        }
+          },
+          "sps4": {
+          "id": "sps4",
+          "name": "STARZPLAY SPORTS",
+          "logo": "https://via.placeholder.com/80x40/ffaa00/000?text=STARZPLAY",
+          "description": "ستارزبلاي سبورتس",
+          "country": "الإمارات",
+          "category": "رياضي",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+          "k1": "117c29396ec6fd295880013241a466e1",
+          "k2": "3dfb883251884e66d784111877c44b13"
+               }
       }
     },
     
