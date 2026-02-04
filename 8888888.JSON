@@ -44,7 +44,7 @@
     
     "starz_sports": {
       "name": "Starz Play Sports",
-      "icon": "🎬",
+      "icon": "⚽",
       "description": "القنوات الرياضية من Starz Play",
       "url": "https://example.com/packages/starz.json",
       "channels": {
@@ -83,7 +83,7 @@
           },
           "sps4": {
           "id": "sps4",
-          "name": "STARZPLAY SPORTS",
+          "name": "STARZPLAY SPORTS 3",
           "logo": "https://via.placeholder.com/80x40/ffaa00/000?text=STARZPLAY",
           "description": "ستارزبلاي سبورتس",
           "country": "الإمارات",
@@ -212,7 +212,7 @@
     
     "general_channels": {
       "name": "القنوات العامة",
-      "icon": "📺",
+      "icon": "⚽",
       "description": "مزيج من القنوات العامة",
       "url": "https://example.com/packages/general.json",
       "channels": {
@@ -254,7 +254,7 @@
     
     "other_sports": {
       "name": "رياضية متنوعة",
-      "icon": "🎯",
+      "icon": "⚽",
       "description": "قنوات رياضية متنوعة من أنحاء العالم",
       "url": "https://example.com/packages/other.json",
       "channels": {
