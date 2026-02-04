@@ -59,8 +59,8 @@
           "k1": "eb5a3a48f3e191a00e3ac1e2d470c491",
           "k2": "2c8b7198563527e524d66628c092ef1f"
         },
-        "sps1": {
-          "id": "sps1",
+        "sps2": {
+          "id": "sps2",
           "name": "Starz Play Sports 1",
           "logo": "https://example.com/logos/sps1.png",
           "description": "القناة الرياضية الأولى من Starz Play",
@@ -70,8 +70,8 @@
           "k1": "b253c726c24c7c94a3ddf9b1907e2c76",
           "k2": "097963d6ad73c3d712a104981de0ed42"
         },
-        "sps2": {
-          "id": "sps2",
+        "sps3": {
+          "id": "sps3",
           "name": "Starz Play Sports 2",
           "logo": "https://example.com/logos/sps2.png",
           "description": "القناة الرياضية الثانية من Starz Play",
