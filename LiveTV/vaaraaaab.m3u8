@@ -1,0 +1,86 @@
+#EXTM3U
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXT-X-REFERER:https://vavoo.to/
+#EXT-X-ORIGIN:https://vavoo.to
+#EXTINF:-1 tvg-name="AL SEHA WALJAMAL (1)" group-title="Arabia",AL SEHA WALJAMAL (1)
+https://vavoo.to/play/3914858733/index.m3u8
+#EXTINF:-1 tvg-name="AL SHARQIYA (1)" group-title="Arabia",AL SHARQIYA (1)
+https://vavoo.to/play/2650879358/index.m3u8
+#EXTINF:-1 tvg-name="ALMOURABITOUNE (1)" group-title="Arabia",ALMOURABITOUNE (1)
+https://vavoo.to/play/2520837067/index.m3u8
+#EXTINF:-1 tvg-name="ASHARQ NEWS PORTRAIT (1280P) (1)" group-title="Arabia",ASHARQ NEWS PORTRAIT (1280P) (1)
+https://vavoo.to/play/847916588/index.m3u8
+#EXTINF:-1 tvg-name="ASIL TV (1)" group-title="Arabia",ASIL TV (1)
+https://vavoo.to/play/2912152076/index.m3u8
+#EXTINF:-1 tvg-name="AYNA AFG (1)" group-title="Arabia",AYNA AFG (1)
+https://vavoo.to/play/569196140/index.m3u8
+#EXTINF:-1 tvg-name="BEITY TV (1)" group-title="Arabia",BEITY TV (1)
+https://vavoo.to/play/2069132959/index.m3u8
+#EXTINF:-1 tvg-name="COPTIC TV (720P) [NOT 24/7] (1)" group-title="Arabia",COPTIC TV (720P) [NOT 24/7] (1)
+https://vavoo.to/play/2180463441/index.m3u8
+#EXTINF:-1 tvg-name="CTV (1)" group-title="Arabia",CTV (1)
+https://vavoo.to/play/2490068016/index.m3u8
+#EXTINF:-1 tvg-name="DUBAI RACING 3 (FHD) (1)" group-title="Arabia",DUBAI RACING 3 (FHD) (1)
+https://vavoo.to/play/824734181/index.m3u8
+#EXTINF:-1 tvg-name="DUBAI SPORTS 3 (FHD) [NOT 24/7] (1)" group-title="Arabia",DUBAI SPORTS 3 (FHD) [NOT 24/7] (1)
+https://vavoo.to/play/3374333899/index.m3u8
+#EXTINF:-1 tvg-name="HAWACOM (1)" group-title="Arabia",HAWACOM (1)
+https://vavoo.to/play/3472690141/index.m3u8
+#EXTINF:-1 tvg-name="I SAT (1)" group-title="Arabia",I SAT (1)
+https://vavoo.to/play/2811605861/index.m3u8
+#EXTINF:-1 tvg-name="KSA|IEN DOROS 09 (1)" group-title="Arabia",KSA|IEN DOROS 09 (1)
+https://vavoo.to/play/2082680077/index.m3u8
+#EXTINF:-1 tvg-name="KSA|IEN DOROS 12 (1)" group-title="Arabia",KSA|IEN DOROS 12 (1)
+https://vavoo.to/play/3232747449/index.m3u8
+#EXTINF:-1 tvg-name="M TUNISIA (1)" group-title="Arabia",M TUNISIA (1)
+https://vavoo.to/play/762506689/index.m3u8
+#EXTINF:-1 tvg-name="MAJESTIC KIDS 1 (1)" group-title="Arabia",MAJESTIC KIDS 1 (1)
+https://vavoo.to/play/697498340/index.m3u8
+#EXTINF:-1 tvg-name="MBC DRAMA USA (FHD) (1)" group-title="Arabia",MBC DRAMA USA (FHD) (1)
+https://vavoo.to/play/2604260212/index.m3u8
+#EXTINF:-1 tvg-name="MBC FM (FHD) (1)" group-title="Arabia",MBC FM (FHD) (1)
+https://vavoo.to/play/3336266821/index.m3u8
+#EXTINF:-1 tvg-name="MOVIES SHOWCASE (1)" group-title="Arabia",MOVIES SHOWCASE (1)
+https://vavoo.to/play/1868686788/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC TOP (1)" group-title="Arabia",MUSIC TOP (1)
+https://vavoo.to/play/4121383078/index.m3u8
+#EXTINF:-1 tvg-name="NAT 2 TNT (1)" group-title="Arabia",NAT 2 TNT (1)
+https://vavoo.to/play/2596172321/index.m3u8
+#EXTINF:-1 tvg-name="NET TV (1)" group-title="Arabia",NET TV (1)
+https://vavoo.to/play/1546247033/index.m3u8
+#EXTINF:-1 tvg-name="NEWS (1)" group-title="Arabia",NEWS (1)
+https://vavoo.to/play/3441938297/index.m3u8
+#EXTINF:-1 tvg-name="NICK JR (1)" group-title="Arabia",NICK JR (1)
+https://vavoo.to/play/1565542727/index.m3u8
+#EXTINF:-1 tvg-name="NICK TOON HD (1)" group-title="Arabia",NICK TOON HD (1)
+https://vavoo.to/play/2939943218/index.m3u8
+#EXTINF:-1 tvg-name="NILE SPORT (1)" group-title="Arabia",NILE SPORT (1)
+https://vavoo.to/play/3956051208/index.m3u8
+#EXTINF:-1 tvg-name="NOOR DUBAI (1)" group-title="Arabia",NOOR DUBAI (1)
+https://vavoo.to/play/1205744247/index.m3u8
+#EXTINF:-1 tvg-name="OSCAR TV (1)" group-title="Arabia",OSCAR TV (1)
+https://vavoo.to/play/262664792/index.m3u8
+#EXTINF:-1 tvg-name="SCARE TV (BACKUP) (1)" group-title="Arabia",SCARE TV (BACKUP) (1)
+https://vavoo.to/play/1875204190/index.m3u8
+#EXTINF:-1 tvg-name="SERIES FIRST HD (1)" group-title="Arabia",SERIES FIRST HD (1)
+https://vavoo.to/play/1553240299/index.m3u8
+#EXTINF:-1 tvg-name="SERIES2 (1)" group-title="Arabia",SERIES2 (1)
+https://vavoo.to/play/3220518422/index.m3u8
+#EXTINF:-1 tvg-name="SHABAB FM (720P) [NOT 24/7] (1)" group-title="Arabia",SHABAB FM (720P) [NOT 24/7] (1)
+https://vavoo.to/play/3580275646/index.m3u8
+#EXTINF:-1 tvg-name="SNIPERS BOLYWOOD 2 (1)" group-title="Arabia",SNIPERS BOLYWOOD 2 (1)
+https://vavoo.to/play/3009806612/index.m3u8
+#EXTINF:-1 tvg-name="SNIPERS BOXOFFICE ARABIC 3 (1)" group-title="Arabia",SNIPERS BOXOFFICE ARABIC 3 (1)
+https://vavoo.to/play/296950254/index.m3u8
+#EXTINF:-1 tvg-name="SNIPERS DRAMA (1)" group-title="Arabia",SNIPERS DRAMA (1)
+https://vavoo.to/play/2944147093/index.m3u8
+#EXTINF:-1 tvg-name="SNIPERS HORROR (1)" group-title="Arabia",SNIPERS HORROR (1)
+https://vavoo.to/play/3643476453/index.m3u8
+#EXTINF:-1 tvg-name="TELVZA TV (1)" group-title="Arabia",TELVZA TV (1)
+https://vavoo.to/play/3285343439/index.m3u8
+#EXTINF:-1 tvg-name="TODO NOTICIAS (1)" group-title="Arabia",TODO NOTICIAS (1)
+https://vavoo.to/play/3011325723/index.m3u8
+#EXTINF:-1 tvg-name="VOLVER (1)" group-title="Arabia",VOLVER (1)
+https://vavoo.to/play/3767675018/index.m3u8
+#EXTINF:-1 tvg-name="WATAN TV (1)" group-title="Arabia",WATAN TV (1)
+https://vavoo.to/play/491760293/index.m3u8
