@@ -11,8 +11,11 @@ http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/299.m3u8
 http://apk.arabic-ch.space/live/002/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV4" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV4
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/3746.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV5" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV5
+#EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV5" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV5 A
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/53383.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV5" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV5 B
+http://apk.arabic-ch.space/live/003/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+
 #EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV6" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV6
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/53385.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV7" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV7
