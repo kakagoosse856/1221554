@@ -7,10 +7,14 @@ https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73
 http://h42.reelpush.online/live/645587700/index.m3u8
 #EXTINF:-1,BeiN 2 HD B
 https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/2bbms.m3u8
-#EXTINF:-1,BeiN 3 HD
+#EXTINF:-1,BeiN 3 HD A
 http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1,BeiN 4 HD
+#EXTINF:-1,BeiN 3 HD B
+https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/3bbms.m3u8
+#EXTINF:-1,BeiN 4 HD A
 http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:-1,BeiN 4 HD B
+https://raw.githubusercontent.com/ON2026/ON/de625539bed2be0c373471fa1227f2ac9d73f857/4bbms.m3u8
 #EXTINF:-1,BeiN 5 HD
 http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1,BeiN 6 HD
