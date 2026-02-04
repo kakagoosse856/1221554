@@ -1,0 +1,723 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC (WSB)
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC (WSOC)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC News Live
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC USA (WABC)
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC USA (WFTS)
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ABC_EAST
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ACC NETWORK
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="mgm-int" group-title="|USA| MoveOnJoy",AMC
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",AMC (Alternate)
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",AMC NETWORK
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",American_Heroes_Channel
+https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Animal_Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Bally Sports Arizona
+https://fl1.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Bally Sports Midwest
+https://fl1.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="|USA| MoveOnJoy",BBC AMERICA
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BBC America (Alternate)
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc-world" group-title="|USA| MoveOnJoy",BBC WORLD NEWS
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BBC_AMERICA
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BBC_WORLD_NEWS
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS.us" group-title="|USA| MoveOnJoy",BEIN SPORTS
+http://84.17.40.25/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BEIN SPORTS 1
+http://fl61.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.uk" group-title="|USA| MoveOnJoy",BET
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET GOSPEL
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET HER
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET SOUL
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET_EAST
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET_GOSPEL
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET_HER
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BET_Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BIG TEN
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BTNHD.us" group-title="|USA| MoveOnJoy",Big Ten Network HD
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="|USA| MoveOnJoy",BLOOMBERG
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BOOMERANG
+https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="|USA| MoveOnJoy",Boomerang
+https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Bounce
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",BOUNCE_TV
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" group-title="|USA| MoveOnJoy",BRAVO
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" group-title="|USA| MoveOnJoy",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="cartoon" group-title="|USA| MoveOnJoy",CARTOON NETWORK
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CARTOON_NETWORK
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBC SPORTS
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBS (KKTV)
+https://tinyurl.com/cbskktv2423
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBS (WHIO)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBS (WKMG)
+https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBS (WSBK)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" group-title="|USA| MoveOnJoy",CBS SPORTS NETWORK
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CBSEAST
+https://fl1.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Cheddar Business
+https://fl61.moveonjoy.com/CHEDDAR_BUSINESS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CINEMAX
+https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxActionMaxHDEast.us" group-title="|USA| MoveOnJoy",CINEMAX EAST
+https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MoreMAX.us" group-title="|USA| MoveOnJoy",CINEMAX MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxHDWest.us" group-title="|USA| MoveOnJoy",CINEMAX WEST
+https://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Cleo TV
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Cleo_TV
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us" group-title="|USA| MoveOnJoy",CMT
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="cnbc" group-title="|USA| MoveOnJoy",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="|USA| MoveOnJoy",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CNN_INTERNATIONAL
+https://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.ge" group-title="|USA| MoveOnJoy",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Comedy_Central
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",COMET
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",COOKING
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",COOKING_CHANNEL
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.uk" group-title="|USA| MoveOnJoy",COURT TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",COURT_TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",COZI_TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CRAVE 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CRAVE 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CRAVE 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CRAVE 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="Crime+Investigation.ca" group-title="|USA| MoveOnJoy",Crime + Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Curiosity_Stream
+https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CW (WKCF)
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",CW (WPCH)
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Destination_America
+https://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Discovery_Channel
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",DISCOVERY_FAMILY_CHANNEL
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",DISCOVERY_LIFE
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Discovery_Science
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="disney" group-title="|USA| MoveOnJoy",DISNEY CHANNEL
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="disney-xd-blt" group-title="|USA| MoveOnJoy",DISNEY XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",DISNEY_JR
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",DISNEY_XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="DIY.ca" group-title="|USA| MoveOnJoy",DIY
+https://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",E_ENTERTAINMENT_TELEVISION
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",EPIX
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",EPIX DRIVE IN
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.uk" group-title="|USA| MoveOnJoy",ESPN
+https://fl2.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" group-title="|USA| MoveOnJoy",ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us" group-title="|USA| MoveOnJoy",ESPN NEWS
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" group-title="|USA| MoveOnJoy",ESPN U
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="food-network-rus" group-title="|USA| MoveOnJoy",FOOD NETWORK
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOOD_NETWORK
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX (WHBQ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX (WJAX)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="|USA| MoveOnJoy",FOX Business Network
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="FOXNewsChannel.us" group-title="|USA| MoveOnJoy",FOX News Channel
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX SOUL
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX SPORTS 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX USA (WFLX)
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX USA (WNYW)
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX_Business_Network
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX_EAST
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FOX_SOUL
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FREE_FORM
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" group-title="|USA| MoveOnJoy",Freeform
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="FOXSports1.us" group-title="|USA| MoveOnJoy",FS1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FOXSports2.us" group-title="|USA| MoveOnJoy",FS2
+https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FUSE
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FuseHD.us" group-title="|USA| MoveOnJoy",Fuse
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.uk" group-title="|USA| MoveOnJoy",FX
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FX MOVIES
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXMovie.us" group-title="|USA| MoveOnJoy",FXM
+https://fl1.moveonjoy.com/FXM/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" group-title="|USA| MoveOnJoy",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",FYI FHD
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",GAME_SHOW_NETWORK
+https://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",GET_TV
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Global
+https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.fr" group-title="|USA| MoveOnJoy",Golf Channel
+https://fl1.moveonjoy.com/Golf_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Great American Family
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",GRIT_TV
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HALLMARK CHANNEL
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HALLMARK MOVIES
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Hallmark Mystery
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="HBO.pl" group-title="|USA| MoveOnJoy",HBO
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HBO 2
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HBO COMEDY
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBO3.cz" group-title="|USA| MoveOnJoy",HBO Comedy
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HBO FAMILY
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" group-title="|USA| MoveOnJoy",HBO Family
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HBO ZONE
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOZoneHD.us" group-title="|USA| MoveOnJoy",HBO Zone
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="|USA| MoveOnJoy",HGTV
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="history-rus" group-title="|USA| MoveOnJoy",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="HLN.us" group-title="|USA| MoveOnJoy",HLN
+https://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ID (Investigation Discovery)
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",INSP TV
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",INVESTIGATION_DISCOVERY
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="IONTelevision.us" group-title="|USA| MoveOnJoy",ION
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ION (WPXX)
+http://104.255.88.155/ion/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ION Mystery (WFXT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ION Plus
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",ION TV
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",LIFETIME
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.uk" group-title="|USA| MoveOnJoy",Lifetime
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",LIFETIME MOVIE
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="avi" group-title="|USA| MoveOnJoy",Lifetime Movies Network
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",LOVE_NATURE
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Marquee Sports Network
+https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MAVTV.us" group-title="|USA| MoveOnJoy",MAVTV
+https://fl1.moveonjoy.com/MAVTV/index.m3u8
+#EXTINF:-1 tvg-id="metv.il" group-title="|USA| MoveOnJoy",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",METV (Alternate)
+http://104.255.88.155/metv/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MGM+
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MGM+ Drive-In
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MGM+ HITS
+https://fl1.moveonjoy.com/MGM_PLUS_HITS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" group-title="|USA| MoveOnJoy",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MOTOR_TREND
+https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Movies!
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us" group-title="|USA| MoveOnJoy",MSG
+https://fl2.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MSNBC (Alternate)
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="mtv-rus" group-title="|USA| MoveOnJoy",MTV
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.uk" group-title="|USA| MoveOnJoy",MTV Classic
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MTV LIVE
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="mtvlive-hd" group-title="|USA| MoveOnJoy",MTV Live
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MTV U
+https://fl1.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" group-title="|USA| MoveOnJoy",MTV2
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MTVU
+https://fl1.moveonjoy.com/MTVU/index.m3u8
+#EXTINF:-1 tvg-id="MuchMusic.ca" group-title="|USA| MoveOnJoy",MUCH
+https://fl7.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",MYNetworkTV (WWOR)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Nat_Geo_Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="natgeo" group-title="|USA| MoveOnJoy",National Geographic
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="natgeowild" group-title="|USA| MoveOnJoy",National Geographic Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",National_Geographic
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NBA.blt" group-title="|USA| MoveOnJoy",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_1
+https://fl1.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_2
+https://fl1.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_3
+https://fl1.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_4
+https://fl1.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_5
+https://fl1.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_6
+https://fl1.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_7
+https://fl1.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_8
+https://fl1.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_9
+https://fl1.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_10
+https://fl1.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_11
+https://fl1.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_12
+https://fl1.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBA_13
+https://fl1.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC (WTVJ)
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC Sports Boston
+https://fl1.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC USA (WFLA)
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC USA (WNBC)
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC USA (WVGN)
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBC_EAST
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NBCNY
+https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",New York 55 (WLNY)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NEWS_NATION
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NewsNation
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.ca" group-title="|USA| MoveOnJoy",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NFL REDZONE
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NFL TV
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NFL_1
+https://fl1.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL NETWORK
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" group-title="|USA| MoveOnJoy",NHL Network
+https://fl1.moveonjoy.com/NHL_Network/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_1
+https://fl1.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_2
+https://fl1.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_3
+https://fl1.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_4
+https://fl1.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_5
+https://fl1.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_6
+https://fl1.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_7
+https://fl1.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_8
+https://fl1.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_9
+https://fl1.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_10
+https://fl1.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_11
+https://fl1.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_12
+https://fl1.moveonjoy.com/NHL_12/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NHL_13
+https://fl1.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NICK_JR
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NICK_MUSIC
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NICKELODEON
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-rus" group-title="|USA| MoveOnJoy",Nickelodeon
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Nickelodeon (Alternate)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="nick-jr" group-title="|USA| MoveOnJoy",NickJr
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NickMusic USA
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NICKTOONS
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.uk" group-title="|USA| MoveOnJoy",NickToons
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NickToons (Alternate)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Nosey
+https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="|USA| MoveOnJoy",NTV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",NY 48 (WWON)
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+#EXTINF:-1 tvg-id="OWNCanada.ca" group-title="|USA| MoveOnJoy",Oprah Winfrey Network
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="outdoor" group-title="|USA| MoveOnJoy",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",OUTDOOR_CHANNEL
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",OUTER MAX
+https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",OUTSIDE TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us" group-title="|USA| MoveOnJoy",Ovation
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",OWN
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",OXYGEN
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us" group-title="|USA| MoveOnJoy",Oxygen
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.es" group-title="|USA| MoveOnJoy",Paramount Network
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PARAMOUNT_NETWORK
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS (KET-KY)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS (KET2)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS (KMOS)
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS (WKMJ-TV)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS (WLVT)
+https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS Create (WMPT-DT2)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS East
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS Kids (KET)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PBS MPT (WMPB)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PIX11
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="PopTV.svn" group-title="|USA| MoveOnJoy",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PPV_1
+https://fl1.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PPV_2
+https://fl1.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PPV_3
+https://fl1.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PPV_4
+https://fl1.moveonjoy.com/PPV_4/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",PURSUIT CHANNEL
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="PursuitChannelHD.us" group-title="|USA| MoveOnJoy",Pursuit Channel
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.uk" group-title="|USA| MoveOnJoy",QVC
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",REELZ
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us" group-title="|USA| MoveOnJoy",ReelzChannel
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",REVOLT
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" group-title="|USA| MoveOnJoy",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SHOWTIME
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.no" group-title="|USA| MoveOnJoy",Showtime
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SHOWTIME 2
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="SHOWTIME2.us" group-title="|USA| MoveOnJoy",Showtime 2
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SHOWTIME EXTREME
+https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="|USA| MoveOnJoy",Showtime Extreme
+https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SHOWTIME NEXT
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNextHD.us" group-title="|USA| MoveOnJoy",Showtime Next
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeW.us" group-title="|USA| MoveOnJoy",Showtime West
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SHOWTIME WOMEN
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Showtime Women
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="SkySpFball.uk" group-title="|USA| MoveOnJoy",Sky Sports Football
+https://fl1.moveonjoy.com/Sky_Sports_F1/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.uk" group-title="|USA| MoveOnJoy",SMITHSONIAN CHANNEL
+https://fl31.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SMITHSONIAN_CHANNEL
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="avi" group-title="|USA| MoveOnJoy",Sony Movie Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SPORTS MAN
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us" group-title="|USA| MoveOnJoy",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" group-title="|USA| MoveOnJoy",SportsNet New York
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Start TV
+https://fl31.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Start_Tv
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",STARZ
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEast.us" group-title="|USA| MoveOnJoy",Starz
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",STARZ COMEDY
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedyHD.us" group-title="|USA| MoveOnJoy",Starz Comedy
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",STARZ EDGE
+https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" group-title="|USA| MoveOnJoy",Starz Edge
+https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",STARZ ENCORE
+https://fl1.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="|USA| MoveOnJoy",Starz Encore Action
+https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" group-title="|USA| MoveOnJoy",STARZ ENCORE CLASSIC
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" group-title="|USA| MoveOnJoy",Starz Encore Westerns
+https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="StarzHDWest.us" group-title="|USA| MoveOnJoy",STARZ WEST
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",STARZ.ENCORE ACTION
+https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",SUN DANCE
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" group-title="|USA| MoveOnJoy",SundanceTV
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="SCIFI.uk" group-title="|USA| MoveOnJoy",SYFY
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="24dok" group-title="|USA| MoveOnJoy",TBS
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TCM.uk" group-title="|USA| MoveOnJoy",TCM
+https://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.it" group-title="|USA| MoveOnJoy",TeenNick
+https://fl1.moveonjoy.com/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Telemundo (WTMO)
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TENNIS CHANNEL
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="|USA| MoveOnJoy",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Tennis Channel (Alternate)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",THE_WEATHER_CHANNEL
+https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="tlc-russia" group-title="|USA| MoveOnJoy",TLC
+https://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="|USA| MoveOnJoy",TNT
+https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="travel" group-title="|USA| MoveOnJoy",Travel Channel
+https://fl31.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Travel_Channel
+https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TRU_TV
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TruTV.uk" group-title="|USA| MoveOnJoy",truTV
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="|USA| MoveOnJoy",TSN 1
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="|USA| MoveOnJoy",TSN 2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="|USA| MoveOnJoy",TSN 3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="|USA| MoveOnJoy",TSN 4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="|USA| MoveOnJoy",TSN 5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TUDN
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" group-title="|USA| MoveOnJoy",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TV_Land
+https://fl1.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TV_ONE
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="TVG.es" group-title="|USA| MoveOnJoy",TVG
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TVJ
+https://fl1.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",TVOne
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",UFC
+https://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",UFC Fight Pass
+https://fl1.moveonjoy.com/UFC_Fight_Pass/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",UniMás (WFUT)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Univision (WLTV)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Univision (WXTV)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Up TV
+https://fl1.moveonjoy.com/Up_TV/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="|USA| MoveOnJoy",USA Network
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",USA_Network
+https://fl1.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-id="vh1-europe" group-title="|USA| MoveOnJoy",VH1
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Vice
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",VICELAND
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca" group-title="|USA| MoveOnJoy",W NETWORK
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",W_NETWORK
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",WE_TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Weather Channel
+https://fl1.moveonjoy.com/Weather_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",WeTV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",WeTV (Alternate)
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WGN.us" group-title="|USA| MoveOnJoy",WGN
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",World Channel
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.ca" group-title="|USA| MoveOnJoy",WORLD FISHING NETWORK
+https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",WORLD_FISHING_NETWORK
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="|USA| MoveOnJoy",YES NETWORK
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YESHD.us" group-title="|USA| MoveOnJoy",YES Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax5StarMAXHDEast.us" group-title="|USA| MoveOnJoy",5 StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
