@@ -48,6 +48,17 @@
       "description": "القنوات الرياضية من Starz Play",
       "url": "https://example.com/packages/starz.json",
       "channels": {
+"sps1": {
+          "id": "sps1",
+          "name": "STARZ ON STUNTZ",
+          "logo": "https://example.com/logos/sps1.png",
+          "description": "القناة الرياضية الأولى من Starz Play",
+          "country": "AE",
+          "category": "sports",
+          "url": "https://mena-jit-avod-cdn-lb.starzplayarabia.com/JIT/SPA/ingest-dynamictelevision-avod/AVODONEWARRIORY2011M/3a80bcd4ad9f2695c4004fd431d5305d/AVODONEWARRIORY2011M.ism/AVODONEWARRIORY2011M.mpd",
+          "k1": "ce9e83f8f882f8a9c0e2e6d34731589d",
+          "k2": "9cbf03e3bc0c29927d7dde3b15825f6f"
+        },
  "sps1": {
           "id": "sps1",
           "name": "Starz Play Sports 1 A",
