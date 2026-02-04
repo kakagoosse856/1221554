@@ -1,6 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="•●★----| Chaîne Algerienne |----★●•" tvg-logo="" group-title="Arabic Channel",•●★----| Chaîne Algerienne |----★●•
-direct
+#EXTINF:-1 tvg-id="001" group-title="🇩🇿", Channel 001
+http://apk.arabic-ch.space/live/001/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="002" group-title="🇩🇿", الثالثة
+http://apk.arabic-ch.space/live/002/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="003" group-title="🇩🇿", الرابعة
+http://apk.arabic-ch.space/live/003/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="004" group-title="🇩🇿", الخامسة
+http://apk.arabic-ch.space/live/004/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="005" group-title="🇩🇿", Channel 005
+http://apk.arabic-ch.space/live/005/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="006" group-title="🇩🇿", Channel 006
+http://apk.arabic-ch.space/live/006/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="007" group-title="🇩🇿", الباهية
+http://apk.arabic-ch.space/live/007/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="008" group-title="🇩🇿", الثانية
+http://apk.arabic-ch.space/live/008/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="009" group-title="🇩🇿", البلاد
+http://apk.arabic-ch.space/live/009/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="010" group-title="🇩🇿", الثانية
+http://apk.arabic-ch.space/live/010/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="011" group-title="🇩🇿", الفجر
+http://apk.arabic-ch.space/live/011/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="012" group-title="🇩🇿", Channel 012
+http://apk.arabic-ch.space/live/012/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="013" group-title="🇩🇿", Channel 013
+http://apk.arabic-ch.space/live/013/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="014" group-title="🇩🇿", الشروق الإخبارية
+http://apk.arabic-ch.space/live/014/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="015" group-title="🇩🇿", الشروق tv
+http://apk.arabic-ch.space/live/015/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="016" group-title="🇩🇿", الأولى
+http://apk.arabic-ch.space/live/016/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="017" group-title="🇩🇿", الفجر
+http://apk.arabic-ch.space/live/017/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV1" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV1
 http://vip.sibfungold.org:8080/live/restream1/LKuZiN5Idu2DpgG4y4pa/305.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ALG: ALGERIE TV2" tvg-logo="" group-title="Arabic Channel",ALG: ALGERIE TV2
