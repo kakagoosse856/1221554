@@ -126,3 +126,81 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+
+
+
+#EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100gris.png" group-title="sfr france",RMC Sport Access HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47ac6c129bee0533b28450a2d36:6ab322b896fefbdd2849bf38c499e661
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_SFRSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_grayscale.png" group-title="sfr france",RMC Sport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47afbce29b4e0533b28450a72df:ec7b42d680f395e98b70f0f41528d13e
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 2 Live HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportLive2100x100Gris.png" group-title="sfr france",RMC Sport 2 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47afbcd29b4e0533b28450a72df:f09c23d329e616e5be781381578b9d6
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 3 Live HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100NB.png" group-title="sfr france",RMC Sport 3 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bae0abaa952a26cbe0533b28450a9878:35a4f31b31084db95a17f722a671aa26
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 4 Live HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100NB.png" group-title="sfr france",RMC Sport 4 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_1_color.png" group-title="sfr france",Bein Sport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa21b29d2e0533b28450a08e5:ec7b42d680f395e98b70f0f41528d13e
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa21329d2e0533b28450a08e5:40326f5fc706d0982a7510ee30803dbe
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" group-title="sfr france",Bein Sport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47ad38b29b8e0533b28450a5a69:39c20726e6046a8daa0cac9769d4f9bb
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 4 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_4_color.png" group-title="sfr france",Bein Sport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 5 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_5_color.png" group-title="sfr france",Bein Sport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47ad38d29b8e0533b28450a5a69:28184f668fef0b3732c9fed26861f112
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 6 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_6_color.png" group-title="sfr france",Bein Sport 6 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47ad38e29b8e0533b28450a5a69:1792b02fba7e1bbe0da8cdb44103dc6e
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 7 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_7_color.png" group-title="sfr france",Bein Sport 7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be479c4bf04d3e0533b28450a4097:2ebb699d015d8e71e13d9acadaf7ed8f
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI5/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 8 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_8_color.png" group-title="sfr france",Bein Sport 8 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa21829d2e0533b28450a08e5:cd5f5d140671b3a9594972bd4dda4e90
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI6/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 9 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_9_color.png" group-title="sfr france",Bein Sport 9 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa21929d2e0533b28450a08e5:a2c1cc608bb291a21b858e6159532c53
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI7/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 10 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_10_color.png" group-title="sfr france",Bein Sport 10 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa21a29d2e0533b28450a08e5:27480235eb8415f3fc6f5b3d8be4fd2c
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI8/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
