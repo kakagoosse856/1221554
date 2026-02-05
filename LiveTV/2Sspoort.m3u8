@@ -25,6 +25,11 @@ https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.m
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
+#EXTINF:-1 ch-number="100" tvg-id="بي إن سبورت 1" tvg-logo="https://example.com/logos/sps1.png" group-title="sport", بي إن سبورت 1
+https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_tv.mpd?hdnts=st=1742768516~exp=1742944916~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=9HCDZELMW3RE~data=aXA9MTkzLjEwOC4xMzAuMjI~hmac=0edc4705990769ad33a5bebe13d539b040b8bddf868eb4f49693acfcf7b27fc0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTINF:-1 ch-number="100" tvg-id="بي إن سبورت 2" tvg-logo="https://example.com/logos/sps1.png" group-title="sport", بي إن سبورت 2
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
