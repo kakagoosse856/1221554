@@ -231,6 +231,8 @@ http://65.108.239.207/bm2/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 1
 http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 7
+http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sports 2
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",BeinSports Xtra
@@ -317,8 +319,6 @@ https://sdmax111.provegooott.com/7_.m3u8
 https://sdmax111.provegooott.com/9_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 3
-http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeinSports Xtra
