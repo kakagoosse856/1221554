@@ -1,5 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="hilaytv",==========SPORTS==========
+
+#EXTINF:-1  group-title="Sports",DaznSerieA
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport1"  group-title="Sports", ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport2"  group-title="Sports", ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport3"  group-title="Sports", ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+#EXTINF:-1  group-title="Sports", ZiggoSportSelect
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+
+#EXTINF:-1  group-title="Sports", ZiggoSportVoetbal
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UKFHD | Premier Sports 2 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",UKFHD | Premier Sports 2 50FPS FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FHD | Premier Sports 1 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",FHD | Premier Sports 1 50FPS FHD
