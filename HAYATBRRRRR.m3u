@@ -4,20 +4,80 @@
 #EXTINF:-1  group-title="Sports",DaznSerieA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport1"  group-title="Sports", ElevenSport1
-https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://172.93.102.112:8989/279390_.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport2"  group-title="Sports", ElevenSport2
-https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport3"  group-title="Sports", ElevenSport3
-https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
 
-#EXTINF:-1  group-title="Sports", ZiggoSportSelect
-https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://205.235.6.29:8000/play/a0vh
 
-#EXTINF:-1  group-title="Sports", ZiggoSportVoetbal
-https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+#EXTINF:-1, DSPORTS 2 🇦🇷
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1, DSports Plus 🇦🇷
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
+
+#EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1, Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+
+#EXTINF:-1, Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+
+#EXTINF:-1, Dazn 2 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+
+#EXTINF:-1, Dazn 3 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+
+#EXTINF:-1, Dazn 4 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+
+#EXTINF:-1, Dazn 5 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+
+#EXTINF:-1, BEIN 1 🇫🇷
+http://145.239.5.177/557/mpegts
+
+#EXTINF:-1, BEIN 1 🇫🇷
+http://5.9.119.146:8883/beinfr1/index.m3u8
+
+#EXTINF:-1, BEIN 2 🇫🇷
+http://145.239.5.177/558/mpegts
+
+#EXTINF:-1, BEIN 2 🇫🇷
+http://5.9.119.146:8883/beinfr2/index.m3u8
+
+#EXTINF:-1, BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+
+#EXTINF:-1, BEIN 3 🇫🇷
+http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
+
+#EXTINF:-1, Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1, Bein Sport 1 🇫🇷
+http://145.239.5.177:80/557/index.m3u8
+
+#EXTINF:-1, Bein Sport 2 🇫🇷
+http://145.239.5.177:80/558/index.m3u8
+
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UKFHD | Premier Sports 2 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",UKFHD | Premier Sports 2 50FPS FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FHD | Premier Sports 1 50FPS FHD" tvg-logo="" group-title="Other Uk Sports",FHD | Premier Sports 1 50FPS FHD
