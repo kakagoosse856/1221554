@@ -1,119 +1,125 @@
-#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSb5GXOOb_TasvDrNNYuPOVkqR2qxAleoxMg&s", RTB ANEKA
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-how-to-train-your-dragon-2025-lk21-d21.jpg.webp",How to Train Your Dragon (2025)
+https://cloud.hownetwork.xyz/xxx/Khc-YzEWWjUwMB4ibkk5LTBVLTwkHhgvb2NHfnYdAR0APAURHSZPeXUyRSh1BA/33/1080.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-keluang-man-2025-lk21-d21.jpg.webp", Keluang Man (2025) 
+https://cloud.hownetwork.xyz/xxx/KR0lOyQXEGwvMBlhcQBkbW8PLCwhFSgZHTcTfnoIM2t3/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-the-old-guard-2-2025-lk21-d21.jpg" group-title="MOVIES VOD 2025",The Old Guard 2
+https://cloud.hownetwork.xyz/xxx/NhAsYyoVE2wlJBY-Jx1kdXBIe3toDhIjJj0oFBwCZz53G3kqdw/33/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1mgVMiosa7QfrmHsWAYSQxz-pjxiSh3sjQ&s" group-title="Movies",BUDDY STAR HD 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="MOVIES VOD 2025", Thunderbolts
+https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVPisnHRseGg5GKHpVZz5wSw/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-eternal-bond-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Eternal Bond
+https://cloud.hownetwork.xyz/xxx/JwwsPCsYG2wgPhkobgJmandVPisnHRseGg5Ee3IBZDtwSA/33/480.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="Movies", THRILL
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-bhavani-ward-1997-2025-lk21-d21.jpg" group-title="MOVIES VOD 2025", Bhavani Ward
+https://cloud.hownetwork.xyz/xxx/IBAoOCQXHmw1MAUobgFvYXVVe353TFo2JzMTIBxoCT1wHi99dU0R/32/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-jaat-2025-lk21-d21.jpg" group-title="MOVIES VOD 2025", Jaat
+https://cloud.hownetwork.xyz/xxx/KBkoOmhLR3N3fAApIVQ6BxonfHkgQUIkcmI/32/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-shadow-force-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Shadow Force
+https://cloud.hownetwork.xyz/xxx/MRAoKioOWictIxQpbgJmandVPisnHRseGg5PfXoENzx1Gg/32/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxLA22eiNPeR3xsAND2l7b7KuhHi94HEwog&s" group-title="Movies",TVN MOVIES
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-tin-soldier-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Tin Soldier
+https://cloud.hownetwork.xyz/xxx/NhEnYzYWGyUrNAVhcQBkbW8PLCwhFSgZHWZBfiUBN2En/32/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDckwNhkahTZtHcXsqhZLAgaGDgU9gQts3Q&s" group-title="Movies",K+ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/05/film-mma-cop-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", MMA Cop
+https://cloud.hownetwork.xyz/xxx/LxUoYyYWB2xwYUV5bkczOiYUFhYaShYkcWkWeCY/32/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-warfare-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Warfare
+https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="Movies", CALESTIAL MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/165/438165-SNAPSHOT-l.png" group-title="Channel Vision+", HITS MOVIE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/05/film-night-of-deception-dajal-satu-malam-dipedajal-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025",Night of Deception (Dajal: Satu Malam Dipedajal)
+https://cloud.hownetwork.xyz/xxx/LBEuJjFUGCdvNRIvJkAiMS0WZCokExYtbyIWODYdOzkuGSRjIRAHJCYwHS0vHWRocE1kOSAbEy0dCSh7dwFkb3NMKA/32/480.m3u8
 
-#EXTINF:-1 tvg-id="Movies" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" group-title="Movies", TVN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/film-the-baby-in-the-basket-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", The Baby in the Basket
+https://cloud.hownetwork.xyz/xxx/NhAsYycYFThvOBlhN1gzdSAZOiUgDVpzcmNCYTRVNDwuJxERJkBCeCdnR38/32/480.m3u8
 
-#EXTINF:-1 tvg-id="Movies" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" group-title="Channel Vision+", TVN MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/01/film-evil-of-the-rat-rat-king-2025-lk21-d21.jpg.webp", Evil of The Rat – Rat King
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Movies" tvg-id="Dunia Sinema HD" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-ad-vitam-2025-lk21-d21.jpg.webp", Ad Vitam
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Ad.Vitam.2025.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="mycinemaasia.id" tvg-logo="https://bit.ly/40x0pxx",My Cinema Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/film-veera-dheera-sooran-part-2-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Veera Dheera Part 2
+https://cloud.hownetwork.xyz/xxx/NB0sPCRUEyknNAUtbkM5NzAZJ2M1GAU1b2NafnMCY3U1HSsqKSYvHnViQy56AGc8/32/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="Movies",GALAXY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/2c/73/7d2c733c27d4fe8090cd0e2ddd61b83a.jpg" group-title="Movies",GALAXY PREMIUM
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/32/1f/13/321f13be5d8e1a2c481711cb7177f438.jpg" group-title="Movies",CINEMACHI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/41/b2/22/41b2227750488748fbc27e39d9681187.jpg" group-title="Movies",CINEMACHI ACTION
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cd/21/1d/cd211d505672522c820da5623e7c65a2.jpg" group-title="Movies",CINEMACHI MAX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/76/c5/7f/76c57f75e6dc85785d39475db52574a4.jpg" group-title="Movies",CINEMACHI XTRA 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.pinimg.com/236x/46/6e/35/466e3516c3551338a89ca33502edd065.jpg",CINEMACHI KIDS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/film-armed-2025-lk21-d21.jpg.webp" group-title="MOVIES VOD 2025", Armed
+https://cloud.hownetwork.xyz/xxx/IwokKyFURXFwZFo7JlIyNB0gFigkHEV1dGhD/32/480.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Movies" ch-number="136" tvg-logo="https://i.pinimg.com/236x/80/73/6d/80736de6934450da3f972c7b99815054.jpg",OH MY CERIA!
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (15)
+https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b0/7f/35/b07f351636ad3a69a6968ef61f5c2dfa.jpg" group-title="Movies",MY FAMLY CHANNEL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (14)
+https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3b/4d/d5/3b4dd53d57f32ffd20ee471946a00481.jpg" group-title="Movies",FILEM MANTAP
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/b1/69/dbb1697f3595c368f28ec27bdf648769.jpg" group-title="Movies",LAWAK SENTRAL
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/14/c7/84/14c78410b7b6516bf33221b57620182e.jpg" group-title="Movies",DRAMA HOTPOT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/57/99/98/5799984d45a00e5528ae7f17ac5477ec.jpg" group-title="Movies",DRAMA HEBAT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (13)
+https://cloud.hownetwork.xyz/xxx/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (12)
+https://cloud.hownetwork.xyz/xxx/24173447dff736b274f0ae0b51db3055/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (11)
+https://cloud.hownetwork.xyz/xxx/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025",Bid'ah (10)
+https://cloud.hownetwork.xyz/xxx/eb6eef19e48491bc0a5f72a6b22142b8/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (9)
+https://cloud.hownetwork.xyz/xxx/b09c7e53973e21e80a20bb3f4c48a3be/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (8)
+https://cloud.hownetwork.xyz/xxx/5830f9714c25e178ace8561c5ff6807d/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (7)
+https://cloud.hownetwork.xyz/xxx/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (6)
+https://cloud.hownetwork.xyz/xxx/708b6b42dd899f96bf7ac27163efacf8/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (5)
+https://cloud.hownetwork.xyz/xxx/a53cc8211d0c1fc0589021f946159a5b/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (4)
+https://cloud.hownetwork.xyz/xxx/c169a228140a9cf3f8ec3bd2b7076f25/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (3)
+https://cloud.hownetwork.xyz/xxx/327a7a9a0a65506fe18c2b07c280dff9/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (2)
+https://cloud.hownetwork.xyz/xxx/addded9a5efcba9169a8003864488d9a/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="MOVIES VOD 2025", Bid'ah (1)
+https://cloud.hownetwork.xyz/xxx/b8393c5bf96f5f09dddfbb133a420c8b/24/480.m3u8
