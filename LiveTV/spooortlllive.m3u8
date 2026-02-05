@@ -1,4 +1,36 @@
 =========================================== sports ===============================================
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Canal-Sport.png",FR - Canal + Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="canalplussport.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sports",Canal + Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",FR - Canal + Sport 360
+http://178.33.239.54:8080/700/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="Sports",USA - CBS Sports
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ddsports" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UpkboKiqJZvK-5Hqvzdm1umc-rOEmj-aLg&s",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+
+@@ -143,15 +43,9 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://p7.hiclipart.com/preview/327/493/115/eurosport-1-television-channel-logo-eurosport-2-others.jpg" group-title="Sports",Eurosports - 2
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest/scale-to-width-down/250?cb=20231120144248" group-title="Sports",ES - Sky Sports Laliga
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports - 1
+http://103.175.242.10:8080/sonyten1/index.m3u8
+
+@@ -164,29 +58,14 @@ http://103.175.242.10:8080/sonyten5/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nqFSA_5QJ8GFQBHIlC3B3WuSPKfa4HDKunW_5uWQV-NA=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 #KODIPROP:inputstream.adaptive.livestream=false
