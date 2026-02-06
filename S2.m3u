@@ -11,6 +11,8 @@ http://xcarscharge.pro:8080/bn3hevc/tracks-v1a1/mono.m3u8
 http://xcarscharge.pro:8080/bn4hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein Sport 5 FHD
 http://xcarscharge.pro:8080/bn5hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 5 HD
+http://het101b.ycn-redirect.com/live/610303030/index.m3u8
 #EXTINF:-1, Bein Sport 6 FHD
 http://xcarscharge.pro:8080/bn6hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein Sport 7 FHD
