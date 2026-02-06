@@ -1,12 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Bein Sport 1 🇫🇷
-http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1, Bein Sport 1 FHD
+http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 2 FHD
+http://xcarscharge.pro:8080/bn2hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 3 FHD
+http://xcarscharge.pro:8080/bn3hevc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Bein Sport 1 🇫🇷
-http://145.239.5.177:80/557/index.m3u8
-
-#EXTINF:-1, Bein Sport 2 🇫🇷
-http://145.239.5.177:80/558/index.m3u8
 
 #EXTINF:-1, Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
