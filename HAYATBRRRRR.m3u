@@ -25,8 +25,28 @@ http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
-#EXTINF:-1, ESPN 2 🇦🇷
-http://181.205.130.194:4000/play/a07i
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1,Match! TV Russia
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MATCH! FOOTBALL 1 RUSSIA
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1,MATCH! FOOTBALL 2 RUSSIA
+http://188.191.160.238:7780/udp/239.195.3.17:1234
+#EXTINF:-1,MATCH! FOOTBALL 3 RUSSIA
+http://188.191.160.238:7780/udp/239.195.3.18:1234
+#EXTINF:-1,Real Madrid TV 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1, Dazn 1 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
