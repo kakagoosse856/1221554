@@ -165,6 +165,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 1
 http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 7
+http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sports 2
 http://5.135.26.128/stream/bein/bein2/out/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",BeinSports Xtra
