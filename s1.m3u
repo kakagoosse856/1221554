@@ -9,13 +9,13 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1,beIN SPORTS 4
 http://213.199.33.203:8081/live/ch4.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1 HD 
+#EXTINF:-1,Bein Sport1
 http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 2 HD 
+#EXTINF:-1,Bein Sport2
 http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BEIN 3 HD 
+#EXTINF:-1,Bein Sport3
 http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 4 HD
+#EXTINF:-1,Bein Sport4
 http://h42.reelpush.online/live/9787488847/index.m3u8
 #EXTINF:-1,Bein Sport5
 http://h42.reelpush.online/live/610303030/index.m3u8
