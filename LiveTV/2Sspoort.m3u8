@@ -24,6 +24,13 @@ https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.m
 #EXTINF:-1 ch-number="100" tvg-id="shahid-sports-1" tvg-logo="https://example.com/logos/sps1.png" group-title="sport", shahid-sports-1
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+#EXTINF:-1 ch-number="100" tvg-id="shahid-sports-1" tvg-logo="https://example.com/logos/sps1.png" group-title="sport", shahid-sports-2
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+
+
 #EXTINF:-1 tvg-id="SSC1" tvg-logo="" group-title="SHAHID VIP", shahid. Vod
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= 9678c2aca35a4d5faf2bbe4893e48e3f:db2828dac53e4a43b3ab3d55d05b226e
