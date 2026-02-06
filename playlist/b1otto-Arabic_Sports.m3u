@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-06 07:52 PM (BD Time)
-# TV channel counts :- 76
+# Last Updated: 2026-02-06 08:33 PM (BD Time)
+# TV channel counts :- 86
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -24,11 +24,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://thebengalee.com/wp-content/uploads/2026/01/photo_2026-01-14_19-08-37-1-300x300.webp" group-title="bangla",Sami TV HD
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="bangla",Asian TV
-https://tv.ottking.top:443/ottking247/fuckyou/44.m3u8
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="bangla",SA TV
 https://tv.ottking.top:443/ottking247/fuckyou/24.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="bangla",Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="inbangla",Star Jalsha
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png" group-title="inbangla",DD BANGLA
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe" group-title="News",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720_201346.png" group-title="bangla",Nagorik TV
@@ -50,7 +54,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="bangla",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbnjN67C/20250529-104926.png" group-title="bangla",Maasranga
-https://tv.ottking.top:443/ottking247/fuckyou/43.m3u8
+https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png" group-title="News",NEWS18 BANGLA
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg" group-title="bangla",Global TV HD
 https://tv.ottking.top:443/ottking247/fuckyou/45.m3u8
 #EXTINF:-1 tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png" group-title="Islamic",Peace TV Bangla
@@ -59,6 +65,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="inbangla",ENTER10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hnklH9.png" group-title="Islamic",Modina TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="bangla",Nexus Television
@@ -71,6 +79,12 @@ https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="pak",Ary Digital
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="pak",Geo Kahani
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="sports",T Sports
 https://tv.ottking.top:443/ottking247/fuckyou/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="sports",Cricket Gold  Old
@@ -107,8 +121,14 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/11/2/real-madrid-c-f-logo-png_seeklogo-116415.png" group-title="sports",Real Madrid FC
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="sports",Persiana Sports
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/sport-1-logo-png_seeklogo-314599.png" group-title="sports",SPORTS 1
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv2-2023-logo-png_seeklogo-504105.png" group-title="sports",SPORTS 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1280px-SporTV3_2021.png?20220123200951" group-title="sports",SPORTS 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/1280px-Sport_TV4_%282023%29.svg.png?20231021014108" group-title="sports",SPORTS 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1280px-Logo_bein_sports_1.png" group-title="sports",BEIN SPORTS 1
 https://sdmax111.provegooott.com/32_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1280px-Logo_bein_sports_2.png?20170228135704" group-title="sports",BEIN SPORTS 2
