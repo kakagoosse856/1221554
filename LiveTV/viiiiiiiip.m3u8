@@ -231,7 +231,7 @@ http://apk.arabic-ch.space/live/114/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=175193
 http://apk.arabic-ch.space/live/115/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="116" group-title="Arabic", Channel 116
 http://apk.arabic-ch.space/live/116/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="117" group-title="Arabic", Channel 117
+#EXTINF:-1 tvg-id="117" group-title="Arabic", + FOOT
 http://apk.arabic-ch.space/live/117/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="118" group-title="Arabic", Channel 118
 http://apk.arabic-ch.space/live/118/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
@@ -247,7 +247,7 @@ http://apk.arabic-ch.space/live/122/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=175193
 http://apk.arabic-ch.space/live/123/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="124" group-title="Arabic", Channel 124
 http://apk.arabic-ch.space/live/124/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="125" group-title="Arabic", Channel 125
+#EXTINF:-1 tvg-id="125" group-title="Arabic", FR_ACTION_HD
 http://apk.arabic-ch.space/live/125/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="126" group-title="Arabic", Channel 126
 http://apk.arabic-ch.space/live/126/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
@@ -265,7 +265,7 @@ http://apk.arabic-ch.space/live/131/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=175193
 http://apk.arabic-ch.space/live/132/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="133" group-title="Arabic", Channel 133
 http://apk.arabic-ch.space/live/133/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="134" group-title="Arabic", Channel 134
+#EXTINF:-1 tvg-id="134" group-title="Arabic", |FR| PARIS PREMIERE FH
 http://apk.arabic-ch.space/live/134/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="135" group-title="Arabic", Channel 135
 http://apk.arabic-ch.space/live/135/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
@@ -283,11 +283,11 @@ http://apk.arabic-ch.space/live/140/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=175193
 http://apk.arabic-ch.space/live/141/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="142" group-title="Arabic", Channel 142
 http://apk.arabic-ch.space/live/142/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="143" group-title="Arabic", Channel 143
+#EXTINF:-1 tvg-id="143" group-title="Arabic", |FR| FRANCE TV 13H
 http://apk.arabic-ch.space/live/143/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="144" group-title="Arabic", Channel 144
+#EXTINF:-1 tvg-id="144" group-title="Arabic", |FR| FRANCE TV DIRECT
 http://apk.arabic-ch.space/live/144/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="145" group-title="Arabic", Channel 145
+#EXTINF:-1 tvg-id="145" group-title="Arabic", |FR| OKOO
 http://apk.arabic-ch.space/live/145/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="146" group-title="Arabic", Channel 146
 http://apk.arabic-ch.space/live/146/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
@@ -297,5 +297,7 @@ http://apk.arabic-ch.space/live/147/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=175193
 http://apk.arabic-ch.space/live/148/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
 #EXTINF:-1 tvg-id="149" group-title="Arabic", Channel 149
 http://apk.arabic-ch.space/live/149/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
-#EXTINF:-1 tvg-id="150" group-title="Arabic", Channel 150
+#EXTINF:-1 tvg-id="150" group-title="Arabic", |FR| W9
 http://apk.arabic-ch.space/live/150/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
+#EXTINF:-1 tvg-id="150" group-title="Arabic", |FR| 6TER
+http://apk.arabic-ch.space/live/156/index.m3u8?t=DxaYdVCt6fD7ELJD0kiyLw&e=1751930457
