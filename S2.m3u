@@ -19,7 +19,24 @@ http://xcarscharge.pro:8080/bn7hevc/tracks-v1a1/mono.m3u8
 http://xcarscharge.pro:8080/bn8hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein Sport 9 FHD
 http://xcarscharge.pro:8080/bn9hevc/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, Bein Sport 1 4K
+http://xcarscharge.pro:8080/bn24k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 2 4K
+http://xcarscharge.pro:8080/bn34k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 3 4K
+http://xcarscharge.pro:8080/bn34k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 4 4K
+http://xcarscharge.pro:8080/bn44k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 5 4K
+http://xcarscharge.pro:8080/bn54k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 6 4K
+http://xcarscharge.pro:8080/bn64k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 7 4K
+http://xcarscharge.pro:8080/bn74k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 8 4K
+http://xcarscharge.pro:8080/bn84k/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 9 4K
+http://xcarscharge.pro:8080/bn94k/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
