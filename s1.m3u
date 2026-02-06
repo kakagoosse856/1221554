@@ -4,11 +4,11 @@
 http://213.199.33.203:8081/live/ch1.m3u8
 #http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1,beIN SPORTS 1 B 
-https://beautifulpeople.lovecdn.ru/beINAR1/tracks-v1a1/mono.m3u8
+https://beautifulpeople.lovecdn.ru/beINAR/tracks-v1a1/mono.m3u8
 #EXTINF:-1,beIN SPORTS 2 A
 http://213.199.33.203:8081/live/ch2.m3u8
 #EXTINF:-1,beIN SPORTS 2 B 
-https://beautifulpeople.lovecdn.ru/beINAR2/tracks-v1a1/mono.m3u8
+https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
 #EXTINF:-1,beIN SPORTS 3 A 
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1,beIN SPORTS 3 B
