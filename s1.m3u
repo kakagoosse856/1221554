@@ -140,22 +140,4 @@ http://h42.reelpush.online/live/2433016410/index.m3u8
 
 #EXTINF:0,BEIN NEWS
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/2115
-#EXTINF:0,Bein sport 1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/15
-#EXTINF:0,Bein sport 1 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/2501
-#EXTINF:0,Bein sport 1 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/6487
-#EXTINF:0,beIN SPORT 1 LOW
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/6302
-#EXTINF:0,Bein sport 2 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/13983
-#EXTINF:0,Bein sport 2 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/782217211/7c207ced7/16
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2115.m3u8
