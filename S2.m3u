@@ -74,3 +74,21 @@ http://xmrcars.org:8080/bn84k/mono.m3u8
 https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein9/master.m3u8
 #EXTINF:-1,beIN SPORTS 9 B
 http://xmrcars.org:8080/bn94k/mono.m3u8
+#EXTINF:0,BEIN NEWS
+
+http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.ts
+#EXTINF:0,Bein sport 1 HD
+
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
+#EXTINF:0,Bein sport 1 SD
+
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8
+#EXTINF:0,Bein sport 1 FHD
+
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
+#EXTINF:0,beIN SPORT 1 LOW
+
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
+#EXTINF:0,Bein sport 2 FHD
+
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13983.m3u8
