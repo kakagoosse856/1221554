@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
+http://135.125.109.73:9000/Alwan%20Sport%201%20HD%20VIP%20Arb_.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
+http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 3 HD
+http://135.125.109.73:9000/Alwan%20Sport%203%20HD%20VIP%20Arb_.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 4 HD
+http://135.125.109.73:9000/Alwan%20Sport%204%20HD%20VIP%20Arb_.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 5 HD
+http://135.125.109.73:9000/Alwan%20Sport%205%20HD%20VIP%20Arb_.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 HD
+http://135.125.109.73:9000/Alwan%20Sport%206%20HD%20VIP%20Arb_.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 FHD
 http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 FHD
@@ -13,18 +24,7 @@ http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 FHD
 http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
 
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
-http://135.125.109.73:9000/Alwan%20Sport%201%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
-http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 3 HD
-http://135.125.109.73:9000/Alwan%20Sport%203%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 4 HD
-http://135.125.109.73:9000/Alwan%20Sport%204%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 5 HD
-http://135.125.109.73:9000/Alwan%20Sport%205%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 HD
-http://135.125.109.73:9000/Alwan%20Sport%206%20HD%20VIP%20Arb_.m3u8
+
 
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",7seen
 https://313stream.7seen.xyz/cmaf/180432ea/master.m3u8
