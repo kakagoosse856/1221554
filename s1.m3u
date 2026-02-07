@@ -9,10 +9,16 @@ http://213.199.33.203:8081/live/ch1.m3u8
 http://xmrcars.org:8080/bn1hd/mono.m3u8
 #EXTINF:-1,beIN SPORTS 2 A
 http://213.199.33.203:8081/live/ch2.m3u8
+#EXTINF:-1,beIN SPORTS 2  B
+http://xmrcars.org:8080/bn2hd/mono.m3u8
 #EXTINF:-1,beIN SPORTS 3 A 
 http://213.199.33.203:8081/live/ch3.m3u8
+#EXTINF:-1,beIN SPORTS 3  B
+http://xmrcars.org:8080/bn3hd/mono.m3u8
 #EXTINF:-1,beIN SPORTS 4
 http://213.199.33.203:8081/live/ch4.m3u8
+#EXTINF:-1,beIN SPORTS 4  B
+http://xmrcars.org:8080/bn4hd/mono.m3u8
 #EXTINF:-1,Bein Sport1
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1,Bein Sport2
