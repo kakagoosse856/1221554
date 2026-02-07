@@ -1,0 +1,24 @@
+#EXTINF:0,Bein Movies 1 Premiere HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/479
+#EXTINF:0,Bein Movies 2 Action HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/480
+#EXTINF:0,Bein Movies 3 Drama HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/482
+#EXTINF:0,Bein Series 1
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2118
+#EXTINF:0,Bein Drama 1
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2119
+#EXTINF:0,Jeem
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2116
+#EXTINF:0,Baraeem
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2117
+#EXTINF:0,BeIN GOURMET HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3109
