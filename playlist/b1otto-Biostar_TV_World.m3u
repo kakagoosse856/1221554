@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-07 11:43 AM (BD Time)
-# TV channel counts :- 86
+# Last Updated: 2026-02-07 12:27 PM (BD Time)
+# TV channel counts :- 85
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -79,13 +79,11 @@ https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="sports",Persiana Sports
-https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="pak",Ary Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="pak",Geo Kahani
 https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="sports",T Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="sports",T Sports HD
 https://tv.ottking.top:443/ottking247/fuckyou/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="sports",Cricket Gold  Old
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
