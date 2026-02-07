@@ -5,7 +5,8 @@ http://135.125.109.73:9000/beinsport2_.m3u8
 http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1,beIN SPORTS 1  A
 http://213.199.33.203:8081/live/ch1.m3u8
-#http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1,beIN SPORTS 1  B
+http://xmrcars.org:8080/bn1hd/mono.m3u8
 #EXTINF:-1,beIN SPORTS 2 A
 http://213.199.33.203:8081/live/ch2.m3u8
 #EXTINF:-1,beIN SPORTS 3 A 
