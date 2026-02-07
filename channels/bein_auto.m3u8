@@ -167,6 +167,10 @@ http://65.108.239.207/bm2/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 1
 http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 2
+http://213.199.33.203:8081/live/ch2.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 3
+http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 7
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sports 2
@@ -183,7 +187,11 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1 True Vision
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
