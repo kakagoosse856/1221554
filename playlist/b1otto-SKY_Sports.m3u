@@ -2,11 +2,9 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-07 04:13 PM (BD Time)
+# Last Updated: 2026-02-07 04:29 PM (BD Time)
 # TV channel counts :- 61
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413305837-632688070.webp" group-title="Cricket - (Live)",Western Australia VS Tasmania Tigers [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de843c9f5a848ba39f3359
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770387206450-82866388.webp" group-title="Cricket - (Live)",Sapience Club Gurgaon VS Sahgal Club Delhi [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=697cb4843502459d8f0220e0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126110787-349140864.webp" group-title="Cricket - (Live)",Wellington Blaze VS Otago Sparks [Live]
@@ -15,10 +13,12 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=69172b62fa673af67ab172ef
 https://sportsbd.top/demo/styxsportm3u8.php?id=69172af9fa673af67ab172ed
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126062379-368621547.webp" group-title="Cricket - (Live)",Auckland Hearts VS Central Hinds [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69172b32fa673af67ab172ee
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp" group-title="Cricket - (Live)",New South Wales VS South Australia [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de83b29f5a848ba39f3358
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413225558-989192000.webp" group-title="Cricket - (Live)",Victoria VS Queensland Bulls [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de83ee07d2ecfd0c15939a
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp" group-title="Cricket - (Live)",New South Wales VS South Australia [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de83b29f5a848ba39f3358
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413305837-632688070.webp" group-title="Cricket - (Upcoming)",Western Australia VS Tasmania Tigers [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de843c9f5a848ba39f3359
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769780402322-388193727.webp" group-title="Cricket - (Upcoming)",TBD VS TBD [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=697cb4b4e3ef4643d3036666
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299176145-258505689.webp" group-title="Cricket - (Upcoming)",Northern District VS Central Stags [Upcoming]
