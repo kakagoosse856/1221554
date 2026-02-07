@@ -74,21 +74,27 @@ http://xmrcars.org:8080/bn84k/mono.m3u8
 https://live.fan7live.workers.dev/?url=https://oma-server.site/live/live/bein9/master.m3u8
 #EXTINF:-1,beIN SPORTS 9 B
 http://xmrcars.org:8080/bn94k/mono.m3u8
-#EXTINF:0,BEIN NEWS
 
-http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.ts
-#EXTINF:0,Bein sport 1 HD
-
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
-#EXTINF:0,Bein sport 1 SD
-
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8
-#EXTINF:0,Bein sport 1 FHD
-
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
-#EXTINF:0,beIN SPORT 1 LOW
-
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
-#EXTINF:0,Bein sport 2 FHD
-
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13983.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="BEIN NEWS" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEIN⚽",BEIN NEWS
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2115.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="Bein sport 1 HD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein1.png" group-title="BEIN⚽",Bein sport 1 HD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 1 SD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein1.png" group-title="BEIN⚽",Bein sport 1 SD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 1 FHD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein1.png" group-title="BEIN⚽",Bein sport 1 FHD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 1 LOW" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein1.png" group-title="BEIN⚽",beIN SPORT 1 LOW
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2 FHD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein2.png" group-title="BEIN⚽",Bein sport 2 FHD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13983.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="Bein sport 2 HD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein2.png" group-title="BEIN⚽",Bein sport 2 HD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/16.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2 SD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein2.png" group-title="BEIN⚽",Bein sport 2 SD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2502.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 2 LOW" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein2.png" group-title="BEIN⚽",beIN SPORT 2 LOW
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6303.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="beINSports3.my" tvg-name="Bein sport 3 HD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein3.png" group-title="BEIN⚽",Bein sport 3 HD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/17.m3u8|user-agent=Lavf/58.76.100
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="Bein sport 3 SD" tvg-logo="http://resellerspart.ddns.net:88/picons/bein/bein3.png" group-title="BEIN⚽",Bein sport 3 SD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2503.m3u8|user-agent=Lavf/58.76.100
