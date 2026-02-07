@@ -1,119 +1,138 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN SPORTS 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1482.xyz/
+https://vy2.04bf112a615942b34.sbs/yayinzirve.m3u8
 
-#EXTINF:0,BEIN NEWS
+#EXTINF:-1 tvg-name="beIN SPORTS 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://monotv527.com/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://bs.arectv33.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://bs.arectv33.sbs/static/bs1.m3u8
+#EXTINF:-1,BEIN NEWS
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
-#EXTINF:0,AR : Bein sport 1 FHD
+#EXTINF:-1,AR : Bein sport 1 FHD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13982.m3u8
-#EXTINF:0,AR : Bein sport 1 HD
+#EXTINF:-1,AR : Bein sport 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12680.m3u8
-#EXTINF:0,AR : Bein sport 1 SD
+#EXTINF:-1,AR : Bein sport 1 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13981.m3u8
-#EXTINF:0,AR : Bein sport 2 HD
+#EXTINF:-1,AR : Bein sport 2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12687.m3u8
-#EXTINF:0,AR : Bein sport 3 HD
+#EXTINF:-1,AR : Bein sport 3 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12688.m3u8
-#EXTINF:0,AR : Bein sport 4 HD
+#EXTINF:-1,AR : Bein sport 4 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12689.m3u8
-#EXTINF:0,AR : Bein sport 5 HD
+#EXTINF:-1,AR : Bein sport 5 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12690.m3u8
-#EXTINF:0,AR : Bein sport 6 HD
+#EXTINF:-1,AR : Bein sport 6 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12840.m3u8
-#EXTINF:0,AR : Bein sport 7 HD
+#EXTINF:-1,AR : Bein sport 7 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12841.m3u8
-#EXTINF:0,AR : Bein sport 8 HD
+#EXTINF:-1,AR : Bein sport 8 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12842.m3u8
-#EXTINF:0,AR : Bein sport 9 HD
+#EXTINF:-1,AR : Bein sport 9 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/12843.m3u8
-#EXTINF:0,Bein sport 1 HD
+#EXTINF:-1,Bein sport 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
-#EXTINF:0,Bein sport 1 SD
+#EXTINF:-1,Bein sport 1 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8
-#EXTINF:0,Bein sport 1 FHD
+#EXTINF:-1,Bein sport 1 FHD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
-#EXTINF:0,beIN SPORT 1 LOW
+#EXTINF:-1,beIN SPORT 1 LOW
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
-#EXTINF:0,Bein sport 2 FHD
+#EXTINF:-1,Bein sport 2 FHD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/13983.m3u8
-#EXTINF:0,Bein sport 2 HD
+#EXTINF:-1,Bein sport 2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/16.m3u8
-#EXTINF:0,Bein sport 2 SD
+#EXTINF:-1,Bein sport 2 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2502.m3u8
-#EXTINF:0,beIN SPORT 2 LOW
+#EXTINF:-1,beIN SPORT 2 LOW
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6303.m3u8
-#EXTINF:0,Bein sport 3 HD
+#EXTINF:-1,Bein sport 3 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/17.m3u8
-#EXTINF:0,Bein sport 3 SD
+#EXTINF:-1,Bein sport 3 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2503.m3u8
-#EXTINF:0,beIN SPORT 3 LOW
+#EXTINF:-1,beIN SPORT 3 LOW
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6304.m3u8
-#EXTINF:0,Bein sport 4 HD
+#EXTINF:-1,Bein sport 4 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/18.m3u8
-#EXTINF:0,Bein sport 4 SD
+#EXTINF:-1,Bein sport 4 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2504.m3u8
-#EXTINF:0,beIN SPORT 4 LOW
+#EXTINF:-1,beIN SPORT 4 LOW
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6305.m3u8
-#EXTINF:0,Bein sport 5 HD
+#EXTINF:-1,Bein sport 5 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/77.m3u8
-#EXTINF:0,Bein sport 5 SD
+#EXTINF:-1,Bein sport 5 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2505.m3u8
-#EXTINF:0,Bein sport 6 HD
+#EXTINF:-1,Bein sport 6 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/78.m3u8
-#EXTINF:0,Bein sport 6 SD
+#EXTINF:-1,Bein sport 6 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2506.m3u8
-#EXTINF:0,Bein sport 7 HD
+#EXTINF:-1,Bein sport 7 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/79.m3u8
-#EXTINF:0,Bein sport 7 SD
+#EXTINF:-1,Bein sport 7 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2507.m3u8
-#EXTINF:0,Bein sport 8 HD
+#EXTINF:-1,Bein sport 8 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/69.m3u8
-#EXTINF:0,Bein sport 8 SD
+#EXTINF:-1,Bein sport 8 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2508.m3u8
-#EXTINF:0,BEIN SPORT ENGLISH 1 HD
+#EXTINF:-1,BEIN SPORT ENGLISH 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3476.m3u8
-#EXTINF:0,BEIN SPORT ENGLISH2 HD
+#EXTINF:-1,BEIN SPORT ENGLISH2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3477.m3u8
-#EXTINF:0,Bein Sport 1HD FR
+#EXTINF:-1,Bein Sport 1HD FR
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/431.m3u8
-#EXTINF:0,Bein Sport 2HD FR
+#EXTINF:-1,Bein Sport 2HD FR
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/432.m3u8
-#EXTINF:0,Bein Sport 3HD FR
+#EXTINF:-1,Bein Sport 3HD FR
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/433.m3u8
+
