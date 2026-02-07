@@ -74,44 +74,11 @@ http://h42.reelpush.online/live/1515000000/index.m3u8
 http://h42.reelpush.online/live/788550011/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 6 LOW
 http://h42.reelpush.online/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORT",beIN Sports 7 HD
-http://h42.reelpush.online/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORT",beIN Sports 7 SD
-http://h42.reelpush.online/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 7 LOW
-http://h42.reelpush.online/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 1 HD
-http://h42.reelpush.online/live/9962564400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 2 HD
-http://h42.reelpush.online/live/880025552/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 1 SD
-http://h42.reelpush.online/live/500025558/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 2 SD
-http://h42.reelpush.online/live/5151400337/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 1 LOW
-http://h42.reelpush.online/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports Xtra 2 LOW
-http://h42.reelpush.online/live/998222554/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEIN SPORT",beIN Sports News
-http://h42.reelpush.online/live/62464521/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 1 HD
 http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 1 SD
-http://h42.reelpush.online/live/14066007/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 1 LOW
 http://h42.reelpush.online/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 2 HD
-http://h42.reelpush.online/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 2 SD
-http://h42.reelpush.online/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 2 LOW
-http://h42.reelpush.online/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 3 HD
-http://h42.reelpush.online/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 3 SD
-http://h42.reelpush.online/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 3 LOW
-http://h42.reelpush.online/live/2433016410/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
