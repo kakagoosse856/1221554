@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/81cx7cu.png" group-title="Selcuk-Panel", beIN Sports 1 A
+#EXTVLCOPT:http-referrer=https://ventureyard.net
+https://mx3m4w2w.77911050.net/hls/cosjzd7el0.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/81cx7cu.png" group-title="Selcuk-Panel", beIN Sports 1
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukbeinsports1/playlist.m3u8
