@@ -2,7 +2,7 @@
 
 #EXTINF:0,BEIN NEWS
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
+http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.ts
 #EXTINF:0,Bein sport 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
