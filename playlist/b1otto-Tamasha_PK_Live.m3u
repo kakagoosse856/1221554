@@ -2,18 +2,18 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-07 09:22 AM (BD Time)
+# Last Updated: 2026-02-07 10:39 AM (BD Time)
 # TV channel counts :- 6
 #==================================
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770396922473.webp?id=47" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTc6NDMgUE0maGFzaF92YWx1ZT1ubkQrZ1lKbHdLRmcvZWQ4VFBmMytBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770397019254.webp?id=11" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-b
-https://cdn04isb-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTc6NTAgUE0maGFzaF92YWx1ZT1qNW9xTHc3aTJna2ZObklXcGtsS0hBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770137942782.webp?id=67" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-c
-https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTc6NTggUE0maGFzaF92YWx1ZT05dm0zSDFtS003ZjNtUnl5K2s0OHNBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770397406618.webp?id=35" group-title="Tamasha-Live",the-dug-out-icc-t20-world-cup-2026
-https://cdn08khi.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTg6MDUgUE0maGFzaF92YWx1ZT1nQlpVNS9JN1FkTDUraWFUVzNqYWVBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=48" group-title="Tamasha-Live",ptv-sports
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTg6MTIgUE0maGFzaF92YWx1ZT1nbTdZcE9yWjZaSXkxTDVLamdQZWRnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=22" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6NTg6MjAgUE0maGFzaF92YWx1ZT11VzZVNWlGR01yMi9qUHJnRnRrVStBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770396922473.webp?id=76" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026
+https://cdn06khi.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OToyNCBBTSZoYXNoX3ZhbHVlPUt1S3plT2lkbVFZendjMG9VemlWVlE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770397019254.webp?id=65" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-b
+https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OTozMiBBTSZoYXNoX3ZhbHVlPW5kNUJhTzV6RVYvMk1WQ3piVUZQSGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770137942782.webp?id=14" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-c
+https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OTozOSBBTSZoYXNoX3ZhbHVlPUlUcmt0VUE1RmVvZzBzMW1ORUhDOXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770397406618.webp?id=29" group-title="Tamasha-Live",the-dug-out-icc-t20-world-cup-2026
+https://cdn11lhr.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OTo0NSBBTSZoYXNoX3ZhbHVlPTZ1ZlU4MGVhZWJGQVAxTzNKSm54UXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=93" group-title="Tamasha-Live",ptv-sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OTo1MiBBTSZoYXNoX3ZhbHVlPUJkN3NtV1NESTl0ZVVGZHpOT3R6WXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=41" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTo0OTo1OSBBTSZoYXNoX3ZhbHVlPUhoc1ZOTERhMFE2QUsrbmhQbVdya0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
