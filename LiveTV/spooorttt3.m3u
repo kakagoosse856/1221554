@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/81cx7cu.png" group-title="Selcuk-Panel", beIN Sports 1 A
-#EXTVLCOPT:http-referrer=https://ventureyard.net
-https://mx3m4w2w.77911050.net/hls/cosjzd7el0.m3u8
+#EXTINF:0,BEIN NEWS
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/2115
+#EXTINF:0,Bein sport 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/15
+#EXTINF:0,Bein sport 1 SD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/2501
+#EXTINF:0,Bein sport 1 FHD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/6487
+#EXTINF:0,beIN SPORT 1 LOW
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/6302
+#EXTINF:0,Bein sport 2 FHD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/13983
+#EXTINF:0,Bein sport 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/782217211/7c207ced7/16
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/81cx7cu.png" group-title="Selcuk-Panel", beIN Sports 1
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukbeinsports1/playlist.m3u8
