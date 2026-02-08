@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # رابط الموقع
-URL = "https://v5on.site/index.php?cat=8"
+URL = "https://v5on.site/index.php?cat=2273"
 
 # اسم ملف M3U الناتج
 OUTPUT_FILE = "888s.m3u"
