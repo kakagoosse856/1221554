@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4k import BeautifulSoup
 
 # رابط الموقع الذي يحتوي على قنوات بين سبور
 URL = "https://v5on.site/index.php?cat=470"
