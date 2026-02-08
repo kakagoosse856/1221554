@@ -161,8 +161,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",BeIN Sports UHD 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN Sports MAX
-http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 1
@@ -183,8 +181,22 @@ https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-ra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 2
-http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports 4K
+http://maveniptv.net:80/live/aosman/0M@1115082222/258035.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1972.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1973.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1974.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 3
 http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1
