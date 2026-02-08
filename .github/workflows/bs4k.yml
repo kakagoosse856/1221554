@@ -21,7 +21,7 @@ jobs:
       - name: Install Requests
         run: pip install requests
 
-      - name: Run FR-AUTO Script
+      - name: Run bs4k Script
         run: python3 bs4k.py
 
       - name: Commit & Push updated M3U
@@ -31,5 +31,5 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add channels/bs4k.m3u8
-          git commit -m "Update FR-AUTO.m3u8 [ci skip]" || echo "No changes"
+          git commit -m "Update bs4k.m3u8 [ci skip]" || echo "No changes"
           git push
