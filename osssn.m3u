@@ -1,163 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="28939" tvg-name="beIN Sports News HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png",beIN Sports News HD
-https://v5on.site/play.php?id=28939
-#EXTINF:-1 tvg-id="28938" tvg-name="beIN Sports Global HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png",beIN Sports Global HD
-https://v5on.site/play.php?id=28938
-#EXTINF:-1 tvg-id="1813397" tvg-name="beIN Sports Global HD (B)" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png",beIN Sports Global HD (B)
-https://v5on.site/play.php?id=1813397
-#EXTINF:-1 tvg-id="312095" tvg-name="beIN. ULTRA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png",beIN. ULTRA UHD
-https://v5on.site/play.php?id=312095
-#EXTINF:-1 tvg-id="235750" tvg-name="beIN REPLAY FINAL UCL" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png",beIN REPLAY FINAL UCL
-https://v5on.site/play.php?id=235750
-#EXTINF:-1 tvg-id="235755" tvg-name="beIN REPLAY FINAL FA CUP" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png",beIN REPLAY FINAL FA CUP
-https://v5on.site/play.php?id=235755
-#EXTINF:-1 tvg-id="1" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",beIN Sports 1 HD
-https://v5on.site/play.php?id=1
-#EXTINF:-1 tvg-id="534831" tvg-name="beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",beIN Sports 1 ᴴᴰ
-https://v5on.site/play.php?id=534831
-#EXTINF:-1 tvg-id="1122212" tvg-name="beIN Sports 1 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",beIN Sports 1 Nexus
-https://v5on.site/play.php?id=1122212
-#EXTINF:-1 tvg-id="108161" tvg-name="beIN Sports 1 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",beIN Sports 1 HD BEE TV
-https://v5on.site/play.php?id=108161
-#EXTINF:-1 tvg-id="1121789" tvg-name="beIN Sports 1 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",beIN Sports 1 APPEL
-https://v5on.site/play.php?id=1121789
-#EXTINF:-1 tvg-id="272468" tvg-name="BEIN SPORTS 1 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",BEIN SPORTS 1 TOD
-https://v5on.site/play.php?id=272468
-#EXTINF:-1 tvg-id="2" tvg-name="beIN Sports 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",beIN Sports 2 HD
-https://v5on.site/play.php?id=2
-#EXTINF:-1 tvg-id="534830" tvg-name="beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",beIN Sports 2 ᴴᴰ
-https://v5on.site/play.php?id=534830
-#EXTINF:-1 tvg-id="1122213" tvg-name="beIN Sports 2 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",beIN Sports 2 Nexus
-https://v5on.site/play.php?id=1122213
-#EXTINF:-1 tvg-id="108162" tvg-name="beIN Sports 2 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",beIN Sports 2 HD BEE TV
-https://v5on.site/play.php?id=108162
-#EXTINF:-1 tvg-id="1121790" tvg-name="beIN Sports 2 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",beIN Sports 2 APPEL
-https://v5on.site/play.php?id=1121790
-#EXTINF:-1 tvg-id="272467" tvg-name="BEIN SPORTS 2 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",BEIN SPORTS 2 TOD
-https://v5on.site/play.php?id=272467
-#EXTINF:-1 tvg-id="4" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 3 HD
-https://v5on.site/play.php?id=4
-#EXTINF:-1 tvg-id="534829" tvg-name="beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 3 ᴴᴰ
-https://v5on.site/play.php?id=534829
-#EXTINF:-1 tvg-id="1122214" tvg-name="beIN Sports 3 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 3 Nexus
-https://v5on.site/play.php?id=1122214
-#EXTINF:-1 tvg-id="108164" tvg-name="beIN Sports 3 HD BEEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 3 HD BEEE TV
-https://v5on.site/play.php?id=108164
-#EXTINF:-1 tvg-id="1121791" tvg-name="beIN Sports 3 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 3 APPEL
-https://v5on.site/play.php?id=1121791
-#EXTINF:-1 tvg-id="272465" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",BEIN SPORTS 3 TOD
-https://v5on.site/play.php?id=272465
-#EXTINF:-1 tvg-id="5" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",beIN Sports 4 HD
-https://v5on.site/play.php?id=5
-#EXTINF:-1 tvg-id="534828" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 4 ᴴᴰ
-https://v5on.site/play.php?id=534828
-#EXTINF:-1 tvg-id="1122215" tvg-name="beIN Sports 4 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 4 Nexus
-https://v5on.site/play.php?id=1122215
-#EXTINF:-1 tvg-id="108165" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",beIN Sports 4 HD BEE TV
-https://v5on.site/play.php?id=108165
-#EXTINF:-1 tvg-id="1121792" tvg-name="beIN Sports 4 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",beIN Sports 4 APPEL
-https://v5on.site/play.php?id=1121792
-#EXTINF:-1 tvg-id="272464" tvg-name="BEIN SPORTS 4 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",BEIN SPORTS 4 TOD
-https://v5on.site/play.php?id=272464
-#EXTINF:-1 tvg-id="6" tvg-name="beIN Sports 5 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",beIN Sports 5 HD
-https://v5on.site/play.php?id=6
-#EXTINF:-1 tvg-id="534827" tvg-name="beIN Sports 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",beIN Sports 5 ᴴᴰ
-https://v5on.site/play.php?id=534827
-#EXTINF:-1 tvg-id="1122216" tvg-name="beIN Sports 5 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",beIN Sports 5 Nexus
-https://v5on.site/play.php?id=1122216
-#EXTINF:-1 tvg-id="108166" tvg-name="beIN Sports 5 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",beIN Sports 5 HD BEE TV
-https://v5on.site/play.php?id=108166
-#EXTINF:-1 tvg-id="1121793" tvg-name="beIN Sports 5 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",beIN Sports 5 APPEL
-https://v5on.site/play.php?id=1121793
-#EXTINF:-1 tvg-id="272463" tvg-name="BEIN SPORTS 5 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",BEIN SPORTS 5 TOD
-https://v5on.site/play.php?id=272463
-#EXTINF:-1 tvg-id="7" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",beIN Sports 6 HD
-https://v5on.site/play.php?id=7
-#EXTINF:-1 tvg-id="534826" tvg-name="beIN Sports 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",beIN Sports 6 ᴴᴰ
-https://v5on.site/play.php?id=534826
-#EXTINF:-1 tvg-id="1122217" tvg-name="beIN Sports 6 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",beIN Sports 6 Nexus
-https://v5on.site/play.php?id=1122217
-#EXTINF:-1 tvg-id="108167" tvg-name="beIN Sports 6 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",beIN Sports 6 HD BEE TV
-https://v5on.site/play.php?id=108167
-#EXTINF:-1 tvg-id="1121794" tvg-name="beIN Sports 6 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",beIN Sports 6 APPEL
-https://v5on.site/play.php?id=1121794
-#EXTINF:-1 tvg-id="272462" tvg-name="BEIN SPORTS 6 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",BEIN SPORTS 6 TOD
-https://v5on.site/play.php?id=272462
-#EXTINF:-1 tvg-id="8" tvg-name="beIN Sports 7 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",beIN Sports 7 HD
-https://v5on.site/play.php?id=8
-#EXTINF:-1 tvg-id="578834" tvg-name="beIN Sports 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",beIN Sports 7 ᴴᴰ
-https://v5on.site/play.php?id=578834
-#EXTINF:-1 tvg-id="1122218" tvg-name="beIN Sports 7 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",beIN Sports 7 Nexus
-https://v5on.site/play.php?id=1122218
-#EXTINF:-1 tvg-id="108168" tvg-name="beIN Sports 7 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",beIN Sports 7 HD BEE TV
-https://v5on.site/play.php?id=108168
-#EXTINF:-1 tvg-id="1121795" tvg-name="beIN Sports 7 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",beIN Sports 7 APPEL
-https://v5on.site/play.php?id=1121795
-#EXTINF:-1 tvg-id="272461" tvg-name="BEIN SPORTS 7 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",BEIN SPORTS 7 TOD
-https://v5on.site/play.php?id=272461
-#EXTINF:-1 tvg-id="9" tvg-name="beIN Sports 8 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png",beIN Sports 8 HD
-https://v5on.site/play.php?id=9
-#EXTINF:-1 tvg-id="578835" tvg-name="beIN Sports 8 ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 8 ᴴᴰ
-https://v5on.site/play.php?id=578835
-#EXTINF:-1 tvg-id="1122219" tvg-name="beIN Sports 8 Nexus" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 8 Nexus
-https://v5on.site/play.php?id=1122219
-#EXTINF:-1 tvg-id="108169" tvg-name="beIN Sports 8 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png",beIN Sports 8 HD BEE TV
-https://v5on.site/play.php?id=108169
-#EXTINF:-1 tvg-id="1121796" tvg-name="beIN Sports 8 APPEL" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 8 APPEL
-https://v5on.site/play.php?id=1121796
-#EXTINF:-1 tvg-id="272460" tvg-name="BEIN SPORTS 8 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png",BEIN SPORTS 8 TOD
-https://v5on.site/play.php?id=272460
-#EXTINF:-1 tvg-id="10" tvg-name="beIN Sports 9 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png",beIN Sports 9 HD
-https://v5on.site/play.php?id=10
-#EXTINF:-1 tvg-id="578836" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 9 ᴴᴰ
-https://v5on.site/play.php?id=578836
-#EXTINF:-1 tvg-id="1122220" tvg-name="beIN Sports 9 Nexus" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 9 Nexus
-https://v5on.site/play.php?id=1122220
-#EXTINF:-1 tvg-id="108170" tvg-name="beIN Sports 9 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png",beIN Sports 9 HD BEE TV
-https://v5on.site/play.php?id=108170
-#EXTINF:-1 tvg-id="1121797" tvg-name="beIN Sports 9 APPEL" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",beIN Sports 9 APPEL
-https://v5on.site/play.php?id=1121797
-#EXTINF:-1 tvg-id="272459" tvg-name="BEIN SPORTS 9 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png",BEIN SPORTS 9 TOD
-https://v5on.site/play.php?id=272459
-#EXTINF:-1 tvg-id="117124" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",beIN Sports XTRA 1 HD
-https://v5on.site/play.php?id=117124
-#EXTINF:-1 tvg-id="117125" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",beIN Sports XTRA 1 HD
-https://v5on.site/play.php?id=117125
-#EXTINF:-1 tvg-id="117129" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",beIN Sports XTRA 2 HD
-https://v5on.site/play.php?id=117129
-#EXTINF:-1 tvg-id="117130" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",beIN Sports XTRA 2 HD
-https://v5on.site/play.php?id=117130
-#EXTINF:-1 tvg-id="3" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XTRA 3 HD
-https://v5on.site/play.php?id=3
-#EXTINF:-1 tvg-id="108163" tvg-name="beIN Sports XSTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XSTRA 3 HD
-https://v5on.site/play.php?id=108163
-#EXTINF:-1 tvg-id="1572902" tvg-name="beIN Sports XTRA 4 HD" tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png",beIN Sports XTRA 4 HD
-https://v5on.site/play.php?id=1572902
-#EXTINF:-1 tvg-id="1572906" tvg-name="beIN Sports XTRA 5 HD" tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png",beIN Sports XTRA 5 HD
-https://v5on.site/play.php?id=1572906
-#EXTINF:-1 tvg-id="1572910" tvg-name="beIN Sports XTRA 6 HD" tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png",beIN Sports XTRA 6 HD
-https://v5on.site/play.php?id=1572910
-#EXTINF:-1 tvg-id="1572914" tvg-name="beIN Sports XTRA 7 HD" tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png",beIN Sports XTRA 7 HD
-https://v5on.site/play.php?id=1572914
-#EXTINF:-1 tvg-id="1572918" tvg-name="beIN Sports XTRA 8 HD" tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png",beIN Sports XTRA 8 HD
-https://v5on.site/play.php?id=1572918
-#EXTINF:-1 tvg-id="1572922" tvg-name="beIN Sports XTRA 9 HD" tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png",beIN Sports XTRA 9 HD
-https://v5on.site/play.php?id=1572922
-#EXTINF:-1 tvg-id="2531" tvg-name="beIN Sports 1 EN HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png",beIN Sports 1 EN HD
-https://v5on.site/play.php?id=2531
-#EXTINF:-1 tvg-id="1269964" tvg-name="beIN Sport English HD 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032",beIN Sport English HD 1
-https://v5on.site/play.php?id=1269964
-#EXTINF:-1 tvg-id="10369" tvg-name="beIN Sports 2 EN HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png",beIN Sports 2 EN HD
-https://v5on.site/play.php?id=10369
-#EXTINF:-1 tvg-id="1269967" tvg-name="beIN Sport English HD 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032",beIN Sport English HD 2
-https://v5on.site/play.php?id=1269967
-#EXTINF:-1 tvg-id="14" tvg-name="beIN Sports 1 UHD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png",beIN Sports 1 UHD FR
-https://v5on.site/play.php?id=14
-#EXTINF:-1 tvg-id="11016" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png",beIN Sports 1 HD FR
-https://v5on.site/play.php?id=11016
-#EXTINF:-1 tvg-id="15" tvg-name="beIN Sports 2 UHD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png",beIN Sports 2 UHD FR
-https://v5on.site/play.php?id=15
-#EXTINF:-1 tvg-id="11017" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png",beIN Sports 2 HD FR
-https://v5on.site/play.php?id=11017
-#EXTINF:-1 tvg-id="3845" tvg-name="beIN Sports Nba HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png",beIN Sports Nba HD
-https://v5on.site/play.php?id=3845
+#EXTINF:-1 tvg-id="1842234" tvg-name="OSN Documentary" tvg-logo="https://www.osn.com/getattachment/watch/hot-topics/osn-blogs/June-2020-(1)/your-daily-dose-of-documentaries-on-osn/OSN-Logo-Red-(1).png.aspx",OSN Documentary
+https://v5on.site/play.php?id=1842234
+#EXTINF:-1 tvg-id="68" tvg-name="OSN ART Aflam 1" tvg-logo="http://138.199.27.237:8080/ART/ARTAFLAM.png",OSN ART Aflam 1
+https://v5on.site/play.php?id=68
+#EXTINF:-1 tvg-id="69" tvg-name="OSN ART Aflam 2" tvg-logo="http://138.199.27.237:8080/ART/ARTAFLAM.png",OSN ART Aflam 2
+https://v5on.site/play.php?id=69
+#EXTINF:-1 tvg-id="70" tvg-name="OSN ART Cinema ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ART/ARTCINEMA.png",OSN ART Cinema ᴴᴰ
+https://v5on.site/play.php?id=70
+#EXTINF:-1 tvg-id="66" tvg-name="OSN  ART Hekayat 1" tvg-logo="http://138.199.27.237:8080/ART/ARTHEKAYAT.png",OSN  ART Hekayat 1
+https://v5on.site/play.php?id=66
+#EXTINF:-1 tvg-id="67" tvg-name="OSN ART  Hekayat 2" tvg-logo="http://138.199.27.237:8080/ART/ARTHEKAYAT.png",OSN ART  Hekayat 2
+https://v5on.site/play.php?id=67
+#EXTINF:-1 tvg-id="309518" tvg-name="OSN ART Tarab" tvg-logo="http://138.199.27.237:8080/ART/arttarab.png",OSN ART Tarab
+https://v5on.site/play.php?id=309518
+#EXTINF:-1 tvg-id="309519" tvg-name="OSN ART" tvg-logo="http://138.199.27.237:8080/ART/art.png",OSN ART
+https://v5on.site/play.php?id=309519
+#EXTINF:-1 tvg-id="309520" tvg-name="OSN ART Movies" tvg-logo="http://138.199.27.237:8080/ART/artmovie.png",OSN ART Movies
+https://v5on.site/play.php?id=309520
+#EXTINF:-1 tvg-id="309521" tvg-name="OSN ART CIMA" tvg-logo="http://138.199.27.237:8080/ARABE/CIMATV.png",OSN ART CIMA
+https://v5on.site/play.php?id=309521
+#EXTINF:-1 tvg-id="15043" tvg-name="OSN AL SAFWA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/ALFAALSAFWAHD.png",OSN AL SAFWA ᴴᴰ
+https://v5on.site/play.php?id=15043
+#EXTINF:-1 tvg-id="15044" tvg-name="OSN ALYAWM ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/ALYAwm.png",OSN ALYAWM ᴴᴰ
+https://v5on.site/play.php?id=15044
+#EXTINF:-1 tvg-id="726" tvg-name="OSN Cinema 1" tvg-logo="http://138.199.27.237:8080/OSN/ALFACINEMA.png",OSN Cinema 1
+https://v5on.site/play.php?id=726
+#EXTINF:-1 tvg-id="727" tvg-name="OSN  Cinema 2" tvg-logo="http://138.199.27.237:8080/OSN/ALFACINEMA.png",OSN  Cinema 2
+https://v5on.site/play.php?id=727
+#EXTINF:-1 tvg-id="9007" tvg-name="FANN" tvg-logo="https://content.osn.com/logo/channel/cropped/FAN.png",FANN
+https://v5on.site/play.php?id=9007
+#EXTINF:-1 tvg-id="10159" tvg-name="OSN Nahar Drama ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EGYPT/AL NAHAR DRAMA.png",OSN Nahar Drama ᴴᴰ
+https://v5on.site/play.php?id=10159
+#EXTINF:-1 tvg-id="10160" tvg-name="OSN Nahar One ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EGYPT/AL NAHAR ONE.png",OSN Nahar One ᴴᴰ
+https://v5on.site/play.php?id=10160
+#EXTINF:-1 tvg-id="22" tvg-name="OSN YAHALA ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png",OSN YAHALA ᴴᴰ
+https://v5on.site/play.php?id=22
+#EXTINF:-1 tvg-id="28" tvg-name="OSN YAHALA BIL ARABI ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png",OSN YAHALA BIL ARABI ᴴᴰ
+https://v5on.site/play.php?id=28
+#EXTINF:-1 tvg-id="37" tvg-name="OSN YAHALA CINEMA ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png",OSN YAHALA CINEMA ᴴᴰ
+https://v5on.site/play.php?id=37
+#EXTINF:-1 tvg-id="728" tvg-name="OSN ALFA MUSALSALAT 1" tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png",OSN ALFA MUSALSALAT 1
+https://v5on.site/play.php?id=728
+#EXTINF:-1 tvg-id="9005" tvg-name="OSN ALFA MUSALSALAT +2" tvg-logo="https://content.osn.com/logo/channel/cropped/SE2.png",OSN ALFA MUSALSALAT +2
+https://v5on.site/play.php?id=9005
+#EXTINF:-1 tvg-id="106218" tvg-name="OSN NEWS ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/ONS.png",OSN NEWS ᴴᴰ
+https://v5on.site/play.php?id=106218
+#EXTINF:-1 tvg-id="624267" tvg-name="OSN Popup HD" tvg-logo="https://content.osn.com/logo/channel/cropped/POP.png",OSN Popup HD
+https://v5on.site/play.php?id=624267
+#EXTINF:-1 tvg-id="598740" tvg-name="OSN Crime ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png",OSN Crime ᴴᴰ
+https://v5on.site/play.php?id=598740
+#EXTINF:-1 tvg-id="4759" tvg-name="OSN Kids ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OSN-Kids.png",OSN Kids ᴴᴰ
+https://v5on.site/play.php?id=4759
+#EXTINF:-1 tvg-id="195317" tvg-name="OSN MUNNBEBG" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/Moonbug_Kids(1).png",OSN MUNNBEBG
+https://v5on.site/play.php?id=195317
+#EXTINF:-1 tvg-id="35" tvg-name="OSN ONE" tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png",OSN ONE
+https://v5on.site/play.php?id=35
+#EXTINF:-1 tvg-id="15033" tvg-name="OSN Showcase ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/UK/SHOWCASE-1.png",OSN Showcase ᴴᴰ
+https://v5on.site/play.php?id=15033
+#EXTINF:-1 tvg-id="599153" tvg-name="OSN Showcase Classics" tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png",OSN Showcase Classics
+https://v5on.site/play.php?id=599153
+#EXTINF:-1 tvg-id="14571" tvg-name="OSN NOW" tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png",OSN NOW
+https://v5on.site/play.php?id=14571
+#EXTINF:-1 tvg-id="599152" tvg-name="OSN Movies FAMILY" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png",OSN Movies FAMILY
+https://v5on.site/play.php?id=599152
+#EXTINF:-1 tvg-id="27732" tvg-name="OSN Movies hollywood ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/hollw.png",OSN Movies hollywood ᴴᴰ
+https://v5on.site/play.php?id=27732
+#EXTINF:-1 tvg-id="27737" tvg-name="OSN MOVIES ACTION ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png",OSN MOVIES ACTION ᴴᴰ
+https://v5on.site/play.php?id=27737
+#EXTINF:-1 tvg-id="15035" tvg-name="OSN Movies Premiere ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png",OSN Movies Premiere ᴴᴰ
+https://v5on.site/play.php?id=15035
+#EXTINF:-1 tvg-id="1021546" tvg-name="OSN Movies Horror" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",OSN Movies Horror
+https://v5on.site/play.php?id=1021546
+#EXTINF:-1 tvg-id="15038" tvg-name="OSN COMEDY ᴴᴰ" tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png",OSN COMEDY ᴴᴰ
+https://v5on.site/play.php?id=15038
+#EXTINF:-1 tvg-id="599154" tvg-name="OSN FATAFEAT" tvg-logo="https://content.osn.com/logo/channel/cropped/FTF.png",OSN FATAFEAT
+https://v5on.site/play.php?id=599154
+#EXTINF:-1 tvg-id="60922" tvg-name="OSN Discovery ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png",OSN Discovery ᴴᴰ
+https://v5on.site/play.php?id=60922
+#EXTINF:-1 tvg-id="2569" tvg-name="OSN Docu Box ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EXYU/DOCUBOXHD.png",OSN Docu Box ᴴᴰ
+https://v5on.site/play.php?id=2569
+#EXTINF:-1 tvg-id="2570" tvg-name="OSN Fight Box ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/FIGHT-BOX.png",OSN Fight Box ᴴᴰ
+https://v5on.site/play.php?id=2570
+#EXTINF:-1 tvg-id="8267" tvg-name="OSN H2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OSN-H2.png",OSN H2 ᴴᴰ
+https://v5on.site/play.php?id=8267
+#EXTINF:-1 tvg-id="60919" tvg-name="OSN H2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OSN-H2-.png",OSN H2 ᵁᴴᴰ
+https://v5on.site/play.php?id=60919
+#EXTINF:-1 tvg-id="20763" tvg-name="OSN History 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OSN-H2-.png",OSN History 2 ᴴᴰ
+https://v5on.site/play.php?id=20763
+#EXTINF:-1 tvg-id="4762" tvg-name="OSN History ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OSNHISTORYHD.png",OSN History ᴴᴰ
+https://v5on.site/play.php?id=4762
+#EXTINF:-1 tvg-id="44847" tvg-name="OSN MEZZE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OSN/OME-Mezze.png",OSN MEZZE ᴴᴰ
+https://v5on.site/play.php?id=44847
+#EXTINF:-1 tvg-id="23236" tvg-name="OSN TLC ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png",OSN TLC ᴴᴰ
+https://v5on.site/play.php?id=23236
