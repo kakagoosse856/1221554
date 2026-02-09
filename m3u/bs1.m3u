@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="SPORTS",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3" group-title="SPORTS",BeIN Sports 3
-#EXTINF:-1,beIN SPORTS الإخبارية
-http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
+#EXTINF:-1,beIN SPORTS 1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:0,BEIN NEWS
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
