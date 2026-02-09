@@ -8,7 +8,7 @@ URL = "https://v5on.site/index.php?cat=29"
 OUTPUT_FILE = "tnntfrr.m3u"
 
 # استثناء القنوات حسب tvg-id أو الاسم
-EXCLUDE_IDS = ["1515459"]            # استثناء حسب ID
+EXCLUDE_IDS = ["1515460"]            # استثناء حسب ID
 EXCLUDE_NAMES = ["معلومات عن الخدمة"]  # استثناء حسب الاسم
 
 # إعداد headers
