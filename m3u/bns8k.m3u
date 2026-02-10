@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="AR- BEIN SPORTS 8K ",AR- BEIN SPORTS 1 8K
+http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="AR- BEIN SPORTS 8K ",AR- BEIN SPORTS 2 8K
+http://xcarscharge.pro:8080/bn2hevc/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="AR- BEIN SPORTS 8K ",AR- BEIN SPORTS 3 8K
+http://xcarscharge.pro:8080/bn3hevc/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="AR- BEIN SPORTS 8K ",AR- BEIN SPORTS 4 8K
+http://xcarscharge.pro:8080/bn4hevc/tracks-v1a1/mono.m3u8
