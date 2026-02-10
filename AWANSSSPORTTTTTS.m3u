@@ -56,38 +56,4 @@ http://yusfiptv.ddns.net:8880/live/46708885973/360055443971/550423.m3u8
 http://135.125.109.73:9000/Alwan%20Sport%201%20HD%20VIP%20Arb_.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 3 HD
-http://135.125.109.73:9000/Alwan%20Sport%203%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 4 HD
-http://135.125.109.73:9000/Alwan%20Sport%204%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 5 HD
-http://135.125.109.73:9000/Alwan%20Sport%205%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 HD
-http://135.125.109.73:9000/Alwan%20Sport%206%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 FHD
-http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 FHD
-http://135.125.109.73:9000/Alwan%20Sport%202%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 3 FHD
-http://135.125.109.73:9000/Alwan%20Sport%203%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 4 FHD
-http://135.125.109.73:9000/Alwan%20Sport%204%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 5 FHD
-http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 6 FHD
-http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Shasha Sport 1 HD" tvg-logo="" group-title="AR (CH ARABES)",Shasha Sport 1 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3740.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 1 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3741.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 2 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3742.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 3 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3743.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 4 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3744.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 5 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3745.m3u8|user-agent=Lavf/58.76.100
