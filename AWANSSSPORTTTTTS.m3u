@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
+https://313stream.7seen.xyz/cmaf/0afd3234/master.m3u8
+#EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 1 HD
 http://135.125.109.73:9000/Alwan%20Sport%201%20HD%20VIP%20Arb_.m3u8
 #EXTINF:-1 tvg-id="BeinSport1.qa" tvg-logo="https://logo.com/bein2.png" group-title="رياضية",Alwan Sport 2 HD
 http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
