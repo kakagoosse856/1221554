@@ -1,0 +1,38 @@
+name: Auto Update ✪ uspremsssspo M3U
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # كل ساعة
+  workflow_dispatch:    # يمكن تشغيله يدويًا
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate M3U
+        run: python uspremsssspo.py
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          if [ -f uspremsssspo.m3u ]; then
+            git add uspremsssspo.m3u
+            git commit -m "Auto update uspremsssspo.m3u" || echo "No changes to commit"
+            git pull --rebase
+            git push
+          else
+            echo "uspremsssspo.m3u does not exist, skipping commit."
+          fi
