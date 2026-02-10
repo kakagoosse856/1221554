@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,beIN Sports 1 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2499/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2500/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2501/index.m3u8
+#EXTINF:-1,beIN Sports Max 1 FHD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19062/index.m3u8
+#EXTINF:-1,beIN Sports Max 2 FHD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19063/index.m3u8
+#EXTINF:-1,beIN Sports Haber HD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19064/index.m3u8
+#EXTINF:-1,beIN Sports Max 2 HD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19066/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6123/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6124/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6125/index.m3u8
+#EXTINF:-1,beIN Sports 5 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6126/index.m3u8
+#EXTINF:-1,beIN Sports 6 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6127/index.m3u8
+#EXTINF:-1,beIN Sports 7 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6128/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="SPORTS",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3" group-title="SPORTS",BeIN Sports 3
