@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="14263" tvg-name="ACTION SPORTS 4U" tvg-logo="data:image/png;base64,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",ACTION SPORTS 4U
+https://v5on.site/play.php?id=14263
+#EXTINF:-1 tvg-id="10916" tvg-name="Dunamis TV" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/Dunamis-TV.png",Dunamis TV
+https://v5on.site/play.php?id=10916
+#EXTINF:-1 tvg-id="11006" tvg-name="TV5 AFRIQUE" tvg-logo="http://138.199.27.237:8080/AFRICA/TV5AFRIQUE.png",TV5 AFRIQUE
+https://v5on.site/play.php?id=11006
+#EXTINF:-1 tvg-id="10994" tvg-name="BICHRI TV" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/bichritv-logo.png",BICHRI TV
+https://v5on.site/play.php?id=10994
+#EXTINF:-1 tvg-id="10938" tvg-name="DRTV" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/DRTV.png",DRTV
+https://v5on.site/play.php?id=10938
+#EXTINF:-1 tvg-id="287442" tvg-name="KYKNET & KIE ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",KYKNET & KIE ᴴᴰ
+https://v5on.site/play.php?id=287442
+#EXTINF:-1 tvg-id="287444" tvg-name="ALAFIA TV MR ˢᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",ALAFIA TV MR ˢᴰ
+https://v5on.site/play.php?id=287444
+#EXTINF:-1 tvg-id="287445" tvg-name="A12 ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",A12 ᴴᴰ
+https://v5on.site/play.php?id=287445
+#EXTINF:-1 tvg-id="287446" tvg-name="TELE BOSTON ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",TELE BOSTON ᴴᴰ
+https://v5on.site/play.php?id=287446
+#EXTINF:-1 tvg-id="287447" tvg-name="LEEEKO TV ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",LEEEKO TV ᴴᴰ
+https://v5on.site/play.php?id=287447
+#EXTINF:-1 tvg-id="287449" tvg-name="MYTV ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",MYTV ᴴᴰ
+https://v5on.site/play.php?id=287449
+#EXTINF:-1 tvg-id="287452" tvg-name="BONFEREY ˢᴰ" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uX9XAP58FG-RSfYUdbEjaPf4ICS9cCwTIa8_X45Wv4nnD.png",BONFEREY ˢᴰ
+https://v5on.site/play.php?id=287452
+#EXTINF:-1 tvg-id="287453" tvg-name="AMAZING DISCOVERIES TV ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",AMAZING DISCOVERIES TV ᴴᴰ
+https://v5on.site/play.php?id=287453
+#EXTINF:-1 tvg-id="12282" tvg-name="MYCOMEDY" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/MYCOMEDY.png",MYCOMEDY
+https://v5on.site/play.php?id=12282
+#EXTINF:-1 tvg-id="12280" tvg-name="NOVELAS" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/NOVELAS.png",NOVELAS
+https://v5on.site/play.php?id=12280
+#EXTINF:-1 tvg-id="12279" tvg-name="NOVELAS TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",NOVELAS TV
+https://v5on.site/play.php?id=12279
+#EXTINF:-1 tvg-id="10915" tvg-name="AFRICA 24" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICA24.png",AFRICA 24
+https://v5on.site/play.php?id=10915
+#EXTINF:-1 tvg-id="10934" tvg-name="AFRICA NEWS" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICANEWS.png",AFRICA NEWS
+https://v5on.site/play.php?id=10934
+#EXTINF:-1 tvg-id="12283" tvg-name="ARIS NEWS" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/ARIS-TV.png",ARIS NEWS
+https://v5on.site/play.php?id=12283
+#EXTINF:-1 tvg-id="12278" tvg-name="RTP AFRICA" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/RTP_%c3%81frica.png",RTP AFRICA
+https://v5on.site/play.php?id=12278
+#EXTINF:-1 tvg-id="10926" tvg-name="SIERRA LEONE" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/SIERRALEONE.png",SIERRA LEONE
+https://v5on.site/play.php?id=10926
+#EXTINF:-1 tvg-id="10925" tvg-name="Vision 4 TV" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/VISION-4-TV.png",Vision 4 TV
+https://v5on.site/play.php?id=10925
+#EXTINF:-1 tvg-id="10984" tvg-name="ORTB" tvg-logo="http://138.199.27.237:8080/AFRICA/ORTB.png",ORTB
+https://v5on.site/play.php?id=10984
+#EXTINF:-1 tvg-id="10962" tvg-name="Eriteria TV" tvg-logo="http://138.199.27.237:8080/AFRICA/ERITREA.png",Eriteria TV
+https://v5on.site/play.php?id=10962
+#EXTINF:-1 tvg-id="10963" tvg-name="ERITV" tvg-logo="http://138.199.27.237:8080/AFRICA/ERITV.png",ERITV
+https://v5on.site/play.php?id=10963
+#EXTINF:-1 tvg-id="29496" tvg-name="TVM 1 ( Mozambique )" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/TVM1.png",TVM 1 ( Mozambique )
+https://v5on.site/play.php?id=29496
+#EXTINF:-1 tvg-id="108025" tvg-name="ENCA TV" tvg-logo="http://logodmtv.ddns.net/LOGO%20DREAMTV%204K/ENCATV.PNG",ENCA TV
+https://v5on.site/play.php?id=108025
+#EXTINF:-1 tvg-id="524121" tvg-name="Togo TG" tvg-logo="http://138.199.27.237:8080/AFRICA/Togo TG.png",Togo TG
+https://v5on.site/play.php?id=524121
+#EXTINF:-1 tvg-id="116511" tvg-name="TCV CABO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE",TCV CABO
+https://v5on.site/play.php?id=116511
+#EXTINF:-1 tvg-id="10980" tvg-name="TELECHAD" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/TELECHAD.png",TELECHAD
+https://v5on.site/play.php?id=10980
+#EXTINF:-1 tvg-id="10960" tvg-name="RTD" tvg-logo="http://138.199.27.237:8080/AFRICA/RTD.png",RTD
+https://v5on.site/play.php?id=10960
+#EXTINF:-1 tvg-id="99414" tvg-name="City TV" tvg-logo="http://103.161.34.238/dreamtv/tv/City.png",City TV
+https://v5on.site/play.php?id=99414
+#EXTINF:-1 tvg-id="303407" tvg-name="SS Cricket" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/s.png",SS Cricket
+https://v5on.site/play.php?id=303407
+#EXTINF:-1 tvg-id="303408" tvg-name="SS Motorsport" tvg-logo="http://138.199.27.237:8080/AFRICA/SSMotorsport.jpeg",SS Motorsport
+https://v5on.site/play.php?id=303408
+#EXTINF:-1 tvg-id="303409" tvg-name="SS Tennis" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/s.png",SS Tennis
+https://v5on.site/play.php?id=303409
+#EXTINF:-1 tvg-id="303410" tvg-name="OneZED" tvg-logo="http://138.199.27.237:8080/AFRICA/OneZED.jpeg",OneZED
+https://v5on.site/play.php?id=303410
+#EXTINF:-1 tvg-id="303411" tvg-name="SS Grandstand" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/supersport-grandstand-live.png",SS Grandstand
+https://v5on.site/play.php?id=303411
+#EXTINF:-1 tvg-id="303412" tvg-name="SS La Liga" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/s.png",SS La Liga
+https://v5on.site/play.php?id=303412
+#EXTINF:-1 tvg-id="303413" tvg-name="SS Variety 1" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/supersport-variety-1.png",SS Variety 1
+https://v5on.site/play.php?id=303413
+#EXTINF:-1 tvg-id="303414" tvg-name="SS Variety 2" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/supersport-variety-2.png",SS Variety 2
+https://v5on.site/play.php?id=303414
+#EXTINF:-1 tvg-id="303415" tvg-name="SS Variety 3" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/supersport-variety-3.png",SS Variety 3
+https://v5on.site/play.php?id=303415
+#EXTINF:-1 tvg-id="303416" tvg-name="SS Variety 4 Africa ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/supersport-variety-4.png",SS Variety 4 Africa ᴴᴰ
+https://v5on.site/play.php?id=303416
+#EXTINF:-1 tvg-id="234820" tvg-name="AYV TV" tvg-logo="http://103.161.34.238/dreamtv/tv/AYV.png",AYV TV
+https://v5on.site/play.php?id=234820
+#EXTINF:-1 tvg-id="12274" tvg-name="RTV" tvg-logo="http://138.199.27.237:8080/AFRICA/RTV.png",RTV
+https://v5on.site/play.php?id=12274
+#EXTINF:-1 tvg-id="287023" tvg-name="ONE AFRICA TV" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_namibia.png",ONE AFRICA TV
+https://v5on.site/play.php?id=287023
+#EXTINF:-1 tvg-id="483393" tvg-name="AF| ANTENNE REUNION" tvg-logo="http://138.199.27.237:8080/AFRICA/ANTENNE REUNION.jpeg",AF| ANTENNE REUNION
+https://v5on.site/play.php?id=483393
+#EXTINF:-1 tvg-id="483392" tvg-name="AF| REUNION 1ERE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/REUNION 1ERE.png",AF| REUNION 1ERE ᴴᴰ
+https://v5on.site/play.php?id=483392
+#EXTINF:-1 tvg-id="587975" tvg-name="QTV GAMBIA" tvg-logo="http://138.199.27.237:8080/AFRICA/SENEGAL/QTVGAMBIA.png",QTV GAMBIA
+https://v5on.site/play.php?id=587975
+#EXTINF:-1 tvg-id="10964" tvg-name="African News" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICANEWS.png",African News
+https://v5on.site/play.php?id=10964
+#EXTINF:-1 tvg-id="29515" tvg-name="AFRICA TV1" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/NBS.png",AFRICA TV1
+https://v5on.site/play.php?id=29515
+#EXTINF:-1 tvg-id="286512" tvg-name="AKWAABA MAGIC ABUSUA" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",AKWAABA MAGIC ABUSUA
+https://v5on.site/play.php?id=286512
+#EXTINF:-1 tvg-id="29518" tvg-name="Dayax TV" tvg-logo="http://138.199.27.237:8080/AFRICA/DAYAXTV.png",Dayax TV
+https://v5on.site/play.php?id=29518
+#EXTINF:-1 tvg-id="12269" tvg-name="Espace TV" tvg-logo="http://138.199.27.237:8080/AFRICA/ESPACETV.png",Espace TV
+https://v5on.site/play.php?id=12269
+#EXTINF:-1 tvg-id="261209" tvg-name="Life TV - IC" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",Life TV - IC
+https://v5on.site/play.php?id=261209
+#EXTINF:-1 tvg-id="235165" tvg-name="MANGO Novelas" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",MANGO Novelas
+https://v5on.site/play.php?id=235165
+#EXTINF:-1 tvg-id="287491" tvg-name="MGG TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",MGG TV
+https://v5on.site/play.php?id=287491
+#EXTINF:-1 tvg-id="287494" tvg-name="NATHAN TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",NATHAN TV
+https://v5on.site/play.php?id=287494
+#EXTINF:-1 tvg-id="235164" tvg-name="NCi" tvg-logo="http://logo4k.ddns.net/dreamtv/tv/NCI.png",NCi
+https://v5on.site/play.php?id=235164
+#EXTINF:-1 tvg-id="287495" tvg-name="RATELKI" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",RATELKI
+https://v5on.site/play.php?id=287495
+#EXTINF:-1 tvg-id="29510" tvg-name="RWANDA TV" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/RWANDA.png",RWANDA TV
+https://v5on.site/play.php?id=29510
+#EXTINF:-1 tvg-id="252684" tvg-name="Showmax Kids" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/SHOWMAX.png",Showmax Kids
+https://v5on.site/play.php?id=252684
+#EXTINF:-1 tvg-id="252683" tvg-name="Showmax Movies" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/SHOWMAX.png",Showmax Movies
+https://v5on.site/play.php?id=252683
+#EXTINF:-1 tvg-id="54939" tvg-name="SuperSport 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 2 ᴴᴰ
+https://v5on.site/play.php?id=54939
+#EXTINF:-1 tvg-id="54940" tvg-name="SuperSport 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 3 ᴴᴰ
+https://v5on.site/play.php?id=54940
+#EXTINF:-1 tvg-id="54941" tvg-name="SuperSport 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 4 ᴴᴰ
+https://v5on.site/play.php?id=54941
+#EXTINF:-1 tvg-id="54944" tvg-name="SuperSport 7 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 7 ᴴᴰ
+https://v5on.site/play.php?id=54944
+#EXTINF:-1 tvg-id="54945" tvg-name="SuperSport 8 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 8 ᴴᴰ
+https://v5on.site/play.php?id=54945
+#EXTINF:-1 tvg-id="54946" tvg-name="SuperSport 9 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 9 ᴴᴰ
+https://v5on.site/play.php?id=54946
+#EXTINF:-1 tvg-id="54947" tvg-name="SuperSport 10 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport 10 ᴴᴰ
+https://v5on.site/play.php?id=54947
+#EXTINF:-1 tvg-id="54938" tvg-name="SuperSport  ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg",SuperSport  ᴴᴰ
+https://v5on.site/play.php?id=54938
+#EXTINF:-1 tvg-id="287492" tvg-name="TAMBARIN HAUSA TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80",TAMBARIN HAUSA TV
+https://v5on.site/play.php?id=287492
+#EXTINF:-1 tvg-id="29509" tvg-name="Tele Chad TV ( Chad )" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/TELECHAD.png",Tele Chad TV ( Chad )
+https://v5on.site/play.php?id=29509
+#EXTINF:-1 tvg-id="29499" tvg-name="Trace Africa" tvg-logo="http://138.199.27.237:8080/AFRICA/TRACEAFRICA.png",Trace Africa
+https://v5on.site/play.php?id=29499
+#EXTINF:-1 tvg-id="29502" tvg-name="Trace Gospel" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/FRANCE%20TNT/Trace_Mziki.png",Trace Gospel
+https://v5on.site/play.php?id=29502
+#EXTINF:-1 tvg-id="29501" tvg-name="Trace Naija" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/FRANCE%20TNT/Trace_Naija.png",Trace Naija
+https://v5on.site/play.php?id=29501
+#EXTINF:-1 tvg-id="12305" tvg-name="TV5 Afrique" tvg-logo="http://138.199.27.237:8080/AFRICA/TV5AFRIQUE.png",TV5 Afrique
+https://v5on.site/play.php?id=12305
+#EXTINF:-1 tvg-id="50407" tvg-name="TVGE" tvg-logo="http://103.161.34.238/dreamtv/tv/TVGE.png",TVGE
+https://v5on.site/play.php?id=50407
+#EXTINF:-1 tvg-id="12307" tvg-name="Vision 4" tvg-logo="http://138.199.27.237:8080/AFRICA/africa/VISION-4-TV.png",Vision 4
+https://v5on.site/play.php?id=12307
+#EXTINF:-1 tvg-id="12308" tvg-name="VOX Africa" tvg-logo="http://138.199.27.237:8080/AFRICA/VOXAFRICA.png",VOX Africa
+https://v5on.site/play.php?id=12308
+#EXTINF:-1 tvg-id="287024" tvg-name="NETWORK TV" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uX7wjpYLpdGdS4mqYN7h8_fxnhFbXVqCurPCVvor-Bf42ffzE1ctMProWtJKoePMiFw.png",NETWORK TV
+https://v5on.site/play.php?id=287024
+#EXTINF:-1 tvg-id="12260" tvg-name="STAR TV" tvg-logo="http://138.199.27.237:8080/AFRICA/STAR.png",STAR TV
+https://v5on.site/play.php?id=12260
