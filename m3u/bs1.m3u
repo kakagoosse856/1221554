@@ -128,34 +128,6 @@ https://stream.supertv.gg:3009/supertv/sport/stv12/ch5/ch5_1080.m3u8
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch6/ch6_1080.m3u8
 #EXTINF:-1 tvg-name="Bein sport 7" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch7/ch7_1080.m3u8
-#EXTINF:-1 tvg-name="Bein sport 8" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Cni1E_EW2FxcVds24EqC7tmpY9gPjPvCQ838dQZttC17LiN9m6cEJ4g4-w8E5IhUvLtxjM3JhU4jMNJiuj3KOQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 1
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/JdOhIQVWE8KOh3A9T1_b_Yj9AcaMJ7NR5bACDtoP13pxCYYdPbSS8EBYGVPOUT0sonVg62UnbsGsJthfnXwdpA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 2" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 2
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zLSpHhbduZuongUbiRwLzZ89ed_NHXtwRfCCFoR5n2l1_m93HNvEwgCaa4UfD_pQNrt2PFwa4MZndu8ZxXUs8w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 3" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 3
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rDCjLeHQa0FuqWEhUOK0GN6sE_xU6qi6xR1nMbx2SfzClLCZHPSZ9vvfREK0kyRwXMt-hf_dAZYKjrD1dWp3bA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 4" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 4
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zqVsDOkTfc7Ux00-_BOPkrwRvhZRXpSH4jzXv0Gq82vUeG06m16nAccKxWUVvf_kg2QlALZL1-21JcymG2679Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 5" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 5
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BS_17vAyeV6Xlxz3k-JdVpI7REwoco8tzExsUh82NM17V3_sc3FJDEbZol00tSh6wXJ8GJwIMu45MR7dZrkzLA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Bein sport 6" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 6
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vhD5olcPvwFet-CWCN6U-p1dGLFDAsyFOeMKZESPMryWbg1yKpNwXgX3UX3RWRRt2BTTGsnelGvMC0htEEfbDA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:0,BEIN NEWS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
-#EXTINF:0,Bein sport 1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
-#EXTINF:0,Bein sport 1 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8
-#EXTINF:0,Bein sport 1 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
-#EXTINF:0,beIN SPORT 1 LOW
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
+
 #EXTINF:0,BEIN SPORTS 1 (720PFEED)
 https://vavoo.to/live2/play3/2233066433.m3u8
