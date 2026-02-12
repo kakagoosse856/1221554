@@ -84,3 +84,13 @@ https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-name="BEIN SPORTS FRENCH 1 (1)" tvg-language="Arapça" tvg-country="Arabistan" tvg-id="BEIN_SPORTS_FRENCH_1_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Arabistan (1460)",BEIN SPORTS FRENCH 1 (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2481320680/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS FRENCH 2 (1)" tvg-language="Arapça" tvg-country="Arabistan" tvg-id="BEIN_SPORTS_FRENCH_2_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Arabistan (1460)",BEIN SPORTS FRENCH 2 (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3561326648/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS FRENCH HD1 (1)" tvg-language="Arapça" tvg-country="Arabistan" tvg-id="BEIN_SPORTS_FRENCH_HD1_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Arabistan (1460)",BEIN SPORTS FRENCH HD1 (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1847624602/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS FRENCH HD2 (1)" tvg-language="Arapça" tvg-country="Arabistan" tvg-id="BEIN_SPORTS_FRENCH_HD2_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Arabistan (1460)",BEIN SPORTS FRENCH HD2 (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/696318282/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS GLOBAL HD (1)" tvg-language="Arapça" tvg-country="Arabistan" tvg-id="BEIN_SPORTS_GLOBAL_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Arabistan (1460)",BEIN SPORTS GLOBAL HD (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1084564613/index.m3u8
