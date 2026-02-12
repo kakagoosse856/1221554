@@ -7,6 +7,15 @@ http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14191.m3u8
 #EXTINF:0,AR : Thamanya Sports 3
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14192.m3u8
+#EXTINF:0,Thamanya Sports 1
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14104.m3u8
+#EXTINF:0,Thamanya Sports 2
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14105.m3u8
+#EXTINF:0,Thamanya Sports 3
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14106.m3u8
 #EXTINF:0,Shasha Sport 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3740.m3u8
