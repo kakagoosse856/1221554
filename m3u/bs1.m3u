@@ -157,3 +157,5 @@ http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
 #EXTINF:0,beIN SPORT 1 LOW
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
+#EXTINF:0,BEIN SPORTS 1 (720PFEED)
+https://vavoo.to/live2/play3/2233066433.m3u8
