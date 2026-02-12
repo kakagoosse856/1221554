@@ -1,747 +1,111 @@
-#EXTINF:0,D Life
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2120.m3u8
-#EXTINF:0,AMC
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2121.m3u8
-#EXTINF:0,FOX_Rewayat
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2123.m3u8
-#EXTINF:0,Fox_Life
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2124.m3u8
-#EXTINF:0,Fox_Crime
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2125.m3u8
-#EXTINF:0,Fox_Movie_Action
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2126.m3u8
-#EXTINF:0,Fox_movies
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2127.m3u8
-#EXTINF:0,BBC_Earth
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2128.m3u8
-#EXTINF:0,Nat Geo
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2129.m3u8
-#EXTINF:0,TF1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2478.m3u8
-#EXTINF:0,TF1 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/426.m3u8
-#EXTINF:0,TF1 4K UHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5573.m3u8
-#EXTINF:0,France 2 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2479.m3u8
-#EXTINF:0,France 2 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/350.m3u8
-#EXTINF:0,France 3 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/351.m3u8
-#EXTINF:0,France 3 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2480.m3u8
-#EXTINF:0,France 4 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/378.m3u8
-#EXTINF:0,France 4 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2481.m3u8
-#EXTINF:0,France 5 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/660.m3u8
-#EXTINF:0,France 5 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2483.m3u8
-#EXTINF:0,M6 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/379.m3u8
-#EXTINF:0,M6 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2630.m3u8
-#EXTINF:0,M6 4K UHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6110.m3u8
-#EXTINF:0,Paris Premiere
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/446.m3u8
-#EXTINF:0,TMC
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/451.m3u8
-#EXTINF:0,TV BREIZH HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/529.m3u8
-#EXTINF:0,6ter HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/658.m3u8
-#EXTINF:0,Canal+ HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/253.m3u8
-#EXTINF:0,Canal+ SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2484.m3u8
-#EXTINF:0,Canal+ Cinema HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/254.m3u8
-#EXTINF:0,Canal+ Cinema SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2513.m3u8
-#EXTINF:0,Canal+ Kids HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/256.m3u8
-#EXTINF:0,Canal+ Kids  SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2514.m3u8
-#EXTINF:0,Canal+ Series HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/375.m3u8
-#EXTINF:0,Canal+ Series SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2515.m3u8
-#EXTINF:0,OCS cine
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/366.m3u8
-#EXTINF:0,Cine+ Premier
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/255.m3u8
-#EXTINF:0,CINE+_EMOTION_HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/376.m3u8
-#EXTINF:0,CINE+ FRISSON HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/377.m3u8
-#EXTINF:0,Cine+ Classic
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/421.m3u8
-#EXTINF:0,Cine+ Club HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1116.m3u8
-#EXTINF:0,Cine+ Famiz
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/262.m3u8
-#EXTINF:0,Canal Play Vitrine
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7278.m3u8
-#EXTINF:0,Canal Play 1 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/484.m3u8
-#EXTINF:0,Canal Play 2 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/485.m3u8
-#EXTINF:0,Canal Play 3 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/486.m3u8
-#EXTINF:0,Canal Play 4 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/487.m3u8
-#EXTINF:0,Canal Play 5 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/488.m3u8
-#EXTINF:0,Canal Play 6 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/489.m3u8
-#EXTINF:0,Canal Play 7 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/490.m3u8
-#EXTINF:0,Canal Play 8 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/491.m3u8
-#EXTINF:0,Canal Play 9 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/492.m3u8
-#EXTINF:0,Canal Play 10 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/493.m3u8
-#EXTINF:0,Canal Play 11 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7295.m3u8
-#EXTINF:0,Canal Play 12 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7296.m3u8
-#EXTINF:0,Canal Play 13 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7297.m3u8
-#EXTINF:0,Canal Play 14 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7298.m3u8
-#EXTINF:0,Canal Play 15 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7299.m3u8
-#EXTINF:0,Canal Play 16 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7300.m3u8
-#EXTINF:0,Canal Play 17 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7301.m3u8
-#EXTINF:0,Canal Play 18 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7302.m3u8
-#EXTINF:0,Canal Play 19 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7303.m3u8
-#EXTINF:0,TOONCAST HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7252.m3u8
-#EXTINF:0,DISCOVERY KIDS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/7253.m3u8
-#EXTINF:0,Action
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/474.m3u8
-#EXTINF:0,SyFy F
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/348.m3u8
-#EXTINF:0,13eme Rue
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/666.m3u8
-#EXTINF:0,TCM Cinema
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1118.m3u8
-#EXTINF:0,TF1 Series HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1119.m3u8
-#EXTINF:0,TFX HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1117.m3u8
-#EXTINF:0,Comedie +
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/794.m3u8
-#EXTINF:0,Warner TV
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1120.m3u8
-#EXTINF:0,AB1
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/434.m3u8
-#EXTINF:0,Serie club
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/347.m3u8
-#EXTINF:0,TEVA HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/368.m3u8
-#EXTINF:0,E! ENTERTAINEMENT
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2052.m3u8
-#EXTINF:0,W9 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/365.m3u8
-#EXTINF:0,T18 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/664.m3u8
-#EXTINF:0,C STAR HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/665.m3u8
-#EXTINF:0,INFOSPORTS HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/511.m3u8
-#EXTINF:0,INFOSPORTS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14288.m3u8
-#EXTINF:0,Canal+ Sport HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/4620.m3u8
-#EXTINF:0,Canal+ Sport
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14289.m3u8
-#EXTINF:0,CANAL+FOOT HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14290.m3u8
-#EXTINF:0,CANAL+FOOT
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/440.m3u8
-#EXTINF:0,Canal+ Sport 360 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/257.m3u8
-#EXTINF:0,Canal+ Sport 360 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2486.m3u8
-#EXTINF:0,Canal+ MOTO GP HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14291.m3u8
-#EXTINF:0,Canal+ MOTO GP
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/4719.m3u8
-#EXTINF:0,Canal+ FORMULE 1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14292.m3u8
-#EXTINF:0,Canal+ FORMULE 1
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/4720.m3u8
-#EXTINF:0,CANAL+ SPORT 1
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14181.m3u8
-#EXTINF:0,CANAL+ SPORT 2
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14182.m3u8
-#EXTINF:0,CANAL+ SPORT 3
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14183.m3u8
-#EXTINF:0,CANAL+ SPORT 4
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14184.m3u8
-#EXTINF:0,Bein Sport 1HD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1479.m3u8
-#EXTINF:0,Bein Sport 1 SD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2887.m3u8
-#EXTINF:0,Bein Sport 2HD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1480.m3u8
-#EXTINF:0,Bein Sport 2 SD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2888.m3u8
-#EXTINF:0,Bein Sport 3HD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1481.m3u8
-#EXTINF:0,Bein Sport 3 SD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2889.m3u8
-#EXTINF:0,BEIN SPORTS MAX 4 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/513.m3u8
-#EXTINF:0,BEIN SPORTS MAX 4
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14303.m3u8
-#EXTINF:0,BEIN SPORTS MAX 5 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/514.m3u8
-#EXTINF:0,BEIN SPORTS MAX 5
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14304.m3u8
-#EXTINF:0,BEIN SPORTS MAX 6 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/515.m3u8
-#EXTINF:0,BEIN SPORTS MAX 6
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14305.m3u8
-#EXTINF:0,BEIN SPORTS MAX 7 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/516.m3u8
-#EXTINF:0,BEIN SPORTS MAX 7
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14306.m3u8
-#EXTINF:0,BEIN SPORTS MAX 8 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/517.m3u8
-#EXTINF:0,BEIN SPORTS MAX 8
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14307.m3u8
-#EXTINF:0,BEIN SPORTS MAX 9 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/518.m3u8
-#EXTINF:0,BEIN SPORTS MAX 9
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14308.m3u8
-#EXTINF:0,BEIN SPORTS MAX 10 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1432.m3u8
-#EXTINF:0,BEIN SPORTS MAX 10
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14309.m3u8
-#EXTINF:0,LIGUE 1+ - 1  FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5550.m3u8
-#EXTINF:0,LIGUE 1+ - 1  HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14293.m3u8
-#EXTINF:0,LIGUE 1+ - 2 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5551.m3u8
-#EXTINF:0,LIGUE 1+ - 2 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14294.m3u8
-#EXTINF:0,LIGUE 1+ - 3 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14107.m3u8
-#EXTINF:0,LIGUE 1+ - 3 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14295.m3u8
-#EXTINF:0,LIGUE 1+ - 4 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14108.m3u8
-#EXTINF:0,LIGUE 1+ - 4 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14296.m3u8
-#EXTINF:0,LIGUE 1+ - 5 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14109.m3u8
-#EXTINF:0,LIGUE 1+ - 5 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14297.m3u8
-#EXTINF:0,LIGUE 1+ - 6 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14110.m3u8
-#EXTINF:0,LIGUE 1+ - 6 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14298.m3u8
-#EXTINF:0,LIGUE 1+ - 7 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14111.m3u8
-#EXTINF:0,LIGUE 1+ - 7 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14299.m3u8
-#EXTINF:0,LIGUE 1+ - 8 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14112.m3u8
-#EXTINF:0,LIGUE 1+ - 8 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14300.m3u8
-#EXTINF:0,LIGUE 1+ - 9 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14113.m3u8
-#EXTINF:0,LIGUE 1+ - 9 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14301.m3u8
-#EXTINF:0,LIGUE 1+ - 10 FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14114.m3u8
-#EXTINF:0,LIGUE 1+ - 10 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14302.m3u8
-#EXTINF:0,RMC SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/505.m3u8
-#EXTINF:0,RMC SPORT 1 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1776.m3u8
-#EXTINF:0,RMC SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/506.m3u8
-#EXTINF:0,RMC SPORT 2 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1777.m3u8
-#EXTINF:0,RMC SPORT 3 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/507.m3u8
-#EXTINF:0,RMC SPORT 3 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1778.m3u8
-#EXTINF:0,RMC SPORT 4 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1058.m3u8
-#EXTINF:0,RMC SPORT 4 SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1779.m3u8
-#EXTINF:0,Eurosport 1 FR HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14310.m3u8
-#EXTINF:0,Eurosport 1 FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/427.m3u8
-#EXTINF:0,Eurosport 2HD FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/418.m3u8
-#EXTINF:0,Eurosport 2 FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14311.m3u8
-#EXTINF:0,GOLF+ HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/509.m3u8
-#EXTINF:0,GOLF+
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14312.m3u8
-#EXTINF:0,L'Equipe21-HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2880.m3u8
-#EXTINF:0,L'Equipe21-SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/371.m3u8
-#EXTINF:0,Equidia Live HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1132.m3u8
-#EXTINF:0,Equidia Live
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14315.m3u8
-#EXTINF:0,L'equipe Live 1 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5742.m3u8
-#EXTINF:0,L'equipe Live 1
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14313.m3u8
-#EXTINF:0,L'equipe Live 2 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5743.m3u8
-#EXTINF:0,L'equipe Live 2
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14314.m3u8
-#EXTINF:0,CANAL+ LIVE 2
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5736.m3u8
-#EXTINF:0,CANAL+ LIVE 3
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/5737.m3u8
-#EXTINF:0,Arte HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14282.m3u8
-#EXTINF:0,Arte
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/435.m3u8
-#EXTINF:0,Planete+ SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/356.m3u8
-#EXTINF:0,Planete A&E
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/423.m3u8
-#EXTINF:0,Planet+_CI
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/420.m3u8
-#EXTINF:0,DISCOVERY
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/370.m3u8
-#EXTINF:0,Crime_District_HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1528.m3u8
-#EXTINF:0,National Geo.
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/353.m3u8
-#EXTINF:0,USHUAIA TV HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/374.m3u8
-#EXTINF:0,TREK
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1133.m3u8
-#EXTINF:0,SCIENCE ET VIE HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1134.m3u8
-#EXTINF:0,ANIMAUX HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2631.m3u8
-#EXTINF:0,ANIMAUX  SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/525.m3u8
-#EXTINF:0,Chasse et Peche  HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/526.m3u8
-#EXTINF:0,TOUTE L'HISTOIRE HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2882.m3u8
-#EXTINF:0,TOUTE_L'HISTOIRE-SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/458.m3u8
-#EXTINF:0,Seasons_HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2703.m3u8
-#EXTINF:0,Seasons_SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/663.m3u8
-#EXTINF:0,RMC_DECOUVERTE
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/457.m3u8
-#EXTINF:0,RMC STORY
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3103.m3u8
-#EXTINF:0,RMC Life
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/459.m3u8
-#EXTINF:0,MTV FRANCE FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1137.m3u8
-#EXTINF:0,MTV Hits
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/454.m3u8
-#EXTINF:0,M6 Music
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/455.m3u8
-#EXTINF:0,MCM HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1139.m3u8
-#EXTINF:0,RFM TV
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1142.m3u8
-#EXTINF:0,NRJ Hits HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1141.m3u8
-#EXTINF:0,TRACE URBAN HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/527.m3u8
-#EXTINF:0,Disney Junior FR
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/408.m3u8
-#EXTINF:0,Gulli
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/662.m3u8
-#EXTINF:0,CARTOON NETWORK  HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/524.m3u8
-#EXTINF:0,Boomerang
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/460.m3u8
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/835.m3u8
-#EXTINF:0,NICKELODEON 4TEEN
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/657.m3u8
-#EXTINF:0,BOING_HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/653.m3u8
-#EXTINF:0,TELETOON+  HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/522.m3u8
-#EXTINF:0,CanalJ
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/439.m3u8
-#EXTINF:0,Tiji
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/450.m3u8
-#EXTINF:0,PIWI+
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/438.m3u8
-#EXTINF:0,Mangas
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/444.m3u8
-#EXTINF:0,J-ONE HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/521.m3u8
-#EXTINF:0,GAME ONE HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/519.m3u8
-#EXTINF:0,LCI
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1148.m3u8
-#EXTINF:0,LCI HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14082.m3u8
-#EXTINF:0,LCP HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14201.m3u8
-#EXTINF:0,LCP
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1149.m3u8
-#EXTINF:0,Euronews HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1061.m3u8
-#EXTINF:0,Euronews SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14090.m3u8
-#EXTINF:0,Cnews HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14202.m3u8
-#EXTINF:0,Cnews
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1150.m3u8
-#EXTINF:0,France_Info HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14203.m3u8
-#EXTINF:0,France_Info
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/1430.m3u8
-#EXTINF:0,TV5 Monde Info
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/452.m3u8
-#EXTINF:0,BFMTV HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/373.m3u8
-#EXTINF:0,BFMTV SD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14089.m3u8
-#EXTINF:0,BFM PARIS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2271.m3u8
-#EXTINF:0,BFM-BUSINESS HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14204.m3u8
-#EXTINF:0,BFM-BUSINESS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2053.m3u8
-#EXTINF:0,France 24 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14193.m3u8
-#EXTINF:0,France 24
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/441.m3u8
-#EXTINF:0,RT France HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2049.m3u8
-#EXTINF:0,RT France
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14205.m3u8
-#EXTINF:0,Africa 24 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14208.m3u8
-#EXTINF:0,Africa 24
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2057.m3u8
-#EXTINF:0,AFRICA NEWS HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14206.m3u8
-#EXTINF:0,AFRICA NEWS
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6148.m3u8
-#EXTINF:0,I24 HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/14207.m3u8
-#EXTINF:0,I24
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2054.m3u8
-#EXTINF:0,A LA CARTE 1 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/494.m3u8
-#EXTINF:0,A LA CARTE 2 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/495.m3u8
-#EXTINF:0,A LA CARTE 3 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/496.m3u8
-#EXTINF:0,A LA CARTE 4 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/497.m3u8
-#EXTINF:0,A LA CARTE 5 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/498.m3u8
-#EXTINF:0,A LA CARTE 6 (FR)
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/499.m3u8
-#EXTINF:0,La Une
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/443.m3u8
-#EXTINF:0,Tipik
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/477.m3u8
-#EXTINF:0,RTL TVI HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/465.m3u8
-#EXTINF:0,Plug RTL
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/466.m3u8
-#EXTINF:0,Club RTL
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/467.m3u8
-#EXTINF:0,La Trois
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/478.m3u8
-#EXTINF:0,VTM Kazoom
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/462.m3u8
-#EXTINF:0,VTM HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/463.m3u8
-#EXTINF:0,Vitaya
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/473.m3u8
-#EXTINF:0,Vijf
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/471.m3u8
-#EXTINF:0,Canvas HD
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/469.m3u8
-#EXTINF:0,RTS UN
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/449.m3u8
-#EXTINF:0,RTS Deux
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/448.m3u8
-#EXTINF:0,Eleven Sports 1 HD+
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3596.m3u8
-#EXTINF:0,Eleven Sports 2 HD+
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3597.m3u8
-#EXTINF:0,Eleven Sports 3 HD+
-#EXTVLCOPT:http-user-agent=Lavf/58.76.100
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3598.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
+https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
+#EXTINF:-1 tvg-id="France2.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png",France 2
+https://vavoo.to/vavoo-iptv/play/876169338419a098525bf
+#EXTINF:-1 tvg-id="France3.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png",France 3
+https://vavoo.to/vavoo-iptv/play/19704906138a30ce8ae2c6
+#EXTINF:-1 tvg-id="France4.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png",France 4
+https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
+#EXTINF:-1 tvg-id="France5.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png",France 5
+https://vavoo.to/vavoo-iptv/play/3004974450980927089433
+#EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
+https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
+#EXTINF:-1 tvg-id="arte.France.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
+https://vavoo.to/vavoo-iptv/play/621108426057f0edcfe9d
+#EXTINF:-1 tvg-id="LCP-AN.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lcp-fr.png",LCP-Public Sénat
+https://vavoo.to/vavoo-iptv/play/218551255e835771bbd81
+#EXTINF:-1 tvg-id="W9.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1024px-W9-Logo.svg.png",W9
+https://vavoo.to/vavoo-iptv/play/12804661554f36ca1095a
+#EXTINF:-1 tvg-id="TMC.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1024px-TMC_logo.svg.png",TMC
+https://vavoo.to/vavoo-iptv/play/1149078876048c6fd8939d
+#EXTINF:-1 tvg-id="TFX.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1024px-TFX_logo.svg.png",TFX
+https://vavoo.to/vavoo-iptv/play/965401356d56a26be4f45
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
+https://vavoo.to/vavoo-iptv/play/344510952158e0924d57b0
+#EXTINF:-1 tvg-id="BFMTV.fr" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-id="CNews.fr" group-title="Informações" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
+https://vavoo.to/vavoo-iptv/play/25945826014cdc04dbd4e
+#EXTINF:-1 tvg-id="LCI.fr" group-title="Informações" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+https://vavoo.to/vavoo-iptv/play/1626744356a28180b05b56
+#EXTINF:-1 tvg-id="FranceInfo.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/franceinfo-fr.png",franceinfo:
+https://vavoo.to/vavoo-iptv/play/1158759400afedc64184fa
+#EXTINF:-1 tvg-id="CStar.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
+#EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",TF1 Séries Films
+https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
+#EXTINF:-1 tvg-id="L.EquipeTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
+https://vavoo.to/vavoo-iptv/play/38373319428576fb860cef
+#EXTINF:-1 tvg-id="6ter.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
+https://vavoo.to/vavoo-iptv/play/42396595075411bf41b9be
+#EXTINF:-1 tvg-id="RMC.Story.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RMC_Story_2025.svg/1024px-RMC_Story_2025.svg.png",RMC Story
+https://vavoo.to/vavoo-iptv/play/9680712917f989558355c
+#EXTINF:-1 tvg-id="RMC.Decouverte.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/47/Logo_RMC_D%C3%A9couverte_2025.png",RMC Découverte
+https://vavoo.to/vavoo-iptv/play/26066150769be8b83ee804
+#EXTINF:-1 tvg-id="RMC.Life.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/36/RMC_Life.png",RMC Life
+https://vavoo.to/vavoo-iptv/play/22857335597969a7fb2827
+
+#EXTINF:-1 tvg-id="Canal+.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
+https://vavoo.to/vavoo-iptv/play/255809511268dc26567e82
+#EXTINF:-1 tvg-name="ParisPremiere.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
+https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png",RTL9
+https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
+#EXTINF:-1 tvg-id="Teva.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1024px-T%C3%A9va_logo_2021.svg.png",Téva
+https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
+#EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central FR
+https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
+
+#EXTINF:-1 tvg-id="France24.Francais.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
+https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
+#EXTINF:-1 tvg-id="BFM.Business.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
+https://vavoo.to/vavoo-iptv/play/216870633718bea9e17c0b
+
+#EXTINF:-1 tvg-id="BFMAlsace.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/BFMALSACE-2024.svg/1025px-BFMALSACE-2024.svg.png",BFM Alsace
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="MoselleTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
+https://vavoo.to/vavoo-iptv/play/3484599180e87c0e94bfd6
+#EXTINF:-1 tvg-id="VosgesTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",Vosges TV
+https://vavoo.to/vavoo-iptv/play/1942805126785ea6af8849
+#EXTINF:-1 tvg-id="PuissanceTVe.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
+https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+
+
+# Spain
+#EXTINF:-1 tvg-id="Canal.La1.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,La 1
+https://vavoo.to/vavoo-iptv/play/2673626663280df7ccd0b9
+#EXTINF:-1 tvg-id="Canal.La2.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,La 2
+https://vavoo.to/vavoo-iptv/play/779986648a39769595123
+#EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
+https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1024px-Logotipo_de_Cuatro.svg.png",Cuatro
+https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1024px-Telecinco.svg.png",Telecinco
+https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
+#EXTINF:-1 tvg-id="LaSexta.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
+https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
+
+#EXTINF:-1 tvg-id="Movistar+.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" ,Movistar+
+https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
+
+#EXTINF:-1 tvg-id="ETB1.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb1-es.png" ,ETB 1
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb2-es.png" ,ETB 2
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
+https://vavoo.to/vavoo-iptv/play/408088832332d80c000ab7
+#EXTINF:-1 tvg-id="TV3Cat.es"group-title="Generalista" tvg-id="TV3cat.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-cat-es.png",TV3 Catalunya
+https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
+
+#EXTINF:-1 tvg-id="TVE24h.es" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
+https://vavoo.to/vavoo-iptv/play/1537807715bf7b793e7a1b
+
+#EXTINF:-1 tvg-id="TDP.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
+https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
