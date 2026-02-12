@@ -463,9 +463,29 @@
     <desc>The members of Earth House depart to pick up the Aerial, which has been under repair and their destination is Benerit Group's development facility.</desc>
     <date>2026-02-13</date>
   </programme>
-  <programme channel="369848" start="20260213220000 +0700" stop="20260214000000 +0700">
+  <programme channel="369848" start="20260213220000 +0700" stop="20260213223000 +0700">
     <title lang="zh">RAGNA CRIMSON</title>
     <desc>Members of the Argentum Corps risk their lives and bring out power beyond their limits to fight against Olto Zora.</desc>
     <date>2026-02-13</date>
+  </programme>
+  <programme channel="369848" start="20260213223000 +0700" stop="20260213230000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The neck-and-neck battle between Kamui and Ragna reminds Kamui of Gilzea, the dragon who defeated him in the past.</desc>
+    <date>2026-02-13</date>
+  </programme>
+  <programme channel="369848" start="20260213230000 +0700" stop="20260213233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Demon Akutsu Masatora seeks a savior for the underworld and believes Lily Amane might be the one.</desc>
+    <date>2026-02-13</date>
+  </programme>
+  <programme channel="369848" start="20260213233000 +0700" stop="20260214000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Lily subjugates Akutsu, who refuses to hunt demons. She activates his collar, making his body move against his will.</desc>
+    <date>2026-02-13</date>
+  </programme>
+  <programme channel="369848" start="20260214000000 +0700" stop="20260215000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
+    <desc>After battling with Shaddiq, the company is back on track bit by bit. Miorine unexpectedly encounters Feng once again.</desc>
+    <date>2026-02-14</date>
   </programme>
 </tv>
