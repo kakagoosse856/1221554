@@ -79,4 +79,9 @@ http://loadserver.ddns.net:25461/live/782217211/7c207ced7/431.m3u8
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/432.m3u8
 #EXTINF:-1,Bein Sport 3HD FR
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/433.m3u8
-
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_SPORTS_1_6_" tvg-logo="https://raw.githubusercontent.com/reelman543/ES26-1/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (6)
+https://vavoo.to/play/300113394/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (720P) (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_SPORTS_1_720P_1_" tvg-logo="https://raw.githubusercontent.com/reelman543/ES26-1/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (720P) (1)
+https://vavoo.to/play/3840475653/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (720PFEED) (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_SPORTS_1_720PFEED_1_" tvg-logo="https://raw.githubusercontent.com/reelman543/ES26-1/refs/heads/main/vavoo.png" group-title="Spor (164)",BEIN SPORTS 1 (720PFEED) (1)
+https://vavoo.to/play/2233066433/index.m3u8
