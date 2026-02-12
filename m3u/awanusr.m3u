@@ -1,16 +1,4 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="Shasha Sport 1 HD" tvg-logo="" group-title="AR (CH ARABES)",Shasha Sport 1 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3740.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 1 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3741.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 2 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3742.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 3 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3743.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 4 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3744.m3u8|user-agent=Lavf/58.76.100
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="AR (CH ARABES)",Alwan Sport 5 HD
-http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3745.m3u8|user-agent=Lavf/58.76.100
 #EXTINF:0,Shasha Sport 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.76.100
 http://loadserver.ddns.net:25461/live/782217211/7c207ced7/3740.m3u8
