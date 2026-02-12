@@ -1,111 +1,2842 @@
-#EXTINF:-1 tvg-id="TF1.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
-https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
-#EXTINF:-1 tvg-id="France2.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png",France 2
-https://vavoo.to/vavoo-iptv/play/876169338419a098525bf
-#EXTINF:-1 tvg-id="France3.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png",France 3
-https://vavoo.to/vavoo-iptv/play/19704906138a30ce8ae2c6
-#EXTINF:-1 tvg-id="France4.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png",France 4
-https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
-#EXTINF:-1 tvg-id="France5.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png",France 5
-https://vavoo.to/vavoo-iptv/play/3004974450980927089433
-#EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
-https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
-#EXTINF:-1 tvg-id="arte.France.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
-https://vavoo.to/vavoo-iptv/play/621108426057f0edcfe9d
-#EXTINF:-1 tvg-id="LCP-AN.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lcp-fr.png",LCP-Public Sénat
-https://vavoo.to/vavoo-iptv/play/218551255e835771bbd81
-#EXTINF:-1 tvg-id="W9.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1024px-W9-Logo.svg.png",W9
-https://vavoo.to/vavoo-iptv/play/12804661554f36ca1095a
-#EXTINF:-1 tvg-id="TMC.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1024px-TMC_logo.svg.png",TMC
-https://vavoo.to/vavoo-iptv/play/1149078876048c6fd8939d
-#EXTINF:-1 tvg-id="TFX.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1024px-TFX_logo.svg.png",TFX
-https://vavoo.to/vavoo-iptv/play/965401356d56a26be4f45
-#EXTINF:-1 tvg-id="Gulli.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
-https://vavoo.to/vavoo-iptv/play/344510952158e0924d57b0
-#EXTINF:-1 tvg-id="BFMTV.fr" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-#EXTINF:-1 tvg-id="CNews.fr" group-title="Informações" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
-https://vavoo.to/vavoo-iptv/play/25945826014cdc04dbd4e
-#EXTINF:-1 tvg-id="LCI.fr" group-title="Informações" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-https://vavoo.to/vavoo-iptv/play/1626744356a28180b05b56
-#EXTINF:-1 tvg-id="FranceInfo.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/franceinfo-fr.png",franceinfo:
-https://vavoo.to/vavoo-iptv/play/1158759400afedc64184fa
-#EXTINF:-1 tvg-id="CStar.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
-#EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",TF1 Séries Films
-https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
-#EXTINF:-1 tvg-id="L.EquipeTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
-https://vavoo.to/vavoo-iptv/play/38373319428576fb860cef
-#EXTINF:-1 tvg-id="6ter.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France",===== France (947) =====
+
+#EXTINF:-1 tvg-id="13 EME RUE HD .s" tvg-name="13 EME RUE HD .s" tvg-logo="" group-title="France",13 EME RUE HD .s
+https://vavoo.to/vavoo-iptv/play/40704463696c79db63feff
+
+#EXTINF:-1 tvg-id="13EME RUE .b" tvg-name="13EME RUE .b" tvg-logo="" group-title="France",13EME RUE .b
+https://vavoo.to/vavoo-iptv/play/1295685361fa92ed799b6a
+
+#EXTINF:-1 tvg-id="13EME RUE .c" tvg-name="13EME RUE .c" tvg-logo="" group-title="France",13EME RUE .c
+https://vavoo.to/vavoo-iptv/play/3310959922c9c7628ee636
+
+#EXTINF:-1 tvg-id="20 MINUTES TV .c" tvg-name="20 MINUTES TV .c" tvg-logo="" group-title="France",20 MINUTES TV .c
+https://vavoo.to/vavoo-iptv/play/858101181ed0263e7f2bc
+
+#EXTINF:-1 tvg-id="6TER .c" tvg-name="6TER .c" tvg-logo="" group-title="France",6TER .c
+https://vavoo.to/vavoo-iptv/play/3160257084b52daa956c6b
+
+#EXTINF:-1 tvg-id="6TER FHD .b" tvg-name="6TER FHD .b" tvg-logo="" group-title="France",6TER FHD .b
 https://vavoo.to/vavoo-iptv/play/42396595075411bf41b9be
-#EXTINF:-1 tvg-id="RMC.Story.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RMC_Story_2025.svg/1024px-RMC_Story_2025.svg.png",RMC Story
-https://vavoo.to/vavoo-iptv/play/9680712917f989558355c
-#EXTINF:-1 tvg-id="RMC.Decouverte.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/47/Logo_RMC_D%C3%A9couverte_2025.png",RMC Découverte
-https://vavoo.to/vavoo-iptv/play/26066150769be8b83ee804
-#EXTINF:-1 tvg-id="RMC.Life.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/36/RMC_Life.png",RMC Life
-https://vavoo.to/vavoo-iptv/play/22857335597969a7fb2827
 
-#EXTINF:-1 tvg-id="Canal+.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-https://vavoo.to/vavoo-iptv/play/255809511268dc26567e82
-#EXTINF:-1 tvg-name="ParisPremiere.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
-https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png",RTL9
-https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
-#EXTINF:-1 tvg-id="Teva.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1024px-T%C3%A9va_logo_2021.svg.png",Téva
-https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
-#EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central FR
-https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
+#EXTINF:-1 tvg-id="6TER FHD .s" tvg-name="6TER FHD .s" tvg-logo="" group-title="France",6TER FHD .s
+https://vavoo.to/vavoo-iptv/play/2645506972c0b334de74af
 
-#EXTINF:-1 tvg-id="France24.Francais.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
-https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
-#EXTINF:-1 tvg-id="BFM.Business.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
+#EXTINF:-1 tvg-id="A LA CARTE 1 HD .b" tvg-name="A LA CARTE 1 HD .b" tvg-logo="" group-title="France",A LA CARTE 1 HD .b
+https://vavoo.to/vavoo-iptv/play/20591965178419d6a4d773
+
+#EXTINF:-1 tvg-id="A LA CARTE 1 HD .s" tvg-name="A LA CARTE 1 HD .s" tvg-logo="" group-title="France",A LA CARTE 1 HD .s
+https://vavoo.to/vavoo-iptv/play/278866624c36d1fa2cf8d
+
+#EXTINF:-1 tvg-id="A LA CARTE 10 HD .b" tvg-name="A LA CARTE 10 HD .b" tvg-logo="" group-title="France",A LA CARTE 10 HD .b
+https://vavoo.to/vavoo-iptv/play/651711736e7904ad97ad3
+
+#EXTINF:-1 tvg-id="A LA CARTE 10 HD .s" tvg-name="A LA CARTE 10 HD .s" tvg-logo="" group-title="France",A LA CARTE 10 HD .s
+https://vavoo.to/vavoo-iptv/play/35375010173cac171033e2
+
+#EXTINF:-1 tvg-id="A LA CARTE 11 .b" tvg-name="A LA CARTE 11 .b" tvg-logo="" group-title="France",A LA CARTE 11 .b
+https://vavoo.to/vavoo-iptv/play/4153174242a3e3072004eb
+
+#EXTINF:-1 tvg-id="A LA CARTE 2 HD .b" tvg-name="A LA CARTE 2 HD .b" tvg-logo="" group-title="France",A LA CARTE 2 HD .b
+https://vavoo.to/vavoo-iptv/play/409704026253afa3203c4d
+
+#EXTINF:-1 tvg-id="A LA CARTE 2 HD .s" tvg-name="A LA CARTE 2 HD .s" tvg-logo="" group-title="France",A LA CARTE 2 HD .s
+https://vavoo.to/vavoo-iptv/play/2651860259b8a9ffa785d4
+
+#EXTINF:-1 tvg-id="A LA CARTE 3 HD .b" tvg-name="A LA CARTE 3 HD .b" tvg-logo="" group-title="France",A LA CARTE 3 HD .b
+https://vavoo.to/vavoo-iptv/play/949608216557d6458399e
+
+#EXTINF:-1 tvg-id="A LA CARTE 3 HD .s" tvg-name="A LA CARTE 3 HD .s" tvg-logo="" group-title="France",A LA CARTE 3 HD .s
+https://vavoo.to/vavoo-iptv/play/1387933117241e6bb7e329
+
+#EXTINF:-1 tvg-id="A LA CARTE 4 HD .b" tvg-name="A LA CARTE 4 HD .b" tvg-logo="" group-title="France",A LA CARTE 4 HD .b
+https://vavoo.to/vavoo-iptv/play/84494489735ea48eba0a4
+
+#EXTINF:-1 tvg-id="A LA CARTE 4 HD .s" tvg-name="A LA CARTE 4 HD .s" tvg-logo="" group-title="France",A LA CARTE 4 HD .s
+https://vavoo.to/vavoo-iptv/play/1484727460cdab907b984e
+
+#EXTINF:-1 tvg-id="A LA CARTE 5 HD .b" tvg-name="A LA CARTE 5 HD .b" tvg-logo="" group-title="France",A LA CARTE 5 HD .b
+https://vavoo.to/vavoo-iptv/play/42775896635c51d40456fc
+
+#EXTINF:-1 tvg-id="A LA CARTE 5 HD .s" tvg-name="A LA CARTE 5 HD .s" tvg-logo="" group-title="France",A LA CARTE 5 HD .s
+https://vavoo.to/vavoo-iptv/play/2496996410fc66fc9a3544
+
+#EXTINF:-1 tvg-id="A LA CARTE 6 HD .b" tvg-name="A LA CARTE 6 HD .b" tvg-logo="" group-title="France",A LA CARTE 6 HD .b
+https://vavoo.to/vavoo-iptv/play/18870316760179144920ab
+
+#EXTINF:-1 tvg-id="A LA CARTE 6 HD .s" tvg-name="A LA CARTE 6 HD .s" tvg-logo="" group-title="France",A LA CARTE 6 HD .s
+https://vavoo.to/vavoo-iptv/play/4421150331442e9e78939
+
+#EXTINF:-1 tvg-id="A LA CARTE 7 HD .b" tvg-name="A LA CARTE 7 HD .b" tvg-logo="" group-title="France",A LA CARTE 7 HD .b
+https://vavoo.to/vavoo-iptv/play/3167998434b69fa020193d
+
+#EXTINF:-1 tvg-id="A LA CARTE 7 HD .s" tvg-name="A LA CARTE 7 HD .s" tvg-logo="" group-title="France",A LA CARTE 7 HD .s
+https://vavoo.to/vavoo-iptv/play/36060618952f141435cf0b
+
+#EXTINF:-1 tvg-id="A LA CARTE 8 HD .b" tvg-name="A LA CARTE 8 HD .b" tvg-logo="" group-title="France",A LA CARTE 8 HD .b
+https://vavoo.to/vavoo-iptv/play/17104740623484795728c5
+
+#EXTINF:-1 tvg-id="A LA CARTE 8 HD .s" tvg-name="A LA CARTE 8 HD .s" tvg-logo="" group-title="France",A LA CARTE 8 HD .s
+https://vavoo.to/vavoo-iptv/play/2653025079fa43f3f4e8a
+
+#EXTINF:-1 tvg-id="A LA CARTE 9 HD .b" tvg-name="A LA CARTE 9 HD .b" tvg-logo="" group-title="France",A LA CARTE 9 HD .b
+https://vavoo.to/vavoo-iptv/play/2841232336f8ad397754f5
+
+#EXTINF:-1 tvg-id="A LA CARTE 9 HD .s" tvg-name="A LA CARTE 9 HD .s" tvg-logo="" group-title="France",A LA CARTE 9 HD .s
+https://vavoo.to/vavoo-iptv/play/3279565173fcafc23af7af
+
+#EXTINF:-1 tvg-id="A+ .c" tvg-name="A+ .c" tvg-logo="" group-title="France",A+ .c
+https://vavoo.to/vavoo-iptv/play/17658736402a7360a48901
+
+#EXTINF:-1 tvg-id="A+ IVOIRE .c" tvg-name="A+ IVOIRE .c" tvg-logo="" group-title="France",A+ IVOIRE .c
+https://vavoo.to/vavoo-iptv/play/3112924315d0d16438637b
+
+#EXTINF:-1 tvg-id="A12 TV .c" tvg-name="A12 TV .c" tvg-logo="" group-title="France",A12 TV .c
+https://vavoo.to/vavoo-iptv/play/2701753448d4e4f9826315
+
+#EXTINF:-1 tvg-id="AB 1 .c" tvg-name="AB 1 .c" tvg-logo="" group-title="France",AB 1 .c
+https://vavoo.to/vavoo-iptv/play/2557284405a39af6ab957b
+
+#EXTINF:-1 tvg-id="AB 1 HD .s" tvg-name="AB 1 HD .s" tvg-logo="" group-title="France",AB 1 HD .s
+https://vavoo.to/vavoo-iptv/play/30518211903f956abaa953
+
+#EXTINF:-1 tvg-id="AB 3 .c" tvg-name="AB 3 .c" tvg-logo="" group-title="France",AB 3 .c
+https://vavoo.to/vavoo-iptv/play/3803005781b7b92e893b63
+
+#EXTINF:-1 tvg-id="AB 3 HD .s" tvg-name="AB 3 HD .s" tvg-logo="" group-title="France",AB 3 HD .s
+https://vavoo.to/vavoo-iptv/play/4156694523479fc180f19b
+
+#EXTINF:-1 tvg-id="AB EXPLORE FHD .s" tvg-name="AB EXPLORE FHD .s" tvg-logo="" group-title="France",AB EXPLORE FHD .s
+https://vavoo.to/vavoo-iptv/play/1515062768622f5289d03a
+
+#EXTINF:-1 tvg-id="AB XPLORE .c" tvg-name="AB XPLORE .c" tvg-logo="" group-title="France",AB XPLORE .c
+https://vavoo.to/vavoo-iptv/play/15158158154204a27302df
+
+#EXTINF:-1 tvg-id="AB1 .b" tvg-name="AB1 .b" tvg-logo="" group-title="France",AB1 .b
+https://vavoo.to/vavoo-iptv/play/36312714244a1cb42670fd
+
+#EXTINF:-1 tvg-id="AB3 .b" tvg-name="AB3 .b" tvg-logo="" group-title="France",AB3 .b
+https://vavoo.to/vavoo-iptv/play/27294836163cd6fc90bbf8
+
+#EXTINF:-1 tvg-id="ACTION .b" tvg-name="ACTION .b" tvg-logo="" group-title="France",ACTION .b
+https://vavoo.to/vavoo-iptv/play/340010148454b4b576c9f3
+
+#EXTINF:-1 tvg-id="ACTION .c" tvg-name="ACTION .c" tvg-logo="" group-title="France",ACTION .c
+https://vavoo.to/vavoo-iptv/play/1316428074762ad2aa63dd
+
+#EXTINF:-1 tvg-id="ACTION FHD .s" tvg-name="ACTION FHD .s" tvg-logo="" group-title="France",ACTION FHD .s
+https://vavoo.to/vavoo-iptv/play/3638789513f8ccd703cc28
+
+#EXTINF:-1 tvg-id="AFRICA 24 .c" tvg-name="AFRICA 24 .c" tvg-logo="" group-title="France",AFRICA 24 .c
+https://vavoo.to/vavoo-iptv/play/2290952272f961b542eda7
+
+#EXTINF:-1 tvg-id="ALTICE STUDIO HD .s" tvg-name="ALTICE STUDIO HD .s" tvg-logo="" group-title="France",ALTICE STUDIO HD .s
+https://vavoo.to/vavoo-iptv/play/81737034162dae716442d
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 1 HD .b" tvg-name="AMAZON PRIME 1 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 1 HD .b
+https://vavoo.to/vavoo-iptv/play/35369626225a05e7e12c75
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 1 HD+ .b" tvg-name="AMAZON PRIME 1 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 1 HD+ .b
+https://vavoo.to/vavoo-iptv/play/192175381483ed67bc8d27
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 2 HD .b" tvg-name="AMAZON PRIME 2 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 2 HD .b
+https://vavoo.to/vavoo-iptv/play/1549714397654c54631a08
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/1545259425cb24d5bb8630
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 3 HD .b" tvg-name="AMAZON PRIME 3 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 3 HD .b
+https://vavoo.to/vavoo-iptv/play/243195987591bffdc37fcf
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 3 HD+ .b" tvg-name="AMAZON PRIME 3 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 3 HD+ .b
+https://vavoo.to/vavoo-iptv/play/1551731280c530dcaccd63
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/139232088076812ff95181
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 4 HD .b" tvg-name="AMAZON PRIME 4 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 4 HD .b
+https://vavoo.to/vavoo-iptv/play/258695433034433ac372ee
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 4 HD+ .b" tvg-name="AMAZON PRIME 4 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 4 HD+ .b
+https://vavoo.to/vavoo-iptv/play/941418393ee4558cb9e4a
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 5 HD .b" tvg-name="AMAZON PRIME 5 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 5 HD .b
+https://vavoo.to/vavoo-iptv/play/145305056422c10c6fde04
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 5 HD+ .b" tvg-name="AMAZON PRIME 5 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 5 HD+ .b
+https://vavoo.to/vavoo-iptv/play/795341786f0dcb9bf5fa3
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/1957516182fd1f4fbd5e7b
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 6 .c" tvg-name="AMAZON PRIME 6 .c" tvg-logo="" group-title="France",AMAZON PRIME 6 .c
+https://vavoo.to/vavoo-iptv/play/25224599104c29e5513b65
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 6 HD .b" tvg-name="AMAZON PRIME 6 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 6 HD .b
+https://vavoo.to/vavoo-iptv/play/36252418955c743cdbc9a2
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 6 HD+ .b" tvg-name="AMAZON PRIME 6 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 6 HD+ .b
+https://vavoo.to/vavoo-iptv/play/3844871996d251721d919
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 6 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 6 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 6 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/1736796901974167c58544
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 7 .c" tvg-name="AMAZON PRIME 7 .c" tvg-logo="" group-title="France",AMAZON PRIME 7 .c
+https://vavoo.to/vavoo-iptv/play/2872673974a3a99e198901
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 7 HD+ .b" tvg-name="AMAZON PRIME 7 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 7 HD+ .b
+https://vavoo.to/vavoo-iptv/play/263360924ffceb5ba8d5
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/1768063540271941c63c7a
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 8 .c" tvg-name="AMAZON PRIME 8 .c" tvg-logo="" group-title="France",AMAZON PRIME 8 .c
+https://vavoo.to/vavoo-iptv/play/694751591d0a3a684755b
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 8 HD .b" tvg-name="AMAZON PRIME 8 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 8 HD .b
+https://vavoo.to/vavoo-iptv/play/3449741077ec58c502a8cc
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 8 HD+ .b" tvg-name="AMAZON PRIME 8 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 8 HD+ .b
+https://vavoo.to/vavoo-iptv/play/3727168653ec22aa96caae
+
+#EXTINF:-1 tvg-id="AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] .s" tvg-name="AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/921329291c49ec1552b55
+
+#EXTINF:-1 tvg-id="ANIMAUX .c" tvg-name="ANIMAUX .c" tvg-logo="" group-title="France",ANIMAUX .c
+https://vavoo.to/vavoo-iptv/play/23092519062e4569443ea7
+
+#EXTINF:-1 tvg-id="ANIMAUX .s" tvg-name="ANIMAUX .s" tvg-logo="" group-title="France",ANIMAUX .s
+https://vavoo.to/vavoo-iptv/play/2474469311465ad21db7be
+
+#EXTINF:-1 tvg-id="ARTE .b" tvg-name="ARTE .b" tvg-logo="" group-title="France",ARTE .b
+https://vavoo.to/vavoo-iptv/play/28525090523bed95eaf3d2
+
+#EXTINF:-1 tvg-id="ARTE .c" tvg-name="ARTE .c" tvg-logo="" group-title="France",ARTE .c
+https://vavoo.to/vavoo-iptv/play/16663524193943bf4b5dde
+
+#EXTINF:-1 tvg-id="ARTE FHD .s" tvg-name="ARTE FHD .s" tvg-logo="" group-title="France",ARTE FHD .s
+https://vavoo.to/vavoo-iptv/play/621108426057f0edcfe9d
+
+#EXTINF:-1 tvg-id="AUTO MOTO HD (BACKUP) .b" tvg-name="AUTO MOTO HD (BACKUP) .b" tvg-logo="" group-title="France",AUTO MOTO HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/31996491777754ee76cc04
+
+#EXTINF:-1 tvg-id="AUTO MOTO HD .b" tvg-name="AUTO MOTO HD .b" tvg-logo="" group-title="France",AUTO MOTO HD .b
+https://vavoo.to/vavoo-iptv/play/120986578a222d7f4806a
+
+#EXTINF:-1 tvg-id="AUTOMOTO .c" tvg-name="AUTOMOTO .c" tvg-logo="" group-title="France",AUTOMOTO .c
+https://vavoo.to/vavoo-iptv/play/2674773068696e84bdf9ee
+
+#EXTINF:-1 tvg-id="AUTOMOTO LA CHAINE FHD .s" tvg-name="AUTOMOTO LA CHAINE FHD .s" tvg-logo="" group-title="France",AUTOMOTO LA CHAINE FHD .s
+https://vavoo.to/vavoo-iptv/play/1808973403875ca98b3144
+
+#EXTINF:-1 tvg-id="BABY TV .c" tvg-name="BABY TV .c" tvg-logo="" group-title="France",BABY TV .c
+https://vavoo.to/vavoo-iptv/play/3259290967839a9f6093c9
+
+#EXTINF:-1 tvg-id="BABY TV FHD .s" tvg-name="BABY TV FHD .s" tvg-logo="" group-title="France",BABY TV FHD .s
+https://vavoo.to/vavoo-iptv/play/3350752421fa0626c31fcf
+
+#EXTINF:-1 tvg-id="BBC DRAMA .c" tvg-name="BBC DRAMA .c" tvg-logo="" group-title="France",BBC DRAMA .c
+https://vavoo.to/vavoo-iptv/play/6878199526fa8255d573
+
+#EXTINF:-1 tvg-id="BBC TOP GEAR FRANCE .c" tvg-name="BBC TOP GEAR FRANCE .c" tvg-logo="" group-title="France",BBC TOP GEAR FRANCE .c
+https://vavoo.to/vavoo-iptv/play/323685988261ba405b6f27
+
+#EXTINF:-1 tvg-id="BE: ELEVEN PRO LEAGUE 3 HD .b" tvg-name="BE: ELEVEN PRO LEAGUE 3 HD .b" tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUE 3 HD .b
+https://vavoo.to/vavoo-iptv/play/202244615e7ec7f6c04a5
+
+#EXTINF:-1 tvg-id="BE: ELEVEN PRO LEAGUES 1 HD .b" tvg-name="BE: ELEVEN PRO LEAGUES 1 HD .b" tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUES 1 HD .b
+https://vavoo.to/vavoo-iptv/play/3247154919fa043765f088
+
+#EXTINF:-1 tvg-id="BE: ELEVEN PRO LEAGUES 2 HD .b" tvg-name="BE: ELEVEN PRO LEAGUES 2 HD .b" tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUES 2 HD .b
+https://vavoo.to/vavoo-iptv/play/1325703428d1afd555dfe0
+
+#EXTINF:-1 tvg-id="BE: ELEVENSPORT 2 HD .b" tvg-name="BE: ELEVENSPORT 2 HD .b" tvg-logo="" group-title="France",BE: ELEVENSPORT 2 HD .b
+https://vavoo.to/vavoo-iptv/play/10970887232c733f6d060a
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 (BACKUP) .b" tvg-name="BEIN SPORTS 1 (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS 1 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/169652130611873140131b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 .b" tvg-name="BEIN SPORTS 1 .b" tvg-logo="" group-title="France",BEIN SPORTS 1 .b
+https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 .c" tvg-name="BEIN SPORTS 1 .c" tvg-logo="" group-title="France",BEIN SPORTS 1 .c
+https://vavoo.to/vavoo-iptv/play/2869862642fa20b06e6794
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD .b" tvg-name="BEIN SPORTS 1 FHD .b" tvg-logo="" group-title="France",BEIN SPORTS 1 FHD .b
+https://vavoo.to/vavoo-iptv/play/347259658949e36ffc7b26
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s" tvg-name="BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/2526338165b07cf0938746
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD .b" tvg-name="BEIN SPORTS 1 HD .b" tvg-logo="" group-title="France",BEIN SPORTS 1 HD .b
+https://vavoo.to/vavoo-iptv/play/1490095787bc759a62f683
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] .s" tvg-name="BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/106376152333528e7d498a
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] .s" tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/1814496934db4257f8619
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 (BACKUP) .b" tvg-name="BEIN SPORTS 2 (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS 2 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/4278173452eadb33b1be4
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 .b" tvg-name="BEIN SPORTS 2 .b" tvg-logo="" group-title="France",BEIN SPORTS 2 .b
+https://vavoo.to/vavoo-iptv/play/27271322266c34c78c9b73
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 .c" tvg-name="BEIN SPORTS 2 .c" tvg-logo="" group-title="France",BEIN SPORTS 2 .c
+https://vavoo.to/vavoo-iptv/play/39708820822e80dc81aabf
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 .s" tvg-name="BEIN SPORTS 2 .s" tvg-logo="" group-title="France",BEIN SPORTS 2 .s
+https://vavoo.to/vavoo-iptv/play/796825423ed1e9e9dd950
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD .b" tvg-name="BEIN SPORTS 2 FHD .b" tvg-logo="" group-title="France",BEIN SPORTS 2 FHD .b
+https://vavoo.to/vavoo-iptv/play/415174724098645874c57f
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD .s" tvg-name="BEIN SPORTS 2 FHD .s" tvg-logo="" group-title="France",BEIN SPORTS 2 FHD .s
+https://vavoo.to/vavoo-iptv/play/75819853b0a7f36152e5
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD .b" tvg-name="BEIN SPORTS 2 HD .b" tvg-logo="" group-title="France",BEIN SPORTS 2 HD .b
+https://vavoo.to/vavoo-iptv/play/35964869849ed2a9498a1b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD .s" tvg-name="BEIN SPORTS 2 HD .s" tvg-logo="" group-title="France",BEIN SPORTS 2 HD .s
+https://vavoo.to/vavoo-iptv/play/57669399316fdf295f4ae
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 (BACKUP) .b" tvg-name="BEIN SPORTS 3 (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS 3 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/222193893594fb44c7d213
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 .b" tvg-name="BEIN SPORTS 3 .b" tvg-logo="" group-title="France",BEIN SPORTS 3 .b
+https://vavoo.to/vavoo-iptv/play/2683082226fbcf85179319
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 .c" tvg-name="BEIN SPORTS 3 .c" tvg-logo="" group-title="France",BEIN SPORTS 3 .c
+https://vavoo.to/vavoo-iptv/play/3520000914617f771dcdef
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 .s" tvg-name="BEIN SPORTS 3 .s" tvg-logo="" group-title="France",BEIN SPORTS 3 .s
+https://vavoo.to/vavoo-iptv/play/3040048635a6b95e096a2
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD .b" tvg-name="BEIN SPORTS 3 FHD .b" tvg-logo="" group-title="France",BEIN SPORTS 3 FHD .b
+https://vavoo.to/vavoo-iptv/play/37589951798fde8ec2b042
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD .s" tvg-name="BEIN SPORTS 3 FHD .s" tvg-logo="" group-title="France",BEIN SPORTS 3 FHD .s
+https://vavoo.to/vavoo-iptv/play/335544078ec0a21ea1c59
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD .b" tvg-name="BEIN SPORTS 3 HD .b" tvg-logo="" group-title="France",BEIN SPORTS 3 HD .b
+https://vavoo.to/vavoo-iptv/play/452200918b8020be8910c
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD .s" tvg-name="BEIN SPORTS 3 HD .s" tvg-logo="" group-title="France",BEIN SPORTS 3 HD .s
+https://vavoo.to/vavoo-iptv/play/4009076343da811eb76e8b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 .b" tvg-name="BEIN SPORTS MAX 10 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 .b
+https://vavoo.to/vavoo-iptv/play/3123667785cac83430947b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 .c" tvg-name="BEIN SPORTS MAX 10 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 .c
+https://vavoo.to/vavoo-iptv/play/3800425623400df20f1836
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 10 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/21581502509e2eb33cb366
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 10 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/1160068311c94260fa097
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10 HD .b" tvg-name="BEIN SPORTS MAX 10 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 HD .b
+https://vavoo.to/vavoo-iptv/play/2473905459c9915439d19a
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 .b" tvg-name="BEIN SPORTS MAX 4 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 .b
+https://vavoo.to/vavoo-iptv/play/4005135586b15ded037655
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 .c" tvg-name="BEIN SPORTS MAX 4 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 .c
+https://vavoo.to/vavoo-iptv/play/4250355899d0f70fa7fb88
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 4 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/32516427294290a2d20c27
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 4 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/38007811295196c95466c9
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 HD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 4 HD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 HD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/470010406b3ce0a8401e6
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4 HD .b" tvg-name="BEIN SPORTS MAX 4 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 4 HD .b
+https://vavoo.to/vavoo-iptv/play/13092896602685a8f9cdbc
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 .b" tvg-name="BEIN SPORTS MAX 5 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 .b
+https://vavoo.to/vavoo-iptv/play/35542582586ff60e7a1bd4
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 .c" tvg-name="BEIN SPORTS MAX 5 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 .c
+https://vavoo.to/vavoo-iptv/play/322485479502e16bc7aebe
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 5 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/3606594985422dd118b2de
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 5 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/1697487370c5b1e6d20a2a
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 HD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 5 HD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 HD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/2212055480d90055d13a47
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5 HD .b" tvg-name="BEIN SPORTS MAX 5 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 5 HD .b
+https://vavoo.to/vavoo-iptv/play/21915351386eae8b57922f
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 .b" tvg-name="BEIN SPORTS MAX 6 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 .b
+https://vavoo.to/vavoo-iptv/play/2491012994a2b71bba360b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 .c" tvg-name="BEIN SPORTS MAX 6 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 .c
+https://vavoo.to/vavoo-iptv/play/2274827227027ffe1c81ab
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 6 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/40182028574ef94de4838f
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 6 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/9180123022444a6a5780b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 HD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 6 HD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 HD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/41738432914e53902903af
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6 HD .b" tvg-name="BEIN SPORTS MAX 6 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 6 HD .b
+https://vavoo.to/vavoo-iptv/play/2044179858f10ce4a226b
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 .b" tvg-name="BEIN SPORTS MAX 7 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 .b
+https://vavoo.to/vavoo-iptv/play/28370529784f212a8c7298
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 .c" tvg-name="BEIN SPORTS MAX 7 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 .c
+https://vavoo.to/vavoo-iptv/play/31367624755783abcdef98
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 7 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/41717954970369a11ff8c4
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 7 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/29706841090e00c352fdc3
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 HD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 7 HD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 HD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/1729972421eebb5e198559
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7 HD .b" tvg-name="BEIN SPORTS MAX 7 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 7 HD .b
+https://vavoo.to/vavoo-iptv/play/32299528632d8185a706e0
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 .b" tvg-name="BEIN SPORTS MAX 8 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 8 .b
+https://vavoo.to/vavoo-iptv/play/7262315230f12664664a9
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 .c" tvg-name="BEIN SPORTS MAX 8 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 8 .c
+https://vavoo.to/vavoo-iptv/play/95051103496c7d8966d04
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 8 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 8 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/6072945697b06798345d8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 8 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 8 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/20061371123dbebcd6fef6
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8 HD .b" tvg-name="BEIN SPORTS MAX 8 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 8 HD .b
+https://vavoo.to/vavoo-iptv/play/43025867523e38c979b76
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 .b" tvg-name="BEIN SPORTS MAX 9 .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 .b
+https://vavoo.to/vavoo-iptv/play/371802195ba514804450d
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 .c" tvg-name="BEIN SPORTS MAX 9 .c" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 .c
+https://vavoo.to/vavoo-iptv/play/96963594a9e24bfa368c
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 FHD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 9 FHD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 FHD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/857403561341c65e08010
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 HD (BACKUP) .b" tvg-name="BEIN SPORTS MAX 9 HD (BACKUP) .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/403006729160dfcdedc53f
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 HD (EVENT ONLY) .s" tvg-name="BEIN SPORTS MAX 9 HD (EVENT ONLY) .s" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 HD (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/3033678965da17f77fc6d2
+
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9 HD .b" tvg-name="BEIN SPORTS MAX 9 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 HD .b
+https://vavoo.to/vavoo-iptv/play/35745447496310ad38622d
+
+#EXTINF:-1 tvg-id="BERBERE TELEVISION .s" tvg-name="BERBERE TELEVISION .s" tvg-logo="" group-title="France",BERBERE TELEVISION .s
+https://vavoo.to/vavoo-iptv/play/2584606877de3d57849bfc
+
+#EXTINF:-1 tvg-id="BERBERE TV .c" tvg-name="BERBERE TV .c" tvg-logo="" group-title="France",BERBERE TV .c
+https://vavoo.to/vavoo-iptv/play/231427138530d853b7b449
+
+#EXTINF:-1 tvg-id="BET .b" tvg-name="BET .b" tvg-logo="" group-title="France",BET .b
+https://vavoo.to/vavoo-iptv/play/2773425176d26a7b9ff5da
+
+#EXTINF:-1 tvg-id="BET .c" tvg-name="BET .c" tvg-logo="" group-title="France",BET .c
+https://vavoo.to/vavoo-iptv/play/79028379122444aafa3e1
+
+#EXTINF:-1 tvg-id="BET FHD .s" tvg-name="BET FHD .s" tvg-logo="" group-title="France",BET FHD .s
+https://vavoo.to/vavoo-iptv/play/10046503172f28e24c2c1f
+
+#EXTINF:-1 tvg-id="BFM 2 .c" tvg-name="BFM 2 .c" tvg-logo="" group-title="France",BFM 2 .c
+https://vavoo.to/vavoo-iptv/play/1572961311f732f4d5601d
+
+#EXTINF:-1 tvg-id="BFM BUSINESS .c" tvg-name="BFM BUSINESS .c" tvg-logo="" group-title="France",BFM BUSINESS .c
+https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
+
+#EXTINF:-1 tvg-id="BFM BUSINESS FHD .s" tvg-name="BFM BUSINESS FHD .s" tvg-logo="" group-title="France",BFM BUSINESS FHD .s
 https://vavoo.to/vavoo-iptv/play/216870633718bea9e17c0b
 
-#EXTINF:-1 tvg-id="BFMAlsace.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/BFMALSACE-2024.svg/1025px-BFMALSACE-2024.svg.png",BFM Alsace
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="MoselleTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
+#EXTINF:-1 tvg-id="BFM GRAND LITTORAL .c" tvg-name="BFM GRAND LITTORAL .c" tvg-logo="" group-title="France",BFM GRAND LITTORAL .c
+https://vavoo.to/vavoo-iptv/play/3997012940fa5ac64a7a64
+
+#EXTINF:-1 tvg-id="BFM HD .s" tvg-name="BFM HD .s" tvg-logo="" group-title="France",BFM HD .s
+https://vavoo.to/vavoo-iptv/play/282620250617bf79c7c58b
+
+#EXTINF:-1 tvg-id="BFM LILLE TV .c" tvg-name="BFM LILLE TV .c" tvg-logo="" group-title="France",BFM LILLE TV .c
+https://vavoo.to/vavoo-iptv/play/40787441882564e39475c8
+
+#EXTINF:-1 tvg-id="BFM LYON .c" tvg-name="BFM LYON .c" tvg-logo="" group-title="France",BFM LYON .c
+https://vavoo.to/vavoo-iptv/play/45843523570a16b2c85eb
+
+#EXTINF:-1 tvg-id="BFM PARIS FHD .s" tvg-name="BFM PARIS FHD .s" tvg-logo="" group-title="France",BFM PARIS FHD .s
+https://vavoo.to/vavoo-iptv/play/15537259663eeaf443b8c8
+
+#EXTINF:-1 tvg-id="BFM TV .c" tvg-name="BFM TV .c" tvg-logo="" group-title="France",BFM TV .c
+https://vavoo.to/vavoo-iptv/play/28781389555e4689451088
+
+#EXTINF:-1 tvg-id="BFM TV HD .b" tvg-name="BFM TV HD .b" tvg-logo="" group-title="France",BFM TV HD .b
+https://vavoo.to/vavoo-iptv/play/1080830216b8e08bdf456f
+
+#EXTINF:-1 tvg-id="BIP TV .c" tvg-name="BIP TV .c" tvg-logo="" group-title="France",BIP TV .c
+https://vavoo.to/vavoo-iptv/play/2475360608ab28c6777d10
+
+#EXTINF:-1 tvg-id="BIP TV .s" tvg-name="BIP TV .s" tvg-logo="" group-title="France",BIP TV .s
+https://vavoo.to/vavoo-iptv/play/4266098851addc08d35468
+
+#EXTINF:-1 tvg-id="BOB LEPONGE .c" tvg-name="BOB LEPONGE .c" tvg-logo="" group-title="France",BOB LEPONGE .c
+https://vavoo.to/vavoo-iptv/play/2930799000cd9ccb5e4641
+
+#EXTINF:-1 tvg-id="BOING .b" tvg-name="BOING .b" tvg-logo="" group-title="France",BOING .b
+https://vavoo.to/vavoo-iptv/play/69130693e2582f2056fe
+
+#EXTINF:-1 tvg-id="BOING .c" tvg-name="BOING .c" tvg-logo="" group-title="France",BOING .c
+https://vavoo.to/vavoo-iptv/play/30375451388109844d3a6e
+
+#EXTINF:-1 tvg-id="BOING FHD .s" tvg-name="BOING FHD .s" tvg-logo="" group-title="France",BOING FHD .s
+https://vavoo.to/vavoo-iptv/play/98339825943cbbe1cacf2
+
+#EXTINF:-1 tvg-id="BOING HD .s" tvg-name="BOING HD .s" tvg-logo="" group-title="France",BOING HD .s
+https://vavoo.to/vavoo-iptv/play/1437877006a40eff9edadf
+
+#EXTINF:-1 tvg-id="BOOMERANG (BACKUP) .b" tvg-name="BOOMERANG (BACKUP) .b" tvg-logo="" group-title="France",BOOMERANG (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/98179494157b070901d0a
+
+#EXTINF:-1 tvg-id="BOOMERANG +1 .c" tvg-name="BOOMERANG +1 .c" tvg-logo="" group-title="France",BOOMERANG +1 .c
+https://vavoo.to/vavoo-iptv/play/19782744349b7da0db1e24
+
+#EXTINF:-1 tvg-id="BOOMERANG .b" tvg-name="BOOMERANG .b" tvg-logo="" group-title="France",BOOMERANG .b
+https://vavoo.to/vavoo-iptv/play/578397132eecf0d5d9031
+
+#EXTINF:-1 tvg-id="BOOMERANG .c" tvg-name="BOOMERANG .c" tvg-logo="" group-title="France",BOOMERANG .c
+https://vavoo.to/vavoo-iptv/play/285383271978a2ccff1314
+
+#EXTINF:-1 tvg-id="BOOMERANG FHD .s" tvg-name="BOOMERANG FHD .s" tvg-logo="" group-title="France",BOOMERANG FHD .s
+https://vavoo.to/vavoo-iptv/play/382594104801da332d1f5b
+
+#EXTINF:-1 tvg-id="BOX OFFICE 1 .c" tvg-name="BOX OFFICE 1 .c" tvg-logo="" group-title="France",BOX OFFICE 1 .c
+https://vavoo.to/vavoo-iptv/play/20623224139b8a2db855a3
+
+#EXTINF:-1 tvg-id="BOX OFFICE 2 .c" tvg-name="BOX OFFICE 2 .c" tvg-logo="" group-title="France",BOX OFFICE 2 .c
+https://vavoo.to/vavoo-iptv/play/1028452413cb198074a641
+
+#EXTINF:-1 tvg-id="BOX OFFICE 3 .c" tvg-name="BOX OFFICE 3 .c" tvg-logo="" group-title="France",BOX OFFICE 3 .c
+https://vavoo.to/vavoo-iptv/play/2939277ca78c406a368
+
+#EXTINF:-1 tvg-id="BOX OFFICE 4 .c" tvg-name="BOX OFFICE 4 .c" tvg-logo="" group-title="France",BOX OFFICE 4 .c
+https://vavoo.to/vavoo-iptv/play/29871323172d6843a0c088
+
+#EXTINF:-1 tvg-id="BOX OFFICE 5 .c" tvg-name="BOX OFFICE 5 .c" tvg-logo="" group-title="France",BOX OFFICE 5 .c
+https://vavoo.to/vavoo-iptv/play/2406231085af769db66b41
+
+#EXTINF:-1 tvg-id="BOX OFFICE 6 .c" tvg-name="BOX OFFICE 6 .c" tvg-logo="" group-title="France",BOX OFFICE 6 .c
+https://vavoo.to/vavoo-iptv/play/3368834813af03636320af
+
+#EXTINF:-1 tvg-id="BOX OFFICE 7 .c" tvg-name="BOX OFFICE 7 .c" tvg-logo="" group-title="France",BOX OFFICE 7 .c
+https://vavoo.to/vavoo-iptv/play/412172270143474ff3ec5c
+
+#EXTINF:-1 tvg-id="BOX OFFICE 8 .c" tvg-name="BOX OFFICE 8 .c" tvg-logo="" group-title="France",BOX OFFICE 8 .c
+https://vavoo.to/vavoo-iptv/play/20130633242de4fbb3e8fe
+
+#EXTINF:-1 tvg-id="BOX OFFICE 9 .c" tvg-name="BOX OFFICE 9 .c" tvg-logo="" group-title="France",BOX OFFICE 9 .c
+https://vavoo.to/vavoo-iptv/play/12517870525c82fb36307f
+
+#EXTINF:-1 tvg-id="BOXOFFICE 10 .c" tvg-name="BOXOFFICE 10 .c" tvg-logo="" group-title="France",BOXOFFICE 10 .c
+https://vavoo.to/vavoo-iptv/play/1089010767627848fc9529
+
+#EXTINF:-1 tvg-id="C NEWS .c" tvg-name="C NEWS .c" tvg-logo="" group-title="France",C NEWS .c
+https://vavoo.to/vavoo-iptv/play/191698538075f6313e5638
+
+#EXTINF:-1 tvg-id="C NEWS FHD .s" tvg-name="C NEWS FHD .s" tvg-logo="" group-title="France",C NEWS FHD .s
+https://vavoo.to/vavoo-iptv/play/25945826014cdc04dbd4e
+
+#EXTINF:-1 tvg-id="C NEWS HD .b" tvg-name="C NEWS HD .b" tvg-logo="" group-title="France",C NEWS HD .b
+https://vavoo.to/vavoo-iptv/play/224530507357e940d5b413
+
+#EXTINF:-1 tvg-id="C STAR .c" tvg-name="C STAR .c" tvg-logo="" group-title="France",C STAR .c
+https://vavoo.to/vavoo-iptv/play/3166346130b6b8b30bb9d2
+
+#EXTINF:-1 tvg-id="C STAR FHD .s" tvg-name="C STAR FHD .s" tvg-logo="" group-title="France",C STAR FHD .s
+https://vavoo.to/vavoo-iptv/play/3480426017c3f2b3e10a98
+
+#EXTINF:-1 tvg-id="C STAR HIT .b" tvg-name="C STAR HIT .b" tvg-logo="" group-title="France",C STAR HIT .b
+https://vavoo.to/vavoo-iptv/play/2115964580e124fb89e2af
+
+#EXTINF:-1 tvg-id="C-NEWS .b" tvg-name="C-NEWS .b" tvg-logo="" group-title="France",C-NEWS .b
+https://vavoo.to/vavoo-iptv/play/13129733393e6b5932e60
+
+#EXTINF:-1 tvg-id="C8 .c" tvg-name="C8 .c" tvg-logo="" group-title="France",C8 .c
+https://vavoo.to/vavoo-iptv/play/635278573a8856a6b670
+
+#EXTINF:-1 tvg-id="C8 HD .b" tvg-name="C8 HD .b" tvg-logo="" group-title="France",C8 HD .b
+https://vavoo.to/vavoo-iptv/play/975685108da00cade90db
+
+#EXTINF:-1 tvg-id="C8 HD .s" tvg-name="C8 HD .s" tvg-logo="" group-title="France",C8 HD .s
+https://vavoo.to/vavoo-iptv/play/40987175059c8809b916ad
+
+#EXTINF:-1 tvg-id="CANAL 2 INTERNATIONAL .s" tvg-name="CANAL 2 INTERNATIONAL .s" tvg-logo="" group-title="France",CANAL 2 INTERNATIONAL .s
+https://vavoo.to/vavoo-iptv/play/33889794098fe938113743
+
+#EXTINF:-1 tvg-id="CANAL 9 .c" tvg-name="CANAL 9 .c" tvg-logo="" group-title="France",CANAL 9 .c
+https://vavoo.to/vavoo-iptv/play/23723609030e4b194c1f34
+
+#EXTINF:-1 tvg-id="CANAL ALPHA .s" tvg-name="CANAL ALPHA .s" tvg-logo="" group-title="France",CANAL ALPHA .s
+https://vavoo.to/vavoo-iptv/play/33644893130fb5cb54214e
+
+#EXTINF:-1 tvg-id="CANAL ALPHA JURA .c" tvg-name="CANAL ALPHA JURA .c" tvg-logo="" group-title="France",CANAL ALPHA JURA .c
+https://vavoo.to/vavoo-iptv/play/56184602947b7f40432a5
+
+#EXTINF:-1 tvg-id="CANAL D .c" tvg-name="CANAL D .c" tvg-logo="" group-title="France",CANAL D .c
+https://vavoo.to/vavoo-iptv/play/23512675130ba387ea038e
+
+#EXTINF:-1 tvg-id="CANAL DECALE HD .b" tvg-name="CANAL DECALE HD .b" tvg-logo="" group-title="France",CANAL DECALE HD .b
+https://vavoo.to/vavoo-iptv/play/1545493919f92fd67c2706
+
+#EXTINF:-1 tvg-id="CANAL DECALE HD .s" tvg-name="CANAL DECALE HD .s" tvg-logo="" group-title="France",CANAL DECALE HD .s
+https://vavoo.to/vavoo-iptv/play/91001221836e970eea6af
+
+#EXTINF:-1 tvg-id="CANAL FAMILY HD .b" tvg-name="CANAL FAMILY HD .b" tvg-logo="" group-title="France",CANAL FAMILY HD .b
+https://vavoo.to/vavoo-iptv/play/1441897533768869cd1b1e
+
+#EXTINF:-1 tvg-id="CANAL HD .b" tvg-name="CANAL HD .b" tvg-logo="" group-title="France",CANAL HD .b
+https://vavoo.to/vavoo-iptv/play/26416104866fb42ff4ebfa
+
+#EXTINF:-1 tvg-id="CANAL J (BACKUP) .b" tvg-name="CANAL J (BACKUP) .b" tvg-logo="" group-title="France",CANAL J (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/6099304471232528ee2e1
+
+#EXTINF:-1 tvg-id="CANAL J .b" tvg-name="CANAL J .b" tvg-logo="" group-title="France",CANAL J .b
+https://vavoo.to/vavoo-iptv/play/3860888136d301b247640b
+
+#EXTINF:-1 tvg-id="CANAL J .c" tvg-name="CANAL J .c" tvg-logo="" group-title="France",CANAL J .c
+https://vavoo.to/vavoo-iptv/play/85706364091e683ba1a33
+
+#EXTINF:-1 tvg-id="CANAL J FHD .s" tvg-name="CANAL J FHD .s" tvg-logo="" group-title="France",CANAL J FHD .s
+https://vavoo.to/vavoo-iptv/play/24446412ebabf61b09ad
+
+#EXTINF:-1 tvg-id="CANAL PLAY 1 .c" tvg-name="CANAL PLAY 1 .c" tvg-logo="" group-title="France",CANAL PLAY 1 .c
+https://vavoo.to/vavoo-iptv/play/962706596a08821c1ddcf
+
+#EXTINF:-1 tvg-id="CANAL PLAY 1 FHD .s" tvg-name="CANAL PLAY 1 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 1 FHD .s
+https://vavoo.to/vavoo-iptv/play/2103148163669e817162e5
+
+#EXTINF:-1 tvg-id="CANAL PLAY 10 .c" tvg-name="CANAL PLAY 10 .c" tvg-logo="" group-title="France",CANAL PLAY 10 .c
+https://vavoo.to/vavoo-iptv/play/1065635365126462fe145a
+
+#EXTINF:-1 tvg-id="CANAL PLAY 10 FHD .s" tvg-name="CANAL PLAY 10 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 10 FHD .s
+https://vavoo.to/vavoo-iptv/play/3350560308f1ae9b7a6c6
+
+#EXTINF:-1 tvg-id="CANAL PLAY 11 .s" tvg-name="CANAL PLAY 11 .s" tvg-logo="" group-title="France",CANAL PLAY 11 .s
+https://vavoo.to/vavoo-iptv/play/32414215608c53bcad328c
+
+#EXTINF:-1 tvg-id="CANAL PLAY 12 .s" tvg-name="CANAL PLAY 12 .s" tvg-logo="" group-title="France",CANAL PLAY 12 .s
+https://vavoo.to/vavoo-iptv/play/2257866792ce9b461da94a
+
+#EXTINF:-1 tvg-id="CANAL PLAY 13 .s" tvg-name="CANAL PLAY 13 .s" tvg-logo="" group-title="France",CANAL PLAY 13 .s
+https://vavoo.to/vavoo-iptv/play/3153361304c5404e3f2d00
+
+#EXTINF:-1 tvg-id="CANAL PLAY 14 .s" tvg-name="CANAL PLAY 14 .s" tvg-logo="" group-title="France",CANAL PLAY 14 .s
+https://vavoo.to/vavoo-iptv/play/164930952e4b00a3d6fd6
+
+#EXTINF:-1 tvg-id="CANAL PLAY 15 .s" tvg-name="CANAL PLAY 15 .s" tvg-logo="" group-title="France",CANAL PLAY 15 .s
+https://vavoo.to/vavoo-iptv/play/884247608dd93524f8cb9
+
+#EXTINF:-1 tvg-id="CANAL PLAY 16 .s" tvg-name="CANAL PLAY 16 .s" tvg-logo="" group-title="France",CANAL PLAY 16 .s
+https://vavoo.to/vavoo-iptv/play/193075376859e75e04d8da
+
+#EXTINF:-1 tvg-id="CANAL PLAY 17 .s" tvg-name="CANAL PLAY 17 .s" tvg-logo="" group-title="France",CANAL PLAY 17 .s
+https://vavoo.to/vavoo-iptv/play/131628220046722550c863
+
+#EXTINF:-1 tvg-id="CANAL PLAY 18 .s" tvg-name="CANAL PLAY 18 .s" tvg-logo="" group-title="France",CANAL PLAY 18 .s
+https://vavoo.to/vavoo-iptv/play/342492992975e7f2de5fa8
+
+#EXTINF:-1 tvg-id="CANAL PLAY 2 .c" tvg-name="CANAL PLAY 2 .c" tvg-logo="" group-title="France",CANAL PLAY 2 .c
+https://vavoo.to/vavoo-iptv/play/2126628468cdd69ca6f63f
+
+#EXTINF:-1 tvg-id="CANAL PLAY 2 FHD .s" tvg-name="CANAL PLAY 2 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 2 FHD .s
+https://vavoo.to/vavoo-iptv/play/1154892358204be9b7e245
+
+#EXTINF:-1 tvg-id="CANAL PLAY 3 .c" tvg-name="CANAL PLAY 3 .c" tvg-logo="" group-title="France",CANAL PLAY 3 .c
+https://vavoo.to/vavoo-iptv/play/1134686148d7f165c53827
+
+#EXTINF:-1 tvg-id="CANAL PLAY 3 FHD .s" tvg-name="CANAL PLAY 3 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 3 FHD .s
+https://vavoo.to/vavoo-iptv/play/140386867753336447ebed
+
+#EXTINF:-1 tvg-id="CANAL PLAY 4 .c" tvg-name="CANAL PLAY 4 .c" tvg-logo="" group-title="France",CANAL PLAY 4 .c
+https://vavoo.to/vavoo-iptv/play/405177646870aeed4ff4dc
+
+#EXTINF:-1 tvg-id="CANAL PLAY 4 FHD .s" tvg-name="CANAL PLAY 4 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 4 FHD .s
+https://vavoo.to/vavoo-iptv/play/936131532e81e84e5995e
+
+#EXTINF:-1 tvg-id="CANAL PLAY 5 .c" tvg-name="CANAL PLAY 5 .c" tvg-logo="" group-title="France",CANAL PLAY 5 .c
+https://vavoo.to/vavoo-iptv/play/34373044200b2edc4e0cc2
+
+#EXTINF:-1 tvg-id="CANAL PLAY 5 FHD .s" tvg-name="CANAL PLAY 5 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 5 FHD .s
+https://vavoo.to/vavoo-iptv/play/5488761753ada380f98f1
+
+#EXTINF:-1 tvg-id="CANAL PLAY 6 .c" tvg-name="CANAL PLAY 6 .c" tvg-logo="" group-title="France",CANAL PLAY 6 .c
+https://vavoo.to/vavoo-iptv/play/2336317620aef848fc3364
+
+#EXTINF:-1 tvg-id="CANAL PLAY 6 FHD .s" tvg-name="CANAL PLAY 6 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 6 FHD .s
+https://vavoo.to/vavoo-iptv/play/4232364266e2472ba501b
+
+#EXTINF:-1 tvg-id="CANAL PLAY 7 .c" tvg-name="CANAL PLAY 7 .c" tvg-logo="" group-title="France",CANAL PLAY 7 .c
+https://vavoo.to/vavoo-iptv/play/30556346922dea32a37f3d
+
+#EXTINF:-1 tvg-id="CANAL PLAY 7 FHD .s" tvg-name="CANAL PLAY 7 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 7 FHD .s
+https://vavoo.to/vavoo-iptv/play/2391426657c4f98516e90
+
+#EXTINF:-1 tvg-id="CANAL PLAY 8 .c" tvg-name="CANAL PLAY 8 .c" tvg-logo="" group-title="France",CANAL PLAY 8 .c
+https://vavoo.to/vavoo-iptv/play/879877845da1b3610d9d8
+
+#EXTINF:-1 tvg-id="CANAL PLAY 8 FHD .s" tvg-name="CANAL PLAY 8 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 8 FHD .s
+https://vavoo.to/vavoo-iptv/play/35227424882caef6e52bc3
+
+#EXTINF:-1 tvg-id="CANAL PLAY 9 .c" tvg-name="CANAL PLAY 9 .c" tvg-logo="" group-title="France",CANAL PLAY 9 .c
+https://vavoo.to/vavoo-iptv/play/1521723897d82fbbfa51c
+
+#EXTINF:-1 tvg-id="CANAL PLAY 9 FHD .s" tvg-name="CANAL PLAY 9 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 9 FHD .s
+https://vavoo.to/vavoo-iptv/play/33305304595f685fa16477
+
+#EXTINF:-1 tvg-id="CANAL PLUS C NEMA .b" tvg-name="CANAL PLUS C NEMA .b" tvg-logo="" group-title="France",CANAL PLUS C NEMA .b
+https://vavoo.to/vavoo-iptv/play/12810486615413a79acd8b
+
+#EXTINF:-1 tvg-id="CANAL SAVOIR .c" tvg-name="CANAL SAVOIR .c" tvg-logo="" group-title="France",CANAL SAVOIR .c
+https://vavoo.to/vavoo-iptv/play/268436332130b3acf31d04
+
+#EXTINF:-1 tvg-id="CANAL SERIES HD .b" tvg-name="CANAL SERIES HD .b" tvg-logo="" group-title="France",CANAL SERIES HD .b
+https://vavoo.to/vavoo-iptv/play/42898657499ab32aacb6ad
+
+#EXTINF:-1 tvg-id="CANAL SPORT .b" tvg-name="CANAL SPORT .b" tvg-logo="" group-title="France",CANAL SPORT .b
+https://vavoo.to/vavoo-iptv/play/224685472416f6779d42ee
+
+#EXTINF:-1 tvg-id="CANAL SPORT HD .b" tvg-name="CANAL SPORT HD .b" tvg-logo="" group-title="France",CANAL SPORT HD .b
+https://vavoo.to/vavoo-iptv/play/40213668447d8ff3bec243
+
+#EXTINF:-1 tvg-id="CANAL+ .c" tvg-name="CANAL+ .c" tvg-logo="" group-title="France",CANAL+ .c
+https://vavoo.to/vavoo-iptv/play/1839597702d549646f5393
+
+#EXTINF:-1 tvg-id="CANAL+ .s" tvg-name="CANAL+ .s" tvg-logo="" group-title="France",CANAL+ .s
+https://vavoo.to/vavoo-iptv/play/6981957d8c5d6ef6ebe
+
+#EXTINF:-1 tvg-id="CANAL+ 4K ULTRA .c" tvg-name="CANAL+ 4K ULTRA .c" tvg-logo="" group-title="France",CANAL+ 4K ULTRA .c
+https://vavoo.to/vavoo-iptv/play/255809511268dc26567e82
+
+#EXTINF:-1 tvg-id="CANAL+ BOX OFFICE .c" tvg-name="CANAL+ BOX OFFICE .c" tvg-logo="" group-title="France",CANAL+ BOX OFFICE .c
+https://vavoo.to/vavoo-iptv/play/3655983806eda3054f7e69
+
+#EXTINF:-1 tvg-id="CANAL+ CINEMA .c" tvg-name="CANAL+ CINEMA .c" tvg-logo="" group-title="France",CANAL+ CINEMA .c
+https://vavoo.to/vavoo-iptv/play/3980730104297e5d74da47
+
+#EXTINF:-1 tvg-id="CANAL+ CINEMA .s" tvg-name="CANAL+ CINEMA .s" tvg-logo="" group-title="France",CANAL+ CINEMA .s
+https://vavoo.to/vavoo-iptv/play/7815381974235226e525c
+
+#EXTINF:-1 tvg-id="CANAL+ CINEMA FHD .s" tvg-name="CANAL+ CINEMA FHD .s" tvg-logo="" group-title="France",CANAL+ CINEMA FHD .s
+https://vavoo.to/vavoo-iptv/play/2898387495718e66ec3be
+
+#EXTINF:-1 tvg-id="CANAL+ CINEMA HD .s" tvg-name="CANAL+ CINEMA HD .s" tvg-logo="" group-title="France",CANAL+ CINEMA HD .s
+https://vavoo.to/vavoo-iptv/play/9740778764179b9c92456
+
+#EXTINF:-1 tvg-id="CANAL+ DECALE .c" tvg-name="CANAL+ DECALE .c" tvg-logo="" group-title="France",CANAL+ DECALE .c
+https://vavoo.to/vavoo-iptv/play/309091998675dd1f12e6c3
+
+#EXTINF:-1 tvg-id="CANAL+ DECALE FHD .s" tvg-name="CANAL+ DECALE FHD .s" tvg-logo="" group-title="France",CANAL+ DECALE FHD .s
+https://vavoo.to/vavoo-iptv/play/1919536632192c71933683
+
+#EXTINF:-1 tvg-id="CANAL+ DOCS .c" tvg-name="CANAL+ DOCS .c" tvg-logo="" group-title="France",CANAL+ DOCS .c
+https://vavoo.to/vavoo-iptv/play/116160273261086bd8c99a
+
+#EXTINF:-1 tvg-id="CANAL+ DOCS HD .s" tvg-name="CANAL+ DOCS HD .s" tvg-logo="" group-title="France",CANAL+ DOCS HD .s
+https://vavoo.to/vavoo-iptv/play/3625345371a7f0ef9f1db5
+
+#EXTINF:-1 tvg-id="CANAL+ FAMILY .c" tvg-name="CANAL+ FAMILY .c" tvg-logo="" group-title="France",CANAL+ FAMILY .c
+https://vavoo.to/vavoo-iptv/play/1649874389963b6f1dc072
+
+#EXTINF:-1 tvg-id="CANAL+ FAMILY .s" tvg-name="CANAL+ FAMILY .s" tvg-logo="" group-title="France",CANAL+ FAMILY .s
+https://vavoo.to/vavoo-iptv/play/27100018482cf9099bc7d2
+
+#EXTINF:-1 tvg-id="CANAL+ FHD .s" tvg-name="CANAL+ FHD .s" tvg-logo="" group-title="France",CANAL+ FHD .s
+https://vavoo.to/vavoo-iptv/play/4177424223ffc540a587de
+
+#EXTINF:-1 tvg-id="CANAL+ FOOT .c" tvg-name="CANAL+ FOOT .c" tvg-logo="" group-title="France",CANAL+ FOOT .c
+https://vavoo.to/vavoo-iptv/play/3271278010f4217cd17c4c
+
+#EXTINF:-1 tvg-id="CANAL+ FOOT FHD .s" tvg-name="CANAL+ FOOT FHD .s" tvg-logo="" group-title="France",CANAL+ FOOT FHD .s
+https://vavoo.to/vavoo-iptv/play/3010946034470bbc7286f0
+
+#EXTINF:-1 tvg-id="CANAL+ GRAND ECRAN .c" tvg-name="CANAL+ GRAND ECRAN .c" tvg-logo="" group-title="France",CANAL+ GRAND ECRAN .c
+https://vavoo.to/vavoo-iptv/play/25747471736b92892116f8
+
+#EXTINF:-1 tvg-id="CANAL+ GRAND ECRAN FHD .s" tvg-name="CANAL+ GRAND ECRAN FHD .s" tvg-logo="" group-title="France",CANAL+ GRAND ECRAN FHD .s
+https://vavoo.to/vavoo-iptv/play/25481898009fc4dd96f118
+
+#EXTINF:-1 tvg-id="CANAL+ HD .s" tvg-name="CANAL+ HD .s" tvg-logo="" group-title="France",CANAL+ HD .s
+https://vavoo.to/vavoo-iptv/play/37803644664d6b4418fed6
+
+#EXTINF:-1 tvg-id="CANAL+ KIDS .c" tvg-name="CANAL+ KIDS .c" tvg-logo="" group-title="France",CANAL+ KIDS .c
+https://vavoo.to/vavoo-iptv/play/38048689943fa5994dbbf9
+
+#EXTINF:-1 tvg-id="CANAL+ KIDS FHD .s" tvg-name="CANAL+ KIDS FHD .s" tvg-logo="" group-title="France",CANAL+ KIDS FHD .s
+https://vavoo.to/vavoo-iptv/play/1508654689ee9eaa64cbd6
+
+#EXTINF:-1 tvg-id="CANAL+ KIDS HD .s" tvg-name="CANAL+ KIDS HD .s" tvg-logo="" group-title="France",CANAL+ KIDS HD .s
+https://vavoo.to/vavoo-iptv/play/579962899b774e7e9111f
+
+#EXTINF:-1 tvg-id="CANAL+ LIGUE1 .s" tvg-name="CANAL+ LIGUE1 .s" tvg-logo="" group-title="France",CANAL+ LIGUE1 .s
+https://vavoo.to/vavoo-iptv/play/299571132739bea71e68dd
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 1 .c" tvg-name="CANAL+ LIVE 1 .c" tvg-logo="" group-title="France",CANAL+ LIVE 1 .c
+https://vavoo.to/vavoo-iptv/play/4272460704b9e4e02c3766
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 10 .c" tvg-name="CANAL+ LIVE 10 .c" tvg-logo="" group-title="France",CANAL+ LIVE 10 .c
+https://vavoo.to/vavoo-iptv/play/942555923322d0382513b
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 11 .c" tvg-name="CANAL+ LIVE 11 .c" tvg-logo="" group-title="France",CANAL+ LIVE 11 .c
+https://vavoo.to/vavoo-iptv/play/89025187bdb1fac7babe
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 12 .c" tvg-name="CANAL+ LIVE 12 .c" tvg-logo="" group-title="France",CANAL+ LIVE 12 .c
+https://vavoo.to/vavoo-iptv/play/112289803583611a5a561c
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 13 .c" tvg-name="CANAL+ LIVE 13 .c" tvg-logo="" group-title="France",CANAL+ LIVE 13 .c
+https://vavoo.to/vavoo-iptv/play/21400273317d1d189cb9d6
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 14 .c" tvg-name="CANAL+ LIVE 14 .c" tvg-logo="" group-title="France",CANAL+ LIVE 14 .c
+https://vavoo.to/vavoo-iptv/play/345079137909c9f47803df
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 15 .c" tvg-name="CANAL+ LIVE 15 .c" tvg-logo="" group-title="France",CANAL+ LIVE 15 .c
+https://vavoo.to/vavoo-iptv/play/4040084579e7d5cb5232fa
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 16 .c" tvg-name="CANAL+ LIVE 16 .c" tvg-logo="" group-title="France",CANAL+ LIVE 16 .c
+https://vavoo.to/vavoo-iptv/play/3077486259b2cd99e0f916
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 2 .c" tvg-name="CANAL+ LIVE 2 .c" tvg-logo="" group-title="France",CANAL+ LIVE 2 .c
+https://vavoo.to/vavoo-iptv/play/3104369008f61250924bf3
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 3 .c" tvg-name="CANAL+ LIVE 3 .c" tvg-logo="" group-title="France",CANAL+ LIVE 3 .c
+https://vavoo.to/vavoo-iptv/play/222145760057ddc371c243
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 4 .c" tvg-name="CANAL+ LIVE 4 .c" tvg-logo="" group-title="France",CANAL+ LIVE 4 .c
+https://vavoo.to/vavoo-iptv/play/910695632bbabea992e63
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 5 .c" tvg-name="CANAL+ LIVE 5 .c" tvg-logo="" group-title="France",CANAL+ LIVE 5 .c
+https://vavoo.to/vavoo-iptv/play/18718448099b53ddbec13
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 6 .c" tvg-name="CANAL+ LIVE 6 .c" tvg-logo="" group-title="France",CANAL+ LIVE 6 .c
+https://vavoo.to/vavoo-iptv/play/1284001712f5c8ff8f27bc
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 7 .c" tvg-name="CANAL+ LIVE 7 .c" tvg-logo="" group-title="France",CANAL+ LIVE 7 .c
+https://vavoo.to/vavoo-iptv/play/191105587226d2643bd4d7
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 8 .c" tvg-name="CANAL+ LIVE 8 .c" tvg-logo="" group-title="France",CANAL+ LIVE 8 .c
+https://vavoo.to/vavoo-iptv/play/4088984017beba33442562
+
+#EXTINF:-1 tvg-id="CANAL+ LIVE 9 .c" tvg-name="CANAL+ LIVE 9 .c" tvg-logo="" group-title="France",CANAL+ LIVE 9 .c
+https://vavoo.to/vavoo-iptv/play/34703176652da9efa5d915
+
+#EXTINF:-1 tvg-id="CANAL+ MOTOGP .c" tvg-name="CANAL+ MOTOGP .c" tvg-logo="" group-title="France",CANAL+ MOTOGP .c
+https://vavoo.to/vavoo-iptv/play/898021432c8140ef3f0a3
+
+#EXTINF:-1 tvg-id="CANAL+ MOTOGP .s" tvg-name="CANAL+ MOTOGP .s" tvg-logo="" group-title="France",CANAL+ MOTOGP .s
+https://vavoo.to/vavoo-iptv/play/413289403729f0da8ce5be
+
+#EXTINF:-1 tvg-id="CANAL+ PL .s" tvg-name="CANAL+ PL .s" tvg-logo="" group-title="France",CANAL+ PL .s
+https://vavoo.to/vavoo-iptv/play/10510672695ea0e8c1e06f
+
+#EXTINF:-1 tvg-id="CANAL+ PREMIER LEAGUE .c" tvg-name="CANAL+ PREMIER LEAGUE .c" tvg-logo="" group-title="France",CANAL+ PREMIER LEAGUE .c
+https://vavoo.to/vavoo-iptv/play/1280773990a62f35ce57b
+
+#EXTINF:-1 tvg-id="CANAL+ SERIES .c" tvg-name="CANAL+ SERIES .c" tvg-logo="" group-title="France",CANAL+ SERIES .c
+https://vavoo.to/vavoo-iptv/play/907568283b0bf51903416
+
+#EXTINF:-1 tvg-id="CANAL+ SERIES .s" tvg-name="CANAL+ SERIES .s" tvg-logo="" group-title="France",CANAL+ SERIES .s
+https://vavoo.to/vavoo-iptv/play/412353586256ea59f8b7b5
+
+#EXTINF:-1 tvg-id="CANAL+ SERIES FHD .s" tvg-name="CANAL+ SERIES FHD .s" tvg-logo="" group-title="France",CANAL+ SERIES FHD .s
+https://vavoo.to/vavoo-iptv/play/2141653939fb56edcf97da
+
+#EXTINF:-1 tvg-id="CANAL+ SERIES HD .s" tvg-name="CANAL+ SERIES HD .s" tvg-logo="" group-title="France",CANAL+ SERIES HD .s
+https://vavoo.to/vavoo-iptv/play/296255235587d472eb18c8
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT .c" tvg-name="CANAL+ SPORT .c" tvg-logo="" group-title="France",CANAL+ SPORT .c
+https://vavoo.to/vavoo-iptv/play/1012399982f41e3c10e6d6
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT .s" tvg-name="CANAL+ SPORT .s" tvg-logo="" group-title="France",CANAL+ SPORT .s
+https://vavoo.to/vavoo-iptv/play/2391290436f997307577fc
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 1 .c" tvg-name="CANAL+ SPORT 1 .c" tvg-logo="" group-title="France",CANAL+ SPORT 1 .c
+https://vavoo.to/vavoo-iptv/play/116254965023a728fd4dc8
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 2 .c" tvg-name="CANAL+ SPORT 2 .c" tvg-logo="" group-title="France",CANAL+ SPORT 2 .c
+https://vavoo.to/vavoo-iptv/play/48980802439499014d23
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 2 .s" tvg-name="CANAL+ SPORT 2 .s" tvg-logo="" group-title="France",CANAL+ SPORT 2 .s
+https://vavoo.to/vavoo-iptv/play/703788444097fa2380b28
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 3 .c" tvg-name="CANAL+ SPORT 3 .c" tvg-logo="" group-title="France",CANAL+ SPORT 3 .c
+https://vavoo.to/vavoo-iptv/play/1066093298273080f2f774
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 360 .c" tvg-name="CANAL+ SPORT 360 .c" tvg-logo="" group-title="France",CANAL+ SPORT 360 .c
+https://vavoo.to/vavoo-iptv/play/3411759213e112d2746c32
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 360 .s" tvg-name="CANAL+ SPORT 360 .s" tvg-logo="" group-title="France",CANAL+ SPORT 360 .s
+https://vavoo.to/vavoo-iptv/play/18148197605eb108ea4ea5
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 5 .c" tvg-name="CANAL+ SPORT 5 .c" tvg-logo="" group-title="France",CANAL+ SPORT 5 .c
+https://vavoo.to/vavoo-iptv/play/2966142802a95f1626785d
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 5 .c" tvg-name="CANAL+ SPORT 5 .c" tvg-logo="" group-title="France",CANAL+ SPORT 5 .c
+https://vavoo.to/vavoo-iptv/play/2966142802a95f1626785d
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT FHD .s" tvg-name="CANAL+ SPORT FHD .s" tvg-logo="" group-title="France",CANAL+ SPORT FHD .s
+https://vavoo.to/vavoo-iptv/play/400983001854a9f36fb4bc
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT FHD .s" tvg-name="CANAL+ SPORT FHD .s" tvg-logo="" group-title="France",CANAL+ SPORT FHD .s
+https://vavoo.to/vavoo-iptv/play/400983001854a9f36fb4bc
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT HD .b" tvg-name="CANAL+ SPORT HD .b" tvg-logo="" group-title="France",CANAL+ SPORT HD .b
+https://vavoo.to/vavoo-iptv/play/3280446601139b4a78a620
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT HD .b" tvg-name="CANAL+ SPORT HD .b" tvg-logo="" group-title="France",CANAL+ SPORT HD .b
+https://vavoo.to/vavoo-iptv/play/3280446601139b4a78a620
+
+#EXTINF:-1 tvg-id="CANAL+ TOP 14 .s" tvg-name="CANAL+ TOP 14 .s" tvg-logo="" group-title="France",CANAL+ TOP 14 .s
+https://vavoo.to/vavoo-iptv/play/170395720073b0770769ac
+
+#EXTINF:-1 tvg-id="CANALPLAY 11 .c" tvg-name="CANALPLAY 11 .c" tvg-logo="" group-title="France",CANALPLAY 11 .c
+https://vavoo.to/vavoo-iptv/play/364512830674efd303e0f
+
+#EXTINF:-1 tvg-id="CANALPLAY 12 .c" tvg-name="CANALPLAY 12 .c" tvg-logo="" group-title="France",CANALPLAY 12 .c
+https://vavoo.to/vavoo-iptv/play/13774676303db6aa31c263
+
+#EXTINF:-1 tvg-id="CANALPLAY 13 .c" tvg-name="CANALPLAY 13 .c" tvg-logo="" group-title="France",CANALPLAY 13 .c
+https://vavoo.to/vavoo-iptv/play/1870288222c4332250183b
+
+#EXTINF:-1 tvg-id="CANALPLAY 14 .c" tvg-name="CANALPLAY 14 .c" tvg-logo="" group-title="France",CANALPLAY 14 .c
+https://vavoo.to/vavoo-iptv/play/3713698126fc622ca2f1ee
+
+#EXTINF:-1 tvg-id="CANALPLAY 15 .c" tvg-name="CANALPLAY 15 .c" tvg-logo="" group-title="France",CANALPLAY 15 .c
+https://vavoo.to/vavoo-iptv/play/3761938686f4289753a64b
+
+#EXTINF:-1 tvg-id="CANALPLAY 16 .c" tvg-name="CANALPLAY 16 .c" tvg-logo="" group-title="France",CANALPLAY 16 .c
+https://vavoo.to/vavoo-iptv/play/2811943470264d8d872abb
+
+#EXTINF:-1 tvg-id="CANALPLAY 18 .c" tvg-name="CANALPLAY 18 .c" tvg-logo="" group-title="France",CANALPLAY 18 .c
+https://vavoo.to/vavoo-iptv/play/4138199835cf025d4975f
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK .b" tvg-name="CARTOON NETWORK .b" tvg-logo="" group-title="France",CARTOON NETWORK .b
+https://vavoo.to/vavoo-iptv/play/3047805633546dcf9fb24b
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK .c" tvg-name="CARTOON NETWORK .c" tvg-logo="" group-title="France",CARTOON NETWORK .c
+https://vavoo.to/vavoo-iptv/play/278630331931d4f590a721
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK FHD .s" tvg-name="CARTOON NETWORK FHD .s" tvg-logo="" group-title="France",CARTOON NETWORK FHD .s
+https://vavoo.to/vavoo-iptv/play/2127297858581f62f0bf4c
+
+#EXTINF:-1 tvg-id="CARTOONITO .c" tvg-name="CARTOONITO .c" tvg-logo="" group-title="France",CARTOONITO .c
+https://vavoo.to/vavoo-iptv/play/4129073805efdd455d93a2
+
+#EXTINF:-1 tvg-id="CATFISH .c" tvg-name="CATFISH .c" tvg-logo="" group-title="France",CATFISH .c
+https://vavoo.to/vavoo-iptv/play/277558131849e65fa87fb6
+
+#EXTINF:-1 tvg-id="CGTN .s" tvg-name="CGTN .s" tvg-logo="" group-title="France",CGTN .s
+https://vavoo.to/vavoo-iptv/play/5112772450536f6b4cec0
+
+#EXTINF:-1 tvg-id="CGTN FRANÇAIS .c" tvg-name="CGTN FRANÇAIS .c" tvg-logo="" group-title="France",CGTN FRANÇAIS .c
+https://vavoo.to/vavoo-iptv/play/2070666334dee676fff25c
+
+#EXTINF:-1 tvg-id="CHASSE & PECHE .c" tvg-name="CHASSE & PECHE .c" tvg-logo="" group-title="France",CHASSE & PECHE .c
+https://vavoo.to/vavoo-iptv/play/30277092126bc746a51a20
+
+#EXTINF:-1 tvg-id="CHASSE & PECHE .s" tvg-name="CHASSE & PECHE .s" tvg-logo="" group-title="France",CHASSE & PECHE .s
+https://vavoo.to/vavoo-iptv/play/2674834370a1cac4b77989
+
+#EXTINF:-1 tvg-id="CHASSE ET PECHE .b" tvg-name="CHASSE ET PECHE .b" tvg-logo="" group-title="France",CHASSE ET PECHE .b
+https://vavoo.to/vavoo-iptv/play/2716078255804f649fb1be
+
+#EXTINF:-1 tvg-id="CHERIE 25 .b" tvg-name="CHERIE 25 .b" tvg-logo="" group-title="France",CHERIE 25 .b
+https://vavoo.to/vavoo-iptv/play/4244955973c8f304ed42de
+
+#EXTINF:-1 tvg-id="CHERIE 25 .c" tvg-name="CHERIE 25 .c" tvg-logo="" group-title="France",CHERIE 25 .c
+https://vavoo.to/vavoo-iptv/play/19697030465be86491cf97
+
+#EXTINF:-1 tvg-id="CHERIE 25 FHD .s" tvg-name="CHERIE 25 FHD .s" tvg-logo="" group-title="France",CHERIE 25 FHD .s
+https://vavoo.to/vavoo-iptv/play/22857335597969a7fb2827
+
+#EXTINF:-1 tvg-id="CHERIE 25 HD .s" tvg-name="CHERIE 25 HD .s" tvg-logo="" group-title="France",CHERIE 25 HD .s
+https://vavoo.to/vavoo-iptv/play/1213116343b6ee2df27a59
+
+#EXTINF:-1 tvg-id="CIN POLAR .b" tvg-name="CIN POLAR .b" tvg-logo="" group-title="France",CIN POLAR .b
+https://vavoo.to/vavoo-iptv/play/34255276908c55a5314cc2
+
+#EXTINF:-1 tvg-id="CINA+ CLASSIC .b" tvg-name="CINA+ CLASSIC .b" tvg-logo="" group-title="France",CINA+ CLASSIC .b
+https://vavoo.to/vavoo-iptv/play/139893402741f84637d818
+
+#EXTINF:-1 tvg-id="CINA+ PREMIER .b" tvg-name="CINA+ PREMIER .b" tvg-logo="" group-title="France",CINA+ PREMIER .b
+https://vavoo.to/vavoo-iptv/play/2149635654e54acfd61573
+
+#EXTINF:-1 tvg-id="CINE CLASSIC .b" tvg-name="CINE CLASSIC .b" tvg-logo="" group-title="France",CINE CLASSIC .b
+https://vavoo.to/vavoo-iptv/play/37438091755105404f14e5
+
+#EXTINF:-1 tvg-id="CINE CLUB .b" tvg-name="CINE CLUB .b" tvg-logo="" group-title="France",CINE CLUB .b
+https://vavoo.to/vavoo-iptv/play/2756225323d66c2d2340f9
+
+#EXTINF:-1 tvg-id="CINE EMOTION HD .b" tvg-name="CINE EMOTION HD .b" tvg-logo="" group-title="France",CINE EMOTION HD .b
+https://vavoo.to/vavoo-iptv/play/22786097730b32792104c
+
+#EXTINF:-1 tvg-id="CINE FAMIZ HD .b" tvg-name="CINE FAMIZ HD .b" tvg-logo="" group-title="France",CINE FAMIZ HD .b
+https://vavoo.to/vavoo-iptv/play/37191264208beaab60b7e5
+
+#EXTINF:-1 tvg-id="CINE FRISSON HD .b" tvg-name="CINE FRISSON HD .b" tvg-logo="" group-title="France",CINE FRISSON HD .b
+https://vavoo.to/vavoo-iptv/play/336074375a15a0dca0457
+
+#EXTINF:-1 tvg-id="CINE MAX .b" tvg-name="CINE MAX .b" tvg-logo="" group-title="France",CINE MAX .b
+https://vavoo.to/vavoo-iptv/play/2506540325594f8c87a224
+
+#EXTINF:-1 tvg-id="CINE POLAR+ .s" tvg-name="CINE POLAR+ .s" tvg-logo="" group-title="France",CINE POLAR+ .s
+https://vavoo.to/vavoo-iptv/play/7543640866c6d61e5163d
+
+#EXTINF:-1 tvg-id="CINE PREMIER HD .b" tvg-name="CINE PREMIER HD .b" tvg-logo="" group-title="France",CINE PREMIER HD .b
+https://vavoo.to/vavoo-iptv/play/424912404291eedebb1c15
+
+#EXTINF:-1 tvg-id="CINE+ .c" tvg-name="CINE+ .c" tvg-logo="" group-title="France",CINE+ .c
+https://vavoo.to/vavoo-iptv/play/2545617783527d3f10b1f1
+
+#EXTINF:-1 tvg-id="CINE+ ACTION HD .b" tvg-name="CINE+ ACTION HD .b" tvg-logo="" group-title="France",CINE+ ACTION HD .b
+https://vavoo.to/vavoo-iptv/play/11522749934e5030a0ab3c
+
+#EXTINF:-1 tvg-id="CINE+ CLASSIC .c" tvg-name="CINE+ CLASSIC .c" tvg-logo="" group-title="France",CINE+ CLASSIC .c
+https://vavoo.to/vavoo-iptv/play/826335846cd94062fe98
+
+#EXTINF:-1 tvg-id="CINE+ CLASSIC .s" tvg-name="CINE+ CLASSIC .s" tvg-logo="" group-title="France",CINE+ CLASSIC .s
+https://vavoo.to/vavoo-iptv/play/3342642717ab7f2fad50a4
+
+#EXTINF:-1 tvg-id="CINE+ CLASSIC FHD .b" tvg-name="CINE+ CLASSIC FHD .b" tvg-logo="" group-title="France",CINE+ CLASSIC FHD .b
+https://vavoo.to/vavoo-iptv/play/351213883544926ea6dec5
+
+#EXTINF:-1 tvg-id="CINE+ CLASSIC FHD .s" tvg-name="CINE+ CLASSIC FHD .s" tvg-logo="" group-title="France",CINE+ CLASSIC FHD .s
+https://vavoo.to/vavoo-iptv/play/581219766ec0c08526620
+
+#EXTINF:-1 tvg-id="CINE+ CLASSIC HD .s" tvg-name="CINE+ CLASSIC HD .s" tvg-logo="" group-title="France",CINE+ CLASSIC HD .s
+https://vavoo.to/vavoo-iptv/play/3677483481c601971abf79
+
+#EXTINF:-1 tvg-id="CINE+ CLUB .c" tvg-name="CINE+ CLUB .c" tvg-logo="" group-title="France",CINE+ CLUB .c
+https://vavoo.to/vavoo-iptv/play/1800537483f21c95207e51
+
+#EXTINF:-1 tvg-id="CINE+ CLUB .s" tvg-name="CINE+ CLUB .s" tvg-logo="" group-title="France",CINE+ CLUB .s
+https://vavoo.to/vavoo-iptv/play/176726491979039c050819
+
+#EXTINF:-1 tvg-id="CINE+ CLUB FHD .b" tvg-name="CINE+ CLUB FHD .b" tvg-logo="" group-title="France",CINE+ CLUB FHD .b
+https://vavoo.to/vavoo-iptv/play/26514025573f474a0abd81
+
+#EXTINF:-1 tvg-id="CINE+ CLUB HD .s" tvg-name="CINE+ CLUB HD .s" tvg-logo="" group-title="France",CINE+ CLUB HD .s
+https://vavoo.to/vavoo-iptv/play/5870248549e97edf632cd
+
+#EXTINF:-1 tvg-id="CINE+ EMOTION .c" tvg-name="CINE+ EMOTION .c" tvg-logo="" group-title="France",CINE+ EMOTION .c
+https://vavoo.to/vavoo-iptv/play/7546769060ce35541f305
+
+#EXTINF:-1 tvg-id="CINE+ EMOTION .s" tvg-name="CINE+ EMOTION .s" tvg-logo="" group-title="France",CINE+ EMOTION .s
+https://vavoo.to/vavoo-iptv/play/4012587463c5d0adb0620e
+
+#EXTINF:-1 tvg-id="CINE+ EMOTION FHD .b" tvg-name="CINE+ EMOTION FHD .b" tvg-logo="" group-title="France",CINE+ EMOTION FHD .b
+https://vavoo.to/vavoo-iptv/play/135614661597d2792a4429
+
+#EXTINF:-1 tvg-id="CINE+ EMOTION FHD .s" tvg-name="CINE+ EMOTION FHD .s" tvg-logo="" group-title="France",CINE+ EMOTION FHD .s
+https://vavoo.to/vavoo-iptv/play/2737270354dc417dc353b0
+
+#EXTINF:-1 tvg-id="CINE+ FAMIZ .c" tvg-name="CINE+ FAMIZ .c" tvg-logo="" group-title="France",CINE+ FAMIZ .c
+https://vavoo.to/vavoo-iptv/play/28333419172483a85ee0b2
+
+#EXTINF:-1 tvg-id="CINE+ FAMIZ .s" tvg-name="CINE+ FAMIZ .s" tvg-logo="" group-title="France",CINE+ FAMIZ .s
+https://vavoo.to/vavoo-iptv/play/2755354291c0d1748a003f
+
+#EXTINF:-1 tvg-id="CINE+ FAMIZ FHD .b" tvg-name="CINE+ FAMIZ FHD .b" tvg-logo="" group-title="France",CINE+ FAMIZ FHD .b
+https://vavoo.to/vavoo-iptv/play/3406691536b1c2e278588c
+
+#EXTINF:-1 tvg-id="CINE+ FAMIZ FHD .s" tvg-name="CINE+ FAMIZ FHD .s" tvg-logo="" group-title="France",CINE+ FAMIZ FHD .s
+https://vavoo.to/vavoo-iptv/play/2704150133fbb48751b7b5
+
+#EXTINF:-1 tvg-id="CINE+ FAMIZ HD .s" tvg-name="CINE+ FAMIZ HD .s" tvg-logo="" group-title="France",CINE+ FAMIZ HD .s
+https://vavoo.to/vavoo-iptv/play/21820840461c5c31e1d60f
+
+#EXTINF:-1 tvg-id="CINE+ FRISSON (BACKUP) .s" tvg-name="CINE+ FRISSON (BACKUP) .s" tvg-logo="" group-title="France",CINE+ FRISSON (BACKUP) .s
+https://vavoo.to/vavoo-iptv/play/1649216218f2fbdc734689
+
+#EXTINF:-1 tvg-id="CINE+ FRISSON .c" tvg-name="CINE+ FRISSON .c" tvg-logo="" group-title="France",CINE+ FRISSON .c
+https://vavoo.to/vavoo-iptv/play/3654122461b46665c82b8f
+
+#EXTINF:-1 tvg-id="CINE+ FRISSON .s" tvg-name="CINE+ FRISSON .s" tvg-logo="" group-title="France",CINE+ FRISSON .s
+https://vavoo.to/vavoo-iptv/play/438122160b886d305d865
+
+#EXTINF:-1 tvg-id="CINE+ FRISSON FHD .b" tvg-name="CINE+ FRISSON FHD .b" tvg-logo="" group-title="France",CINE+ FRISSON FHD .b
+https://vavoo.to/vavoo-iptv/play/39202609374011e03db8d9
+
+#EXTINF:-1 tvg-id="CINE+ FRISSON FHD .s" tvg-name="CINE+ FRISSON FHD .s" tvg-logo="" group-title="France",CINE+ FRISSON FHD .s
+https://vavoo.to/vavoo-iptv/play/4419846843b1345797858
+
+#EXTINF:-1 tvg-id="CINE+ FX .c" tvg-name="CINE+ FX .c" tvg-logo="" group-title="France",CINE+ FX .c
+https://vavoo.to/vavoo-iptv/play/2243748434cb49b0fc0830
+
+#EXTINF:-1 tvg-id="CINE+ FX HD .b" tvg-name="CINE+ FX HD .b" tvg-logo="" group-title="France",CINE+ FX HD .b
+https://vavoo.to/vavoo-iptv/play/118682222289254b38444b
+
+#EXTINF:-1 tvg-id="CINE+ ISSON .b" tvg-name="CINE+ ISSON .b" tvg-logo="" group-title="France",CINE+ ISSON .b
+https://vavoo.to/vavoo-iptv/play/1314605414f0fe7552e466
+
+#EXTINF:-1 tvg-id="CINE+ OCS .c" tvg-name="CINE+ OCS .c" tvg-logo="" group-title="France",CINE+ OCS .c
+https://vavoo.to/vavoo-iptv/play/1241349700d812a2e9224f
+
+#EXTINF:-1 tvg-id="CINE+ PREMIER .c" tvg-name="CINE+ PREMIER .c" tvg-logo="" group-title="France",CINE+ PREMIER .c
+https://vavoo.to/vavoo-iptv/play/3618520893ece65e23e6bc
+
+#EXTINF:-1 tvg-id="CINE+ PREMIER .s" tvg-name="CINE+ PREMIER .s" tvg-logo="" group-title="France",CINE+ PREMIER .s
+https://vavoo.to/vavoo-iptv/play/3438311203f562be19b89
+
+#EXTINF:-1 tvg-id="CINE+ PREMIER FHD .b" tvg-name="CINE+ PREMIER FHD .b" tvg-logo="" group-title="France",CINE+ PREMIER FHD .b
+https://vavoo.to/vavoo-iptv/play/37778959504a6386a7b41e
+
+#EXTINF:-1 tvg-id="CINE+ PREMIER FHD .s" tvg-name="CINE+ PREMIER FHD .s" tvg-logo="" group-title="France",CINE+ PREMIER FHD .s
+https://vavoo.to/vavoo-iptv/play/31643031518e0dbf8fec7
+
+#EXTINF:-1 tvg-id="CINE+ PREMIER HD .s" tvg-name="CINE+ PREMIER HD .s" tvg-logo="" group-title="France",CINE+ PREMIER HD .s
+https://vavoo.to/vavoo-iptv/play/372000054721dfe68fc8a
+
+#EXTINF:-1 tvg-id="CINE+ STAR HD .b" tvg-name="CINE+ STAR HD .b" tvg-logo="" group-title="France",CINE+ STAR HD .b
+https://vavoo.to/vavoo-iptv/play/3088532826307d0d32fb95
+
+#EXTINF:-1 tvg-id="CLASSICC .b" tvg-name="CLASSICC .b" tvg-logo="" group-title="France",CLASSICC .b
+https://vavoo.to/vavoo-iptv/play/11833663779313170f647b
+
+#EXTINF:-1 tvg-id="CLIQUE.TV HD .b" tvg-name="CLIQUE.TV HD .b" tvg-logo="" group-title="France",CLIQUE.TV HD .b
+https://vavoo.to/vavoo-iptv/play/1993605667858a2b8003f3
+
+#EXTINF:-1 tvg-id="CLIQUE.TV SD .b" tvg-name="CLIQUE.TV SD .b" tvg-logo="" group-title="France",CLIQUE.TV SD .b
+https://vavoo.to/vavoo-iptv/play/53306585149adc203beb2
+
+#EXTINF:-1 tvg-id="CLUBBING TV .c" tvg-name="CLUBBING TV .c" tvg-logo="" group-title="France",CLUBBING TV .c
+https://vavoo.to/vavoo-iptv/play/3759226559cd778140d3fb
+
+#EXTINF:-1 tvg-id="COMEDIE .b" tvg-name="COMEDIE .b" tvg-logo="" group-title="France",COMEDIE .b
+https://vavoo.to/vavoo-iptv/play/36812226245baa267ff61d
+
+#EXTINF:-1 tvg-id="COMEDIE+ .c" tvg-name="COMEDIE+ .c" tvg-logo="" group-title="France",COMEDIE+ .c
+https://vavoo.to/vavoo-iptv/play/2839396482bff1802c3521
+
+#EXTINF:-1 tvg-id="COMEDIE+ .s" tvg-name="COMEDIE+ .s" tvg-logo="" group-title="France",COMEDIE+ .s
+https://vavoo.to/vavoo-iptv/play/1928514641c723cfdf588b
+
+#EXTINF:-1 tvg-id="COMEDIE+ FHD .s" tvg-name="COMEDIE+ FHD .s" tvg-logo="" group-title="France",COMEDIE+ FHD .s
+https://vavoo.to/vavoo-iptv/play/14475552621137c5bc01ea
+
+#EXTINF:-1 tvg-id="COMEDIE+ HD .s" tvg-name="COMEDIE+ HD .s" tvg-logo="" group-title="France",COMEDIE+ HD .s
+https://vavoo.to/vavoo-iptv/play/23093830022ad7b1e5ece4
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL .c" tvg-name="COMEDY CENTRAL .c" tvg-logo="" group-title="France",COMEDY CENTRAL .c
+https://vavoo.to/vavoo-iptv/play/1366669684cd972192a3c0
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL .s" tvg-name="COMEDY CENTRAL .s" tvg-logo="" group-title="France",COMEDY CENTRAL .s
+https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
+
+#EXTINF:-1 tvg-id="CRIME DISTRICT .b" tvg-name="CRIME DISTRICT .b" tvg-logo="" group-title="France",CRIME DISTRICT .b
+https://vavoo.to/vavoo-iptv/play/236492318925aad2d21a30
+
+#EXTINF:-1 tvg-id="CRIME DISTRICT .c" tvg-name="CRIME DISTRICT .c" tvg-logo="" group-title="France",CRIME DISTRICT .c
+https://vavoo.to/vavoo-iptv/play/233249952949b217798c9e
+
+#EXTINF:-1 tvg-id="CRIME DISTRICT .s" tvg-name="CRIME DISTRICT .s" tvg-logo="" group-title="France",CRIME DISTRICT .s
+https://vavoo.to/vavoo-iptv/play/26863556070010417e6d9d
+
+#EXTINF:-1 tvg-id="DAZN 1 .c" tvg-name="DAZN 1 .c" tvg-logo="" group-title="France",DAZN 1 .c
+https://vavoo.to/vavoo-iptv/play/35675905977ef42fa6bfbe
+
+#EXTINF:-1 tvg-id="DAZN 1 .s" tvg-name="DAZN 1 .s" tvg-logo="" group-title="France",DAZN 1 .s
+https://vavoo.to/vavoo-iptv/play/3110706438e1379884d3f9
+
+#EXTINF:-1 tvg-id="DAZN 2 .c" tvg-name="DAZN 2 .c" tvg-logo="" group-title="France",DAZN 2 .c
+https://vavoo.to/vavoo-iptv/play/2466604565dfbbf2678b6c
+
+#EXTINF:-1 tvg-id="DAZN 2 LEAUGE 1 .c" tvg-name="DAZN 2 LEAUGE 1 .c" tvg-logo="" group-title="France",DAZN 2 LEAUGE 1 .c
+https://vavoo.to/vavoo-iptv/play/2587190923e0ebf68f15d4
+
+#EXTINF:-1 tvg-id="DAZN 3 LEAUGE 1 .c" tvg-name="DAZN 3 LEAUGE 1 .c" tvg-logo="" group-title="France",DAZN 3 LEAUGE 1 .c
+https://vavoo.to/vavoo-iptv/play/121276413748d9a8e2773
+
+#EXTINF:-1 tvg-id="DAZN 4 LEAUGE 1 .c" tvg-name="DAZN 4 LEAUGE 1 .c" tvg-logo="" group-title="France",DAZN 4 LEAUGE 1 .c
+https://vavoo.to/vavoo-iptv/play/166036614158b9783754e5
+
+#EXTINF:-1 tvg-id="DAZN 4K (EVENT ONLY) .s" tvg-name="DAZN 4K (EVENT ONLY) .s" tvg-logo="" group-title="France",DAZN 4K (EVENT ONLY) .s
+https://vavoo.to/vavoo-iptv/play/205684521578085fd61e04
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 1 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 1 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 1 FHD .b
+https://vavoo.to/vavoo-iptv/play/2117784948d58914e0588e
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 1 HD .b" tvg-name="DAZN LIGUE 1 LIVE 1 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 1 HD .b
+https://vavoo.to/vavoo-iptv/play/1224881617ebbd2ee42bed
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 1 SD .b" tvg-name="DAZN LIGUE 1 LIVE 1 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 1 SD .b
+https://vavoo.to/vavoo-iptv/play/5381671773d9e5d9e2294
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 2 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 2 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 2 FHD .b
+https://vavoo.to/vavoo-iptv/play/1203235249f2839c7193c5
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 2 HD .b" tvg-name="DAZN LIGUE 1 LIVE 2 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 2 HD .b
+https://vavoo.to/vavoo-iptv/play/33479194100c3ca3486577
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 2 SD .b" tvg-name="DAZN LIGUE 1 LIVE 2 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 2 SD .b
+https://vavoo.to/vavoo-iptv/play/29295084587d921c80af4c
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 3 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 3 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 3 FHD .b
+https://vavoo.to/vavoo-iptv/play/1355611634b4744e6800c6
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 3 HD .b" tvg-name="DAZN LIGUE 1 LIVE 3 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 3 HD .b
+https://vavoo.to/vavoo-iptv/play/187118252c387ae370e69
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 3 SD .b" tvg-name="DAZN LIGUE 1 LIVE 3 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 3 SD .b
+https://vavoo.to/vavoo-iptv/play/16477555088f15a7f5fd6e
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 4 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 4 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 FHD .b
+https://vavoo.to/vavoo-iptv/play/8837898830881d16d7c01
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 4 HD .b" tvg-name="DAZN LIGUE 1 LIVE 4 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 HD .b
+https://vavoo.to/vavoo-iptv/play/316036377d0f4479c8be
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 4 SD .b" tvg-name="DAZN LIGUE 1 LIVE 4 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 SD .b
+https://vavoo.to/vavoo-iptv/play/17608074059653cd1476e8
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 5 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 5 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 FHD .b
+https://vavoo.to/vavoo-iptv/play/601261176576330c20654
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 5 SD .b" tvg-name="DAZN LIGUE 1 LIVE 5 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 SD .b
+https://vavoo.to/vavoo-iptv/play/2757347699d552162c7f0b
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 6 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 6 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 6 FHD .b
+https://vavoo.to/vavoo-iptv/play/4422186857a05f320e4ca
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 6 SD .b" tvg-name="DAZN LIGUE 1 LIVE 6 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 6 SD .b
+https://vavoo.to/vavoo-iptv/play/718720656a928c34ac328
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 7 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 7 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 7 FHD .b
+https://vavoo.to/vavoo-iptv/play/2202452461df700a16ef2
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 7 SD .b" tvg-name="DAZN LIGUE 1 LIVE 7 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 7 SD .b
+https://vavoo.to/vavoo-iptv/play/386693889477904bbf4eb6
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 8 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 8 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 8 FHD .b
+https://vavoo.to/vavoo-iptv/play/353326775968d382e65a62
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 8 SD .b" tvg-name="DAZN LIGUE 1 LIVE 8 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 8 SD .b
+https://vavoo.to/vavoo-iptv/play/10630504022c1c4f737b5e
+
+#EXTINF:-1 tvg-id="DAZN LIGUE 1 LIVE 9 FHD .b" tvg-name="DAZN LIGUE 1 LIVE 9 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 9 FHD .b
+https://vavoo.to/vavoo-iptv/play/3319953260dfcfaf5b80f3
+
+#EXTINF:-1 tvg-id="DAZN RISE (WOMEN SPORT ONLY) HD .s" tvg-name="DAZN RISE (WOMEN SPORT ONLY) HD .s" tvg-logo="" group-title="France",DAZN RISE (WOMEN SPORT ONLY) HD .s
+https://vavoo.to/vavoo-iptv/play/71890501725664c6e8f6f
+
+#EXTINF:-1 tvg-id="DAZN SPORT FHD .s" tvg-name="DAZN SPORT FHD .s" tvg-logo="" group-title="France",DAZN SPORT FHD .s
+https://vavoo.to/vavoo-iptv/play/346204765813e173efffd0
+
+#EXTINF:-1 tvg-id="DIGITAL BLACK MUSIC (DBM) .c" tvg-name="DIGITAL BLACK MUSIC (DBM) .c" tvg-logo="" group-title="France",DIGITAL BLACK MUSIC (DBM) .c
+https://vavoo.to/vavoo-iptv/play/8884295080d400fed773d
+
+#EXTINF:-1 tvg-id="DIRECT EQUIPE .s" tvg-name="DIRECT EQUIPE .s" tvg-logo="" group-title="France",DIRECT EQUIPE .s
+https://vavoo.to/vavoo-iptv/play/272201374708c808452afa
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL .s" tvg-name="DISCOVERY CHANNEL .s" tvg-logo="" group-title="France",DISCOVERY CHANNEL .s
+https://vavoo.to/vavoo-iptv/play/340454356536c0a44a2785
+
+#EXTINF:-1 tvg-id="DISCOVERY FAMILY .s" tvg-name="DISCOVERY FAMILY .s" tvg-logo="" group-title="France",DISCOVERY FAMILY .s
+https://vavoo.to/vavoo-iptv/play/544346198527bd3b78b8b
+
+#EXTINF:-1 tvg-id="DISCOVERY HD .b" tvg-name="DISCOVERY HD .b" tvg-logo="" group-title="France",DISCOVERY HD .b
+https://vavoo.to/vavoo-iptv/play/23227602698e83521195f3
+
+#EXTINF:-1 tvg-id="DISCOVERY INVESTIGATION .s" tvg-name="DISCOVERY INVESTIGATION .s" tvg-logo="" group-title="France",DISCOVERY INVESTIGATION .s
+https://vavoo.to/vavoo-iptv/play/995275984c7ebfb454071
+
+#EXTINF:-1 tvg-id="DISCOVERY INVESTIGATION HD .b" tvg-name="DISCOVERY INVESTIGATION HD .b" tvg-logo="" group-title="France",DISCOVERY INVESTIGATION HD .b
+https://vavoo.to/vavoo-iptv/play/32229586744ada00839f84
+
+#EXTINF:-1 tvg-id="DISCOVERY SCI-FI .s" tvg-name="DISCOVERY SCI-FI .s" tvg-logo="" group-title="France",DISCOVERY SCI-FI .s
+https://vavoo.to/vavoo-iptv/play/4123762836e57cc77a37ae
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE .b" tvg-name="DISCOVERY SCIENCE .b" tvg-logo="" group-title="France",DISCOVERY SCIENCE .b
+https://vavoo.to/vavoo-iptv/play/13916241181642741e7fb7
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE .s" tvg-name="DISCOVERY SCIENCE .s" tvg-logo="" group-title="France",DISCOVERY SCIENCE .s
+https://vavoo.to/vavoo-iptv/play/27011456832d97fd3f96b1
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD .c" tvg-name="DISCOVERY WORLD .c" tvg-logo="" group-title="France",DISCOVERY WORLD .c
+https://vavoo.to/vavoo-iptv/play/453891919ba15fd0188ba
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL (BACKUP) .b" tvg-name="DISNEY CHANNEL (BACKUP) .b" tvg-logo="" group-title="France",DISNEY CHANNEL (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/2935158545a084ec18db23
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL .b" tvg-name="DISNEY CHANNEL .b" tvg-logo="" group-title="France",DISNEY CHANNEL .b
+https://vavoo.to/vavoo-iptv/play/1762694647144af19e59b7
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL .s" tvg-name="DISNEY CHANNEL .s" tvg-logo="" group-title="France",DISNEY CHANNEL .s
+https://vavoo.to/vavoo-iptv/play/11741266772bc970bcdea5
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL+1 .s" tvg-name="DISNEY CHANNEL+1 .s" tvg-logo="" group-title="France",DISNEY CHANNEL+1 .s
+https://vavoo.to/vavoo-iptv/play/83821788354499279475
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL+1 HD .s" tvg-name="DISNEY CHANNEL+1 HD .s" tvg-logo="" group-title="France",DISNEY CHANNEL+1 HD .s
+https://vavoo.to/vavoo-iptv/play/500812292bac25bba2180
+
+#EXTINF:-1 tvg-id="DISNEY CINEMA (BACKUP) .b" tvg-name="DISNEY CINEMA (BACKUP) .b" tvg-logo="" group-title="France",DISNEY CINEMA (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/1624576575a94e3212da5
+
+#EXTINF:-1 tvg-id="DISNEY CINEMA .b" tvg-name="DISNEY CINEMA .b" tvg-logo="" group-title="France",DISNEY CINEMA .b
+https://vavoo.to/vavoo-iptv/play/13753937069c923e070773
+
+#EXTINF:-1 tvg-id="DISNEY CINEMA .s" tvg-name="DISNEY CINEMA .s" tvg-logo="" group-title="France",DISNEY CINEMA .s
+https://vavoo.to/vavoo-iptv/play/3691576487927392cb891e
+
+#EXTINF:-1 tvg-id="DISNEY CINEMAGIC .s" tvg-name="DISNEY CINEMAGIC .s" tvg-logo="" group-title="France",DISNEY CINEMAGIC .s
+https://vavoo.to/vavoo-iptv/play/2376875193e4cbfc48b8b8
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR (BACKUP) .b" tvg-name="DISNEY JUNIOR (BACKUP) .b" tvg-logo="" group-title="France",DISNEY JUNIOR (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/4039125784a8c6af55cefd
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR .b" tvg-name="DISNEY JUNIOR .b" tvg-logo="" group-title="France",DISNEY JUNIOR .b
+https://vavoo.to/vavoo-iptv/play/1244883752934afb7348d0
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR .s" tvg-name="DISNEY JUNIOR .s" tvg-logo="" group-title="France",DISNEY JUNIOR .s
+https://vavoo.to/vavoo-iptv/play/3351330853ba2b580d385f
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR FHD .s" tvg-name="DISNEY JUNIOR FHD .s" tvg-logo="" group-title="France",DISNEY JUNIOR FHD .s
+https://vavoo.to/vavoo-iptv/play/357894050d7f96e94e22f
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR HD .s" tvg-name="DISNEY JUNIOR HD .s" tvg-logo="" group-title="France",DISNEY JUNIOR HD .s
+https://vavoo.to/vavoo-iptv/play/4072150322035a105f553c
+
+#EXTINF:-1 tvg-id="DISNEY XD .b" tvg-name="DISNEY XD .b" tvg-logo="" group-title="France",DISNEY XD .b
+https://vavoo.to/vavoo-iptv/play/3237934255bfec4e787a8b
+
+#EXTINF:-1 tvg-id="DISNEY XD .s" tvg-name="DISNEY XD .s" tvg-logo="" group-title="France",DISNEY XD .s
+https://vavoo.to/vavoo-iptv/play/13299406005657d2c035e2
+
+#EXTINF:-1 tvg-id="DISNEY+ .s" tvg-name="DISNEY+ .s" tvg-logo="" group-title="France",DISNEY+ .s
+https://vavoo.to/vavoo-iptv/play/23220966391db224d00af9
+
+#EXTINF:-1 tvg-id="E! .c" tvg-name="E! .c" tvg-logo="" group-title="France",E! .c
+https://vavoo.to/vavoo-iptv/play/3093319007521a68f1a63a
+
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT .b" tvg-name="E! ENTERTAINMENT .b" tvg-logo="" group-title="France",E! ENTERTAINMENT .b
+https://vavoo.to/vavoo-iptv/play/452235982c96ebd2b6b2
+
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT .s" tvg-name="E! ENTERTAINMENT .s" tvg-logo="" group-title="France",E! ENTERTAINMENT .s
+https://vavoo.to/vavoo-iptv/play/413896731191db46e8d90e
+
+#EXTINF:-1 tvg-id="ELLE GIRL .b" tvg-name="ELLE GIRL .b" tvg-logo="" group-title="France",ELLE GIRL .b
+https://vavoo.to/vavoo-iptv/play/29552208994a6e024b2c7b
+
+#EXTINF:-1 tvg-id="EMOTIONL .c" tvg-name="EMOTIONL .c" tvg-logo="" group-title="France",EMOTIONL .c
+https://vavoo.to/vavoo-iptv/play/404890073b4c8da658993
+
+#EXTINF:-1 tvg-id="EQUIDIA .c" tvg-name="EQUIDIA .c" tvg-logo="" group-title="France",EQUIDIA .c
+https://vavoo.to/vavoo-iptv/play/17906026384c3cc6835008
+
+#EXTINF:-1 tvg-id="EQUIDIA .s" tvg-name="EQUIDIA .s" tvg-logo="" group-title="France",EQUIDIA .s
+https://vavoo.to/vavoo-iptv/play/1885563251fcee2c0aac3f
+
+#EXTINF:-1 tvg-id="EQUIDIA HD (BACKUP) .b" tvg-name="EQUIDIA HD (BACKUP) .b" tvg-logo="" group-title="France",EQUIDIA HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/111705669174acd69bd4ea
+
+#EXTINF:-1 tvg-id="EQUIDIA HD .b" tvg-name="EQUIDIA HD .b" tvg-logo="" group-title="France",EQUIDIA HD .b
+https://vavoo.to/vavoo-iptv/play/2901949783a13d3f2a47bf
+
+#EXTINF:-1 tvg-id="EQUIDIA HD .s" tvg-name="EQUIDIA HD .s" tvg-logo="" group-title="France",EQUIDIA HD .s
+https://vavoo.to/vavoo-iptv/play/3860273832eda2d30b583d
+
+#EXTINF:-1 tvg-id="EQUIDIA PRO .c" tvg-name="EQUIDIA PRO .c" tvg-logo="" group-title="France",EQUIDIA PRO .c
+https://vavoo.to/vavoo-iptv/play/3637667969f1388d5c2d5b
+
+#EXTINF:-1 tvg-id="EURO CHANNEL .c" tvg-name="EURO CHANNEL .c" tvg-logo="" group-title="France",EURO CHANNEL .c
+https://vavoo.to/vavoo-iptv/play/2887155497840539cae97
+
+#EXTINF:-1 tvg-id="EURONEWS .b" tvg-name="EURONEWS .b" tvg-logo="" group-title="France",EURONEWS .b
+https://vavoo.to/vavoo-iptv/play/58477396067b43e61ff6b
+
+#EXTINF:-1 tvg-id="EURONEWS .c" tvg-name="EURONEWS .c" tvg-logo="" group-title="France",EURONEWS .c
+https://vavoo.to/vavoo-iptv/play/2551109620ffda2d65954b
+
+#EXTINF:-1 tvg-id="EURONEWS .s" tvg-name="EURONEWS .s" tvg-logo="" group-title="France",EURONEWS .s
+https://vavoo.to/vavoo-iptv/play/1136778023053b84438df5
+
+#EXTINF:-1 tvg-id="EUROPE 2 .c" tvg-name="EUROPE 2 .c" tvg-logo="" group-title="France",EUROPE 2 .c
+https://vavoo.to/vavoo-iptv/play/11289618974fee5e10b54a
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 .b" tvg-name="EUROSPORT 1 .b" tvg-logo="" group-title="France",EUROSPORT 1 .b
+https://vavoo.to/vavoo-iptv/play/2935192752de8d99286a38
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 .c" tvg-name="EUROSPORT 1 .c" tvg-logo="" group-title="France",EUROSPORT 1 .c
+https://vavoo.to/vavoo-iptv/play/37197343360033c7217c7c
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 .s" tvg-name="EUROSPORT 1 .s" tvg-logo="" group-title="France",EUROSPORT 1 .s
+https://vavoo.to/vavoo-iptv/play/3513558830ea552e53ae67
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD .s" tvg-name="EUROSPORT 1 FHD .s" tvg-logo="" group-title="France",EUROSPORT 1 FHD .s
+https://vavoo.to/vavoo-iptv/play/21729242750aa1745e0a25
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD .b" tvg-name="EUROSPORT 1 HD .b" tvg-logo="" group-title="France",EUROSPORT 1 HD .b
+https://vavoo.to/vavoo-iptv/play/1801327897a89211f65c72
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 .c" tvg-name="EUROSPORT 2 .c" tvg-logo="" group-title="France",EUROSPORT 2 .c
+https://vavoo.to/vavoo-iptv/play/258519003290db4a0b92f8
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 .s" tvg-name="EUROSPORT 2 .s" tvg-logo="" group-title="France",EUROSPORT 2 .s
+https://vavoo.to/vavoo-iptv/play/253000857497d3af12b9e0
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD .b" tvg-name="EUROSPORT 2 HD .b" tvg-logo="" group-title="France",EUROSPORT 2 HD .b
+https://vavoo.to/vavoo-iptv/play/38556843468cc613315ad7
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 1 [LIVE DURING EVENTS ONLY] .s" tvg-name="EUROSPORT 360 1 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",EUROSPORT 360 1 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/597408884d314da6b81b8
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 2 .s" tvg-name="EUROSPORT 360 2 .s" tvg-logo="" group-title="France",EUROSPORT 360 2 .s
+https://vavoo.to/vavoo-iptv/play/137059344260c88d5f92f
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 3 .s" tvg-name="EUROSPORT 360 3 .s" tvg-logo="" group-title="France",EUROSPORT 360 3 .s
+https://vavoo.to/vavoo-iptv/play/8941377603ce440d1c713
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 4 .s" tvg-name="EUROSPORT 360 4 .s" tvg-logo="" group-title="France",EUROSPORT 360 4 .s
+https://vavoo.to/vavoo-iptv/play/2271979952a9b6216d42fb
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 5 .s" tvg-name="EUROSPORT 360 5 .s" tvg-logo="" group-title="France",EUROSPORT 360 5 .s
+https://vavoo.to/vavoo-iptv/play/3121315840933c606becf0
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 6 .s" tvg-name="EUROSPORT 360 6 .s" tvg-logo="" group-title="France",EUROSPORT 360 6 .s
+https://vavoo.to/vavoo-iptv/play/425590651268eadc8e1b54
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 7 .s" tvg-name="EUROSPORT 360 7 .s" tvg-logo="" group-title="France",EUROSPORT 360 7 .s
+https://vavoo.to/vavoo-iptv/play/3234583392dc7b794b7b6e
+
+#EXTINF:-1 tvg-id="EUROSPORT 360 8 .s" tvg-name="EUROSPORT 360 8 .s" tvg-logo="" group-title="France",EUROSPORT 360 8 .s
+https://vavoo.to/vavoo-iptv/play/11174719213310d74931ad
+
+#EXTINF:-1 tvg-id="FASHION TV .c" tvg-name="FASHION TV .c" tvg-logo="" group-title="France",FASHION TV .c
+https://vavoo.to/vavoo-iptv/play/859197953c1352e97bf9c
+
+#EXTINF:-1 tvg-id="FASHION TV FASHION MAGAZINES .c" tvg-name="FASHION TV FASHION MAGAZINES .c" tvg-logo="" group-title="France",FASHION TV FASHION MAGAZINES .c
+https://vavoo.to/vavoo-iptv/play/132202838570b1261fbd5b
+
+#EXTINF:-1 tvg-id="FASHION TV FHD .s" tvg-name="FASHION TV FHD .s" tvg-logo="" group-title="France",FASHION TV FHD .s
+https://vavoo.to/vavoo-iptv/play/10373359526b1fcf17a891
+
+#EXTINF:-1 tvg-id="FASHION TV PARIS FASHION NEWS .c" tvg-name="FASHION TV PARIS FASHION NEWS .c" tvg-logo="" group-title="France",FASHION TV PARIS FASHION NEWS .c
+https://vavoo.to/vavoo-iptv/play/3063169030f3462577275a
+
+#EXTINF:-1 tvg-id="FASHION TV SINGAPORE PHOTOSHOOTS .c" tvg-name="FASHION TV SINGAPORE PHOTOSHOOTS .c" tvg-logo="" group-title="France",FASHION TV SINGAPORE PHOTOSHOOTS .c
+https://vavoo.to/vavoo-iptv/play/268028145244abca6eb65d
+
+#EXTINF:-1 tvg-id="FASHION TV TOKYO FASHION FILMS .c" tvg-name="FASHION TV TOKYO FASHION FILMS .c" tvg-logo="" group-title="France",FASHION TV TOKYO FASHION FILMS .c
+https://vavoo.to/vavoo-iptv/play/1079815511f3856f4266a6
+
+#EXTINF:-1 tvg-id="FILMRISE BINGE WATCH FRANCE .c" tvg-name="FILMRISE BINGE WATCH FRANCE .c" tvg-logo="" group-title="France",FILMRISE BINGE WATCH FRANCE .c
+https://vavoo.to/vavoo-iptv/play/2665669754bfe742a8b1c5
+
+#EXTINF:-1 tvg-id="FILMRISE DEGRASSI LA NOUVELLE GÉNÉRATION .c" tvg-name="FILMRISE DEGRASSI LA NOUVELLE GÉNÉRATION .c" tvg-logo="" group-title="France",FILMRISE DEGRASSI LA NOUVELLE GÉNÉRATION .c
+https://vavoo.to/vavoo-iptv/play/2993145353098ba39c402a
+
+#EXTINF:-1 tvg-id="FILMRISE LES ROUTES DU PARADIS .c" tvg-name="FILMRISE LES ROUTES DU PARADIS .c" tvg-logo="" group-title="France",FILMRISE LES ROUTES DU PARADIS .c
+https://vavoo.to/vavoo-iptv/play/10591128491788a56f6357
+
+#EXTINF:-1 tvg-id="FILMRISE SÉRIES FRANCE .c" tvg-name="FILMRISE SÉRIES FRANCE .c" tvg-logo="" group-title="France",FILMRISE SÉRIES FRANCE .c
+https://vavoo.to/vavoo-iptv/play/4257492120d1b73d1358ea
+
+#EXTINF:-1 tvg-id="FILMRISE Z NATION .c" tvg-name="FILMRISE Z NATION .c" tvg-logo="" group-title="France",FILMRISE Z NATION .c
+https://vavoo.to/vavoo-iptv/play/12700426158042beba1916
+
+#EXTINF:-1 tvg-id="FOOT+ .b" tvg-name="FOOT+ .b" tvg-logo="" group-title="France",FOOT+ .b
+https://vavoo.to/vavoo-iptv/play/32996736666290bfd50694
+
+#EXTINF:-1 tvg-id="FOOT+ .c" tvg-name="FOOT+ .c" tvg-logo="" group-title="France",FOOT+ .c
+https://vavoo.to/vavoo-iptv/play/197542635773f6cf098666
+
+#EXTINF:-1 tvg-id="FOOT+ .s" tvg-name="FOOT+ .s" tvg-logo="" group-title="France",FOOT+ .s
+https://vavoo.to/vavoo-iptv/play/180860151ebae2fb461c9
+
+#EXTINF:-1 tvg-id="FOOT+ 24/24 .b" tvg-name="FOOT+ 24/24 .b" tvg-logo="" group-title="France",FOOT+ 24/24 .b
+https://vavoo.to/vavoo-iptv/play/1224436937c17e9218c4f7
+
+#EXTINF:-1 tvg-id="FRANCE 2 .c" tvg-name="FRANCE 2 .c" tvg-logo="" group-title="France",FRANCE 2 .c
+https://vavoo.to/vavoo-iptv/play/876169338419a098525bf
+
+#EXTINF:-1 tvg-id="FRANCE 2 .s" tvg-name="FRANCE 2 .s" tvg-logo="" group-title="France",FRANCE 2 .s
+https://vavoo.to/vavoo-iptv/play/40258940576a1647c7007e
+
+#EXTINF:-1 tvg-id="FRANCE 2 HD .b" tvg-name="FRANCE 2 HD .b" tvg-logo="" group-title="France",FRANCE 2 HD .b
+https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
+
+#EXTINF:-1 tvg-id="FRANCE 24 .c" tvg-name="FRANCE 24 .c" tvg-logo="" group-title="France",FRANCE 24 .c
+https://vavoo.to/vavoo-iptv/play/2875346882997d9ca0e27e
+
+#EXTINF:-1 tvg-id="FRANCE 24 .s" tvg-name="FRANCE 24 .s" tvg-logo="" group-title="France",FRANCE 24 .s
+https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
+
+#EXTINF:-1 tvg-id="FRANCE 3 .c" tvg-name="FRANCE 3 .c" tvg-logo="" group-title="France",FRANCE 3 .c
+https://vavoo.to/vavoo-iptv/play/1568526820de51fc140eb
+
+#EXTINF:-1 tvg-id="FRANCE 3 .s" tvg-name="FRANCE 3 .s" tvg-logo="" group-title="France",FRANCE 3 .s
+https://vavoo.to/vavoo-iptv/play/35330736891b9b36efb55f
+
+#EXTINF:-1 tvg-id="FRANCE 3 HD .b" tvg-name="FRANCE 3 HD .b" tvg-logo="" group-title="France",FRANCE 3 HD .b
+https://vavoo.to/vavoo-iptv/play/19704906138a30ce8ae2c6
+
+#EXTINF:-1 tvg-id="FRANCE 3 HD .s" tvg-name="FRANCE 3 HD .s" tvg-logo="" group-title="France",FRANCE 3 HD .s
+https://vavoo.to/vavoo-iptv/play/183277419a167cd02f32e
+
+#EXTINF:-1 tvg-id="FRANCE 3 NOA .c" tvg-name="FRANCE 3 NOA .c" tvg-logo="" group-title="France",FRANCE 3 NOA .c
+https://vavoo.to/vavoo-iptv/play/14061094293858041c6086
+
+#EXTINF:-1 tvg-id="FRANCE 4 .b" tvg-name="FRANCE 4 .b" tvg-logo="" group-title="France",FRANCE 4 .b
+https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
+
+#EXTINF:-1 tvg-id="FRANCE 4 .c" tvg-name="FRANCE 4 .c" tvg-logo="" group-title="France",FRANCE 4 .c
+https://vavoo.to/vavoo-iptv/play/31453178500ac09e0e4920
+
+#EXTINF:-1 tvg-id="FRANCE 4 .s" tvg-name="FRANCE 4 .s" tvg-logo="" group-title="France",FRANCE 4 .s
+https://vavoo.to/vavoo-iptv/play/1622585609219b75458212
+
+#EXTINF:-1 tvg-id="FRANCE 5 .c" tvg-name="FRANCE 5 .c" tvg-logo="" group-title="France",FRANCE 5 .c
+https://vavoo.to/vavoo-iptv/play/2249823338273b7989b2e7
+
+#EXTINF:-1 tvg-id="FRANCE 5 .s" tvg-name="FRANCE 5 .s" tvg-logo="" group-title="France",FRANCE 5 .s
+https://vavoo.to/vavoo-iptv/play/15743448890eaf9d60a67b
+
+#EXTINF:-1 tvg-id="FRANCE 5 HD .b" tvg-name="FRANCE 5 HD .b" tvg-logo="" group-title="France",FRANCE 5 HD .b
+https://vavoo.to/vavoo-iptv/play/3004974450980927089433
+
+#EXTINF:-1 tvg-id="FRANCE INFO .s" tvg-name="FRANCE INFO .s" tvg-logo="" group-title="France",FRANCE INFO .s
+https://vavoo.to/vavoo-iptv/play/2704244202b0f2bb825715
+
+#EXTINF:-1 tvg-id="FRANCE INFO HD .s" tvg-name="FRANCE INFO HD .s" tvg-logo="" group-title="France",FRANCE INFO HD .s
+https://vavoo.to/vavoo-iptv/play/1158759400afedc64184fa
+
+#EXTINF:-1 tvg-id="FRANCE O HD .b" tvg-name="FRANCE O HD .b" tvg-logo="" group-title="France",FRANCE O HD .b
+https://vavoo.to/vavoo-iptv/play/2391590954b4ff9f1d5426
+
+#EXTINF:-1 tvg-id="FRANCEINFO .c" tvg-name="FRANCEINFO .c" tvg-logo="" group-title="France",FRANCEINFO .c
+https://vavoo.to/vavoo-iptv/play/1120097184c14cbf137b7b
+
+#EXTINF:-1 tvg-id="FRANCOPHONIE 24 .s" tvg-name="FRANCOPHONIE 24 .s" tvg-logo="" group-title="France",FRANCOPHONIE 24 .s
+https://vavoo.to/vavoo-iptv/play/46629016e7679725def2
+
+#EXTINF:-1 tvg-id="FREQUENCE NOVELAS .s" tvg-name="FREQUENCE NOVELAS .s" tvg-logo="" group-title="France",FREQUENCE NOVELAS .s
+https://vavoo.to/vavoo-iptv/play/3928989342f00a8fea8b34
+
+#EXTINF:-1 tvg-id="FUN RADIO .c" tvg-name="FUN RADIO .c" tvg-logo="" group-title="France",FUN RADIO .c
+https://vavoo.to/vavoo-iptv/play/75100842627d94015eaf6
+
+#EXTINF:-1 tvg-id="GAME ONE +1 .c" tvg-name="GAME ONE +1 .c" tvg-logo="" group-title="France",GAME ONE +1 .c
+https://vavoo.to/vavoo-iptv/play/352210002128b8d8ce3e1a
+
+#EXTINF:-1 tvg-id="GAME ONE .b" tvg-name="GAME ONE .b" tvg-logo="" group-title="France",GAME ONE .b
+https://vavoo.to/vavoo-iptv/play/95927214794c633f7cf15
+
+#EXTINF:-1 tvg-id="GAME ONE .c" tvg-name="GAME ONE .c" tvg-logo="" group-title="France",GAME ONE .c
+https://vavoo.to/vavoo-iptv/play/22141630554906bb2fc4a4
+
+#EXTINF:-1 tvg-id="GAME ONE .s" tvg-name="GAME ONE .s" tvg-logo="" group-title="France",GAME ONE .s
+https://vavoo.to/vavoo-iptv/play/1479966396202ff806f8d8
+
+#EXTINF:-1 tvg-id="GENERATIONS TV .c" tvg-name="GENERATIONS TV .c" tvg-logo="" group-title="France",GENERATIONS TV .c
+https://vavoo.to/vavoo-iptv/play/395874339442bcdf7f7639
+
+#EXTINF:-1 tvg-id="GOLF CHANNEL .s" tvg-name="GOLF CHANNEL .s" tvg-logo="" group-title="France",GOLF CHANNEL .s
+https://vavoo.to/vavoo-iptv/play/765139465dd1569a49cdb
+
+#EXTINF:-1 tvg-id="GOLF CHANNEL HD (BACKUP) .b" tvg-name="GOLF CHANNEL HD (BACKUP) .b" tvg-logo="" group-title="France",GOLF CHANNEL HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/3460274881ae17ee85be00
+
+#EXTINF:-1 tvg-id="GOLF CHANNEL HD .b" tvg-name="GOLF CHANNEL HD .b" tvg-logo="" group-title="France",GOLF CHANNEL HD .b
+https://vavoo.to/vavoo-iptv/play/1646679501c2eb49ec1063
+
+#EXTINF:-1 tvg-id="GOLF HD .b" tvg-name="GOLF HD .b" tvg-logo="" group-title="France",GOLF HD .b
+https://vavoo.to/vavoo-iptv/play/2072120609e0987c5c3ec2
+
+#EXTINF:-1 tvg-id="GOLF+ .c" tvg-name="GOLF+ .c" tvg-logo="" group-title="France",GOLF+ .c
+https://vavoo.to/vavoo-iptv/play/489894011d70f961121b5
+
+#EXTINF:-1 tvg-id="GOLF+ CHANNEL .s" tvg-name="GOLF+ CHANNEL .s" tvg-logo="" group-title="France",GOLF+ CHANNEL .s
+https://vavoo.to/vavoo-iptv/play/780950104a5cb52c94aa2
+
+#EXTINF:-1 tvg-id="GOLF+ CHANNEL FHD .s" tvg-name="GOLF+ CHANNEL FHD .s" tvg-logo="" group-title="France",GOLF+ CHANNEL FHD .s
+https://vavoo.to/vavoo-iptv/play/28324561ced12307fdbb
+
+#EXTINF:-1 tvg-id="GONG .c" tvg-name="GONG .c" tvg-logo="" group-title="France",GONG .c
+https://vavoo.to/vavoo-iptv/play/20757225512ac2ea70ed40
+
+#EXTINF:-1 tvg-id="GONG .s" tvg-name="GONG .s" tvg-logo="" group-title="France",GONG .s
+https://vavoo.to/vavoo-iptv/play/109149100c7d2e5af8100
+
+#EXTINF:-1 tvg-id="GONG MAX .c" tvg-name="GONG MAX .c" tvg-logo="" group-title="France",GONG MAX .c
+https://vavoo.to/vavoo-iptv/play/394207081955f0df80def7
+
+#EXTINF:-1 tvg-id="GULLI (BACKUP) .b" tvg-name="GULLI (BACKUP) .b" tvg-logo="" group-title="France",GULLI (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/39689712588404f896fddf
+
+#EXTINF:-1 tvg-id="GULLI .b" tvg-name="GULLI .b" tvg-logo="" group-title="France",GULLI .b
+https://vavoo.to/vavoo-iptv/play/53641636bcf201d54b33
+
+#EXTINF:-1 tvg-id="GULLI .c" tvg-name="GULLI .c" tvg-logo="" group-title="France",GULLI .c
+https://vavoo.to/vavoo-iptv/play/29885140037661f9e640d2
+
+#EXTINF:-1 tvg-id="GULLI .s" tvg-name="GULLI .s" tvg-logo="" group-title="France",GULLI .s
+https://vavoo.to/vavoo-iptv/play/344510952158e0924d57b0
+
+#EXTINF:-1 tvg-id="GULLI FHD .s" tvg-name="GULLI FHD .s" tvg-logo="" group-title="France",GULLI FHD .s
+https://vavoo.to/vavoo-iptv/play/20969815201649b55a02e0
+
+#EXTINF:-1 tvg-id="HISTOIRE HD .b" tvg-name="HISTOIRE HD .b" tvg-logo="" group-title="France",HISTOIRE HD .b
+https://vavoo.to/vavoo-iptv/play/66599424018c555f53d1b
+
+#EXTINF:-1 tvg-id="HISTOIRE TV .c" tvg-name="HISTOIRE TV .c" tvg-logo="" group-title="France",HISTOIRE TV .c
+https://vavoo.to/vavoo-iptv/play/985897714fcc7c23dd65d
+
+#EXTINF:-1 tvg-id="I24 NEWS .c" tvg-name="I24 NEWS .c" tvg-logo="" group-title="France",I24 NEWS .c
+https://vavoo.to/vavoo-iptv/play/315045569212caaf1cec02
+
+#EXTINF:-1 tvg-id="I24 NEWS .s" tvg-name="I24 NEWS .s" tvg-logo="" group-title="France",I24 NEWS .s
+https://vavoo.to/vavoo-iptv/play/1611083615c55d0d390074
+
+#EXTINF:-1 tvg-id="ICARLY TV .c" tvg-name="ICARLY TV .c" tvg-logo="" group-title="France",ICARLY TV .c
+https://vavoo.to/vavoo-iptv/play/4023351773389ed11b5418
+
+#EXTINF:-1 tvg-id="ILTV .c" tvg-name="ILTV .c" tvg-logo="" group-title="France",ILTV .c
+https://vavoo.to/vavoo-iptv/play/268583432707c76347b7e3
+
+#EXTINF:-1 tvg-id="IMEARTH .c" tvg-name="IMEARTH .c" tvg-logo="" group-title="France",IMEARTH .c
+https://vavoo.to/vavoo-iptv/play/24872952759b917195f4e1
+
+#EXTINF:-1 tvg-id="INFOSPORT+ (BACKUP) .b" tvg-name="INFOSPORT+ (BACKUP) .b" tvg-logo="" group-title="France",INFOSPORT+ (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/3458581745678fb0a955c5
+
+#EXTINF:-1 tvg-id="INFOSPORT+ .c" tvg-name="INFOSPORT+ .c" tvg-logo="" group-title="France",INFOSPORT+ .c
+https://vavoo.to/vavoo-iptv/play/179881422c6b63354fe7f
+
+#EXTINF:-1 tvg-id="INFOSPORT+ .s" tvg-name="INFOSPORT+ .s" tvg-logo="" group-title="France",INFOSPORT+ .s
+https://vavoo.to/vavoo-iptv/play/14657608221ba582f5feb
+
+#EXTINF:-1 tvg-id="INFOSPORT+ [LIVE DURING EVENTS ONLY] .s" tvg-name="INFOSPORT+ [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",INFOSPORT+ [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/3791358263533e2c529ce5
+
+#EXTINF:-1 tvg-id="INSTANT SAGA .c" tvg-name="INSTANT SAGA .c" tvg-logo="" group-title="France",INSTANT SAGA .c
+https://vavoo.to/vavoo-iptv/play/12084697951ce54bb90ea6
+
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY .c" tvg-name="INVESTIGATION DISCOVERY .c" tvg-logo="" group-title="France",INVESTIGATION DISCOVERY .c
+https://vavoo.to/vavoo-iptv/play/286307272239f45a9230cb
+
+#EXTINF:-1 tvg-id="J ONE .c" tvg-name="J ONE .c" tvg-logo="" group-title="France",J ONE .c
+https://vavoo.to/vavoo-iptv/play/5042475271b46c9b27ca1
+
+#EXTINF:-1 tvg-id="J ONE .s" tvg-name="J ONE .s" tvg-logo="" group-title="France",J ONE .s
+https://vavoo.to/vavoo-iptv/play/1635196197e35d694bc067
+
+#EXTINF:-1 tvg-id="J-ONE .b" tvg-name="J-ONE .b" tvg-logo="" group-title="France",J-ONE .b
+https://vavoo.to/vavoo-iptv/play/874035777bcae83ee8339
+
+#EXTINF:-1 tvg-id="JOURNAL DU GOLF .c" tvg-name="JOURNAL DU GOLF .c" tvg-logo="" group-title="France",JOURNAL DU GOLF .c
+https://vavoo.to/vavoo-iptv/play/35900542198b37bb4d1a7a
+
+#EXTINF:-1 tvg-id="JUSTE POUR RIRE .c" tvg-name="JUSTE POUR RIRE .c" tvg-logo="" group-title="France",JUSTE POUR RIRE .c
+https://vavoo.to/vavoo-iptv/play/41325045a1b5c686fc59
+
+#EXTINF:-1 tvg-id="KOMBAT SPORT HD .b" tvg-name="KOMBAT SPORT HD .b" tvg-logo="" group-title="France",KOMBAT SPORT HD .b
+https://vavoo.to/vavoo-iptv/play/392037614067c0aaa7e261
+
+#EXTINF:-1 tvg-id="KTO .c" tvg-name="KTO .c" tvg-logo="" group-title="France",KTO .c
+https://vavoo.to/vavoo-iptv/play/1698231409cd94b062a216
+
+#EXTINF:-1 tvg-id="KTO .s" tvg-name="KTO .s" tvg-logo="" group-title="France",KTO .s
+https://vavoo.to/vavoo-iptv/play/885186345e57793ce328d
+
+#EXTINF:-1 tvg-id="L EQUIPE .s" tvg-name="L EQUIPE .s" tvg-logo="" group-title="France",L EQUIPE .s
+https://vavoo.to/vavoo-iptv/play/38373319428576fb860cef
+
+#EXTINF:-1 tvg-id="L EQUIPE LIVE .c" tvg-name="L EQUIPE LIVE .c" tvg-logo="" group-title="France",L EQUIPE LIVE .c
+https://vavoo.to/vavoo-iptv/play/39214023264b1192d56d1b
+
+#EXTINF:-1 tvg-id="L EQUIPE LIVE 1 .c" tvg-name="L EQUIPE LIVE 1 .c" tvg-logo="" group-title="France",L EQUIPE LIVE 1 .c
+https://vavoo.to/vavoo-iptv/play/3143265587402c33392d5e
+
+#EXTINF:-1 tvg-id="L EQUIPE LIVE 2 .c" tvg-name="L EQUIPE LIVE 2 .c" tvg-logo="" group-title="France",L EQUIPE LIVE 2 .c
+https://vavoo.to/vavoo-iptv/play/424424854793abe39ef359
+
+#EXTINF:-1 tvg-id="LA CHAINE METEO .c" tvg-name="LA CHAINE METEO .c" tvg-logo="" group-title="France",LA CHAINE METEO .c
+https://vavoo.to/vavoo-iptv/play/113813193cc8c8ce7408e
+
+#EXTINF:-1 tvg-id="LA CHAINE METEO .s" tvg-name="LA CHAINE METEO .s" tvg-logo="" group-title="France",LA CHAINE METEO .s
+https://vavoo.to/vavoo-iptv/play/2136022010abfd1159ec5f
+
+#EXTINF:-1 tvg-id="LA TROIS .s" tvg-name="LA TROIS .s" tvg-logo="" group-title="France",LA TROIS .s
+https://vavoo.to/vavoo-iptv/play/2866202423d20e4e0ddb21
+
+#EXTINF:-1 tvg-id="LA UNE .s" tvg-name="LA UNE .s" tvg-logo="" group-title="France",LA UNE .s
+https://vavoo.to/vavoo-iptv/play/3428561083cff8b155b93b
+
+#EXTINF:-1 tvg-id="LCI .b" tvg-name="LCI .b" tvg-logo="" group-title="France",LCI .b
+https://vavoo.to/vavoo-iptv/play/3143227243cf66be60548e
+
+#EXTINF:-1 tvg-id="LCI .c" tvg-name="LCI .c" tvg-logo="" group-title="France",LCI .c
+https://vavoo.to/vavoo-iptv/play/8228734688467a2cc70b0
+
+#EXTINF:-1 tvg-id="LCI .s" tvg-name="LCI .s" tvg-logo="" group-title="France",LCI .s
+https://vavoo.to/vavoo-iptv/play/1626744356a28180b05b56
+
+#EXTINF:-1 tvg-id="LCN .c" tvg-name="LCN .c" tvg-logo="" group-title="France",LCN .c
+https://vavoo.to/vavoo-iptv/play/2200752492108bd20c79b6
+
+#EXTINF:-1 tvg-id="LCP .s" tvg-name="LCP .s" tvg-logo="" group-title="France",LCP .s
+https://vavoo.to/vavoo-iptv/play/218551255e835771bbd81
+
+#EXTINF:-1 tvg-id="LCP ASSEMBLEE NATIONALE .c" tvg-name="LCP ASSEMBLEE NATIONALE .c" tvg-logo="" group-title="France",LCP ASSEMBLEE NATIONALE .c
+https://vavoo.to/vavoo-iptv/play/1953594991014d918ed4db
+
+#EXTINF:-1 tvg-id="LCP HD .s" tvg-name="LCP HD .s" tvg-logo="" group-title="France",LCP HD .s
+https://vavoo.to/vavoo-iptv/play/462699660a4667002b3b2
+
+#EXTINF:-1 tvg-id="LE FIGARO .c" tvg-name="LE FIGARO .c" tvg-logo="" group-title="France",LE FIGARO .c
+https://vavoo.to/vavoo-iptv/play/38667486141f1f5289f63
+
+#EXTINF:-1 tvg-id="LEQUIPE .b" tvg-name="LEQUIPE .b" tvg-logo="" group-title="France",LEQUIPE .b
+https://vavoo.to/vavoo-iptv/play/7540022269562ef03a32a
+
+#EXTINF:-1 tvg-id="LES NOUVEAUX DETECTIVES .c" tvg-name="LES NOUVEAUX DETECTIVES .c" tvg-logo="" group-title="France",LES NOUVEAUX DETECTIVES .c
+https://vavoo.to/vavoo-iptv/play/651059749c5aad4d1565b
+
+#EXTINF:-1 tvg-id="LN 24 .c" tvg-name="LN 24 .c" tvg-logo="" group-title="France",LN 24 .c
+https://vavoo.to/vavoo-iptv/play/1842988845559729f8c0ab
+
+#EXTINF:-1 tvg-id="LOVETHEPLANET .c" tvg-name="LOVETHEPLANET .c" tvg-logo="" group-title="France",LOVETHEPLANET .c
+https://vavoo.to/vavoo-iptv/play/27179956570e2630ee827
+
+#EXTINF:-1 tvg-id="LUCKY JACK TV .c" tvg-name="LUCKY JACK TV .c" tvg-logo="" group-title="France",LUCKY JACK TV .c
+https://vavoo.to/vavoo-iptv/play/28776631322afee4b5886a
+
+#EXTINF:-1 tvg-id="LUCKY JACK TV .s" tvg-name="LUCKY JACK TV .s" tvg-logo="" group-title="France",LUCKY JACK TV .s
+https://vavoo.to/vavoo-iptv/play/1750461169db2efa334b1c
+
+#EXTINF:-1 tvg-id="M6 .c" tvg-name="M6 .c" tvg-logo="" group-title="France",M6 .c
+https://vavoo.to/vavoo-iptv/play/2264106144b28f5fffc5e3
+
+#EXTINF:-1 tvg-id="M6 .s" tvg-name="M6 .s" tvg-logo="" group-title="France",M6 .s
+https://vavoo.to/vavoo-iptv/play/3435456326462b8ebc1f88
+
+#EXTINF:-1 tvg-id="M6 FHD .b" tvg-name="M6 FHD .b" tvg-logo="" group-title="France",M6 FHD .b
+https://vavoo.to/vavoo-iptv/play/381306877060a38e6f63e1
+
+#EXTINF:-1 tvg-id="M6 HD .s" tvg-name="M6 HD .s" tvg-logo="" group-title="France",M6 HD .s
+https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
+
+#EXTINF:-1 tvg-id="M6 INTERNATIONAL .c" tvg-name="M6 INTERNATIONAL .c" tvg-logo="" group-title="France",M6 INTERNATIONAL .c
+https://vavoo.to/vavoo-iptv/play/29783704130ceb4c2ce4bd
+
+#EXTINF:-1 tvg-id="M6 MUSIC .c" tvg-name="M6 MUSIC .c" tvg-logo="" group-title="France",M6 MUSIC .c
+https://vavoo.to/vavoo-iptv/play/4154285296f902b73b0d28
+
+#EXTINF:-1 tvg-id="M6 MUSIC .s" tvg-name="M6 MUSIC .s" tvg-logo="" group-title="France",M6 MUSIC .s
+https://vavoo.to/vavoo-iptv/play/7435919714613b22a77d1
+
+#EXTINF:-1 tvg-id="M6 MUSIC HD .b" tvg-name="M6 MUSIC HD .b" tvg-logo="" group-title="France",M6 MUSIC HD .b
+https://vavoo.to/vavoo-iptv/play/285936085861281a838c2f
+
+#EXTINF:-1 tvg-id="M6 MUSIC SD .b" tvg-name="M6 MUSIC SD .b" tvg-logo="" group-title="France",M6 MUSIC SD .b
+https://vavoo.to/vavoo-iptv/play/32799170581348b92d0676
+
+#EXTINF:-1 tvg-id="MAISON & TRAVAUX TV .c" tvg-name="MAISON & TRAVAUX TV .c" tvg-logo="" group-title="France",MAISON & TRAVAUX TV .c
+https://vavoo.to/vavoo-iptv/play/2351494974c3c23b93051
+
+#EXTINF:-1 tvg-id="MANGAS .b" tvg-name="MANGAS .b" tvg-logo="" group-title="France",MANGAS .b
+https://vavoo.to/vavoo-iptv/play/3781018265a0de3a4a5f34
+
+#EXTINF:-1 tvg-id="MANGAS .c" tvg-name="MANGAS .c" tvg-logo="" group-title="France",MANGAS .c
+https://vavoo.to/vavoo-iptv/play/1703130591ccf5ff520f76
+
+#EXTINF:-1 tvg-id="MANGAS .s" tvg-name="MANGAS .s" tvg-logo="" group-title="France",MANGAS .s
+https://vavoo.to/vavoo-iptv/play/139408412ba8e0ae7a800
+
+#EXTINF:-1 tvg-id="MANGAS HD .b" tvg-name="MANGAS HD .b" tvg-logo="" group-title="France",MANGAS HD .b
+https://vavoo.to/vavoo-iptv/play/401237472a1e90e56167a
+
+#EXTINF:-1 tvg-id="MATELE .c" tvg-name="MATELE .c" tvg-logo="" group-title="France",MATELE .c
+https://vavoo.to/vavoo-iptv/play/12809648419c257e423b34
+
+#EXTINF:-1 tvg-id="MAX .c" tvg-name="MAX .c" tvg-logo="" group-title="France",MAX .c
+https://vavoo.to/vavoo-iptv/play/226827313717bca70accfc
+
+#EXTINF:-1 tvg-id="MCM .c" tvg-name="MCM .c" tvg-logo="" group-title="France",MCM .c
+https://vavoo.to/vavoo-iptv/play/16606576727d9d8c5f3f69
+
+#EXTINF:-1 tvg-id="MCM .s" tvg-name="MCM .s" tvg-logo="" group-title="France",MCM .s
+https://vavoo.to/vavoo-iptv/play/855739216dd3b63b126bc
+
+#EXTINF:-1 tvg-id="MCM HD .b" tvg-name="MCM HD .b" tvg-logo="" group-title="France",MCM HD .b
+https://vavoo.to/vavoo-iptv/play/4210722253adfa54046136
+
+#EXTINF:-1 tvg-id="MCM HD .s" tvg-name="MCM HD .s" tvg-logo="" group-title="France",MCM HD .s
+https://vavoo.to/vavoo-iptv/play/33400096800b79d7bb9d9
+
+#EXTINF:-1 tvg-id="MCM POP .c" tvg-name="MCM POP .c" tvg-logo="" group-title="France",MCM POP .c
+https://vavoo.to/vavoo-iptv/play/8696880859ab59a847a37
+
+#EXTINF:-1 tvg-id="MCM SD .b" tvg-name="MCM SD .b" tvg-logo="" group-title="France",MCM SD .b
+https://vavoo.to/vavoo-iptv/play/2481682325f5bb95858322
+
+#EXTINF:-1 tvg-id="MCM TOP .c" tvg-name="MCM TOP .c" tvg-logo="" group-title="France",MCM TOP .c
+https://vavoo.to/vavoo-iptv/play/33487111745e397d403417
+
+#EXTINF:-1 tvg-id="MCM TOP .s" tvg-name="MCM TOP .s" tvg-logo="" group-title="France",MCM TOP .s
+https://vavoo.to/vavoo-iptv/play/37119764435b78c5d8ea01
+
+#EXTINF:-1 tvg-id="MCM TOP HD .b" tvg-name="MCM TOP HD .b" tvg-logo="" group-title="France",MCM TOP HD .b
+https://vavoo.to/vavoo-iptv/play/2396179096080bd72e7756
+
+#EXTINF:-1 tvg-id="MCM TOP SD .b" tvg-name="MCM TOP SD .b" tvg-logo="" group-title="France",MCM TOP SD .b
+https://vavoo.to/vavoo-iptv/play/3888330944fa094e81b5df
+
+#EXTINF:-1 tvg-id="MDL .c" tvg-name="MDL .c" tvg-logo="" group-title="France",MDL .c
+https://vavoo.to/vavoo-iptv/play/1117698304ab06b0439bc8
+
+#EXTINF:-1 tvg-id="MDL HD .s" tvg-name="MDL HD .s" tvg-logo="" group-title="France",MDL HD .s
+https://vavoo.to/vavoo-iptv/play/3139640863ec77987d7b40
+
+#EXTINF:-1 tvg-id="MELODY .c" tvg-name="MELODY .c" tvg-logo="" group-title="France",MELODY .c
+https://vavoo.to/vavoo-iptv/play/1406674139a49b095e524f
+
+#EXTINF:-1 tvg-id="MELODY HD .b" tvg-name="MELODY HD .b" tvg-logo="" group-title="France",MELODY HD .b
+https://vavoo.to/vavoo-iptv/play/22146575819dfdff73d7d7
+
+#EXTINF:-1 tvg-id="MELODY SD .b" tvg-name="MELODY SD .b" tvg-logo="" group-title="France",MELODY SD .b
+https://vavoo.to/vavoo-iptv/play/397731749366b9ee9a6933
+
+#EXTINF:-1 tvg-id="MENS UP TV .c" tvg-name="MENS UP TV .c" tvg-logo="" group-title="France",MENS UP TV .c
+https://vavoo.to/vavoo-iptv/play/374095274769dc983b81a7
+
+#EXTINF:-1 tvg-id="MEZZO .c" tvg-name="MEZZO .c" tvg-logo="" group-title="France",MEZZO .c
+https://vavoo.to/vavoo-iptv/play/91561140446f390dc59d
+
+#EXTINF:-1 tvg-id="MEZZO .s" tvg-name="MEZZO .s" tvg-logo="" group-title="France",MEZZO .s
+https://vavoo.to/vavoo-iptv/play/2047620470e301f2d22c47
+
+#EXTINF:-1 tvg-id="MEZZO HD .b" tvg-name="MEZZO HD .b" tvg-logo="" group-title="France",MEZZO HD .b
+https://vavoo.to/vavoo-iptv/play/125439915962261b6c173f
+
+#EXTINF:-1 tvg-id="MEZZO LIVE .c" tvg-name="MEZZO LIVE .c" tvg-logo="" group-title="France",MEZZO LIVE .c
+https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
+
+#EXTINF:-1 tvg-id="MEZZO LIVE HD .b" tvg-name="MEZZO LIVE HD .b" tvg-logo="" group-title="France",MEZZO LIVE HD .b
+https://vavoo.to/vavoo-iptv/play/1071808933d800463e3c77
+
+#EXTINF:-1 tvg-id="MEZZO LIVE SD .b" tvg-name="MEZZO LIVE SD .b" tvg-logo="" group-title="France",MEZZO LIVE SD .b
+https://vavoo.to/vavoo-iptv/play/1458795517d80de7fca828
+
+#EXTINF:-1 tvg-id="MEZZO SD .b" tvg-name="MEZZO SD .b" tvg-logo="" group-title="France",MEZZO SD .b
+https://vavoo.to/vavoo-iptv/play/601190127be1aad38e358
+
+#EXTINF:-1 tvg-id="MEZZO TV .b" tvg-name="MEZZO TV .b" tvg-logo="" group-title="France",MEZZO TV .b
+https://vavoo.to/vavoo-iptv/play/619748021e2749c6d6cae
+
+#EXTINF:-1 tvg-id="MGG TV .c" tvg-name="MGG TV .c" tvg-logo="" group-title="France",MGG TV .c
+https://vavoo.to/vavoo-iptv/play/369496711764046f8fd902
+
+#EXTINF:-1 tvg-id="MGG TV .s" tvg-name="MGG TV .s" tvg-logo="" group-title="France",MGG TV .s
+https://vavoo.to/vavoo-iptv/play/29853103501efc312b343f
+
+#EXTINF:-1 tvg-id="MONACO INFO .c" tvg-name="MONACO INFO .c" tvg-logo="" group-title="France",MONACO INFO .c
+https://vavoo.to/vavoo-iptv/play/3767488192411233e4fd21
+
+#EXTINF:-1 tvg-id="MONACO INFO .s" tvg-name="MONACO INFO .s" tvg-logo="" group-title="France",MONACO INFO .s
+https://vavoo.to/vavoo-iptv/play/3965013422658fa5c00398
+
+#EXTINF:-1 tvg-id="MOSELLE TV .c" tvg-name="MOSELLE TV .c" tvg-logo="" group-title="France",MOSELLE TV .c
 https://vavoo.to/vavoo-iptv/play/3484599180e87c0e94bfd6
-#EXTINF:-1 tvg-id="VosgesTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",Vosges TV
+
+#EXTINF:-1 tvg-id="MOTORVISION TV .c" tvg-name="MOTORVISION TV .c" tvg-logo="" group-title="France",MOTORVISION TV .c
+https://vavoo.to/vavoo-iptv/play/14181217770d2ca22a284a
+
+#EXTINF:-1 tvg-id="MOTOSPORT TV .b" tvg-name="MOTOSPORT TV .b" tvg-logo="" group-title="France",MOTOSPORT TV .b
+https://vavoo.to/vavoo-iptv/play/23016659182a92ee3732e9
+
+#EXTINF:-1 tvg-id="MOTUS TV .c" tvg-name="MOTUS TV .c" tvg-logo="" group-title="France",MOTUS TV .c
+https://vavoo.to/vavoo-iptv/play/25322617710a7bef40eba9
+
+#EXTINF:-1 tvg-id="MOUV .c" tvg-name="MOUV .c" tvg-logo="" group-title="France",MOUV .c
+https://vavoo.to/vavoo-iptv/play/3739767701c8c583148421
+
+#EXTINF:-1 tvg-id="MTV .s" tvg-name="MTV .s" tvg-logo="" group-title="France",MTV .s
+https://vavoo.to/vavoo-iptv/play/987897824424746e378ce
+
+#EXTINF:-1 tvg-id="MTV 00S .c" tvg-name="MTV 00S .c" tvg-logo="" group-title="France",MTV 00S .c
+https://vavoo.to/vavoo-iptv/play/399846093797f42dd89626
+
+#EXTINF:-1 tvg-id="MTV FHD .s" tvg-name="MTV FHD .s" tvg-logo="" group-title="France",MTV FHD .s
+https://vavoo.to/vavoo-iptv/play/131724335525762423a972
+
+#EXTINF:-1 tvg-id="MTV FRANCE .c" tvg-name="MTV FRANCE .c" tvg-logo="" group-title="France",MTV FRANCE .c
+https://vavoo.to/vavoo-iptv/play/808220806e13753a10c7c
+
+#EXTINF:-1 tvg-id="MTV FRANCE .s" tvg-name="MTV FRANCE .s" tvg-logo="" group-title="France",MTV FRANCE .s
+https://vavoo.to/vavoo-iptv/play/84149442655bf9ba0d47b
+
+#EXTINF:-1 tvg-id="MTV HITS .s" tvg-name="MTV HITS .s" tvg-logo="" group-title="France",MTV HITS .s
+https://vavoo.to/vavoo-iptv/play/2301201739cd8e74158e09
+
+#EXTINF:-1 tvg-id="MTV HITS HD .b" tvg-name="MTV HITS HD .b" tvg-logo="" group-title="France",MTV HITS HD .b
+https://vavoo.to/vavoo-iptv/play/535554945a9ea8db54e56
+
+#EXTINF:-1 tvg-id="MTV HITS SD .b" tvg-name="MTV HITS SD .b" tvg-logo="" group-title="France",MTV HITS SD .b
+https://vavoo.to/vavoo-iptv/play/199610210545959c828fd6
+
+#EXTINF:-1 tvg-id="MULTISPORT 2 .s" tvg-name="MULTISPORT 2 .s" tvg-logo="" group-title="France",MULTISPORT 2 .s
+https://vavoo.to/vavoo-iptv/play/1070202514e16631328ce9
+
+#EXTINF:-1 tvg-id="MULTISPORT 4 .s" tvg-name="MULTISPORT 4 .s" tvg-logo="" group-title="France",MULTISPORT 4 .s
+https://vavoo.to/vavoo-iptv/play/2961771314ea752fe08b2c
+
+#EXTINF:-1 tvg-id="MULTISPORTS 1 .c" tvg-name="MULTISPORTS 1 .c" tvg-logo="" group-title="France",MULTISPORTS 1 .c
+https://vavoo.to/vavoo-iptv/play/2244945267e2aabc1a0c32
+
+#EXTINF:-1 tvg-id="MULTISPORTS 1 HD .b" tvg-name="MULTISPORTS 1 HD .b" tvg-logo="" group-title="France",MULTISPORTS 1 HD .b
+https://vavoo.to/vavoo-iptv/play/31364738617e6f13aa589
+
+#EXTINF:-1 tvg-id="MULTISPORTS 2 .c" tvg-name="MULTISPORTS 2 .c" tvg-logo="" group-title="France",MULTISPORTS 2 .c
+https://vavoo.to/vavoo-iptv/play/3262078883ac500086461d
+
+#EXTINF:-1 tvg-id="MULTISPORTS 2 HD .b" tvg-name="MULTISPORTS 2 HD .b" tvg-logo="" group-title="France",MULTISPORTS 2 HD .b
+https://vavoo.to/vavoo-iptv/play/262136805768ee0df9f5df
+
+#EXTINF:-1 tvg-id="MULTISPORTS 3 .c" tvg-name="MULTISPORTS 3 .c" tvg-logo="" group-title="France",MULTISPORTS 3 .c
+https://vavoo.to/vavoo-iptv/play/4279203347882d776554b1
+
+#EXTINF:-1 tvg-id="MULTISPORTS 3 HD .b" tvg-name="MULTISPORTS 3 HD .b" tvg-logo="" group-title="France",MULTISPORTS 3 HD .b
+https://vavoo.to/vavoo-iptv/play/135193559192e1811556ab
+
+#EXTINF:-1 tvg-id="MULTISPORTS 4 .c" tvg-name="MULTISPORTS 4 .c" tvg-logo="" group-title="France",MULTISPORTS 4 .c
+https://vavoo.to/vavoo-iptv/play/129496934775d0646c23b6
+
+#EXTINF:-1 tvg-id="MULTISPORTS 4 HD .b" tvg-name="MULTISPORTS 4 HD .b" tvg-logo="" group-title="France",MULTISPORTS 4 HD .b
+https://vavoo.to/vavoo-iptv/play/1515319166085742aeebd1
+
+#EXTINF:-1 tvg-id="MULTISPORTS 5 .c" tvg-name="MULTISPORTS 5 .c" tvg-logo="" group-title="France",MULTISPORTS 5 .c
+https://vavoo.to/vavoo-iptv/play/188425925103eff2e38cf9
+
+#EXTINF:-1 tvg-id="MULTISPORTS 5 HD .b" tvg-name="MULTISPORTS 5 HD .b" tvg-logo="" group-title="France",MULTISPORTS 5 HD .b
+https://vavoo.to/vavoo-iptv/play/25330933444d68d5654af6
+
+#EXTINF:-1 tvg-id="MULTISPORTS 6 .c" tvg-name="MULTISPORTS 6 .c" tvg-logo="" group-title="France",MULTISPORTS 6 .c
+https://vavoo.to/vavoo-iptv/play/938473827592d5616af0f
+
+#EXTINF:-1 tvg-id="MUSEUM .c" tvg-name="MUSEUM .c" tvg-logo="" group-title="France",MUSEUM .c
+https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
+
+#EXTINF:-1 tvg-id="MY CUISINE .b" tvg-name="MY CUISINE .b" tvg-logo="" group-title="France",MY CUISINE .b
+https://vavoo.to/vavoo-iptv/play/255021912731d9f86c75eb
+
+#EXTINF:-1 tvg-id="MYZEN TV .c" tvg-name="MYZEN TV .c" tvg-logo="" group-title="France",MYZEN TV .c
+https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
+
+#EXTINF:-1 tvg-id="NAT GEO .c" tvg-name="NAT GEO .c" tvg-logo="" group-title="France",NAT GEO .c
+https://vavoo.to/vavoo-iptv/play/13411697827c093b9217a6
+
+#EXTINF:-1 tvg-id="NAT GEO .s" tvg-name="NAT GEO .s" tvg-logo="" group-title="France",NAT GEO .s
+https://vavoo.to/vavoo-iptv/play/1428792459dd86f1c5464b
+
+#EXTINF:-1 tvg-id="NAT GEO FHD .s" tvg-name="NAT GEO FHD .s" tvg-logo="" group-title="France",NAT GEO FHD .s
+https://vavoo.to/vavoo-iptv/play/2662111844aff3a550d3f7
+
+#EXTINF:-1 tvg-id="NAT GEO WILD .c" tvg-name="NAT GEO WILD .c" tvg-logo="" group-title="France",NAT GEO WILD .c
+https://vavoo.to/vavoo-iptv/play/4163250572cb7f669550a4
+
+#EXTINF:-1 tvg-id="NAT GEO WILD .s" tvg-name="NAT GEO WILD .s" tvg-logo="" group-title="France",NAT GEO WILD .s
+https://vavoo.to/vavoo-iptv/play/12578909822641fbc02dc3
+
+#EXTINF:-1 tvg-id="NAT GEO WILD FHD .s" tvg-name="NAT GEO WILD FHD .s" tvg-logo="" group-title="France",NAT GEO WILD FHD .s
+https://vavoo.to/vavoo-iptv/play/295899358126aff7725d18
+
+#EXTINF:-1 tvg-id="NAT GEO WILD HD .s" tvg-name="NAT GEO WILD HD .s" tvg-logo="" group-title="France",NAT GEO WILD HD .s
+https://vavoo.to/vavoo-iptv/play/4087509269bc6b8e5313a4
+
+#EXTINF:-1 tvg-id="NATIONAL GEO WILD .b" tvg-name="NATIONAL GEO WILD .b" tvg-logo="" group-title="France",NATIONAL GEO WILD .b
+https://vavoo.to/vavoo-iptv/play/51792978604e042fd009f
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC .b" tvg-name="NATIONAL GEOGRAPHIC .b" tvg-logo="" group-title="France",NATIONAL GEOGRAPHIC .b
+https://vavoo.to/vavoo-iptv/play/70703536607da79ad1187
+
+#EXTINF:-1 tvg-id="NATURE TIME .c" tvg-name="NATURE TIME .c" tvg-logo="" group-title="France",NATURE TIME .c
+https://vavoo.to/vavoo-iptv/play/323977998641a00434068a
+
+#EXTINF:-1 tvg-id="NAUTICAL CHANNEL .c" tvg-name="NAUTICAL CHANNEL .c" tvg-logo="" group-title="France",NAUTICAL CHANNEL .c
+https://vavoo.to/vavoo-iptv/play/95703485814dc0d8b7044
+
+#EXTINF:-1 tvg-id="NICK JUNIOR .b" tvg-name="NICK JUNIOR .b" tvg-logo="" group-title="France",NICK JUNIOR .b
+https://vavoo.to/vavoo-iptv/play/844674923ad02e0baaec7
+
+#EXTINF:-1 tvg-id="NICKELODEON +1 .c" tvg-name="NICKELODEON +1 .c" tvg-logo="" group-title="France",NICKELODEON +1 .c
+https://vavoo.to/vavoo-iptv/play/2786840044bbf88bfbe8f7
+
+#EXTINF:-1 tvg-id="NICKELODEON .b" tvg-name="NICKELODEON .b" tvg-logo="" group-title="France",NICKELODEON .b
+https://vavoo.to/vavoo-iptv/play/3562748294b2ebad358cbf
+
+#EXTINF:-1 tvg-id="NICKELODEON .c" tvg-name="NICKELODEON .c" tvg-logo="" group-title="France",NICKELODEON .c
+https://vavoo.to/vavoo-iptv/play/280381887053bd39b0c65f
+
+#EXTINF:-1 tvg-id="NICKELODEON .s" tvg-name="NICKELODEON .s" tvg-logo="" group-title="France",NICKELODEON .s
+https://vavoo.to/vavoo-iptv/play/2881806872c3195b245695
+
+#EXTINF:-1 tvg-id="NICKELODEON 4 TEEN .b" tvg-name="NICKELODEON 4 TEEN .b" tvg-logo="" group-title="France",NICKELODEON 4 TEEN .b
+https://vavoo.to/vavoo-iptv/play/3199219011710e9ef1e081
+
+#EXTINF:-1 tvg-id="NICKELODEON HD .s" tvg-name="NICKELODEON HD .s" tvg-logo="" group-title="France",NICKELODEON HD .s
+https://vavoo.to/vavoo-iptv/play/8441224898b46c4cc3c5d
+
+#EXTINF:-1 tvg-id="NICKELODEON JR .s" tvg-name="NICKELODEON JR .s" tvg-logo="" group-title="France",NICKELODEON JR .s
+https://vavoo.to/vavoo-iptv/play/2419624528420a9221f9fc
+
+#EXTINF:-1 tvg-id="NICKELODEON JUNIOR .b" tvg-name="NICKELODEON JUNIOR .b" tvg-logo="" group-title="France",NICKELODEON JUNIOR .b
+https://vavoo.to/vavoo-iptv/play/32602912004b35140c9b0a
+
+#EXTINF:-1 tvg-id="NICKELODEON JUNIOR .c" tvg-name="NICKELODEON JUNIOR .c" tvg-logo="" group-title="France",NICKELODEON JUNIOR .c
+https://vavoo.to/vavoo-iptv/play/2600378206c4151e6fe1dd
+
+#EXTINF:-1 tvg-id="NICKELODEON TEEN .b" tvg-name="NICKELODEON TEEN .b" tvg-logo="" group-title="France",NICKELODEON TEEN .b
+https://vavoo.to/vavoo-iptv/play/2578758168e3aad115a29c
+
+#EXTINF:-1 tvg-id="NICKELODEON TEEN .c" tvg-name="NICKELODEON TEEN .c" tvg-logo="" group-title="France",NICKELODEON TEEN .c
+https://vavoo.to/vavoo-iptv/play/3401954916adedfcb13f0c
+
+#EXTINF:-1 tvg-id="NICKELODEON TEEN .s" tvg-name="NICKELODEON TEEN .s" tvg-logo="" group-title="France",NICKELODEON TEEN .s
+https://vavoo.to/vavoo-iptv/play/1840584121531f084a3f7b
+
+#EXTINF:-1 tvg-id="NOLLYWOOD TV .c" tvg-name="NOLLYWOOD TV .c" tvg-logo="" group-title="France",NOLLYWOOD TV .c
+https://vavoo.to/vavoo-iptv/play/1562445425bf43cebd4faf
+
+#EXTINF:-1 tvg-id="NOTELE .c" tvg-name="NOTELE .c" tvg-logo="" group-title="France",NOTELE .c
+https://vavoo.to/vavoo-iptv/play/1873582200e2d3595aceeb
+
+#EXTINF:-1 tvg-id="NOVELAS .s" tvg-name="NOVELAS .s" tvg-logo="" group-title="France",NOVELAS .s
+https://vavoo.to/vavoo-iptv/play/32481930384d590f581e25
+
+#EXTINF:-1 tvg-id="NOVELAS HD .s" tvg-name="NOVELAS HD .s" tvg-logo="" group-title="France",NOVELAS HD .s
+https://vavoo.to/vavoo-iptv/play/215687074c5e526fe2816
+
+#EXTINF:-1 tvg-id="NOVELAS TV .c" tvg-name="NOVELAS TV .c" tvg-logo="" group-title="France",NOVELAS TV .c
+https://vavoo.to/vavoo-iptv/play/16260338528710828dbe45
+
+#EXTINF:-1 tvg-id="NRJ 12 .b" tvg-name="NRJ 12 .b" tvg-logo="" group-title="France",NRJ 12 .b
+https://vavoo.to/vavoo-iptv/play/419510080379db27b6767a
+
+#EXTINF:-1 tvg-id="NRJ 12 .s" tvg-name="NRJ 12 .s" tvg-logo="" group-title="France",NRJ 12 .s
+https://vavoo.to/vavoo-iptv/play/320790022bfc96711ce6a
+
+#EXTINF:-1 tvg-id="NRJ 12 HD .s" tvg-name="NRJ 12 HD .s" tvg-logo="" group-title="France",NRJ 12 HD .s
+https://vavoo.to/vavoo-iptv/play/8240183186d98bf8f0ee0
+
+#EXTINF:-1 tvg-id="NRJ HITS .c" tvg-name="NRJ HITS .c" tvg-logo="" group-title="France",NRJ HITS .c
+https://vavoo.to/vavoo-iptv/play/4032821325a26979254ed7
+
+#EXTINF:-1 tvg-id="NRJ HITS .s" tvg-name="NRJ HITS .s" tvg-logo="" group-title="France",NRJ HITS .s
+https://vavoo.to/vavoo-iptv/play/730920094046c7f17c984
+
+#EXTINF:-1 tvg-id="NRJ HITS HD .b" tvg-name="NRJ HITS HD .b" tvg-logo="" group-title="France",NRJ HITS HD .b
+https://vavoo.to/vavoo-iptv/play/3639203183127ef9073e5d
+
+#EXTINF:-1 tvg-id="OCS CHOC .c" tvg-name="OCS CHOC .c" tvg-logo="" group-title="France",OCS CHOC .c
+https://vavoo.to/vavoo-iptv/play/7689644035cd50c34c4d1
+
+#EXTINF:-1 tvg-id="OCS CHOC .s" tvg-name="OCS CHOC .s" tvg-logo="" group-title="France",OCS CHOC .s
+https://vavoo.to/vavoo-iptv/play/41289307848049a8370b8e
+
+#EXTINF:-1 tvg-id="OCS CHOC FHD .s" tvg-name="OCS CHOC FHD .s" tvg-logo="" group-title="France",OCS CHOC FHD .s
+https://vavoo.to/vavoo-iptv/play/13407393374bf726974d70
+
+#EXTINF:-1 tvg-id="OCS CHOC HD .s" tvg-name="OCS CHOC HD .s" tvg-logo="" group-title="France",OCS CHOC HD .s
+https://vavoo.to/vavoo-iptv/play/1215276492f2faf82424fc
+
+#EXTINF:-1 tvg-id="OCS CITY .b" tvg-name="OCS CITY .b" tvg-logo="" group-title="France",OCS CITY .b
+https://vavoo.to/vavoo-iptv/play/191621715269241a8f3a34
+
+#EXTINF:-1 tvg-id="OCS CITY .c" tvg-name="OCS CITY .c" tvg-logo="" group-title="France",OCS CITY .c
+https://vavoo.to/vavoo-iptv/play/33703203809f0bf2cb5472
+
+#EXTINF:-1 tvg-id="OCS CITY .s" tvg-name="OCS CITY .s" tvg-logo="" group-title="France",OCS CITY .s
+https://vavoo.to/vavoo-iptv/play/32165406387bf6d528994
+
+#EXTINF:-1 tvg-id="OCS CITY HD .s" tvg-name="OCS CITY HD .s" tvg-logo="" group-title="France",OCS CITY HD .s
+https://vavoo.to/vavoo-iptv/play/16821288295ca040e30e9d
+
+#EXTINF:-1 tvg-id="OCS FRANCEBOX 1 .b" tvg-name="OCS FRANCEBOX 1 .b" tvg-logo="" group-title="France",OCS FRANCEBOX 1 .b
+https://vavoo.to/vavoo-iptv/play/1905067525c8e951b3fd14
+
+#EXTINF:-1 tvg-id="OCS FRANCEBOX 2 .b" tvg-name="OCS FRANCEBOX 2 .b" tvg-logo="" group-title="France",OCS FRANCEBOX 2 .b
+https://vavoo.to/vavoo-iptv/play/90895074131caf78cdb7f
+
+#EXTINF:-1 tvg-id="OCS FRANCEBOX 3 .b" tvg-name="OCS FRANCEBOX 3 .b" tvg-logo="" group-title="France",OCS FRANCEBOX 3 .b
+https://vavoo.to/vavoo-iptv/play/189617509393d098ab533
+
+#EXTINF:-1 tvg-id="OCS FRANCEBOX 4 .b" tvg-name="OCS FRANCEBOX 4 .b" tvg-logo="" group-title="France",OCS FRANCEBOX 4 .b
+https://vavoo.to/vavoo-iptv/play/31109635736078cd20f4de
+
+#EXTINF:-1 tvg-id="OCS FRANCEBOX 5 .b" tvg-name="OCS FRANCEBOX 5 .b" tvg-logo="" group-title="France",OCS FRANCEBOX 5 .b
+https://vavoo.to/vavoo-iptv/play/2215485637b0bcd1c85dd8
+
+#EXTINF:-1 tvg-id="OCS GEANET .b" tvg-name="OCS GEANET .b" tvg-logo="" group-title="France",OCS GEANET .b
+https://vavoo.to/vavoo-iptv/play/16905674119d2b0e2d5072
+
+#EXTINF:-1 tvg-id="OCS GEANTS .c" tvg-name="OCS GEANTS .c" tvg-logo="" group-title="France",OCS GEANTS .c
+https://vavoo.to/vavoo-iptv/play/14515894382c3f886d3da3
+
+#EXTINF:-1 tvg-id="OCS GEANTS .s" tvg-name="OCS GEANTS .s" tvg-logo="" group-title="France",OCS GEANTS .s
+https://vavoo.to/vavoo-iptv/play/14177505627dd342e32501
+
+#EXTINF:-1 tvg-id="OCS GEANTS FHD .s" tvg-name="OCS GEANTS FHD .s" tvg-logo="" group-title="France",OCS GEANTS FHD .s
+https://vavoo.to/vavoo-iptv/play/146336370435eceaf43e56
+
+#EXTINF:-1 tvg-id="OCS GEANTS HD .s" tvg-name="OCS GEANTS HD .s" tvg-logo="" group-title="France",OCS GEANTS HD .s
+https://vavoo.to/vavoo-iptv/play/73922229901e8c2feeb4f
+
+#EXTINF:-1 tvg-id="OCS MAX .c" tvg-name="OCS MAX .c" tvg-logo="" group-title="France",OCS MAX .c
+https://vavoo.to/vavoo-iptv/play/636734800c64cceb42cf
+
+#EXTINF:-1 tvg-id="OCS MAX .s" tvg-name="OCS MAX .s" tvg-logo="" group-title="France",OCS MAX .s
+https://vavoo.to/vavoo-iptv/play/42064702927b26fcd04aa
+
+#EXTINF:-1 tvg-id="OCS MAX FHD .s" tvg-name="OCS MAX FHD .s" tvg-logo="" group-title="France",OCS MAX FHD .s
+https://vavoo.to/vavoo-iptv/play/2561627199a0669a101b1e
+
+#EXTINF:-1 tvg-id="OCS MAX HD .s" tvg-name="OCS MAX HD .s" tvg-logo="" group-title="France",OCS MAX HD .s
+https://vavoo.to/vavoo-iptv/play/151053255430b682f860
+
+#EXTINF:-1 tvg-id="OKOO TV .c" tvg-name="OKOO TV .c" tvg-logo="" group-title="France",OKOO TV .c
+https://vavoo.to/vavoo-iptv/play/143299977882ac15ec179b
+
+#EXTINF:-1 tvg-id="OL TV .b" tvg-name="OL TV .b" tvg-logo="" group-title="France",OL TV .b
+https://vavoo.to/vavoo-iptv/play/25877338965f52a676e785
+
+#EXTINF:-1 tvg-id="OLYMPIA TV .c" tvg-name="OLYMPIA TV .c" tvg-logo="" group-title="France",OLYMPIA TV .c
+https://vavoo.to/vavoo-iptv/play/816662552ef56a9478735
+
+#EXTINF:-1 tvg-id="ORANGE FRANCEBOX 1 .b" tvg-name="ORANGE FRANCEBOX 1 .b" tvg-logo="" group-title="France",ORANGE FRANCEBOX 1 .b
+https://vavoo.to/vavoo-iptv/play/1816761243b23bcff5118d
+
+#EXTINF:-1 tvg-id="ORANGE FRANCEBOX 2 .b" tvg-name="ORANGE FRANCEBOX 2 .b" tvg-logo="" group-title="France",ORANGE FRANCEBOX 2 .b
+https://vavoo.to/vavoo-iptv/play/7367498995e2614e5b084
+
+#EXTINF:-1 tvg-id="ORANGE FRANCEBOX 3 .b" tvg-name="ORANGE FRANCEBOX 3 .b" tvg-logo="" group-title="France",ORANGE FRANCEBOX 3 .b
+https://vavoo.to/vavoo-iptv/play/37812658794d7f7007d84
+
+#EXTINF:-1 tvg-id="ORANGE FRANCEBOX 4 .b" tvg-name="ORANGE FRANCEBOX 4 .b" tvg-logo="" group-title="France",ORANGE FRANCEBOX 4 .b
+https://vavoo.to/vavoo-iptv/play/27625464117f21630d780e
+
+#EXTINF:-1 tvg-id="ORANGE FRANCEBOX 5 .b" tvg-name="ORANGE FRANCEBOX 5 .b" tvg-logo="" group-title="France",ORANGE FRANCEBOX 5 .b
+https://vavoo.to/vavoo-iptv/play/25801004435c22f35a7b7f
+
+#EXTINF:-1 tvg-id="P2M TV .c" tvg-name="P2M TV .c" tvg-logo="" group-title="France",P2M TV .c
+https://vavoo.to/vavoo-iptv/play/63072903103a025055a7f
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL .b" tvg-name="PARAMOUNT CHANNEL .b" tvg-logo="" group-title="France",PARAMOUNT CHANNEL .b
+https://vavoo.to/vavoo-iptv/play/2407966305fb0e237ac1ca
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL .c" tvg-name="PARAMOUNT CHANNEL .c" tvg-logo="" group-title="France",PARAMOUNT CHANNEL .c
+https://vavoo.to/vavoo-iptv/play/2624088632f49b052a6331
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL .s" tvg-name="PARAMOUNT CHANNEL .s" tvg-logo="" group-title="France",PARAMOUNT CHANNEL .s
+https://vavoo.to/vavoo-iptv/play/2088038276de0f69d6a384
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL FHD .s" tvg-name="PARAMOUNT CHANNEL FHD .s" tvg-logo="" group-title="France",PARAMOUNT CHANNEL FHD .s
+https://vavoo.to/vavoo-iptv/play/4154938214b3c7d6235f2a
+
+#EXTINF:-1 tvg-id="PARAMOUNT DECALE .b" tvg-name="PARAMOUNT DECALE .b" tvg-logo="" group-title="France",PARAMOUNT DECALE .b
+https://vavoo.to/vavoo-iptv/play/405877047907121bd04adc
+
+#EXTINF:-1 tvg-id="PARIS PREMIERE .b" tvg-name="PARIS PREMIERE .b" tvg-logo="" group-title="France",PARIS PREMIERE .b
+https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
+
+#EXTINF:-1 tvg-id="PARIS PREMIERE .c" tvg-name="PARIS PREMIERE .c" tvg-logo="" group-title="France",PARIS PREMIERE .c
+https://vavoo.to/vavoo-iptv/play/202118831628b69441ffe8
+
+#EXTINF:-1 tvg-id="PARIS PREMIERE .s" tvg-name="PARIS PREMIERE .s" tvg-logo="" group-title="France",PARIS PREMIERE .s
+https://vavoo.to/vavoo-iptv/play/1398895618bf5e834ea99f
+
+#EXTINF:-1 tvg-id="PARIS PREMIERE FHD .s" tvg-name="PARIS PREMIERE FHD .s" tvg-logo="" group-title="France",PARIS PREMIERE FHD .s
+https://vavoo.to/vavoo-iptv/play/13877388452c8ed1bdd734
+
+#EXTINF:-1 tvg-id="PIWI+ .b" tvg-name="PIWI+ .b" tvg-logo="" group-title="France",PIWI+ .b
+https://vavoo.to/vavoo-iptv/play/9123900987ab3db9ccaed
+
+#EXTINF:-1 tvg-id="PIWI+ .c" tvg-name="PIWI+ .c" tvg-logo="" group-title="France",PIWI+ .c
+https://vavoo.to/vavoo-iptv/play/2272423077184c1838f29c
+
+#EXTINF:-1 tvg-id="PIWI+ .s" tvg-name="PIWI+ .s" tvg-logo="" group-title="France",PIWI+ .s
+https://vavoo.to/vavoo-iptv/play/4161488231e1f6fd526d3e
+
+#EXTINF:-1 tvg-id="PIWI+ FHD .s" tvg-name="PIWI+ FHD .s" tvg-logo="" group-title="France",PIWI+ FHD .s
+https://vavoo.to/vavoo-iptv/play/278398746240f101d8ba5b
+
+#EXTINF:-1 tvg-id="PIWI+ HD .s" tvg-name="PIWI+ HD .s" tvg-logo="" group-title="France",PIWI+ HD .s
+https://vavoo.to/vavoo-iptv/play/2271253320e238452c66dd
+
+#EXTINF:-1 tvg-id="PLANETE .b" tvg-name="PLANETE .b" tvg-logo="" group-title="France",PLANETE .b
+https://vavoo.to/vavoo-iptv/play/27708670985cd2c6f1797f
+
+#EXTINF:-1 tvg-id="PLANETE A&E .b" tvg-name="PLANETE A&E .b" tvg-logo="" group-title="France",PLANETE A&E .b
+https://vavoo.to/vavoo-iptv/play/1485094105a3b86f9ea0eb
+
+#EXTINF:-1 tvg-id="PLANETE A&E HD .s" tvg-name="PLANETE A&E HD .s" tvg-logo="" group-title="France",PLANETE A&E HD .s
+https://vavoo.to/vavoo-iptv/play/865411078be83b95958d
+
+#EXTINF:-1 tvg-id="PLANETE CI .b" tvg-name="PLANETE CI .b" tvg-logo="" group-title="France",PLANETE CI .b
+https://vavoo.to/vavoo-iptv/play/10689982423e4d00788d6a
+
+#EXTINF:-1 tvg-id="PLANETE+ .c" tvg-name="PLANETE+ .c" tvg-logo="" group-title="France",PLANETE+ .c
+https://vavoo.to/vavoo-iptv/play/42907092451fde9a99bb0
+
+#EXTINF:-1 tvg-id="PLANETE+ .s" tvg-name="PLANETE+ .s" tvg-logo="" group-title="France",PLANETE+ .s
+https://vavoo.to/vavoo-iptv/play/3260815007ca3b3e4cd5ca
+
+#EXTINF:-1 tvg-id="PLANETE+ A&E .c" tvg-name="PLANETE+ A&E .c" tvg-logo="" group-title="France",PLANETE+ A&E .c
+https://vavoo.to/vavoo-iptv/play/3284684728b8789893366e
+
+#EXTINF:-1 tvg-id="PLANETE+ AVENTURE .s" tvg-name="PLANETE+ AVENTURE .s" tvg-logo="" group-title="France",PLANETE+ AVENTURE .s
+https://vavoo.to/vavoo-iptv/play/10320269561ecc150137ad
+
+#EXTINF:-1 tvg-id="PLANETE+ AVENTURE HD .s" tvg-name="PLANETE+ AVENTURE HD .s" tvg-logo="" group-title="France",PLANETE+ AVENTURE HD .s
+https://vavoo.to/vavoo-iptv/play/2997726435e231e76220a
+
+#EXTINF:-1 tvg-id="PLANETE+ CI .c" tvg-name="PLANETE+ CI .c" tvg-logo="" group-title="France",PLANETE+ CI .c
+https://vavoo.to/vavoo-iptv/play/3332590790ecfe9629cd26
+
+#EXTINF:-1 tvg-id="PLANETE+ CRIME .s" tvg-name="PLANETE+ CRIME .s" tvg-logo="" group-title="France",PLANETE+ CRIME .s
+https://vavoo.to/vavoo-iptv/play/18698414995fd862423d6
+
+#EXTINF:-1 tvg-id="PLANETE+ CRIME HD .s" tvg-name="PLANETE+ CRIME HD .s" tvg-logo="" group-title="France",PLANETE+ CRIME HD .s
+https://vavoo.to/vavoo-iptv/play/3552349294e8f1f6a1d376
+
+#EXTINF:-1 tvg-id="PLANETE+ FHD .s" tvg-name="PLANETE+ FHD .s" tvg-logo="" group-title="France",PLANETE+ FHD .s
+https://vavoo.to/vavoo-iptv/play/314041843894bdde45bbdb
+
+#EXTINF:-1 tvg-id="PLANETE+ HD .s" tvg-name="PLANETE+ HD .s" tvg-logo="" group-title="France",PLANETE+ HD .s
+https://vavoo.to/vavoo-iptv/play/1479441370a436a6ba92da
+
+#EXTINF:-1 tvg-id="POLAR .b" tvg-name="POLAR .b" tvg-logo="" group-title="France",POLAR .b
+https://vavoo.to/vavoo-iptv/play/2370188978ad4a8fce3c0b
+
+#EXTINF:-1 tvg-id="POLAR+ .c" tvg-name="POLAR+ .c" tvg-logo="" group-title="France",POLAR+ .c
+https://vavoo.to/vavoo-iptv/play/302288233a292182fa235
+
+#EXTINF:-1 tvg-id="POLAR+ .s" tvg-name="POLAR+ .s" tvg-logo="" group-title="France",POLAR+ .s
+https://vavoo.to/vavoo-iptv/play/2143816874627514cd81d1
+
+#EXTINF:-1 tvg-id="POLAR+ FHD .s" tvg-name="POLAR+ FHD .s" tvg-logo="" group-title="France",POLAR+ FHD .s
+https://vavoo.to/vavoo-iptv/play/3449247132e35a480233da
+
+#EXTINF:-1 tvg-id="POLAR+ HD .s" tvg-name="POLAR+ HD .s" tvg-logo="" group-title="France",POLAR+ HD .s
+https://vavoo.to/vavoo-iptv/play/10361204743a69d7ada1b3
+
+#EXTINF:-1 tvg-id="PSG - LIGUE 1 (MATCH TIME) .s" tvg-name="PSG - LIGUE 1 (MATCH TIME) .s" tvg-logo="" group-title="France",PSG - LIGUE 1 (MATCH TIME) .s
+https://vavoo.to/vavoo-iptv/play/1411130002fbc38dce6d10
+
+#EXTINF:-1 tvg-id="PUBLIC SENAT .c" tvg-name="PUBLIC SENAT .c" tvg-logo="" group-title="France",PUBLIC SENAT .c
+https://vavoo.to/vavoo-iptv/play/900020958ca3417971536
+
+#EXTINF:-1 tvg-id="RAKUTEN GUARDIAN .s" tvg-name="RAKUTEN GUARDIAN .s" tvg-logo="" group-title="France",RAKUTEN GUARDIAN .s
+https://vavoo.to/vavoo-iptv/play/3557692300ca02256bc720
+
+#EXTINF:-1 tvg-id="RAKUTEN SERIE CRIME .s" tvg-name="RAKUTEN SERIE CRIME .s" tvg-logo="" group-title="France",RAKUTEN SERIE CRIME .s
+https://vavoo.to/vavoo-iptv/play/4171934323030b0eb6a709
+
+#EXTINF:-1 tvg-id="RAKUTEN SPOTLIGHT FRANCE .s" tvg-name="RAKUTEN SPOTLIGHT FRANCE .s" tvg-logo="" group-title="France",RAKUTEN SPOTLIGHT FRANCE .s
+https://vavoo.to/vavoo-iptv/play/780409303783a097bff06
+
+#EXTINF:-1 tvg-id="RAKUTEN TV .s" tvg-name="RAKUTEN TV .s" tvg-logo="" group-title="France",RAKUTEN TV .s
+https://vavoo.to/vavoo-iptv/play/1713644642ee0b52d2a1eb
+
+#EXTINF:-1 tvg-id="RAKUTEN TV ANIME DIGITAL NETWORK .s" tvg-name="RAKUTEN TV ANIME DIGITAL NETWORK .s" tvg-logo="" group-title="France",RAKUTEN TV ANIME DIGITAL NETWORK .s
+https://vavoo.to/vavoo-iptv/play/1390548733715f00059162
+
+#EXTINF:-1 tvg-id="RAKUTEN TV BBC DRAMA .s" tvg-name="RAKUTEN TV BBC DRAMA .s" tvg-logo="" group-title="France",RAKUTEN TV BBC DRAMA .s
+https://vavoo.to/vavoo-iptv/play/3979463967a22e683a20e6
+
+#EXTINF:-1 tvg-id="RAKUTEN TV FILMS FRANÇAIS .s" tvg-name="RAKUTEN TV FILMS FRANÇAIS .s" tvg-logo="" group-title="France",RAKUTEN TV FILMS FRANÇAIS .s
+https://vavoo.to/vavoo-iptv/play/2216583438f9128cd60a25
+
+#EXTINF:-1 tvg-id="RAKUTEN TV FILMS THRILLER .s" tvg-name="RAKUTEN TV FILMS THRILLER .s" tvg-logo="" group-title="France",RAKUTEN TV FILMS THRILLER .s
+https://vavoo.to/vavoo-iptv/play/59800311106826bd56b92
+
+#EXTINF:-1 tvg-id="RAKUTEN TV GUSTO TV .s" tvg-name="RAKUTEN TV GUSTO TV .s" tvg-logo="" group-title="France",RAKUTEN TV GUSTO TV .s
+https://vavoo.to/vavoo-iptv/play/34184806827df1037defd3
+
+#EXTINF:-1 tvg-id="RFM TV .c" tvg-name="RFM TV .c" tvg-logo="" group-title="France",RFM TV .c
+https://vavoo.to/vavoo-iptv/play/235106601922765d099ee0
+
+#EXTINF:-1 tvg-id="RFM TV .s" tvg-name="RFM TV .s" tvg-logo="" group-title="France",RFM TV .s
+https://vavoo.to/vavoo-iptv/play/37905311685b668ac8d224
+
+#EXTINF:-1 tvg-id="RFM TV HD .b" tvg-name="RFM TV HD .b" tvg-logo="" group-title="France",RFM TV HD .b
+https://vavoo.to/vavoo-iptv/play/4100689874e4f474bc38f3
+
+#EXTINF:-1 tvg-id="RFM TV MUSIC .s" tvg-name="RFM TV MUSIC .s" tvg-logo="" group-title="France",RFM TV MUSIC .s
+https://vavoo.to/vavoo-iptv/play/4197312592de677f26e1da
+
+#EXTINF:-1 tvg-id="RFM TV SD .b" tvg-name="RFM TV SD .b" tvg-logo="" group-title="France",RFM TV SD .b
+https://vavoo.to/vavoo-iptv/play/2642050442743edf3d3496
+
+#EXTINF:-1 tvg-id="RMC DECOUVERTE .c" tvg-name="RMC DECOUVERTE .c" tvg-logo="" group-title="France",RMC DECOUVERTE .c
+https://vavoo.to/vavoo-iptv/play/2957270266f8a57fc4d110
+
+#EXTINF:-1 tvg-id="RMC DECOUVERTE .s" tvg-name="RMC DECOUVERTE .s" tvg-logo="" group-title="France",RMC DECOUVERTE .s
+https://vavoo.to/vavoo-iptv/play/26066150769be8b83ee804
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 (BACKUP) .b" tvg-name="RMC SPORT 1 (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 1 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/175115102961b4392d8027
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 .b" tvg-name="RMC SPORT 1 .b" tvg-logo="" group-title="France",RMC SPORT 1 .b
+https://vavoo.to/vavoo-iptv/play/3887766010e3da764db8f
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 .c" tvg-name="RMC SPORT 1 .c" tvg-logo="" group-title="France",RMC SPORT 1 .c
+https://vavoo.to/vavoo-iptv/play/16846424097776500ef29d
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 .s" tvg-name="RMC SPORT 1 .s" tvg-logo="" group-title="France",RMC SPORT 1 .s
+https://vavoo.to/vavoo-iptv/play/1756600583a87bbd57e5f8
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 ACCESS HD .b" tvg-name="RMC SPORT 1 ACCESS HD .b" tvg-logo="" group-title="France",RMC SPORT 1 ACCESS HD .b
+https://vavoo.to/vavoo-iptv/play/28562619388e75dc592e05
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 FHD .b" tvg-name="RMC SPORT 1 FHD .b" tvg-logo="" group-title="France",RMC SPORT 1 FHD .b
+https://vavoo.to/vavoo-iptv/play/2893363456b3ad7a65ff86
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 HD .b" tvg-name="RMC SPORT 1 HD .b" tvg-logo="" group-title="France",RMC SPORT 1 HD .b
+https://vavoo.to/vavoo-iptv/play/191610103b147fac6cea3
+
+#EXTINF:-1 tvg-id="RMC SPORT 1 UHD .b" tvg-name="RMC SPORT 1 UHD .b" tvg-logo="" group-title="France",RMC SPORT 1 UHD .b
+https://vavoo.to/vavoo-iptv/play/4198743891b3aa5f1b46ea
+
+#EXTINF:-1 tvg-id="RMC SPORT 10 [LIVE DURING EVENTS ONLY] .s" tvg-name="RMC SPORT 10 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",RMC SPORT 10 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/2195294466e7b94a1092d4
+
+#EXTINF:-1 tvg-id="RMC SPORT 11 [LIVE DURING EVENTS ONLY] .s" tvg-name="RMC SPORT 11 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="France",RMC SPORT 11 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/vavoo-iptv/play/235289851552be0bdeb8f5
+
+#EXTINF:-1 tvg-id="RMC SPORT 13 .s" tvg-name="RMC SPORT 13 .s" tvg-logo="" group-title="France",RMC SPORT 13 .s
+https://vavoo.to/vavoo-iptv/play/7960862604c7f0da38151
+
+#EXTINF:-1 tvg-id="RMC SPORT 14 .s" tvg-name="RMC SPORT 14 .s" tvg-logo="" group-title="France",RMC SPORT 14 .s
+https://vavoo.to/vavoo-iptv/play/2639500260d2bc1d613f18
+
+#EXTINF:-1 tvg-id="RMC SPORT 15 .s" tvg-name="RMC SPORT 15 .s" tvg-logo="" group-title="France",RMC SPORT 15 .s
+https://vavoo.to/vavoo-iptv/play/26877445960b0387b6b8e5
+
+#EXTINF:-1 tvg-id="RMC SPORT 17 .s" tvg-name="RMC SPORT 17 .s" tvg-logo="" group-title="France",RMC SPORT 17 .s
+https://vavoo.to/vavoo-iptv/play/3673418036295f31622f35
+
+#EXTINF:-1 tvg-id="RMC SPORT 18 .s" tvg-name="RMC SPORT 18 .s" tvg-logo="" group-title="France",RMC SPORT 18 .s
+https://vavoo.to/vavoo-iptv/play/148710986146a036ede5c4
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 (BACKUP) .b" tvg-name="RMC SPORT 2 (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 2 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/335631470dc3241eb383f
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 .b" tvg-name="RMC SPORT 2 .b" tvg-logo="" group-title="France",RMC SPORT 2 .b
+https://vavoo.to/vavoo-iptv/play/13513667299550ca3c8165
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 .c" tvg-name="RMC SPORT 2 .c" tvg-logo="" group-title="France",RMC SPORT 2 .c
+https://vavoo.to/vavoo-iptv/play/600432825b1695f7ad3f8
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 .s" tvg-name="RMC SPORT 2 .s" tvg-logo="" group-title="France",RMC SPORT 2 .s
+https://vavoo.to/vavoo-iptv/play/789832663b122a3dbc3e0
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 ACCESS HD .b" tvg-name="RMC SPORT 2 ACCESS HD .b" tvg-logo="" group-title="France",RMC SPORT 2 ACCESS HD .b
+https://vavoo.to/vavoo-iptv/play/3141694283a807493458b1
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 FHD .b" tvg-name="RMC SPORT 2 FHD .b" tvg-logo="" group-title="France",RMC SPORT 2 FHD .b
+https://vavoo.to/vavoo-iptv/play/2516059589df8a4a2294fc
+
+#EXTINF:-1 tvg-id="RMC SPORT 2 HD .b" tvg-name="RMC SPORT 2 HD .b" tvg-logo="" group-title="France",RMC SPORT 2 HD .b
+https://vavoo.to/vavoo-iptv/play/2246359828a17b3da47b2c
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 (BACKUP) .b" tvg-name="RMC SPORT 3 (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 3 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/2299442456e853700b064a
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 .b" tvg-name="RMC SPORT 3 .b" tvg-logo="" group-title="France",RMC SPORT 3 .b
+https://vavoo.to/vavoo-iptv/play/1844187641d8333af8b75a
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 .c" tvg-name="RMC SPORT 3 .c" tvg-logo="" group-title="France",RMC SPORT 3 .c
+https://vavoo.to/vavoo-iptv/play/5144435298d184e770b8e
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 .s" tvg-name="RMC SPORT 3 .s" tvg-logo="" group-title="France",RMC SPORT 3 .s
+https://vavoo.to/vavoo-iptv/play/3095783430fa0422f0a71
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 ACCESS HD .b" tvg-name="RMC SPORT 3 ACCESS HD .b" tvg-logo="" group-title="France",RMC SPORT 3 ACCESS HD .b
+https://vavoo.to/vavoo-iptv/play/457217631ff76abcd781
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 FHD .b" tvg-name="RMC SPORT 3 FHD .b" tvg-logo="" group-title="France",RMC SPORT 3 FHD .b
+https://vavoo.to/vavoo-iptv/play/21896277820a73bd6fa658
+
+#EXTINF:-1 tvg-id="RMC SPORT 3 HD .b" tvg-name="RMC SPORT 3 HD .b" tvg-logo="" group-title="France",RMC SPORT 3 HD .b
+https://vavoo.to/vavoo-iptv/play/1229896586892b85b35843
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 (BACKUP) .b" tvg-name="RMC SPORT 4 (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 4 (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/3972210648deb8f22a504e
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 (MATCH TIME) .s" tvg-name="RMC SPORT 4 (MATCH TIME) .s" tvg-logo="" group-title="France",RMC SPORT 4 (MATCH TIME) .s
+https://vavoo.to/vavoo-iptv/play/4214274847d4dc91b369b2
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 .b" tvg-name="RMC SPORT 4 .b" tvg-logo="" group-title="France",RMC SPORT 4 .b
+https://vavoo.to/vavoo-iptv/play/3754741225cb5c0b5022ff
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 .c" tvg-name="RMC SPORT 4 .c" tvg-logo="" group-title="France",RMC SPORT 4 .c
+https://vavoo.to/vavoo-iptv/play/28946649853b1cdd0ce44c
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 FHD .b" tvg-name="RMC SPORT 4 FHD .b" tvg-logo="" group-title="France",RMC SPORT 4 FHD .b
+https://vavoo.to/vavoo-iptv/play/387360263980a2ec423852
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 HD (BACKUP) .b" tvg-name="RMC SPORT 4 HD (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 4 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/3894334400583a0c794e0
+
+#EXTINF:-1 tvg-id="RMC SPORT 4 HD .b" tvg-name="RMC SPORT 4 HD .b" tvg-logo="" group-title="France",RMC SPORT 4 HD .b
+https://vavoo.to/vavoo-iptv/play/113322869163d918ab9302
+
+#EXTINF:-1 tvg-id="RMC SPORT 5 .s" tvg-name="RMC SPORT 5 .s" tvg-logo="" group-title="France",RMC SPORT 5 .s
+https://vavoo.to/vavoo-iptv/play/26373815756a4d77c529a1
+
+#EXTINF:-1 tvg-id="RMC SPORT 6 .s" tvg-name="RMC SPORT 6 .s" tvg-logo="" group-title="France",RMC SPORT 6 .s
+https://vavoo.to/vavoo-iptv/play/3667084567dedc49870796
+
+#EXTINF:-1 tvg-id="RMC SPORT 7 .s" tvg-name="RMC SPORT 7 .s" tvg-logo="" group-title="France",RMC SPORT 7 .s
+https://vavoo.to/vavoo-iptv/play/3891489959393d7c27b0c5
+
+#EXTINF:-1 tvg-id="RMC SPORT 9 .s" tvg-name="RMC SPORT 9 .s" tvg-logo="" group-title="France",RMC SPORT 9 .s
+https://vavoo.to/vavoo-iptv/play/1489228486a75277865967
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 10 HD (BACKUP) .b" tvg-name="RMC SPORT LIVE 10 HD (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT LIVE 10 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/27022257457f80d7d7d05d
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 14 HD .b" tvg-name="RMC SPORT LIVE 14 HD .b" tvg-logo="" group-title="France",RMC SPORT LIVE 14 HD .b
+https://vavoo.to/vavoo-iptv/play/425544469138297bd647ca
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 5 HD (BACKUP) .b" tvg-name="RMC SPORT LIVE 5 HD (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT LIVE 5 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/41715645264a1b399848f2
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 6 HD (BACKUP) .b" tvg-name="RMC SPORT LIVE 6 HD (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT LIVE 6 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/287305687457b957946f68
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 6 HD .b" tvg-name="RMC SPORT LIVE 6 HD .b" tvg-logo="" group-title="France",RMC SPORT LIVE 6 HD .b
+https://vavoo.to/vavoo-iptv/play/112859757368f91ed0052f
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 7 HD (BACKUP) .b" tvg-name="RMC SPORT LIVE 7 HD (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT LIVE 7 HD (BACKUP) .b
+https://vavoo.to/vavoo-iptv/play/748262697206d933e210e
+
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 7 HD .b" tvg-name="RMC SPORT LIVE 7 HD .b" tvg-logo="" group-title="France",RMC SPORT LIVE 7 HD .b
+https://vavoo.to/vavoo-iptv/play/24148072590d63bcae2cb3
+
+#EXTINF:-1 tvg-id="RMC SPORT NEWS FHD .b" tvg-name="RMC SPORT NEWS FHD .b" tvg-logo="" group-title="France",RMC SPORT NEWS FHD .b
+https://vavoo.to/vavoo-iptv/play/179745605ed5e306d6ce2
+
+#EXTINF:-1 tvg-id="RMC SPORT NEWS HD .b" tvg-name="RMC SPORT NEWS HD .b" tvg-logo="" group-title="France",RMC SPORT NEWS HD .b
+https://vavoo.to/vavoo-iptv/play/1958125138ff596da8defc
+
+#EXTINF:-1 tvg-id="RMC STORY .c" tvg-name="RMC STORY .c" tvg-logo="" group-title="France",RMC STORY .c
+https://vavoo.to/vavoo-iptv/play/104723646397da6b0c2b31
+
+#EXTINF:-1 tvg-id="RMC STORY .s" tvg-name="RMC STORY .s" tvg-logo="" group-title="France",RMC STORY .s
+https://vavoo.to/vavoo-iptv/play/9680712917f989558355c
+
+#EXTINF:-1 tvg-id="ROUGE TV .b" tvg-name="ROUGE TV .b" tvg-logo="" group-title="France",ROUGE TV .b
+https://vavoo.to/vavoo-iptv/play/2241286879c12cae22236a
+
+#EXTINF:-1 tvg-id="ROUGE TV .s" tvg-name="ROUGE TV .s" tvg-logo="" group-title="France",ROUGE TV .s
+https://vavoo.to/vavoo-iptv/play/383441118486789a998142
+
+#EXTINF:-1 tvg-id="RT FRANCE .c" tvg-name="RT FRANCE .c" tvg-logo="" group-title="France",RT FRANCE .c
+https://vavoo.to/vavoo-iptv/play/138990976932865ec8791c
+
+#EXTINF:-1 tvg-id="RT FRANCE .s" tvg-name="RT FRANCE .s" tvg-logo="" group-title="France",RT FRANCE .s
+https://vavoo.to/vavoo-iptv/play/142607977311eb7289eeb2
+
+#EXTINF:-1 tvg-id="RTL 9 .b" tvg-name="RTL 9 .b" tvg-logo="" group-title="France",RTL 9 .b
+https://vavoo.to/vavoo-iptv/play/2938874346d9ebff0900a2
+
+#EXTINF:-1 tvg-id="RTL 9 .c" tvg-name="RTL 9 .c" tvg-logo="" group-title="France",RTL 9 .c
+https://vavoo.to/vavoo-iptv/play/506999453a22330488d8a
+
+#EXTINF:-1 tvg-id="RTL 9 .s" tvg-name="RTL 9 .s" tvg-logo="" group-title="France",RTL 9 .s
+https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
+
+#EXTINF:-1 tvg-id="RTL PLUG .c" tvg-name="RTL PLUG .c" tvg-logo="" group-title="France",RTL PLUG .c
+https://vavoo.to/vavoo-iptv/play/3216770538580d85226b9c
+
+#EXTINF:-1 tvg-id="RTL TVI .c" tvg-name="RTL TVI .c" tvg-logo="" group-title="France",RTL TVI .c
+https://vavoo.to/vavoo-iptv/play/163940748110735d3b5bf8
+
+#EXTINF:-1 tvg-id="RTS 1 .c" tvg-name="RTS 1 .c" tvg-logo="" group-title="France",RTS 1 .c
+https://vavoo.to/vavoo-iptv/play/3219035515890960188d66
+
+#EXTINF:-1 tvg-id="RTS 2 .c" tvg-name="RTS 2 .c" tvg-logo="" group-title="France",RTS 2 .c
+https://vavoo.to/vavoo-iptv/play/4169068459189e99bdb65b
+
+#EXTINF:-1 tvg-id="RTS DEUX .s" tvg-name="RTS DEUX .s" tvg-logo="" group-title="France",RTS DEUX .s
+https://vavoo.to/vavoo-iptv/play/1024436493593104033698
+
+#EXTINF:-1 tvg-id="RTS UNE .s" tvg-name="RTS UNE .s" tvg-logo="" group-title="France",RTS UNE .s
+https://vavoo.to/vavoo-iptv/play/22160139276e7125bea400
+
+#EXTINF:-1 tvg-id="SCIENCE & VIE .s" tvg-name="SCIENCE & VIE .s" tvg-logo="" group-title="France",SCIENCE & VIE .s
+https://vavoo.to/vavoo-iptv/play/38619424749a7f941cb30
+
+#EXTINF:-1 tvg-id="SCIENCE & VIE TV .c" tvg-name="SCIENCE & VIE TV .c" tvg-logo="" group-title="France",SCIENCE & VIE TV .c
+https://vavoo.to/vavoo-iptv/play/152357533f67555e62908
+
+#EXTINF:-1 tvg-id="SEASON .b" tvg-name="SEASON .b" tvg-logo="" group-title="France",SEASON .b
+https://vavoo.to/vavoo-iptv/play/183066495653703ab72798
+
+#EXTINF:-1 tvg-id="SEASON .s" tvg-name="SEASON .s" tvg-logo="" group-title="France",SEASON .s
+https://vavoo.to/vavoo-iptv/play/2215595129d236eca1d808
+
+#EXTINF:-1 tvg-id="SEASONS .c" tvg-name="SEASONS .c" tvg-logo="" group-title="France",SEASONS .c
+https://vavoo.to/vavoo-iptv/play/46621405859427b98f8b8
+
+#EXTINF:-1 tvg-id="SERIE CLUB .b" tvg-name="SERIE CLUB .b" tvg-logo="" group-title="France",SERIE CLUB .b
+https://vavoo.to/vavoo-iptv/play/328726150625933611cf3
+
+#EXTINF:-1 tvg-id="SERIE CLUB .c" tvg-name="SERIE CLUB .c" tvg-logo="" group-title="France",SERIE CLUB .c
+https://vavoo.to/vavoo-iptv/play/1534887525bcb2cc0c943a
+
+#EXTINF:-1 tvg-id="SERIE CLUB .s" tvg-name="SERIE CLUB .s" tvg-logo="" group-title="France",SERIE CLUB .s
+https://vavoo.to/vavoo-iptv/play/1501090169158dd448516c
+
+#EXTINF:-1 tvg-id="SERIE CLUB FHD .s" tvg-name="SERIE CLUB FHD .s" tvg-logo="" group-title="France",SERIE CLUB FHD .s
+https://vavoo.to/vavoo-iptv/play/1257230029fb28a984d2a5
+
+#EXTINF:-1 tvg-id="SPORT .c" tvg-name="SPORT .c" tvg-logo="" group-title="France",SPORT .c
+https://vavoo.to/vavoo-iptv/play/2611555727a6d71dd30596
+
+#EXTINF:-1 tvg-id="SPORT EN FRANCE .b" tvg-name="SPORT EN FRANCE .b" tvg-logo="" group-title="France",SPORT EN FRANCE .b
+https://vavoo.to/vavoo-iptv/play/2793894290cd54f0356613
+
+#EXTINF:-1 tvg-id="SPORT EN FRANCE FHD .b" tvg-name="SPORT EN FRANCE FHD .b" tvg-logo="" group-title="France",SPORT EN FRANCE FHD .b
+https://vavoo.to/vavoo-iptv/play/28990515040b9592deaeeb
+
+#EXTINF:-1 tvg-id="STINGRAY CLASSICA .c" tvg-name="STINGRAY CLASSICA .c" tvg-logo="" group-title="France",STINGRAY CLASSICA .c
+https://vavoo.to/vavoo-iptv/play/3076159608b5a417c45084
+
+#EXTINF:-1 tvg-id="SUNDANCE TV .s" tvg-name="SUNDANCE TV .s" tvg-logo="" group-title="France",SUNDANCE TV .s
+https://vavoo.to/vavoo-iptv/play/350896249c8fae8947470
+
+#EXTINF:-1 tvg-id="SYFY .b" tvg-name="SYFY .b" tvg-logo="" group-title="France",SYFY .b
+https://vavoo.to/vavoo-iptv/play/210674861187fc41ac93dc
+
+#EXTINF:-1 tvg-id="SYFY .c" tvg-name="SYFY .c" tvg-logo="" group-title="France",SYFY .c
+https://vavoo.to/vavoo-iptv/play/303282550000e34f35d8e7
+
+#EXTINF:-1 tvg-id="SYFY .s" tvg-name="SYFY .s" tvg-logo="" group-title="France",SYFY .s
+https://vavoo.to/vavoo-iptv/play/338881895125230dd16046
+
+#EXTINF:-1 tvg-id="TCM CINEMA .b" tvg-name="TCM CINEMA .b" tvg-logo="" group-title="France",TCM CINEMA .b
+https://vavoo.to/vavoo-iptv/play/3637294135d561d9540c1c
+
+#EXTINF:-1 tvg-id="TCM CINEMA .c" tvg-name="TCM CINEMA .c" tvg-logo="" group-title="France",TCM CINEMA .c
+https://vavoo.to/vavoo-iptv/play/2418525396576391a587f9
+
+#EXTINF:-1 tvg-id="TCM CINEMA .s" tvg-name="TCM CINEMA .s" tvg-logo="" group-title="France",TCM CINEMA .s
+https://vavoo.to/vavoo-iptv/play/2451805128d0f9045d041b
+
+#EXTINF:-1 tvg-id="TCM CINEMA FHD .s" tvg-name="TCM CINEMA FHD .s" tvg-logo="" group-title="France",TCM CINEMA FHD .s
+https://vavoo.to/vavoo-iptv/play/3385205051cf9c48ff0d44
+
+#EXTINF:-1 tvg-id="TEBEO .c" tvg-name="TEBEO .c" tvg-logo="" group-title="France",TEBEO .c
+https://vavoo.to/vavoo-iptv/play/274566616922c987e2de46
+
+#EXTINF:-1 tvg-id="TECH & CO .c" tvg-name="TECH & CO .c" tvg-logo="" group-title="France",TECH & CO .c
+https://vavoo.to/vavoo-iptv/play/658342949819aaca862d6
+
+#EXTINF:-1 tvg-id="TELEGRENOBLE ISERE .c" tvg-name="TELEGRENOBLE ISERE .c" tvg-logo="" group-title="France",TELEGRENOBLE ISERE .c
+https://vavoo.to/vavoo-iptv/play/585806642053f9ab93abb
+
+#EXTINF:-1 tvg-id="TELETOON +1 .c" tvg-name="TELETOON +1 .c" tvg-logo="" group-title="France",TELETOON +1 .c
+https://vavoo.to/vavoo-iptv/play/1143042553bb95572793be
+
+#EXTINF:-1 tvg-id="TELETOON+ .c" tvg-name="TELETOON+ .c" tvg-logo="" group-title="France",TELETOON+ .c
+https://vavoo.to/vavoo-iptv/play/2382507077306dedae7ff3
+
+#EXTINF:-1 tvg-id="TELETOON+ .s" tvg-name="TELETOON+ .s" tvg-logo="" group-title="France",TELETOON+ .s
+https://vavoo.to/vavoo-iptv/play/231278062503478eaef59f
+
+#EXTINF:-1 tvg-id="TELETOON+1 .s" tvg-name="TELETOON+1 .s" tvg-logo="" group-title="France",TELETOON+1 .s
+https://vavoo.to/vavoo-iptv/play/3613032951812247ec0170
+
+#EXTINF:-1 tvg-id="TELETOON+1 HD .s" tvg-name="TELETOON+1 HD .s" tvg-logo="" group-title="France",TELETOON+1 HD .s
+https://vavoo.to/vavoo-iptv/play/338122156734dd2a430fae
+
+#EXTINF:-1 tvg-id="TEVA .b" tvg-name="TEVA .b" tvg-logo="" group-title="France",TEVA .b
+https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
+
+#EXTINF:-1 tvg-id="TEVA .c" tvg-name="TEVA .c" tvg-logo="" group-title="France",TEVA .c
+https://vavoo.to/vavoo-iptv/play/12955238153e9698c124e9
+
+#EXTINF:-1 tvg-id="TEVA .s" tvg-name="TEVA .s" tvg-logo="" group-title="France",TEVA .s
+https://vavoo.to/vavoo-iptv/play/8053328606dfec4957070
+
+#EXTINF:-1 tvg-id="TF 1 .c" tvg-name="TF 1 .c" tvg-logo="" group-title="France",TF 1 .c
+https://vavoo.to/vavoo-iptv/play/148432778523b6e69b3d0d
+
+#EXTINF:-1 tvg-id="TF 1 SERIES FILMS .c" tvg-name="TF 1 SERIES FILMS .c" tvg-logo="" group-title="France",TF 1 SERIES FILMS .c
+https://vavoo.to/vavoo-iptv/play/151784523103b3f8b3f187
+
+#EXTINF:-1 tvg-id="TF 1 ULTRA 4K .c" tvg-name="TF 1 ULTRA 4K .c" tvg-logo="" group-title="France",TF 1 ULTRA 4K .c
+https://vavoo.to/vavoo-iptv/play/3967134627436f7d045f1f
+
+#EXTINF:-1 tvg-id="TF1 .s" tvg-name="TF1 .s" tvg-logo="" group-title="France",TF1 .s
+https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
+
+#EXTINF:-1 tvg-id="TF1 FHD .b" tvg-name="TF1 FHD .b" tvg-logo="" group-title="France",TF1 FHD .b
+https://vavoo.to/vavoo-iptv/play/1334669376bf508b8ed995
+
+#EXTINF:-1 tvg-id="TF1 SERIES & FILM .s" tvg-name="TF1 SERIES & FILM .s" tvg-logo="" group-title="France",TF1 SERIES & FILM .s
+https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
+
+#EXTINF:-1 tvg-id="TF1 SERIES & FILM HD .s" tvg-name="TF1 SERIES & FILM HD .s" tvg-logo="" group-title="France",TF1 SERIES & FILM HD .s
+https://vavoo.to/vavoo-iptv/play/3049436856cd6a1575450a
+
+#EXTINF:-1 tvg-id="TFI .s" tvg-name="TFI .s" tvg-logo="" group-title="France",TFI .s
+https://vavoo.to/vavoo-iptv/play/16784028782757834d7f91
+
+#EXTINF:-1 tvg-id="TFX .b" tvg-name="TFX .b" tvg-logo="" group-title="France",TFX .b
+https://vavoo.to/vavoo-iptv/play/3794086467dcb3e9b1728b
+
+#EXTINF:-1 tvg-id="TFX .c" tvg-name="TFX .c" tvg-logo="" group-title="France",TFX .c
+https://vavoo.to/vavoo-iptv/play/17522320208e62334baa89
+
+#EXTINF:-1 tvg-id="TFX .s" tvg-name="TFX .s" tvg-logo="" group-title="France",TFX .s
+https://vavoo.to/vavoo-iptv/play/965401356d56a26be4f45
+
+#EXTINF:-1 tvg-id="TIJI .b" tvg-name="TIJI .b" tvg-logo="" group-title="France",TIJI .b
+https://vavoo.to/vavoo-iptv/play/12869143765e4bc62e1bc
+
+#EXTINF:-1 tvg-id="TIJI .c" tvg-name="TIJI .c" tvg-logo="" group-title="France",TIJI .c
+https://vavoo.to/vavoo-iptv/play/3472686258a52d47096aef
+
+#EXTINF:-1 tvg-id="TIJI FHD .s" tvg-name="TIJI FHD .s" tvg-logo="" group-title="France",TIJI FHD .s
+https://vavoo.to/vavoo-iptv/play/381228029420ab3e3544f6
+
+#EXTINF:-1 tvg-id="TIJI HD .s" tvg-name="TIJI HD .s" tvg-logo="" group-title="France",TIJI HD .s
+https://vavoo.to/vavoo-iptv/play/61014295140065dfc1ba9
+
+#EXTINF:-1 tvg-id="TIPIK .c" tvg-name="TIPIK .c" tvg-logo="" group-title="France",TIPIK .c
+https://vavoo.to/vavoo-iptv/play/2248897642e41a1d725e8f
+
+#EXTINF:-1 tvg-id="TIPIK .s" tvg-name="TIPIK .s" tvg-logo="" group-title="France",TIPIK .s
+https://vavoo.to/vavoo-iptv/play/41850218641edd3b023e87
+
+#EXTINF:-1 tvg-id="TL7 .c" tvg-name="TL7 .c" tvg-logo="" group-title="France",TL7 .c
+https://vavoo.to/vavoo-iptv/play/353220702250e159aca30d
+
+#EXTINF:-1 tvg-id="TLC .c" tvg-name="TLC .c" tvg-logo="" group-title="France",TLC .c
+https://vavoo.to/vavoo-iptv/play/3738924449f1aa2b8a8570
+
+#EXTINF:-1 tvg-id="TMC .c" tvg-name="TMC .c" tvg-logo="" group-title="France",TMC .c
+https://vavoo.to/vavoo-iptv/play/361211396f33e971ef526
+
+#EXTINF:-1 tvg-id="TMC .s" tvg-name="TMC .s" tvg-logo="" group-title="France",TMC .s
+https://vavoo.to/vavoo-iptv/play/1149078876048c6fd8939d
+
+#EXTINF:-1 tvg-id="TMC HD .b" tvg-name="TMC HD .b" tvg-logo="" group-title="France",TMC HD .b
+https://vavoo.to/vavoo-iptv/play/42285072155d6c7509c2ed
+
+#EXTINF:-1 tvg-id="TMC HD .s" tvg-name="TMC HD .s" tvg-logo="" group-title="France",TMC HD .s
+https://vavoo.to/vavoo-iptv/play/354095306cf3cfce56f28
+
+#EXTINF:-1 tvg-id="TOONAMI .b" tvg-name="TOONAMI .b" tvg-logo="" group-title="France",TOONAMI .b
+https://vavoo.to/vavoo-iptv/play/593664712aace8841df49
+
+#EXTINF:-1 tvg-id="TOONAMI .c" tvg-name="TOONAMI .c" tvg-logo="" group-title="France",TOONAMI .c
+https://vavoo.to/vavoo-iptv/play/4132905048a27f69176a77
+
+#EXTINF:-1 tvg-id="TOONAMI .s" tvg-name="TOONAMI .s" tvg-logo="" group-title="France",TOONAMI .s
+https://vavoo.to/vavoo-iptv/play/3968738469881e501caee1
+
+#EXTINF:-1 tvg-id="TOUTE HISTOIRE .c" tvg-name="TOUTE HISTOIRE .c" tvg-logo="" group-title="France",TOUTE HISTOIRE .c
+https://vavoo.to/vavoo-iptv/play/1171132763fdbbddf894c1
+
+#EXTINF:-1 tvg-id="TOUTE L HISTOIRE .s" tvg-name="TOUTE L HISTOIRE .s" tvg-logo="" group-title="France",TOUTE L HISTOIRE .s
+https://vavoo.to/vavoo-iptv/play/22335450950012aecee2ea
+
+#EXTINF:-1 tvg-id="TOUTE L HISTOIRE HD .b" tvg-name="TOUTE L HISTOIRE HD .b" tvg-logo="" group-title="France",TOUTE L HISTOIRE HD .b
+https://vavoo.to/vavoo-iptv/play/37802976042164a9c3abdc
+
+#EXTINF:-1 tvg-id="TOUTE L HISTOIRE HD .s" tvg-name="TOUTE L HISTOIRE HD .s" tvg-logo="" group-title="France",TOUTE L HISTOIRE HD .s
+https://vavoo.to/vavoo-iptv/play/31946318574d1657fbd437
+
+#EXTINF:-1 tvg-id="TRACE AFRICA .s" tvg-name="TRACE AFRICA .s" tvg-logo="" group-title="France",TRACE AFRICA .s
+https://vavoo.to/vavoo-iptv/play/350671207438b8e31a6799
+
+#EXTINF:-1 tvg-id="TRACE CARIBBEAN .s" tvg-name="TRACE CARIBBEAN .s" tvg-logo="" group-title="France",TRACE CARIBBEAN .s
+https://vavoo.to/vavoo-iptv/play/390647030422c28fc08d95
+
+#EXTINF:-1 tvg-id="TRACE SPORT STARS .s" tvg-name="TRACE SPORT STARS .s" tvg-logo="" group-title="France",TRACE SPORT STARS .s
+https://vavoo.to/vavoo-iptv/play/4050539934e62b3af76695
+
+#EXTINF:-1 tvg-id="TRACE URBAN .s" tvg-name="TRACE URBAN .s" tvg-logo="" group-title="France",TRACE URBAN .s
+https://vavoo.to/vavoo-iptv/play/188321362297c55270d3d7
+
+#EXTINF:-1 tvg-id="TRACE URBAN HD .b" tvg-name="TRACE URBAN HD .b" tvg-logo="" group-title="France",TRACE URBAN HD .b
+https://vavoo.to/vavoo-iptv/play/359584808473d54978d570
+
+#EXTINF:-1 tvg-id="TRACE URBAN SD .b" tvg-name="TRACE URBAN SD .b" tvg-logo="" group-title="France",TRACE URBAN SD .b
+https://vavoo.to/vavoo-iptv/play/3209018316cc7b06c394ed
+
+#EXTINF:-1 tvg-id="TRAVELXP .c" tvg-name="TRAVELXP .c" tvg-logo="" group-title="France",TRAVELXP .c
+https://vavoo.to/vavoo-iptv/play/249077674197002c79261a
+
+#EXTINF:-1 tvg-id="TREK .c" tvg-name="TREK .c" tvg-logo="" group-title="France",TREK .c
+https://vavoo.to/vavoo-iptv/play/54865643548bb450b03d2
+
+#EXTINF:-1 tvg-id="TREK .c" tvg-name="TREK .c" tvg-logo="" group-title="France",TREK .c
+https://vavoo.to/vavoo-iptv/play/54865643548bb450b03d2
+
+#EXTINF:-1 tvg-id="TREK .s" tvg-name="TREK .s" tvg-logo="" group-title="France",TREK .s
+https://vavoo.to/vavoo-iptv/play/15694350483ccb2585ca3a
+
+#EXTINF:-1 tvg-id="TV BREIZH .b" tvg-name="TV BREIZH .b" tvg-logo="" group-title="France",TV BREIZH .b
+https://vavoo.to/vavoo-iptv/play/36354660a6856dd80a4f
+
+#EXTINF:-1 tvg-id="TV BREIZH .c" tvg-name="TV BREIZH .c" tvg-logo="" group-title="France",TV BREIZH .c
+https://vavoo.to/vavoo-iptv/play/2320044455687c9cd3922c
+
+#EXTINF:-1 tvg-id="TV BREIZH .s" tvg-name="TV BREIZH .s" tvg-logo="" group-title="France",TV BREIZH .s
+https://vavoo.to/vavoo-iptv/play/23750918910d547d956364
+
+#EXTINF:-1 tvg-id="TV BREIZH HD .s" tvg-name="TV BREIZH HD .s" tvg-logo="" group-title="France",TV BREIZH HD .s
+https://vavoo.to/vavoo-iptv/play/3329124429925b2410a907
+
+#EXTINF:-1 tvg-id="TV FRANCOPHONIE .c" tvg-name="TV FRANCOPHONIE .c" tvg-logo="" group-title="France",TV FRANCOPHONIE .c
+https://vavoo.to/vavoo-iptv/play/14787176980680450e7497
+
+#EXTINF:-1 tvg-id="TV PITCHOUN .c" tvg-name="TV PITCHOUN .c" tvg-logo="" group-title="France",TV PITCHOUN .c
+https://vavoo.to/vavoo-iptv/play/4079206372c5a0e8d32ddd
+
+#EXTINF:-1 tvg-id="TV5 MONDE .s" tvg-name="TV5 MONDE .s" tvg-logo="" group-title="France",TV5 MONDE .s
+https://vavoo.to/vavoo-iptv/play/1634775755e00ce7889cb9
+
+#EXTINF:-1 tvg-id="TV5 MONDE HD .s" tvg-name="TV5 MONDE HD .s" tvg-logo="" group-title="France",TV5 MONDE HD .s
+https://vavoo.to/vavoo-iptv/play/3408455707ad6c5df04ee5
+
+#EXTINF:-1 tvg-id="TV5 MONDE INFO .s" tvg-name="TV5 MONDE INFO .s" tvg-logo="" group-title="France",TV5 MONDE INFO .s
+https://vavoo.to/vavoo-iptv/play/331994662889f49358d8fd
+
+#EXTINF:-1 tvg-id="TV5MONDE EUROPE .c" tvg-name="TV5MONDE EUROPE .c" tvg-logo="" group-title="France",TV5MONDE EUROPE .c
+https://vavoo.to/vavoo-iptv/play/3769189460c26d9501f6f0
+
+#EXTINF:-1 tvg-id="TV5MONDE FRANCE BELGIQUE SUISSE MONACO .c" tvg-name="TV5MONDE FRANCE BELGIQUE SUISSE MONACO .c" tvg-logo="" group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO .c
+https://vavoo.to/vavoo-iptv/play/1827127908b15d6e701f32
+
+#EXTINF:-1 tvg-id="TV5MONDE INFO .c" tvg-name="TV5MONDE INFO .c" tvg-logo="" group-title="France",TV5MONDE INFO .c
+https://vavoo.to/vavoo-iptv/play/4275574479a32aa8ba660f
+
+#EXTINF:-1 tvg-id="TV5MONDE MAGHREB ORIENT .c" tvg-name="TV5MONDE MAGHREB ORIENT .c" tvg-logo="" group-title="France",TV5MONDE MAGHREB ORIENT .c
+https://vavoo.to/vavoo-iptv/play/706551676dfe3c8c8624
+
+#EXTINF:-1 tvg-id="TV7 COLMAR .c" tvg-name="TV7 COLMAR .c" tvg-logo="" group-title="France",TV7 COLMAR .c
+https://vavoo.to/vavoo-iptv/play/277038008127c0d36137e3
+
+#EXTINF:-1 tvg-id="TV7 COLMAR .s" tvg-name="TV7 COLMAR .s" tvg-logo="" group-title="France",TV7 COLMAR .s
+https://vavoo.to/vavoo-iptv/play/2804216365acc9b493aaca
+
+#EXTINF:-1 tvg-id="TV78 .c" tvg-name="TV78 .c" tvg-logo="" group-title="France",TV78 .c
+https://vavoo.to/vavoo-iptv/play/744802293949edf1de1ba
+
+#EXTINF:-1 tvg-id="TV8 MONT BLANC .c" tvg-name="TV8 MONT BLANC .c" tvg-logo="" group-title="France",TV8 MONT BLANC .c
+https://vavoo.to/vavoo-iptv/play/2601990719c1c86fa4201f
+
+#EXTINF:-1 tvg-id="TVM 3 FHD .s" tvg-name="TVM 3 FHD .s" tvg-logo="" group-title="France",TVM 3 FHD .s
+https://vavoo.to/vavoo-iptv/play/183645299317f53feb93f0
+
+#EXTINF:-1 tvg-id="UNION TV .c" tvg-name="UNION TV .c" tvg-logo="" group-title="France",UNION TV .c
+https://vavoo.to/vavoo-iptv/play/13666624049398ceac325e
+
+#EXTINF:-1 tvg-id="USHUAIA .s" tvg-name="USHUAIA .s" tvg-logo="" group-title="France",USHUAIA .s
+https://vavoo.to/vavoo-iptv/play/4274246496cae3eb6b9282
+
+#EXTINF:-1 tvg-id="USHUAIA FHD .s" tvg-name="USHUAIA FHD .s" tvg-logo="" group-title="France",USHUAIA FHD .s
+https://vavoo.to/vavoo-iptv/play/7377560460dce594183e5
+
+#EXTINF:-1 tvg-id="USHUAIA HD .s" tvg-name="USHUAIA HD .s" tvg-logo="" group-title="France",USHUAIA HD .s
+https://vavoo.to/vavoo-iptv/play/814473941476083b06ccb
+
+#EXTINF:-1 tvg-id="USHUAIA TV HD .b" tvg-name="USHUAIA TV HD .b" tvg-logo="" group-title="France",USHUAIA TV HD .b
+https://vavoo.to/vavoo-iptv/play/30343651343100cf58d048
+
+#EXTINF:-1 tvg-id="USHUAÏA TV .c" tvg-name="USHUAÏA TV .c" tvg-logo="" group-title="France",USHUAÏA TV .c
+https://vavoo.to/vavoo-iptv/play/1007869450b6a717e5f847
+
+#EXTINF:-1 tvg-id="VIA MATELE .c" tvg-name="VIA MATELE .c" tvg-logo="" group-title="France",VIA MATELE .c
+https://vavoo.to/vavoo-iptv/play/95072305906b766b4d9d0
+
+#EXTINF:-1 tvg-id="VIÀTÉLÉPAESE .c" tvg-name="VIÀTÉLÉPAESE .c" tvg-logo="" group-title="France",VIÀTÉLÉPAESE .c
+https://vavoo.to/vavoo-iptv/play/163436458044680b8bdf8d
+
+#EXTINF:-1 tvg-id="VOSGES TV .c" tvg-name="VOSGES TV .c" tvg-logo="" group-title="France",VOSGES TV .c
 https://vavoo.to/vavoo-iptv/play/1942805126785ea6af8849
-#EXTINF:-1 tvg-id="PuissanceTVe.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
-https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
+#EXTINF:-1 tvg-id="VOYAGE .b" tvg-name="VOYAGE .b" tvg-logo="" group-title="France",VOYAGE .b
+https://vavoo.to/vavoo-iptv/play/3666276131533b981c7da8
 
-# Spain
-#EXTINF:-1 tvg-id="Canal.La1.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,La 1
-https://vavoo.to/vavoo-iptv/play/2673626663280df7ccd0b9
-#EXTINF:-1 tvg-id="Canal.La2.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,La 2
-https://vavoo.to/vavoo-iptv/play/779986648a39769595123
-#EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
-https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
-#EXTINF:-1 tvg-id="Cuatro.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1024px-Logotipo_de_Cuatro.svg.png",Cuatro
-https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
-#EXTINF:-1 tvg-id="Telecinco.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1024px-Telecinco.svg.png",Telecinco
-https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
-#EXTINF:-1 tvg-id="LaSexta.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
-https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
+#EXTINF:-1 tvg-id="VOYAGE .s" tvg-name="VOYAGE .s" tvg-logo="" group-title="France",VOYAGE .s
+https://vavoo.to/vavoo-iptv/play/865343910a5f56c586a65
 
-#EXTINF:-1 tvg-id="Movistar+.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" ,Movistar+
-https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
+#EXTINF:-1 tvg-id="W-SPORT .c" tvg-name="W-SPORT .c" tvg-logo="" group-title="France",W-SPORT .c
+https://vavoo.to/vavoo-iptv/play/27460629206529932bcc33
 
-#EXTINF:-1 tvg-id="ETB1.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb1-es.png" ,ETB 1
-#EXTVLCOPT:http-referrer=https://www.eitb.eus/
-https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETB2.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb2-es.png" ,ETB 2
-#EXTVLCOPT:http-referrer=https://www.eitb.eus/
-https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
+#EXTINF:-1 tvg-id="W9 .c" tvg-name="W9 .c" tvg-logo="" group-title="France",W9 .c
+https://vavoo.to/vavoo-iptv/play/280062836403e9b757ac4c
 
-#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
-https://vavoo.to/vavoo-iptv/play/408088832332d80c000ab7
-#EXTINF:-1 tvg-id="TV3Cat.es"group-title="Generalista" tvg-id="TV3cat.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-cat-es.png",TV3 Catalunya
-https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
+#EXTINF:-1 tvg-id="W9 HD .b" tvg-name="W9 HD .b" tvg-logo="" group-title="France",W9 HD .b
+https://vavoo.to/vavoo-iptv/play/12804661554f36ca1095a
 
-#EXTINF:-1 tvg-id="TVE24h.es" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
-https://vavoo.to/vavoo-iptv/play/1537807715bf7b793e7a1b
+#EXTINF:-1 tvg-id="W9 HD .s" tvg-name="W9 HD .s" tvg-logo="" group-title="France",W9 HD .s
+https://vavoo.to/vavoo-iptv/play/338554998683e8b650775f
 
-#EXTINF:-1 tvg-id="TDP.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
-https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
+#EXTINF:-1 tvg-id="WARNER .b" tvg-name="WARNER .b" tvg-logo="" group-title="France",WARNER .b
+https://vavoo.to/vavoo-iptv/play/3383548329700629581a40
+
+#EXTINF:-1 tvg-id="WARNER .s" tvg-name="WARNER .s" tvg-logo="" group-title="France",WARNER .s
+https://vavoo.to/vavoo-iptv/play/549334828110228e5fd29
+
+#EXTINF:-1 tvg-id="WARNER TV .c" tvg-name="WARNER TV .c" tvg-logo="" group-title="France",WARNER TV .c
+https://vavoo.to/vavoo-iptv/play/30593609059ce1103aec2e
+
+#EXTINF:-1 tvg-id="WARNER TV NEXT .c" tvg-name="WARNER TV NEXT .c" tvg-logo="" group-title="France",WARNER TV NEXT .c
+https://vavoo.to/vavoo-iptv/play/48836462992d6cf6baccf
+
+#EXTINF:-1 tvg-id="WEO TV .c" tvg-name="WEO TV .c" tvg-logo="" group-title="France",WEO TV .c
+https://vavoo.to/vavoo-iptv/play/29593481599ccfbea5dd1
+
+#EXTINF:-1 tvg-id="XILAM TV .c" tvg-name="XILAM TV .c" tvg-logo="" group-title="France",XILAM TV .c
+https://vavoo.to/vavoo-iptv/play/118316194819c24993525c
+
+#EXTINF:-1 tvg-id="ZYLO CINE FRIKI .c" tvg-name="ZYLO CINE FRIKI .c" tvg-logo="" group-title="France",ZYLO CINE FRIKI .c
+https://vavoo.to/vavoo-iptv/play/36874513075aeac97ece81
+
+#EXTINF:-1 tvg-id="ZYLO CINÉ NANAR .c" tvg-name="ZYLO CINÉ NANAR .c" tvg-logo="" group-title="France",ZYLO CINÉ NANAR .c
+https://vavoo.to/vavoo-iptv/play/2992824783405b326520e6
+
+#EXTINF:-1 tvg-id="ZYLO CINÉ WESTERN .c" tvg-name="ZYLO CINÉ WESTERN .c" tvg-logo="" group-title="France",ZYLO CINÉ WESTERN .c
+https://vavoo.to/vavoo-iptv/play/5839008371fc392c30971
+
+#EXTINF:-1 tvg-id="ZYLO FRÉQUENCE NOVELAS .c" tvg-name="ZYLO FRÉQUENCE NOVELAS .c" tvg-logo="" group-title="France",ZYLO FRÉQUENCE NOVELAS .c
+https://vavoo.to/vavoo-iptv/play/51350583235d406c5761f
+
+#EXTINF:-1 tvg-id="ZYLO INTO CRIME .c" tvg-name="ZYLO INTO CRIME .c" tvg-logo="" group-title="France",ZYLO INTO CRIME .c
+https://vavoo.to/vavoo-iptv/play/691060770a5bbdfd43a5a
+
+#EXTINF:-1 tvg-id="ZYLO SCREAMIN .c" tvg-name="ZYLO SCREAMIN .c" tvg-logo="" group-title="France",ZYLO SCREAMIN .c
+https://vavoo.to/vavoo-iptv/play/34878716802d47c079973d
