@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
+https://is.gd/K97pFW.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
+https://is.gd/nqduSJ.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
+https://is.gd/ZjnB99.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
+https://is.gd/jFu6Y5.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
+https://is.gd/HzLz9N.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein6
+https://is.gd/0a0xCa.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein7
+https://is.gd/T7WPHx.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein8
+https://is.gd/QoMT2J.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
+https://is.gd/M3vmxv.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
+https://is.gd/BTaj1s.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
+https://is.gd/LigFus.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
+https://is.gd/DmLJds.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
+https://is.gd/fBTSSc.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
+https://is.gd/rET9Mr.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
+https://is.gd/vmTEI8.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
+https://is.gd/4I2E4g.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
+https://is.gd/e5ysin.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
+https://is.gd/NFmgG8.m3u8
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",4k
 https://stream.7seen.xyz/4k/video.m3u8?token=m26N09ZKhArvN3
 #EXTINF:-1 tvg-name="b1" tvg-id="b1",b1
