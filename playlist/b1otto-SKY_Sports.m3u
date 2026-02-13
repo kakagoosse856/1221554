@@ -2,21 +2,19 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-13 07:06 AM (BD Time)
-# TV channel counts :- 50
+# Last Updated: 2026-02-13 08:30 AM (BD Time)
+# TV channel counts :- 49
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299262625-147586267.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Wellington Firebirds [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68fa3632e4b44a5c727eb820
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299227351-80381416.webp" group-title="Cricket - (Upcoming)",Central Stags VS Otago Volts [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68fa3600f77cf099f802bdc7
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299208886-399683079.webp" group-title="Cricket - (Upcoming)",Northern District VS Auckland Aces [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68fa342f4e4aa6d729f6755f
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126522272-234365040.webp" group-title="Cricket - (Live)",Northern District Women VS Auckland Hearts [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69172cfe24f2af2c8dfdcc00
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126365716-881980821.webp" group-title="Cricket - (Live)",Northern District Women VS Central Hinds [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69172c641ee3a0177bd69207
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126563917-321205386.webp" group-title="Cricket - (Live)",Otago Sparks VS Canterbury Magicians [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69172cb8fa673af67ab172f0
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126365716-881980821.webp" group-title="Cricket - (Live)",Northern District Women VS Central Hinds [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69172c641ee3a0177bd69207
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126522272-234365040.webp" group-title="Cricket - (Live)",Northern District Women VS Auckland Hearts [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69172cfe24f2af2c8dfdcc00
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126813621-540124002.webp" group-title="Cricket - (Upcoming)",Wellington Blaze VS Auckland Hearts [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69172e2124f2af2c8dfdcc02
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126756716-387443282.webp" group-title="Cricket - (Upcoming)",Otago Sparks VS Canterbury Magicians [Upcoming]
