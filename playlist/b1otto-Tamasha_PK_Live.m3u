@@ -2,6 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-14 04:20 AM (BD Time)
-# TV channel counts :- 0
+# Last Updated: 2026-02-14 04:36 AM (BD Time)
+# TV channel counts :- 1
 #==================================
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=66" group-title="Tamasha-Live",ptv-sports
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDk6NTg6NDcgUE0maGFzaF92YWx1ZT1jT0VrZWtYY05uQWhVMHl1OEdIWUZBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
