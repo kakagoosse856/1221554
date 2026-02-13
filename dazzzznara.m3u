@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="470192" tvg-name="End  NFL Game Pass | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  NFL Game Pass | MA
 https://v5on.site/play.php?id=470192
-#EXTINF:-1 tvg-id="470195" tvg-name="Live  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  WRC | MA
+#EXTINF:-1 tvg-id="470195" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=470195
 #EXTINF:-1 tvg-id="470196" tvg-name="End  LIV Golf  | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  LIV Golf  | MA
 https://v5on.site/play.php?id=470196
@@ -15,7 +15,7 @@ https://v5on.site/play.php?id=1165157
 https://v5on.site/play.php?id=1165158
 #EXTINF:-1 tvg-id="1165159" tvg-name="Next  18:05 (GMT)  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  18:05 (GMT)  WRC | MA
 https://v5on.site/play.php?id=1165159
-#EXTINF:-1 tvg-id="1165160" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1165160" tvg-name="Live  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  WRC | MA
 https://v5on.site/play.php?id=1165160
 #EXTINF:-1 tvg-id="1165161" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165161
@@ -27,7 +27,7 @@ https://v5on.site/play.php?id=1165163
 https://v5on.site/play.php?id=1165164
 #EXTINF:-1 tvg-id="1165165" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165165
-#EXTINF:-1 tvg-id="1165166" tvg-name="Next  10:08 (GMT)  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  10:08 (GMT)  WRC | MA
+#EXTINF:-1 tvg-id="1165166" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165166
 #EXTINF:-1 tvg-id="1165167" tvg-name="Next  11:16 (GMT)  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  11:16 (GMT)  WRC | MA
 https://v5on.site/play.php?id=1165167
@@ -65,7 +65,7 @@ https://v5on.site/play.php?id=1235336
 https://v5on.site/play.php?id=1235324
 #EXTINF:-1 tvg-id="1235329" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1235329
-#EXTINF:-1 tvg-id="1236711" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1236711" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=1236711
 #EXTINF:-1 tvg-id="1491814" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1491814
