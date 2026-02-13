@@ -1,9 +1,5 @@
-#EXTINF:-1,,BEIN SPORTS 1 .b (V)
+#EXTINF:-1,BEIN SPORTS 1 .b (V)
 https://vavoo.to/vavoo-iptv/play/15646274440c91be197602
-#EXTINF:-1,,BEIN SPORTS 1
-https://stream.7seen.xyz/hasio1/index.m3u8
-#EXTINF:-1,,BEIN SPORTS 4k
-https://stream.7seen.xyz/4k/index.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 1 (backup) .b" tvg-name="Bein Sports 1 (backup) .b" tvg-logo="" group-title="Sports;Bein/Astro",BEIN SPORTS 1 (BACKUP) .b (V)
 https://vavoo.to/vavoo-iptv/play/1110589244d19b8e1dfc0d
 #EXTINF:-1 tvg-id="Bein Sports 1 Fhd .b" tvg-name="Bein Sports 1 Fhd .b" tvg-logo="" group-title="Sports;Bein/Astro",BEIN SPORTS 1 FHD .b (V)
