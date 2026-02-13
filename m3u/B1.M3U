@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,BEIN NEWS
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2115.m3u8
+#EXTINF:0,Bein sport 1 HD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/15.m3u8
+#EXTINF:0,Bein sport 1 SD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/2501.m3u8
+#EXTINF:0,Bein sport 1 FHD
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6487.m3u8
+#EXTINF:0,beIN SPORT 1 LOW
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/782217211/7c207ced7/6302.m3u8
