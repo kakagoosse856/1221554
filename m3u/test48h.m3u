@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
-https://is.gd/K97pFW.m3u8
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",الثمانية
+https://on-tv.site/api/MN2.php?action=stream&id=153098&cat=6979
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
 https://is.gd/nqduSJ.m3u8
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
