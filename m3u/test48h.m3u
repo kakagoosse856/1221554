@@ -3,24 +3,24 @@
 https://on-tv.site/api/MN2.php?action=stream&id=153098&cat=6979
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
 https://on-tv.site/api/MN2.php?action=stream&id=116900&cat=4524
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
-https://is.gd/ZjnB99.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
-https://is.gd/jFu6Y5.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
-https://is.gd/HzLz9N.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein6
-https://is.gd/0a0xCa.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein7
-https://is.gd/T7WPHx.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein8
-https://is.gd/QoMT2J.m3u8
-#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
-https://is.gd/M3vmxv.m3u8
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
-https://is.gd/BTaj1s.m3u8
+https://on-tv.site/api/MN2.php?action=stream&id=116901&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
+https://on-tv.site/api/MN2.php?action=stream&id=116902&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
+https://on-tv.site/api/MN2.php?action=stream&id=116903&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein6
+https://on-tv.site/api/MN2.php?action=stream&id=116904&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein7
+https://on-tv.site/api/MN2.php?action=stream&id=116996&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein8
+https://on-tv.site/api/MN2.php?action=stream&id=116995&cat=4524
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1 LOW
+https://on-tv.site/api/MN2.php?action=stream&id=4076&cat=331
+#EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
+https://on-tv.site/api/MN2.php?action=stream&id=116902&cat=4524
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein3
-https://is.gd/LigFus.m3u8
+https://on-tv.site/api/MN2.php?action=stream&id=116902&cat=4524
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
 https://is.gd/DmLJds.m3u8
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
