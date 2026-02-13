@@ -193,6 +193,8 @@ https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-ra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BEIN SPORTS Qatar News SD
 http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BEIN SPORTS Qatar SD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BEIN SPORTS XTRA
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 2 SD
@@ -217,6 +219,22 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",Bein Sports 1🎯
 http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 1
+https://is.gd/K97pFW.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 2
+https://is.gd/nqduSJ.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 3
+https://is.gd/ZjnB99.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 4
+https://is.gd/jFu6Y5.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 5
+https://is.gd/HzLz9N.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 6
+https://is.gd/0a0xCa.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 7
+https://is.gd/T7WPHx.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN 8
+https://is.gd/QoMT2J.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
@@ -231,9 +249,13 @@ http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 3
 http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
