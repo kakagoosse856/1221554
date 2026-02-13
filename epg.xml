@@ -463,9 +463,29 @@
     <desc>After a devastating loss, the third-year members must decide if they will stay on the team for the spring tournament.</desc>
     <date>2026-02-14</date>
   </programme>
-  <programme channel="369848" start="20260214215800 +0700" stop="20260215000000 +0700">
+  <programme channel="369848" start="20260214215800 +0700" stop="20260214222800 +0700">
     <title lang="zh">HAIKYU!! 2ND SEASON</title>
     <desc>Karasuno High School has been invited by Nekoma to take part in a training camp.</desc>
     <date>2026-02-14</date>
+  </programme>
+  <programme channel="369848" start="20260214222800 +0700" stop="20260214230000 +0700">
+    <title lang="zh">HAIKYU!! 2ND SEASON</title>
+    <desc>Hinata and Kageyama have troubles studying with Tsukishima.</desc>
+    <date>2026-02-14</date>
+  </programme>
+  <programme channel="369848" start="20260214230000 +0700" stop="20260214233000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Crown Prince Oscar of Farsas seeks a cure in Tuldarr, where Tinasha sleeps in a secret chamber accessible only to him.</desc>
+    <date>2026-02-14</date>
+  </programme>
+  <programme channel="369848" start="20260214233000 +0700" stop="20260215000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>While Oscar is away, Tinasha is kidnapped by a band of robbers who demand Akashia in exchange for her.</desc>
+    <date>2026-02-14</date>
+  </programme>
+  <programme channel="369848" start="20260215000000 +0700" stop="20260216000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Tinasha's water is poisoned, Regis of Tuldarr is attacked. Then Delia appears to Oscar and says she can lift his curse.</desc>
+    <date>2026-02-15</date>
   </programme>
 </tv>
