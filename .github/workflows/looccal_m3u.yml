@@ -1,12 +1,12 @@
-name: تحديث قائمة M3U looccal_m3u
+name: looccal_m3u M3U التلقائي
 
 on:
   schedule:
-    # يعمل كل 6 ساعات (يمكنك تغيير الوقت)
-    - cron: '0 */6 * * *'
+    # يعمل كل ساعة (لأن لديك قناة واحدة فقط)
+    - cron: '0 * * * *'
   push:
     branches: [ main ]
-  workflow_dispatch:  # يسمح بتشغيله يدوياً
+  workflow_dispatch:
 
 jobs:
   update-playlist:
@@ -31,7 +31,7 @@ jobs:
     - name: التحقق من وجود تحديثات
       id: check_changes
       run: |
-        if git diff --quiet playlist.m3u; then
+        if git diff --quiet looccal_m3u.m3u; then
           echo "changed=false" >> $GITHUB_OUTPUT
         else
           echo "changed=true" >> $GITHUB_OUTPUT
