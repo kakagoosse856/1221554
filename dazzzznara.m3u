@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="470192" tvg-name="End  NFL Game Pass | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  NFL Game Pass | MA
 https://v5on.site/play.php?id=470192
-#EXTINF:-1 tvg-id="470195" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="470195" tvg-name="End  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  SLB Cup | MA
 https://v5on.site/play.php?id=470195
 #EXTINF:-1 tvg-id="470196" tvg-name="End  LIV Golf  | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  LIV Golf  | MA
 https://v5on.site/play.php?id=470196
 #EXTINF:-1 tvg-id="1165155" tvg-name="End  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  NCAA Division I | MA
 https://v5on.site/play.php?id=1165155
-#EXTINF:-1 tvg-id="1165156" tvg-name="Live  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  SLB Cup | MA
+#EXTINF:-1 tvg-id="1165156" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165156
 #EXTINF:-1 tvg-id="1165157" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=1165157
@@ -15,7 +15,7 @@ https://v5on.site/play.php?id=1165157
 https://v5on.site/play.php?id=1165158
 #EXTINF:-1 tvg-id="1165159" tvg-name="End  Qatar Open | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Qatar Open | MA
 https://v5on.site/play.php?id=1165159
-#EXTINF:-1 tvg-id="1165160" tvg-name="Live  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  SLB Cup | MA
+#EXTINF:-1 tvg-id="1165160" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165160
 #EXTINF:-1 tvg-id="1165161" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=1165161
@@ -61,7 +61,7 @@ https://v5on.site/play.php?id=1235333
 https://v5on.site/play.php?id=1235334
 #EXTINF:-1 tvg-id="1235336" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1235336
-#EXTINF:-1 tvg-id="1235324" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1235324" tvg-name="End  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  SLB Cup | MA
 https://v5on.site/play.php?id=1235324
 #EXTINF:-1 tvg-id="1235329" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1235329
