@@ -1,0 +1,47 @@
+name: تحديث قائمة M3U looccal_m3u
+
+on:
+  schedule:
+    # يعمل كل 6 ساعات (يمكنك تغيير الوقت)
+    - cron: '0 */6 * * *'
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # يسمح بتشغيله يدوياً
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: جلب الكود
+      uses: actions/checkout@v3
+      
+    - name: إعداد Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: تثبيت المتطلبات
+      run: |
+        pip install aiohttp
+        
+    - name: تشغيل سكريبت توليد M3U
+      run: python looccal_m3u.py
+      
+    - name: التحقق من وجود تحديثات
+      id: check_changes
+      run: |
+        if git diff --quiet playlist.m3u; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: رفع التغييرات
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add looccal_m3u.m3u
+        git commit -m "تحديث تلقائي لقائمة M3U - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
