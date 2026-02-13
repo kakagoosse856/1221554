@@ -1,5 +1,7 @@
 #EXTINF:-1,BEIN SPORTS 1 .b (V)
 https://vavoo.to/vavoo-iptv/play/15646274440c91be197602
+#EXTINF:-1,BEIN SPORTS 1
+http://57.128.84.219:8080/socket.io/?EIO=4&sid=Dr-s7Whcw2crGsBvQ_RY&transport=websocket
 #EXTINF:-1 tvg-id="Bein Sports 1 (backup) .b" tvg-name="Bein Sports 1 (backup) .b" tvg-logo="" group-title="Sports;Bein/Astro",BEIN SPORTS 1 (BACKUP) .b (V)
 https://vavoo.to/vavoo-iptv/play/1110589244d19b8e1dfc0d
 #EXTINF:-1 tvg-id="Bein Sports 1 Fhd .b" tvg-name="Bein Sports 1 Fhd .b" tvg-logo="" group-title="Sports;Bein/Astro",BEIN SPORTS 1 FHD .b (V)
