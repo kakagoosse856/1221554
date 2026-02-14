@@ -468,9 +468,24 @@
     <desc>Due to Shaddiq's tactics, the company runs into a deadlock. Miorine challenges him to a duel, with the fate of the company at stake.</desc>
     <date>2026-02-15</date>
   </programme>
-  <programme channel="369848" start="20260215223000 +0700" stop="20260216000000 +0700">
+  <programme channel="369848" start="20260215223000 +0700" stop="20260215225800 +0700">
     <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
     <desc>After battling with Shaddiq, the company is back on track bit by bit. Miorine unexpectedly encounters Feng once again.</desc>
     <date>2026-02-15</date>
+  </programme>
+  <programme channel="369848" start="20260215225800 +0700" stop="20260215233000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
+    <desc>The members of Earth House depart to pick up the Aerial, which has been under repair and their destination is Benerit Group's development facility.</desc>
+    <date>2026-02-15</date>
+  </programme>
+  <programme channel="369848" start="20260215233000 +0700" stop="20260216000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-15</date>
+  </programme>
+  <programme channel="369848" start="20260216000000 +0700" stop="20260217000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-16</date>
   </programme>
 </tv>
