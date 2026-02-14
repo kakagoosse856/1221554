@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",الثمانية
 https://on-tv.site/api/MN2.php?action=stream&id=153098&cat=6979
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein1
-https://matchnow.optikl.ink/ostora/play.m3u8?id=116900&cat=4524
+https://on-tv.site/api/MN2.php?action=stream&id=116900&cat=4524
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein2
-https://matchnow.optikl.ink/ostora/play.m3u8?id=116901&cat=4524
+https://on-tv.site/api/MN2.php?action=stream&id=116901&cat=4524
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein4
 https://on-tv.site/api/MN2.php?action=stream&id=116902&cat=4524
 #EXTINF:-1 tvg-name="4k" tvg-id="4k",Bein5
