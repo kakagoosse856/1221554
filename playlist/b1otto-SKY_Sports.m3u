@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-14 06:54 PM (BD Time)
-# TV channel counts :- 62
+# Last Updated: 2026-02-14 07:36 PM (BD Time)
+# TV channel counts :- 65
 #==================================
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763126654508-987228427.webp" group-title="Cricket - (Live)",Northern District Women VS Central Hinds [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69172d9824f2af2c8dfdcc01
@@ -59,12 +59,12 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=698f2e10ba9be617883a9aaf
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f2ed975a94bf857f32ad5
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770991446650-390852851.webp" group-title="Cricket - (Upcoming)",Bindals Strikers VS Bhawani Lions [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f2f58e018c8f932ba5d06
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Northern District [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp" group-title="Cricket - (Upcoming)",Crystal Balaji Titans VS Bindals Strikers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f3220fc6be820629a2d5b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992217567-91872640.webp" group-title="Cricket - (Upcoming)",Vasundhara Super Kings VS Amba Warriors [Upcoming]
@@ -93,8 +93,14 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=698f347175a94bf857f32ad8
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f34abe018c8f932ba5d08
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992977218-604674617.webp" group-title="Cricket - (Upcoming)",Tehri Falcons VS Silverton Tigers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f3554d15882860301aacb
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Devbhoomi Royals [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69907a4cd15882860301aace
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp" group-title="Cricket - (Upcoming)",Central Stags VS Northern District [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6919d152fa673af67ab1730f
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771075952896-779703434.webp" group-title="Cricket - (Upcoming)",Cricgiri Champs VS Medical Maverics [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=6990798c39c2e98fc3b6af8f
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076069309-166033303.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Medical Maverics [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=699079f3ba9be617883a9ab0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299450081-67842530.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Otago [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6919d07efd87c2948fb48091
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299727094-256458161.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Canterbury Kings [Upcoming]
@@ -105,12 +111,12 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=68dd3983f4339ec18e21ecb2
 https://sportsbd.top/demo/styxsportm3u8.php?id=68dd39b4f4339ec18e21ecb3
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328813563-23936476.webp" group-title="Cricket - (Upcoming)",Western Australia Women VS ACT Meteors Women [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68dd3a316c38f4c5ed06c7fb
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759414615996-845781864.webp" group-title="Cricket - (Upcoming)",Tasmania Tigers VS Queensland Bulls [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de895ac167956f9cb7b9fc
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413905461-467137297.webp" group-title="Cricket - (Upcoming)",New South Wales VS Western Australia [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de8695c167956f9cb7b9fb
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413969427-963122938.webp" group-title="Cricket - (Upcoming)",Victoria VS South Australia [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de86d5458c1b0c74d26015
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759414615996-845781864.webp" group-title="Cricket - (Upcoming)",Tasmania Tigers VS Queensland Bulls [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de895ac167956f9cb7b9fc
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328898702-635215615.webp" group-title="Cricket - (Upcoming)",Queensland Fire Women VS Victoria Women [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68dd3a856c38f4c5ed06c7fc
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328960180-832133946.webp" group-title="Cricket - (Upcoming)",South Australia Women VS NSW Women [Upcoming]
@@ -123,9 +129,9 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a5c1ee3a0177bd69245
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a3124f2af2c8dfdcc3a
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461630577-189115052.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Auckland Aces [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a02fd87c2948fb480b6
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461952149-874646022.webp" group-title="Cricket - (Upcoming)",Otago VS Wellington Firebirds [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=691c4b42fa673af67ab1732b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461851849-541880758.webp" group-title="Cricket - (Upcoming)",Northern District VS Central Stags [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4ade24f2af2c8dfdcc3b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461802900-394722268.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Canterbury Kings [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4aacfd87c2948fb480b7
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461952149-874646022.webp" group-title="Cricket - (Upcoming)",Otago VS Wellington Firebirds [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=691c4b42fa673af67ab1732b
