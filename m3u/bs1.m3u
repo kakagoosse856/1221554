@@ -1,6 +1,22 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1 HD AR hevc
-http://affinderot.org:8080/bn1hevc/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD AR
+http://sportk.online/BEIN-SPO-1/video.m3u8
+#EXTINF:-1,beIN Sports 2 HD AR
+http://sportk.online/BEIN-SPO-2/video.m3u8
+#EXTINF:-1,beIN Sports 3 HD AR
+http://sportk.online/BEIN-SPO-3/video.m3u8
+#EXTINF:-1,beIN Sports 4 HD AR
+http://sportk.online/BEIN-SPO-4/video.m3u8
+#EXTINF:-1,beIN Sports 5 HD AR
+http://sportk.online/BEIN-SPO-5/video.m3u8
+#EXTINF:-1,beIN Sports 6 HD AR
+http://sportk.online/BEIN-SPO-6/video.m3u8
+#EXTINF:-1,beIN Sports 7 HD AR
+http://sportk.online/BEIN-SPO-7/video.m3u8
+#EXTINF:-1,beIN Sports 8 HD AR
+http://sportk.online/BEIN-SPO-8/video.m3u8
+#EXTINF:-1,beIN Sports 9 HD AR
+http://sportk.online/BEIN-SPO-9/video.m3u8
 #EXTINF:-1,beIN Sports 1 HD FR
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2499/index.m3u8
 #EXTINF:-1,beIN Sports 2 HD FR
