@@ -463,9 +463,29 @@
     <desc>Tinasha tries to turn back time to save the children from an accident but fails. Oscar sets out to fight Cezal.</desc>
     <date>2026-02-16</date>
   </programme>
-  <programme channel="369848" start="20260216220000 +0700" stop="20260217000000 +0700">
+  <programme channel="369848" start="20260216220000 +0700" stop="20260216223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-16</date>
+  </programme>
+  <programme channel="369848" start="20260216223000 +0700" stop="20260216230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-16</date>
+  </programme>
+  <programme channel="369848" start="20260216230000 +0700" stop="20260216233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san and Nishikata go to school early, and they use a fan Nishikata brought to see who can move an eraser farther.</desc>
+    <date>2026-02-16</date>
+  </programme>
+  <programme channel="369848" start="20260216233000 +0700" stop="20260217000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-02-16</date>
+  </programme>
+  <programme channel="369848" start="20260217000000 +0700" stop="20260218000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Before her coronation, Tinasha lifts Oscar's curse. At the ceremony, she releases the spirits she had summoned.</desc>
+    <date>2026-02-17</date>
   </programme>
 </tv>
