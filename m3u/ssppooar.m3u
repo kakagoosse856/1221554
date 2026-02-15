@@ -1,27 +1,4 @@
 #EXTM3U
-#EXTINF:0 CUID="17549" tvg-name="AL FAJER 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 4K
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379458.m3u8
-#EXTINF:0 CUID="17550" tvg-name="AL FAJER 1 FHD ✦" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 FHD ✦
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379474.m3u8
-#EXTINF:0 CUID="17551" tvg-name="AL FAJER 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2 4K
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379459.m3u8
-#EXTINF:0 CUID="17552" tvg-name="AL FAJER 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2  FHD
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379464.m3u8
-#EXTINF:0 CUID="17553" tvg-name="AL FAJER 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 4K
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379460.m3u8
-#EXTINF:0 CUID="17554" tvg-name="AL FAJER 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 FHD
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379465.m3u8
-#EXTINF:0 CUID="17555" tvg-name="AL FAJER 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 4K
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379461.m3u8
-#EXTINF:0 CUID="17556" tvg-name="AL FAJER 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 FHD
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379466.m3u8
-#EXTINF:0 CUID="17557" tvg-name="AL FAJER 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 4K
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379462.m3u8
-#EXTINF:0 CUID="17558" tvg-name="AL FAJER 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 FHD
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379467.m3u8
-
-#EXTINF:0 CUID="17212" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",beIN  UHD
-http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506104.m3u8
 #EXTINF:0 CUID="17418" tvg-name="BEIN SPORTS USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",BEIN SPORTS USA
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/546141.m3u8
 #EXTINF:0 CUID="17419" tvg-name="8K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",8K BEIN SPORTS NEWS
@@ -634,3 +611,673 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3158.m3u8
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/182188.m3u8
 #EXTINF:0 CUID="17572" tvg-name="AD SPORT ASIA 2" group-title="STARZPLAY 4K  الدوري الايطالي ",AD SPORT ASIA 2
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/27986.m3u8
+#EXTINF:0 CUID="19632" tvg-name="KU : ZAROK 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN KIDS ",KU : ZAROK 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/287916.m3u8
+#EXTINF:0 CUID="19635" tvg-name="Ku: NRT 3 Kids HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN KIDS ",Ku: NRT 3 Kids HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/287915.m3u8
+#EXTINF:0 CUID="19646" tvg-name="Ku: Kirkuk TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN KIDS ",Ku: Kirkuk TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/287895.m3u8
+#EXTINF:0 CUID="19669" tvg-name="AFRIN باخچە" tvg-logo="https://i.postimg.cc/yVGD4WJN/BAXCHA.png" group-title="|KU|KURDISTAN KIDS ",AFRIN باخچە
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/567090.m3u8
+#EXTINF:0 CUID="19670" tvg-name="AFRIN TV" tvg-logo="https://i.postimg.cc/2zyx7bRj/AKID.png" group-title="|KU|KURDISTAN KIDS ",AFRIN TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/567091.m3u8
+#EXTINF:0 CUID="19682" tvg-name="NIGA FAMILY" tvg-logo="https://i.postimg.cc/2rR9Yw8B/nigaf.png" group-title="|KU|KURDISTAN KIDS ",NIGA FAMILY
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/567103.m3u8
+#EXTINF:0 CUID="19732" tvg-name="DASNYA KIDS" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="|KU|KURDISTAN KIDS ",DASNYA KIDS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/567153.m3u8
+#EXTINF:0 CUID="19806" tvg-name="NEWLINE KID" tvg-logo="https://i.postimg.cc/RmDDphf2/KIDS-1.png" group-title="|KU|KURDISTAN KIDS ",NEWLINE KID
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/567227.m3u8
+#EXTINF:0 CUID="17170" tvg-name="####### Rabiaa TV ʰᵉᵛᶜ #######" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",####### Rabiaa TV ʰᵉᵛᶜ #######
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529813.m3u8
+#EXTINF:0 CUID="17171" tvg-name="[SHM] Iraq Al Rabiaa TV" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM] Iraq Al Rabiaa TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529453.m3u8
+#EXTINF:0 CUID="17172" tvg-name="[SHM] Iraq Al Rabiaa Sport 1" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM] Iraq Al Rabiaa Sport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529452.m3u8
+#EXTINF:0 CUID="17173" tvg-name="[SHM]  Al Rabiaa Series" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Series
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529454.m3u8
+#EXTINF:0 CUID="17174" tvg-name="[SHM]  Al Rabiaa Geo" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Geo
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529455.m3u8
+#EXTINF:0 CUID="17175" tvg-name="[SHM]  Al Rabiaa Quran" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Quran
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529456.m3u8
+#EXTINF:0 CUID="17176" tvg-name="[SHM]  Al Rabiaa Sport 1" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Sport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529457.m3u8
+#EXTINF:0 CUID="17177" tvg-name="[SHM]  Al Rabiaa Sport 2" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Sport 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529458.m3u8
+#EXTINF:0 CUID="17178" tvg-name="[SHM]  Al Rabiaa Sport 3" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Sport 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529459.m3u8
+#EXTINF:0 CUID="17179" tvg-name="[SHM]  Al Rabiaa TV" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529460.m3u8
+#EXTINF:0 CUID="17180" tvg-name="[SHM]  Al Rabiaa Musica" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Musica
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529461.m3u8
+#EXTINF:0 CUID="17181" tvg-name="[SHM]  Al Rabiaa Movies" tvg-logo="https://media0093.elcinema.com/tvguide/1381_1.png" group-title="ALRABIAA 4K   الرابعة    ",[SHM]  Al Rabiaa Movies
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529462.m3u8
+#EXTINF:0 CUID="17549" tvg-name="AL FAJER 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379458.m3u8
+#EXTINF:0 CUID="17550" tvg-name="AL FAJER 1 FHD ✦" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 FHD ✦
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379474.m3u8
+#EXTINF:0 CUID="17551" tvg-name="AL FAJER 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379459.m3u8
+#EXTINF:0 CUID="17552" tvg-name="AL FAJER 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2  FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379464.m3u8
+#EXTINF:0 CUID="17553" tvg-name="AL FAJER 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379460.m3u8
+#EXTINF:0 CUID="17554" tvg-name="AL FAJER 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379465.m3u8
+#EXTINF:0 CUID="17555" tvg-name="AL FAJER 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379461.m3u8
+#EXTINF:0 CUID="17556" tvg-name="AL FAJER 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379466.m3u8
+#EXTINF:0 CUID="17557" tvg-name="AL FAJER 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379462.m3u8
+#EXTINF:0 CUID="17558" tvg-name="AL FAJER 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379467.m3u8
+#EXTINF:0 CUID="17229" tvg-name="UK| PREMIER SPORTS 1 FHD A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",UK| PREMIER SPORTS 1 FHD A
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451375.m3u8
+#EXTINF:0 CUID="17232" tvg-name="|GR| ANT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",|GR| ANT 1 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451367.m3u8
+#EXTINF:0 CUID="17233" tvg-name="|PT|  SPORT TV 2 4K ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",|PT|  SPORT TV 2 4K ᴴᵉᵛᶜ
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451368.m3u8
+#EXTINF:0 CUID="17235" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",EX-YU: ARENA SPORT 1 HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451370.m3u8
+#EXTINF:0 CUID="17237" tvg-name="|AF.DSTV| CANAL+ Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",|AF.DSTV| CANAL+ Sport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451372.m3u8
+#EXTINF:0 CUID="17239" tvg-name="|BG| Max Sport 3 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="INTERNATIONAL SPORTS 4K",|BG| Max Sport 3 HD+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451374.m3u8
+#EXTINF:0 CUID="17306" tvg-name="ES : BARCA TV" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",ES : BARCA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/397810.m3u8
+#EXTINF:0 CUID="17307" tvg-name="ES : REAL MADRID TV FHD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",ES : REAL MADRID TV FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/397809.m3u8
+#EXTINF:0 CUID="17318" tvg-name="ES : DAZN 1" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",ES : DAZN 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350608.m3u8
+#EXTINF:0 CUID="17319" tvg-name="DE: Dazn 1 Bar FHD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: Dazn 1 Bar FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/354113.m3u8
+#EXTINF:0 CUID="17320" tvg-name="DE: Dazn 2 Bar FHD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: Dazn 2 Bar FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/354119.m3u8
+#EXTINF:0 CUID="17321" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: DAZN 1 Bar HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/354120.m3u8
+#EXTINF:0 CUID="17322" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: DAZN 2 Bar HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/354122.m3u8
+#EXTINF:0 CUID="17323" tvg-name="DE: DAZN 1 HD [LIVE-EVENT]" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: DAZN 1 HD [LIVE-EVENT]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350094.m3u8
+#EXTINF:0 CUID="17324" tvg-name="DE: DAZN 2 HD [LIVE-EVENT]" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",DE: DAZN 2 HD [LIVE-EVENT]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350095.m3u8
+#EXTINF:0 CUID="17325" tvg-name="ES M. LaLiga 2 4K" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",ES M. LaLiga 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/354112.m3u8
+#EXTINF:0 CUID="17326" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",M+ LIGA DE CAMPEONES 2 SD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350329.m3u8
+#EXTINF:0 CUID="17327" tvg-name="Pt: Eleven Sports 1 4K" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",Pt: Eleven Sports 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350158.m3u8
+#EXTINF:0 CUID="17328" tvg-name="ex-Yu: Arena Sport 1 HD Srb" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",ex-Yu: Arena Sport 1 HD Srb
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350160.m3u8
+#EXTINF:0 CUID="17329" tvg-name="CRO :Arena Sport 1 HD (CRO)" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",CRO :Arena Sport 1 HD (CRO)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350161.m3u8
+#EXTINF:0 CUID="17330" tvg-name="AZ.CBC Sport HD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",AZ.CBC Sport HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350162.m3u8
+#EXTINF:0 CUID="17331" tvg-name="Sky Sport Austria 2 FHD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",Sky Sport Austria 2 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350164.m3u8
+#EXTINF:0 CUID="17332" tvg-name="At: Sky Sport Austria 2 HD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",At: Sky Sport Austria 2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350165.m3u8
+#EXTINF:0 CUID="17333" tvg-name="[UK] Virgin Media Two" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",[UK] Virgin Media Two
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350166.m3u8
+#EXTINF:0 CUID="17334" tvg-name="|.PT.| TVI FHD" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",|.PT.| TVI FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350170.m3u8
+#EXTINF:0 CUID="17335" tvg-name="PL :TVP 1 4K" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",PL :TVP 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350171.m3u8
+#EXTINF:0 CUID="17336" tvg-name="RO: DIGI SPORT 1 4k" tvg-logo="https://www.dz-techs.com/wp-content/uploads/2018/09/Live-TV-Sports-for-Android.png" group-title="INTERNATIONAL SPORTS 4K",RO: DIGI SPORT 1 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/350098.m3u8
+#EXTINF:0 CUID="23238" tvg-name="beIN SPORTS AFC HD" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="BEIN SPORTS AFC ",beIN SPORTS AFC HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508783.m3u8
+#EXTINF:0 CUID="23239" tvg-name="VIP: Bein Sports 1 AFC" group-title="BEIN SPORTS AFC ",VIP: Bein Sports 1 AFC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/396480.m3u8
+#EXTINF:0 CUID="23240" tvg-name="beIN xSports AFC 1 4K" group-title="BEIN SPORTS AFC ",beIN xSports AFC 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508775.m3u8
+#EXTINF:0 CUID="23241" tvg-name="beIN xSports AFC 2 4K" group-title="BEIN SPORTS AFC ",beIN xSports AFC 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508777.m3u8
+#EXTINF:0 CUID="23242" tvg-name="VIP: Bein Sports 2 AFC" group-title="BEIN SPORTS AFC ",VIP: Bein Sports 2 AFC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/396481.m3u8
+#EXTINF:0 CUID="23243" tvg-name="beIN SPORTS AFC 3 4K" group-title="BEIN SPORTS AFC ",beIN SPORTS AFC 3 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508782.m3u8
+#EXTINF:0 CUID="23244" tvg-name="VIP: Bein Sport Afc1 Audio" group-title="BEIN SPORTS AFC ",VIP: Bein Sport Afc1 Audio
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/396484.m3u8
+#EXTINF:0 CUID="23245" tvg-name="beIN xSports AFC 4K" group-title="BEIN SPORTS AFC ",beIN xSports AFC 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508773.m3u8
+#EXTINF:0 CUID="23246" tvg-name="beIN AFC 4" group-title="BEIN SPORTS AFC ",beIN AFC 4
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/508789.m3u8
+#EXTINF:0 CUID="17227" tvg-name="•★✪ EU - || COPA AMERICA 2024 || EU -✪★•" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Copa_Am%C3%A9rica_2024_%28logo%29.png" group-title="COPA AMERICA  كوبا أمريكا",•★✪ EU - || COPA AMERICA 2024 || EU -✪★•
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451389.m3u8
+#EXTINF:0 CUID="17228" tvg-name="|FR| L’EQUIPE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Copa_Am%C3%A9rica_2024_%28logo%29.png" group-title="COPA AMERICA  كوبا أمريكا",|FR| L’EQUIPE 21
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451390.m3u8
+#EXTINF:0 CUID="17230" tvg-name="UK| PREMIER SPORTS 1 HD B" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA  كوبا أمريكا",UK| PREMIER SPORTS 1 HD B
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451376.m3u8
+#EXTINF:0 CUID="17231" tvg-name="UK| PREMIER SPORTS 1 SD C" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA  كوبا أمريكا",UK| PREMIER SPORTS 1 SD C
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451377.m3u8
+#EXTINF:0 CUID="17234" tvg-name="|PT|  SPORT TV 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA  كوبا أمريكا",|PT|  SPORT TV 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451369.m3u8
+#EXTINF:0 CUID="17236" tvg-name="EX-YU: ARENA SPORT 1 SRB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA  كوبا أمريكا",EX-YU: ARENA SPORT 1 SRB
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451371.m3u8
+#EXTINF:0 CUID="17238" tvg-name="[IR] Varzish Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA  كوبا أمريكا",[IR] Varzish Sport HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/451373.m3u8
+#EXTINF:0 CUID="17130" tvg-name="USA: MLS LIVE 1 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 1 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541132.m3u8
+#EXTINF:0 CUID="17131" tvg-name="USA: MLS LIVE 2 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 2 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541133.m3u8
+#EXTINF:0 CUID="17132" tvg-name="USA: MLS LIVE 3 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 3 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541134.m3u8
+#EXTINF:0 CUID="17133" tvg-name="USA: MLS LIVE 4 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 4 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541135.m3u8
+#EXTINF:0 CUID="17134" tvg-name="USA: MLS LIVE 5 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 5 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541136.m3u8
+#EXTINF:0 CUID="17135" tvg-name="USA: MLS LIVE 6 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 6 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541137.m3u8
+#EXTINF:0 CUID="17136" tvg-name="USA: MLS LIVE 7 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 7 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541138.m3u8
+#EXTINF:0 CUID="17137" tvg-name="USA: MLS LIVE 8 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 8 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541139.m3u8
+#EXTINF:0 CUID="17138" tvg-name="USA: MLS LIVE 9 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 9 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541140.m3u8
+#EXTINF:0 CUID="17139" tvg-name="USA: MLS LIVE 10 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 10 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541141.m3u8
+#EXTINF:0 CUID="17140" tvg-name="USA: MLS LIVE 11 [MATCH TIME ONLY]" tvg-logo="http://pic.apkdt.co/pic/temu/north%20america/United%20States/MLS%20LIVE%20.PNG" group-title="SPORT USA + APPL   الدوري الامريكي",USA: MLS LIVE 11 [MATCH TIME ONLY]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541142.m3u8
+#EXTINF:0 CUID="17308" tvg-name="Pt: Sport TV 1 4K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391151.m3u8
+#EXTINF:0 CUID="17309" tvg-name="Pt: Sport TV 1 8K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 1 8K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391152.m3u8
+#EXTINF:0 CUID="17310" tvg-name="Pt: Sport TV 2 4K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391155.m3u8
+#EXTINF:0 CUID="17311" tvg-name="Pt: Sport TV 3 4K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 3 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391158.m3u8
+#EXTINF:0 CUID="17312" tvg-name="Pt: Sport TV 4 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 4 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391159.m3u8
+#EXTINF:0 CUID="17313" tvg-name="Pt: Sport TV 4 4K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 4 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391160.m3u8
+#EXTINF:0 CUID="17314" tvg-name="Pt: Sport TV 5 4K" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/8d/46/9b8d4681-1140-77d5-09f9-43338df427cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="SPORT USA + APPL   الدوري الامريكي",Pt: Sport TV 5 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/391162.m3u8
+#EXTINF:0 CUID="17346" tvg-name="### |4MATIC SPORTS TENNIS ###" group-title="4MATIC SPORTS TENNIS",### |4MATIC SPORTS TENNIS ###
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538627.m3u8
+#EXTINF:0 CUID="17347" tvg-name="ZDF HD" group-title="4MATIC SPORTS TENNIS",ZDF HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538475.m3u8
+#EXTINF:0 CUID="17348" tvg-name="TS: Sport Tennis 1 IT  Sky Sport Tennis" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 1 IT  Sky Sport Tennis
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538476.m3u8
+#EXTINF:0 CUID="17349" tvg-name="TS: Sport Tennis 2 DE Sky Sport Tennis" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 2 DE Sky Sport Tennis
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538477.m3u8
+#EXTINF:0 CUID="17350" tvg-name="TS: Sport Tennis 3 EN  Sky Sports Mix" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 3 EN  Sky Sports Mix
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538478.m3u8
+#EXTINF:0 CUID="17351" tvg-name="TS: Sport Tennis 4 EN  SuperSport Tennis" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 4 EN  SuperSport Tennis
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538479.m3u8
+#EXTINF:0 CUID="17352" tvg-name="TS: Sport Tennis 5 NL EuroSport 1" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 5 NL EuroSport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538480.m3u8
+#EXTINF:0 CUID="17353" tvg-name="TS: Sport Tennis 6 NL  ZIGGO SPORT TENNIS" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 6 NL  ZIGGO SPORT TENNIS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538481.m3u8
+#EXTINF:0 CUID="17354" tvg-name="TS: Sport Tennis 7 SE Eurosport 1" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 7 SE Eurosport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538482.m3u8
+#EXTINF:0 CUID="17355" tvg-name="TS: Sport Tennis 8 DK  EuroSport 1" group-title="4MATIC SPORTS TENNIS",TS: Sport Tennis 8 DK  EuroSport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538483.m3u8
+#EXTINF:0 CUID="17240" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM SUPER 1 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438209.m3u8
+#EXTINF:0 CUID="17241" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM SUPER 1 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438210.m3u8
+#EXTINF:0 CUID="17242" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 SD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM SUPER 1 SD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438211.m3u8
+#EXTINF:0 CUID="17243" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 2 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM SUPER 2 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438212.m3u8
+#EXTINF:0 CUID="17244" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 2 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM SUPER 2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438213.m3u8
+#EXTINF:0 CUID="17245" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 3 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 3 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438215.m3u8
+#EXTINF:0 CUID="17246" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 3 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 3 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438216.m3u8
+#EXTINF:0 CUID="17247" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 4 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 4 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438218.m3u8
+#EXTINF:0 CUID="17248" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 4 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 4 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438219.m3u8
+#EXTINF:0 CUID="17249" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 5 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 5 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438221.m3u8
+#EXTINF:0 CUID="17250" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 5 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 5 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438222.m3u8
+#EXTINF:0 CUID="17251" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 6 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 6 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438224.m3u8
+#EXTINF:0 CUID="17252" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 6 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| POLSAT SPORT  PREMIUM PPV 6 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438225.m3u8
+#EXTINF:0 CUID="17253" tvg-name="EXYU|  ARENA SPORT 1 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 1 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438227.m3u8
+#EXTINF:0 CUID="17254" tvg-name="EXYU|  ARENA SPORT 2 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 2 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438228.m3u8
+#EXTINF:0 CUID="17255" tvg-name="EXYU|  ARENA SPORT 3 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 3 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438229.m3u8
+#EXTINF:0 CUID="17256" tvg-name="EXYU|  ARENA SPORT 4 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 4 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438230.m3u8
+#EXTINF:0 CUID="17257" tvg-name="EXYU|  ARENA SPORT 5 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 5 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438231.m3u8
+#EXTINF:0 CUID="17258" tvg-name="EXYU|  ARENA SPORT 6 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 6 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438232.m3u8
+#EXTINF:0 CUID="17259" tvg-name="EXYU|  ARENA SPORT 7 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 7 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438233.m3u8
+#EXTINF:0 CUID="17260" tvg-name="EXYU|  ARENA SPORT 8 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 8 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438234.m3u8
+#EXTINF:0 CUID="17261" tvg-name="EXYU|  ARENA SPORT 9 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 9 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438235.m3u8
+#EXTINF:0 CUID="17262" tvg-name="EXYU|  ARENA SPORT 10 HD SR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 10 HD SR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438236.m3u8
+#EXTINF:0 CUID="17263" tvg-name="EXYU|  ARENA SPORT 1 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 1 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438237.m3u8
+#EXTINF:0 CUID="17264" tvg-name="EXYU|  ARENA SPORT 2 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 2 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438238.m3u8
+#EXTINF:0 CUID="17265" tvg-name="EXYU|  ARENA SPORT 3 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 3 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438239.m3u8
+#EXTINF:0 CUID="17266" tvg-name="EXYU|  ARENA SPORT 4 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 4 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438240.m3u8
+#EXTINF:0 CUID="17267" tvg-name="EXYU|  ARENA SPORT 5 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 5 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438241.m3u8
+#EXTINF:0 CUID="17268" tvg-name="EXYU|  ARENA SPORT 6 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 6 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438242.m3u8
+#EXTINF:0 CUID="17269" tvg-name="EXYU|  ARENA SPORT 7 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 7 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438243.m3u8
+#EXTINF:0 CUID="17270" tvg-name="EXYU|  ARENA SPORT 8 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 8 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438244.m3u8
+#EXTINF:0 CUID="17271" tvg-name="EXYU|  ARENA SPORT 9 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 9 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438245.m3u8
+#EXTINF:0 CUID="17272" tvg-name="EXYU|  ARENA SPORT 10 HD HR" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 10 HD HR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438246.m3u8
+#EXTINF:0 CUID="17273" tvg-name="EXYU|  ARENA SPORT 1 HD BIH" group-title=" UEFA CHAMPIONS LEAGUE ",EXYU|  ARENA SPORT 1 HD BIH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438247.m3u8
+#EXTINF:0 CUID="17274" tvg-name="RUS: Match  Football 3 HD" group-title=" UEFA CHAMPIONS LEAGUE ",RUS: Match  Football 3 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438248.m3u8
+#EXTINF:0 CUID="17275" tvg-name="RUS: Match!  Futbol  2 HD" group-title=" UEFA CHAMPIONS LEAGUE ",RUS: Match!  Futbol  2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438249.m3u8
+#EXTINF:0 CUID="17276" tvg-name="RUS: Match!  Futbol 1 HD" group-title=" UEFA CHAMPIONS LEAGUE ",RUS: Match!  Futbol 1 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438250.m3u8
+#EXTINF:0 CUID="17277" tvg-name="PL| ELEVEN  SPORTS 1 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 1 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438251.m3u8
+#EXTINF:0 CUID="17278" tvg-name="PL| ELEVEN  SPORTS 1 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 1 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438252.m3u8
+#EXTINF:0 CUID="17279" tvg-name="PL| ELEVEN  SPORTS 2 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 2 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438254.m3u8
+#EXTINF:0 CUID="17280" tvg-name="PL| ELEVEN  SPORTS 2 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438255.m3u8
+#EXTINF:0 CUID="17281" tvg-name="PL| ELEVEN  SPORTS 3 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 3 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438257.m3u8
+#EXTINF:0 CUID="17282" tvg-name="PL| ELEVEN  SPORTS 3 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 3 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438258.m3u8
+#EXTINF:0 CUID="17283" tvg-name="PL| ELEVEN  SPORTS 4 FHD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 4 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438260.m3u8
+#EXTINF:0 CUID="17284" tvg-name="PL| ELEVEN  SPORTS 4 HD" group-title=" UEFA CHAMPIONS LEAGUE ",PL| ELEVEN  SPORTS 4 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438261.m3u8
+#EXTINF:0 CUID="17285" tvg-name="IT -Sky Sport Uno HD" group-title=" UEFA CHAMPIONS LEAGUE ",IT -Sky Sport Uno HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438205.m3u8
+#EXTINF:0 CUID="17286" tvg-name="[NL*] Ziggo Sport Racing" group-title=" UEFA CHAMPIONS LEAGUE ",[NL*] Ziggo Sport Racing
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438206.m3u8
+#EXTINF:0 CUID="17287" tvg-name="[NL*] Ziggo Sport Select" group-title=" UEFA CHAMPIONS LEAGUE ",[NL*] Ziggo Sport Select
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438207.m3u8
+#EXTINF:0 CUID="17288" tvg-name="[NL*] Ziggo Sport Voetbal" group-title=" UEFA CHAMPIONS LEAGUE ",[NL*] Ziggo Sport Voetbal
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/438208.m3u8
+#EXTINF:0 CUID="17005" tvg-name="BUNDESLIGA SHAHID 1 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",BUNDESLIGA SHAHID 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554712.m3u8
+#EXTINF:0 CUID="17006" tvg-name="SHAHID 1  UHD" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",SHAHID 1  UHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554721.m3u8
+#EXTINF:0 CUID="17007" tvg-name="SHAHID 1  4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",SHAHID 1  4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554722.m3u8
+#EXTINF:0 CUID="17008" tvg-name="Arab Cup 1" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",Arab Cup 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554711.m3u8
+#EXTINF:0 CUID="17009" tvg-name="KASS 1 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554720.m3u8
+#EXTINF:0 CUID="17010" tvg-name="Arab Cup 2" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",Arab Cup 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554710.m3u8
+#EXTINF:0 CUID="17011" tvg-name="KASS 2 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554719.m3u8
+#EXTINF:0 CUID="17012" tvg-name="KASS 3 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 3 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554718.m3u8
+#EXTINF:0 CUID="17013" tvg-name="KASS 4 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 4 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554717.m3u8
+#EXTINF:0 CUID="17014" tvg-name="KASS 5 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 5 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554716.m3u8
+#EXTINF:0 CUID="17015" tvg-name="KASS 6 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 6 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554715.m3u8
+#EXTINF:0 CUID="17016" tvg-name="KASS 7 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 7 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554714.m3u8
+#EXTINF:0 CUID="17017" tvg-name="KASS 8 4K" tvg-logo="https://radiomarina.net/wp-content/uploads/2025/03/FB_IMG_1741382683962.jpg" group-title="         ⚽ Arab Cup ⚽ كأس العرب   ⚽",KASS 8 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/554713.m3u8
+#EXTINF:0 CUID="17356" tvg-name="NW : ALJAZEERA  8K" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALJAZEERA.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA  8K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/220773.m3u8
+#EXTINF:0 CUID="17357" tvg-name="NW : ALJAZEERA  4K" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALJAZEERA.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA  4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/284976.m3u8
+#EXTINF:0 CUID="17358" tvg-name="NW : ALJAZEERA  UHD" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALJAZEERA.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA  UHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/6692.m3u8
+#EXTINF:0 CUID="17359" tvg-name="NW : ALJAZEERA MUBASHER HD" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALJAZEERAMUBASHER.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA MUBASHER HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/186.m3u8
+#EXTINF:0 CUID="17360" tvg-name="NW : ALJAZEERA MUBASHER 4k" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALJAZEERAMUBASHER.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA MUBASHER 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4406.m3u8
+#EXTINF:0 CUID="17361" tvg-name="NW : ALJAZEERA ENGLISH" tvg-logo="http://go4.pw/ARABE/ALJAZEERAENGLISHHD.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA ENGLISH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/185.m3u8
+#EXTINF:0 CUID="17362" tvg-name="NW : AL  JAZEERA DOCUMENTARY  4K" tvg-logo="http://go4.pw/ARABE/ALJAZIRA.png" group-title="|AR| NEWS  الأخبار",NW : AL  JAZEERA DOCUMENTARY  4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/540933.m3u8
+#EXTINF:0 CUID="17363" tvg-name="NW : ALJAZEERA DOCUMENTARY" tvg-logo="http://go4.pw/ARABE/ALJAZIRA.png" group-title="|AR| NEWS  الأخبار",NW : ALJAZEERA DOCUMENTARY
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/187.m3u8
+#EXTINF:0 CUID="17364" tvg-name="NW : Al Arabiya Programs" tvg-logo="https://yt3.googleusercontent.com/Zy2CEetkHMlh47c_C_Hi7JI1Lrb-VGO6ckAYPguNqoRzbbe2E454C5HVv_fbD-6dMbf_O-D2f3M=s900-c-k-c0x00ffffff-no-rj" group-title="|AR| NEWS  الأخبار",NW : Al Arabiya Programs
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/551267.m3u8
+#EXTINF:0 CUID="17365" tvg-name="NW : ALARABIA 4k" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALARABIYA.png" group-title="|AR| NEWS  الأخبار",NW : ALARABIA 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/184.m3u8
+#EXTINF:0 CUID="17366" tvg-name="NW : ALARABIA 4k+" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALARABIYA.png" group-title="|AR| NEWS  الأخبار",NW : ALARABIA 4k+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/309.m3u8
+#EXTINF:0 CUID="17367" tvg-name="NW : ALARABIYA  ALHADATH 4K" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="|AR| NEWS  الأخبار",NW : ALARABIYA  ALHADATH 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36663.m3u8
+#EXTINF:0 CUID="17368" tvg-name="NW : ALARABIYA  ALHADATH FHD" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="|AR| NEWS  الأخبار",NW : ALARABIYA  ALHADATH FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/182.m3u8
+#EXTINF:0 CUID="17369" tvg-name="NW : AL ARABIYA BUSINESS 4K" tvg-logo="http://go4.pw/NEWS%26FACTUAL/ALARABIYA.png" group-title="|AR| NEWS  الأخبار",NW : AL ARABIYA BUSINESS 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/408302.m3u8
+#EXTINF:0 CUID="17370" tvg-name="AL SYRIA AL EKHBARIYA 4k +" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Al_Ikhbariya_Syria_Logo.png" group-title="|AR| NEWS  الأخبار",AL SYRIA AL EKHBARIYA 4k +
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/531619.m3u8
+#EXTINF:0 CUID="17371" tvg-name="AL SYRIA AL EKHBARIYA  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Al_Ikhbariya_Syria_Logo.png" group-title="|AR| NEWS  الأخبار",AL SYRIA AL EKHBARIYA  4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/531620.m3u8
+#EXTINF:0 CUID="17372" tvg-name="NW : AL MASHHAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ex85FmziREkrkN3zOVOAJCcnB07B0nMzXA&s" group-title="|AR| NEWS  الأخبار",NW : AL MASHHAD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538250.m3u8
+#EXTINF:0 CUID="17373" tvg-name="NW : ALGHAD" tvg-logo="https://www.alghad.tv/wp-content/uploads/2023/10/logo.png" group-title="|AR| NEWS  الأخبار",NW : ALGHAD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506297.m3u8
+#EXTINF:0 CUID="17374" tvg-name="NW : ASHARQ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/AsharqNewsLogo.png/768px-AsharqNewsLogo.png" group-title="|AR| NEWS  الأخبار",NW : ASHARQ 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/210326.m3u8
+#EXTINF:0 CUID="17375" tvg-name="NW : ASHARQ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/AsharqNewsLogo.png/768px-AsharqNewsLogo.png" group-title="|AR| NEWS  الأخبار",NW : ASHARQ FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/210328.m3u8
+#EXTINF:0 CUID="17376" tvg-name="NW : ALSHARQ RADIO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Asharq_Business_logo.png" group-title="|AR| NEWS  الأخبار",NW : ALSHARQ RADIO 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/551266.m3u8
+#EXTINF:0 CUID="17377" tvg-name="NW : Al Qahera News" tvg-logo="http://go4.pw/EGYPT/ALQAHERA-NEWS.png" group-title="|AR| NEWS  الأخبار",NW : Al Qahera News
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/397698.m3u8
+#EXTINF:0 CUID="17378" tvg-name="NW : SKY NEWS 4K" tvg-logo="http://go4.pw/NEWS%26FACTUAL/SKYNEWS.png" group-title="|AR| NEWS  الأخبار",NW : SKY NEWS 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/30146.m3u8
+#EXTINF:0 CUID="17379" tvg-name="NW : SKY NEWS FHD" tvg-logo="http://go4.pw/NEWS%26FACTUAL/SKYNEWS.png" group-title="|AR| NEWS  الأخبار",NW : SKY NEWS FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/180.m3u8
+#EXTINF:0 CUID="17380" tvg-name="NW : INEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="|AR| NEWS  الأخبار",NW : INEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36524.m3u8
+#EXTINF:0 CUID="17381" tvg-name="NW : Alhurra" tvg-logo="http://go4.pw/ARABE/ALHURRA.png" group-title="|AR| NEWS  الأخبار",NW : Alhurra
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/191.m3u8
+#EXTINF:0 CUID="17382" tvg-name="NW : AL HIWAR" tvg-logo="http://go4.pw/ARABE/ALHIWARHD.png" group-title="|AR| NEWS  الأخبار",NW : AL HIWAR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36652.m3u8
+#EXTINF:0 CUID="17383" tvg-name="NW :  AL HIWAR  FHD" tvg-logo="http://go4.pw/ARABE/ALHIWARHD.png" group-title="|AR| NEWS  الأخبار",NW :  AL HIWAR  FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46229.m3u8
+#EXTINF:0 CUID="17384" tvg-name="NW : SHAMS 4K" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQE964Szxxht8w/company-logo_200_200/company-logo_200_200/0/1726748292690?e=2147483647&v=beta&t=EG8_soCDzi7zYNDo3BUfIQHevVDWDfH8HnLT98g2Rj4" group-title="|AR| NEWS  الأخبار",NW : SHAMS 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541114.m3u8
+#EXTINF:0 CUID="17385" tvg-name="NW : ALMAYADEEN FHD" tvg-logo="http://go4.pw/ASIA/LEBANON/ALMAYADEENTV.png" group-title="|AR| NEWS  الأخبار",NW : ALMAYADEEN FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/322533.m3u8
+#EXTINF:0 CUID="17386" tvg-name="NW : ALMAYADEEN" tvg-logo="http://go4.pw/ASIA/LEBANON/ALMAYADEENTV.png" group-title="|AR| NEWS  الأخبار",NW : ALMAYADEEN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36554.m3u8
+#EXTINF:0 CUID="17387" tvg-name="NW : AL ALAM 4K" tvg-logo="http://go4.pw/ARABE/AL-ALAM-NEWS.png" group-title="|AR| NEWS  الأخبار",NW : AL ALAM 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/193.m3u8
+#EXTINF:0 CUID="17388" tvg-name="NW : AL ALAM" tvg-logo="http://go4.pw/ARABE/AL-ALAM-NEWS.png" group-title="|AR| NEWS  الأخبار",NW : AL ALAM
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/322846.m3u8
+#EXTINF:0 CUID="17389" tvg-name="NW : ALMANAR HD" tvg-logo="http://go4.pw/ASIA/LEBANON/ALMANAR.png" group-title="|AR| NEWS  الأخبار",NW : ALMANAR HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36555.m3u8
+#EXTINF:0 CUID="17390" tvg-name="NW : CGTN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="|AR| NEWS  الأخبار",NW : CGTN ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/114358.m3u8
+#EXTINF:0 CUID="17391" tvg-name="NW : PRESSE  TV 4K" group-title="|AR| NEWS  الأخبار",NW : PRESSE  TV 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/315047.m3u8
+#EXTINF:0 CUID="17392" tvg-name="NW : i24 NEWS ARABIC FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/I24NEWSFHD.png" group-title="|AR| NEWS  الأخبار",NW : i24 NEWS ARABIC FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/183.m3u8
+#EXTINF:0 CUID="17393" tvg-name="NW : i24 NEWS ARABIC" tvg-logo="http://go4.pw/EUROPE/FRANCE/I24NEWSFHD.png" group-title="|AR| NEWS  الأخبار",NW : i24 NEWS ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36553.m3u8
+#EXTINF:0 CUID="17394" tvg-name="NW : AL ARABY 4K" tvg-logo="http://go4.pw/ARABE/ALARABYHD.png" group-title="|AR| NEWS  الأخبار",NW : AL ARABY 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/47158.m3u8
+#EXTINF:0 CUID="17395" tvg-name="NW : DW ARABIC" tvg-logo="http://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="|AR| NEWS  الأخبار",NW : DW ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/178.m3u8
+#EXTINF:0 CUID="17396" tvg-name="NW : AL WATAN" tvg-logo="http://go4.pw/AFRICA/EGYPT/WATANTV.png" group-title="|AR| NEWS  الأخبار",NW : AL WATAN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36899.m3u8
+#EXTINF:0 CUID="17397" tvg-name="NW : AL SHARQ 4K" tvg-logo="http://go4.pw/AFRICA/EGYPT/ELSHARQ.png" group-title="|AR| NEWS  الأخبار",NW : AL SHARQ 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36898.m3u8
+#EXTINF:0 CUID="17398" tvg-name="NW : ALSHAREQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/El_Sharq_New_Logo.png" group-title="|AR| NEWS  الأخبار",NW : ALSHAREQ
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/54546.m3u8
+#EXTINF:0 CUID="17399" tvg-name="NW : MEKAMELEEN" tvg-logo="http://go4.pw/AFRICA/EGYPT/MEKAMELEEN.png" group-title="|AR| NEWS  الأخبار",NW : MEKAMELEEN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36900.m3u8
+#EXTINF:0 CUID="17400" tvg-name="NW : TRT Arabi" tvg-logo="http://go4.pw/NEWS%26FACTUAL/TRTARABIC.png" group-title="|AR| NEWS  الأخبار",NW : TRT Arabi
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/174.m3u8
+#EXTINF:0 CUID="17401" tvg-name="NW : EXTRA NEWS" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBCEXTRANEWS.png" group-title="|AR| NEWS  الأخبار",NW : EXTRA NEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/36571.m3u8
+#EXTINF:0 CUID="17402" tvg-name="NW : AL EKHBARIA 4K" tvg-logo="http://go4.pw/ASIA/SAUDI/al-ekhbariya.png" group-title="|AR| NEWS  الأخبار",NW : AL EKHBARIA 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/47160.m3u8
+#EXTINF:0 CUID="17403" tvg-name="NW : AL EKHBARIA FHD" tvg-logo="http://go4.pw/ASIA/SAUDI/al-ekhbariya.png" group-title="|AR| NEWS  الأخبار",NW : AL EKHBARIA FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/170.m3u8
+#EXTINF:0 CUID="17404" tvg-name="NW : BBC WORLD NEWS" tvg-logo="http://go4.pw/ARABE/BBCWORLDNEWS.png" group-title="|AR| NEWS  الأخبار",NW : BBC WORLD NEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/114357.m3u8
+#EXTINF:0 CUID="17405" tvg-name="NW : BBC ARABIC" tvg-logo="http://go4.pw/NEWS%26FACTUAL/BBCARABIC.png" group-title="|AR| NEWS  الأخبار",NW : BBC ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/195.m3u8
+#EXTINF:0 CUID="17406" tvg-name="NW : DOCUMENTARY BIL ARABIC" tvg-logo="http://go4.pw/EUROPE/POLONIA/BBCEARTH.png" group-title="|AR| NEWS  الأخبار",NW : DOCUMENTARY BIL ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/194.m3u8
+#EXTINF:0 CUID="17407" tvg-name="NW : FRANCE 24 AR" tvg-logo="http://go4.pw/ARABE/FRANCE--24.png" group-title="|AR| NEWS  الأخبار",NW : FRANCE 24 AR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/176.m3u8
+#EXTINF:0 CUID="17408" tvg-name="NW  : FRANCE 24 AR HD" tvg-logo="http://go4.pw/ARABE/FRANCE--24.png" group-title="|AR| NEWS  الأخبار",NW  : FRANCE 24 AR HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/315046.m3u8
+#EXTINF:0 CUID="17409" tvg-name="NW : FRANCE 24 ENG" tvg-logo="http://go4.pw/AFRICA/CANAL+/France24.png" group-title="|AR| NEWS  الأخبار",NW : FRANCE 24 ENG
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/173.m3u8
+#EXTINF:0 CUID="17410" tvg-name="NW : RUSSIA TODAY 4K" tvg-logo="https://www.ploughshares.org/sites/default/files/Russia%20Today%20logo.png" group-title="|AR| NEWS  الأخبار",NW : RUSSIA TODAY 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/47161.m3u8
+#EXTINF:0 CUID="17411" tvg-name="NW : RUSSIA TODAY" tvg-logo="https://www.ploughshares.org/sites/default/files/Russia%20Today%20logo.png" group-title="|AR| NEWS  الأخبار",NW : RUSSIA TODAY
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/189.m3u8
+#EXTINF:0 CUID="17412" tvg-name="NW : CNN" tvg-logo="http://go4.pw/AMERICA/USA/CNN.png" group-title="|AR| NEWS  الأخبار",NW : CNN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/179.m3u8
+#EXTINF:0 CUID="17413" tvg-name="NW : CNN USA" tvg-logo="http://go4.pw/AMERICA/USA/CNN.png" group-title="|AR| NEWS  الأخبار",NW : CNN USA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/39190.m3u8
+#EXTINF:0 CUID="17414" tvg-name="NW : CNBC WORLD" tvg-logo="http://go4.pw/AMERICA/USA/CNBCWORLD.png" group-title="|AR| NEWS  الأخبار",NW : CNBC WORLD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/220157.m3u8
+#EXTINF:0 CUID="17415" tvg-name="NW : CNBC ARABIYA" tvg-logo="http://go4.pw/ARABE/CNBCARABIYA.png" group-title="|AR| NEWS  الأخبار",NW : CNBC ARABIYA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/181.m3u8
+#EXTINF:0 CUID="17416" tvg-name="NW : MSNBC FHD" group-title="|AR| NEWS  الأخبار",NW : MSNBC FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/39194.m3u8
+#EXTINF:0 CUID="17417" tvg-name="NW : EURONEWS" tvg-logo="http://go4.pw/EUROPE/FRANCE/EURONEWSHD.png" group-title="|AR| NEWS  الأخبار",NW : EURONEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/177.m3u8
+#EXTINF:0 CUID="17112" tvg-name="###### JAZEERA 360 4K ######" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",###### JAZEERA 360 4K ######
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547161.m3u8
+#EXTINF:0 CUID="17113" tvg-name="AR JAZEERA 360 اندونسيات واكتشاف المجهول" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 اندونسيات واكتشاف المجهول
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547165.m3u8
+#EXTINF:0 CUID="17114" tvg-name="AR JAZEERA 360 شاهد على العصر 1" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 شاهد على العصر 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547167.m3u8
+#EXTINF:0 CUID="17115" tvg-name="AR JAZEERA 360 شاهد على العصر 2" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 شاهد على العصر 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547168.m3u8
+#EXTINF:0 CUID="17116" tvg-name="AR JAZEERA 360 شاهد على العصر 3" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 شاهد على العصر 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547177.m3u8
+#EXTINF:0 CUID="17117" tvg-name="AR JAZEERA 360 1 الحروب الصليبيه" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 1 الحروب الصليبيه
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547164.m3u8
+#EXTINF:0 CUID="17118" tvg-name="AR JAZEERA 360 الحروب الصليبيه 2" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 الحروب الصليبيه 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547176.m3u8
+#EXTINF:0 CUID="17119" tvg-name="AR JAZEERA 360 النبي و الانسان" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 النبي و الانسان
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547162.m3u8
+#EXTINF:0 CUID="17120" tvg-name="AR JAZEERA 360 حكم و حكمة" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 حكم و حكمة
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547163.m3u8
+#EXTINF:0 CUID="17121" tvg-name="AR JAZEERA 360 فوق السلطه 1" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 فوق السلطه 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547171.m3u8
+#EXTINF:0 CUID="17122" tvg-name="AR JAZEERA 360 فوق السلطة 2" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 فوق السلطة 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547170.m3u8
+#EXTINF:0 CUID="17123" tvg-name="AR JAZEERA 360 1 مقاهي عتيقه" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 1 مقاهي عتيقه
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547173.m3u8
+#EXTINF:0 CUID="17124" tvg-name="AR JAZEERA 360 مقاهي عتيقه 2" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 مقاهي عتيقه 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547174.m3u8
+#EXTINF:0 CUID="17125" tvg-name="AR JAZEERA 360 مقاهي عتيقه 3" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 مقاهي عتيقه 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547178.m3u8
+#EXTINF:0 CUID="17126" tvg-name="AR JAZEERA 360 تاملات 1" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 تاملات 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547175.m3u8
+#EXTINF:0 CUID="17127" tvg-name="AR JAZEERA 360 تاملات 2" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 تاملات 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547166.m3u8
+#EXTINF:0 CUID="17128" tvg-name="AR JAZEERA 360 شبكات" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 شبكات
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547169.m3u8
+#EXTINF:0 CUID="17129" tvg-name="AR JAZEERA 360 كوميديا" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/ENsGBYW-7Fi3BIIc_cbTevFrpEsHyBULCX6qVzWRJ4_8M1aFkKLxQBKZl3fIPOVwlAgw240-h480-rw.webp" group-title="|AR| JAZEERA 360 4K  ",AR JAZEERA 360 كوميديا
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547172.m3u8
+#EXTINF:0 CUID="17289" tvg-name="|AR.MBC| MBC ZOOM 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC ZOOM 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431635.m3u8
+#EXTINF:0 CUID="17290" tvg-name="|AR.MBC| MBC TOW 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC TOW 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431636.m3u8
+#EXTINF:0 CUID="17291" tvg-name="|AR.MBC| MBC TURKI 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC TURKI 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431637.m3u8
+#EXTINF:0 CUID="17292" tvg-name="|AR.MBC| MBC PLUS 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC PLUS 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431638.m3u8
+#EXTINF:0 CUID="17293" tvg-name="|AR.MBC| MBC POWER 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC POWER 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431639.m3u8
+#EXTINF:0 CUID="17294" tvg-name="|AR.MBC| MBC PREMIUM 14k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC PREMIUM 14k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431640.m3u8
+#EXTINF:0 CUID="17295" tvg-name="|AR.MBC| MBC SYRIA 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC SYRIA 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431641.m3u8
+#EXTINF:0 CUID="17296" tvg-name="|AR.MBC| MBC CATOONS 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC CATOONS 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431642.m3u8
+#EXTINF:0 CUID="17297" tvg-name="|AR.MBC| MBC GEOGRAPHIC 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC GEOGRAPHIC 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431643.m3u8
+#EXTINF:0 CUID="17298" tvg-name="|AR.MBC| MBC MOVIES 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC MOVIES 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431644.m3u8
+#EXTINF:0 CUID="17299" tvg-name="|AR.MBC| MBC premium + 4k+" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC premium + 4k+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431645.m3u8
+#EXTINF:0 CUID="17300" tvg-name="|AR.MBC| MBC ANIME 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC ANIME 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431646.m3u8
+#EXTINF:0 CUID="17301" tvg-name="|AR.MBC| MBC PREMIUM 2 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC PREMIUM 2 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431647.m3u8
+#EXTINF:0 CUID="17302" tvg-name="|AR.MBC| MBC SEVEN 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC SEVEN 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431648.m3u8
+#EXTINF:0 CUID="17303" tvg-name="|AR.MBC| MBC EIGHT 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC EIGHT 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431649.m3u8
+#EXTINF:0 CUID="17304" tvg-name="|AR.MBC| MBC NINE 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC NINE 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431650.m3u8
+#EXTINF:0 CUID="17305" tvg-name="|AR.MBC| MBC TEN 4k" tvg-logo="https://iconape.com/wp-content/files/ba/20842/png/mbc-group-01.png" group-title="|AR| MBC VIP",|AR.MBC| MBC TEN 4k
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431651.m3u8
+#EXTINF:0 CUID="17719" tvg-name="MBC SHAHID 4K+" tvg-logo="https://d.top4top.io/p_1477bk0fq1.png" group-title="|AR| MBC 4K ",MBC SHAHID 4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/235522.m3u8
+#EXTINF:0 CUID="17720" tvg-name="MBC+ eLife HD" tvg-logo="http://go4.pw/MBCGROUP/MBCELIFE.png" group-title="|AR| MBC 4K ",MBC+ eLife HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/189586.m3u8
+#EXTINF:0 CUID="17721" tvg-name="MBC : 1 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC 4K ",MBC : 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/429.m3u8
+#EXTINF:0 CUID="17722" tvg-name="MBC  : 1 4K.+" tvg-id="MBC ARB" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC 4K ",MBC  : 1 4K.+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38511.m3u8
+#EXTINF:0 CUID="17723" tvg-name="MBC : 2 4K" tvg-id="MBC 2 ARB" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC 4K ",MBC : 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/428.m3u8
+#EXTINF:0 CUID="17724" tvg-name="MBC : 2  4K+" tvg-id="MBC 2.eg" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC 4K ",MBC : 2  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3070.m3u8
+#EXTINF:0 CUID="17725" tvg-name="MBC  : 3 4K." tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC 4K ",MBC  : 3 4K.
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/90.m3u8
+#EXTINF:0 CUID="17726" tvg-name="MBC : 3  4K+" tvg-id="mbc3.sa" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC 4K ",MBC : 3  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25762.m3u8
+#EXTINF:0 CUID="17727" tvg-name="MBC : 4  4K" tvg-id="إم بي سي 4.eg" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC 4K ",MBC : 4  4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25760.m3u8
+#EXTINF:0 CUID="17728" tvg-name="MBC : 4  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC 4K ",MBC : 4  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/14519.m3u8
+#EXTINF:0 CUID="17729" tvg-name="MBC :  5 4K" tvg-id="MBC 5 ARB" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC 4K ",MBC :  5 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/15331.m3u8
+#EXTINF:0 CUID="17730" tvg-name="MBC : 5  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC 4K ",MBC : 5  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38514.m3u8
+#EXTINF:0 CUID="17731" tvg-name="MBC : IRAQ 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC 4K ",MBC : IRAQ 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/51587.m3u8
+#EXTINF:0 CUID="17732" tvg-name="MBC : IRAQ  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC 4K ",MBC : IRAQ  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38516.m3u8
+#EXTINF:0 CUID="17733" tvg-name="MBC : MASR 1 4K" tvg-id="MBC Egypt ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC 4K ",MBC : MASR 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38512.m3u8
+#EXTINF:0 CUID="17734" tvg-name="MBC : MASER  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC 4K ",MBC : MASER  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74308.m3u8
+#EXTINF:0 CUID="17735" tvg-name="MBC : Maser 2 4K" tvg-id="MBC MASR 2 ARB" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC 4K ",MBC : Maser 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/422.m3u8
+#EXTINF:0 CUID="17736" tvg-name="MBC : MASER 2  4K+" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC 4K ",MBC : MASER 2  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74309.m3u8
+#EXTINF:0 CUID="17737" tvg-name="MBC :MASR DRAMA 4K" tvg-id="MBC Drama ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC 4K ",MBC :MASR DRAMA 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4346.m3u8
+#EXTINF:0 CUID="17738" tvg-name="MBC : MASR DRAMA  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC 4K ",MBC : MASR DRAMA  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38515.m3u8
+#EXTINF:0 CUID="17739" tvg-name="MBC : MBC DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/MBC_Drama_Logo.svg" group-title="|AR| MBC 4K ",MBC : MBC DRAMA 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/538474.m3u8
+#EXTINF:0 CUID="17740" tvg-name="MBC : DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/MBC_Drama_Logo.svg" group-title="|AR| MBC 4K ",MBC : DRAMA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/203066.m3u8
+#EXTINF:0 CUID="17741" tvg-name="MBC : Drama + 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMAPLUSHD-1.png" group-title="|AR| MBC 4K ",MBC : Drama + 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/29890.m3u8
+#EXTINF:0 CUID="17742" tvg-name="MBC : Drama +  4K+" tvg-id="MBC Drama Plus ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMAPLUSHD-1.png" group-title="|AR| MBC 4K ",MBC : Drama +  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3077.m3u8
+#EXTINF:0 CUID="17743" tvg-name="MBC : ACTION 4K" tvg-id="MBC Action.eg" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC 4K ",MBC : ACTION 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/426.m3u8
+#EXTINF:0 CUID="17744" tvg-name="MBC : ACTION  4K+" tvg-id="MBC Action ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC 4K ",MBC : ACTION  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4348.m3u8
+#EXTINF:0 CUID="17745" tvg-name="MBC : MAX 4K" tvg-id="MBC MAX ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC 4K ",MBC : MAX 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3073.m3u8
+#EXTINF:0 CUID="17746" tvg-name="MBC : MAX  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC 4K ",MBC : MAX  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74310.m3u8
+#EXTINF:0 CUID="17747" tvg-name="MBC : Variety 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC 4K ",MBC : Variety 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/29891.m3u8
+#EXTINF:0 CUID="17748" tvg-name="MBC : Variety  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC 4K ",MBC : Variety  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74311.m3u8
+#EXTINF:0 CUID="17749" tvg-name="MBC : BOLLYWOOD 4K" tvg-id="MBC Bollywood ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC 4K ",MBC : BOLLYWOOD 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25759.m3u8
+#EXTINF:0 CUID="17750" tvg-name="MBC : BOLLYWOOD  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC 4K ",MBC : BOLLYWOOD  4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/425.m3u8
+#EXTINF:0 CUID="17751" tvg-name="MBC  : ZEE AFLAM 4K" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC 4K ",MBC  : ZEE AFLAM 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74314.m3u8
+#EXTINF:0 CUID="17752" tvg-name="MBC : ZEE ALWAN 4K" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC 4K ",MBC : ZEE ALWAN 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74315.m3u8
+#EXTINF:0 CUID="17753" tvg-name="MBC : MBC FM" tvg-logo="http://go4.pw/EGYPT/mix-bel-araby.png" group-title="|AR| MBC 4K ",MBC : MBC FM
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74312.m3u8
+#EXTINF:0 CUID="17754" tvg-name="MBC + ELIFE" tvg-logo="http://go4.pw/MBCGROUP/MBCELIFE.png" group-title="|AR| MBC HD ",MBC + ELIFE
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/335344.m3u8
+#EXTINF:0 CUID="17755" tvg-name="MBC : 1 4K+" tvg-id="MBC ARB" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC HD ",MBC : 1 4K+
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/126424.m3u8
+#EXTINF:0 CUID="17756" tvg-name="MBC. 1 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC HD ",MBC. 1 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25761.m3u8
+#EXTINF:0 CUID="17757" tvg-name="MBC. 2 FHD" tvg-id="MBC 2.eg" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC HD ",MBC. 2 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4351.m3u8
+#EXTINF:0 CUID="17758" tvg-name="MBC. 2 HD" tvg-id="MBC 2.eg" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC HD ",MBC. 2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4343.m3u8
+#EXTINF:0 CUID="17759" tvg-name="MBC. 3 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC HD ",MBC. 3 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4342.m3u8
+#EXTINF:0 CUID="17760" tvg-name="MBC. 3 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC HD ",MBC. 3 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3069.m3u8
+#EXTINF:0 CUID="17761" tvg-name="MBC. 4 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC HD ",MBC. 4 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4341.m3u8
+#EXTINF:0 CUID="17762" tvg-name="MBC. 4 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC HD ",MBC. 4 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4349.m3u8
+#EXTINF:0 CUID="17763" tvg-name="MBC. 5 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC HD ",MBC. 5 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4350.m3u8
+#EXTINF:0 CUID="17764" tvg-name="MBC. 5 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC HD ",MBC. 5 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/14576.m3u8
+#EXTINF:0 CUID="17765" tvg-name="MBC. DRAMA + FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA + FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/427.m3u8
+#EXTINF:0 CUID="17766" tvg-name="MBC. DRAMA +  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA +  HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/40217.m3u8
+#EXTINF:0 CUID="17767" tvg-name="MBC. DRAMA FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/424.m3u8
+#EXTINF:0 CUID="17768" tvg-name="MBC. DRAMA HD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25758.m3u8
+#EXTINF:0 CUID="17769" tvg-name="MBC. ACTION HD" tvg-id="MBC Action.eg" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC HD ",MBC. ACTION HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74319.m3u8
+#EXTINF:0 CUID="17770" tvg-name="MBC. ACTION FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC HD ",MBC. ACTION FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4347.m3u8
+#EXTINF:0 CUID="17771" tvg-name="MBC. MASER 1 FHD" tvg-id="MBC Egypt ARB" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC HD ",MBC. MASER 1 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74316.m3u8
+#EXTINF:0 CUID="17772" tvg-name="MBC. MASER 1  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC HD ",MBC. MASER 1  HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/423.m3u8
+#EXTINF:0 CUID="17773" tvg-name="MBC. MASER 2 FHD" tvg-id="MBC MASR 2 ARB" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC HD ",MBC. MASER 2 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74317.m3u8
+#EXTINF:0 CUID="17774" tvg-name="MBC. MASR 2 HD" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC HD ",MBC. MASR 2 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38513.m3u8
+#EXTINF:0 CUID="17775" tvg-name="MBC MASER DRAMA" group-title="|AR| MBC HD ",MBC MASER DRAMA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/540909.m3u8
+#EXTINF:0 CUID="17776" tvg-name="MBC. iraq FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC HD ",MBC. iraq FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3060.m3u8
+#EXTINF:0 CUID="17777" tvg-name="MBC. IRAQ HD" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC HD ",MBC. IRAQ HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/51588.m3u8
+#EXTINF:0 CUID="17778" tvg-name="MBC. MAX FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC HD ",MBC. MAX FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/421.m3u8
+#EXTINF:0 CUID="17779" tvg-name="MBC. MAX  FH" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC HD ",MBC. MAX  FH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74192.m3u8
+#EXTINF:0 CUID="17780" tvg-name="MBC. Variety FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC HD ",MBC. Variety FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74318.m3u8
+#EXTINF:0 CUID="17781" tvg-name="MBC.Variety-HD" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC HD ",MBC.Variety-HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4336.m3u8
+#EXTINF:0 CUID="17782" tvg-name="MBC. BOLLYWOOD  FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. BOLLYWOOD  FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4335.m3u8
+#EXTINF:0 CUID="17783" tvg-name="MBC. BOLLYWOOD  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. BOLLYWOOD  HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/3075.m3u8
+#EXTINF:0 CUID="17784" tvg-name="MBC. Mix Hollywood" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. Mix Hollywood
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/74302.m3u8
+#EXTINF:0 CUID="17785" tvg-name="MBC.ZEE AFLAM FHD" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC HD ",MBC.ZEE AFLAM FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344809.m3u8
+#EXTINF:0 CUID="17786" tvg-name="MBC : ZEE AFLAM HD" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC HD ",MBC : ZEE AFLAM HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344814.m3u8
+#EXTINF:0 CUID="17787" tvg-name="MBC : ZEE ALWAN FHD" tvg-logo="https://mj.bald-news.com/wp-content/uploads/2024/04/19_2020-637232477207491632-749.png" group-title="|AR| MBC HD ",MBC : ZEE ALWAN FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344810.m3u8
+#EXTINF:0 CUID="17788" tvg-name="MBC ZEE ZAMAN FHD" tvg-logo="https://d.top4top.io/p_1477bk0fq1.png" group-title="|AR| MBC HD ",MBC ZEE ZAMAN FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344811.m3u8
+#EXTINF:0 CUID="17789" tvg-name="MBC : ZEE ALWAN HD" tvg-logo="https://mj.bald-news.com/wp-content/uploads/2024/04/19_2020-637232477207491632-749.png" group-title="|AR| MBC HD ",MBC : ZEE ALWAN HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344815.m3u8
+#EXTINF:0 CUID="17790" tvg-name="MBC : B4U PLUS FHD" tvg-logo="http://go4.pw/ARABE/B4UPLUS.png" group-title="|AR| MBC HD ",MBC : B4U PLUS FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344813.m3u8
+#EXTINF:0 CUID="17791" tvg-name="MBC : B4U PLUS HD" tvg-logo="http://go4.pw/ARABE/B4UPLUS.png" group-title="|AR| MBC HD ",MBC : B4U PLUS HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344817.m3u8
+#EXTINF:0 CUID="17792" tvg-name="MBC :| B4U AFLAM HD" tvg-logo="http://go4.pw/MBCGROUP/B4UAFLAM.png" group-title="|AR| MBC HD ",MBC :| B4U AFLAM HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344816.m3u8
+#EXTINF:0 CUID="17793" tvg-name="MBC : B4U AFLAM FHD" tvg-logo="http://go4.pw/MBCGROUP/B4UAFLAM.png" group-title="|AR| MBC HD ",MBC : B4U AFLAM FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/344812.m3u8
