@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="470192" tvg-name="Live  Dubai Duty Free Championships | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Dubai Duty Free Championships | MA
 https://v5on.site/play.php?id=470192
-#EXTINF:-1 tvg-id="470195" tvg-name="Live  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  WRC | MA
+#EXTINF:-1 tvg-id="470195" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=470195
-#EXTINF:-1 tvg-id="470196" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="470196" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=470196
 #EXTINF:-1 tvg-id="1165155" tvg-name="End  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  NCAA Division I | MA
 https://v5on.site/play.php?id=1165155
@@ -91,7 +91,7 @@ https://v5on.site/play.php?id=1491823
 https://v5on.site/play.php?id=1491824
 #EXTINF:-1 tvg-id="1491825" tvg-name="Next  11:30 (GMT)  Serie A Femminile | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  11:30 (GMT)  Serie A Femminile | MA
 https://v5on.site/play.php?id=1491825
-#EXTINF:-1 tvg-id="1491826" tvg-name="Next  12:30 (GMT)  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  12:30 (GMT)  WRC | MA
+#EXTINF:-1 tvg-id="1491826" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1491826
 #EXTINF:-1 tvg-id="1491827" tvg-name="Next  12:30 (GMT)  Jupiler Pro League | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  12:30 (GMT)  Jupiler Pro League | MA
 https://v5on.site/play.php?id=1491827
