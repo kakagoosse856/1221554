@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-15 04:29 PM (BD Time)
-# TV channel counts :- 628
+# Last Updated: 2026-02-15 05:13 PM (BD Time)
+# TV channel counts :- 620
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
@@ -186,20 +186,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://tvsen5.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1,CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1,BBC NEWS
-https://tvsen6.aynaott.com/bbcnews/index.m3u8
 #EXTINF:-1,Sadhna Prime News
 https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8
 #EXTINF:-1,News 24
 https://tvsen7.aynaott.com/News24/index.m3u8
 #EXTINF:-1,R Bangla
 https://tvsen7.aynaott.com/R_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Star Sports 1 HD
 https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1,Sony Ten  1 HD
-https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",T Sports
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 #EXTINF:-1,Massranga Tv
@@ -282,10 +276,6 @@ https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1,SONY TV HD
 https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
-#EXTINF:-1,STAR PLUS HD
-https://tvsen7.aynaott.com/sphdbd/index.m3u8
-#EXTINF:-1,COLORS HD
-https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1,Dhamaka Movies
 https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8
 #EXTINF:-1,B4u HITZ
@@ -352,8 +342,6 @@ http://163.61.227.29:8000/play/a03o/index.m3u8
 http://163.61.227.29:8000/play/a04f/index.m3u8
 #EXTINF:-1,ARY DIGITAL
 http://163.61.227.29:8000/play/a03p/index.m3u8
-#EXTINF:-1,Play HD
-http://163.61.227.29:8000/play/a03c/index.m3u8
 #EXTINF:-1,Aur Life HD
 http://163.61.227.29:8000/play/a03e/index.m3u8
 #EXTINF:-1,VENUS ENTERTAINMENT
@@ -372,8 +360,6 @@ http://163.61.227.29:8000/play/a04a/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1,Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
-#EXTINF:-1,DISCOVERY
-http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1,National Geographic
@@ -422,8 +408,6 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1,KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1,Cartoon Network Hindi
-http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Islamic",Makka live
@@ -809,7 +793,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6115080604134c0914034f17041302040d4f00111121170e051b0e0f064f0c0b140f0e0e0f4f1517">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a5d1ccc2c0d788cdd0c78bd3c0d7c6c0c98bc4d5d5e5d3cac1dfcacbc28bc8cfd0cbcacacb8bd1d3">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -899,7 +883,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="da9888939e9d938e899a839b929595f4999597">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7230203b36353b2621322b333a3d3d5c313d3f">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
