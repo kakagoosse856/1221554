@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="470192" tvg-name="Live  Dubai Duty Free Championships | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Dubai Duty Free Championships | MA
+#EXTINF:-1 tvg-id="470192" tvg-name="Live  Red Bull TV | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Red Bull TV | MA
 https://v5on.site/play.php?id=470192
 #EXTINF:-1 tvg-id="470195" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=470195
@@ -13,7 +13,7 @@ https://v5on.site/play.php?id=1165156
 https://v5on.site/play.php?id=1165157
 #EXTINF:-1 tvg-id="1165158" tvg-name="End  Serie A Femminile | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Serie A Femminile | MA
 https://v5on.site/play.php?id=1165158
-#EXTINF:-1 tvg-id="1165159" tvg-name="Live  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  SLB Cup | MA
+#EXTINF:-1 tvg-id="1165159" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1165159
 #EXTINF:-1 tvg-id="1165160" tvg-name="Live  Top Tier | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Top Tier | MA
 https://v5on.site/play.php?id=1165160
@@ -47,11 +47,11 @@ https://v5on.site/play.php?id=1235335
 https://v5on.site/play.php?id=1235330
 #EXTINF:-1 tvg-id="1235328" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1235328
-#EXTINF:-1 tvg-id="1235326" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1235326" tvg-name="End  Dubai Duty Free Championships | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Dubai Duty Free Championships | MA
 https://v5on.site/play.php?id=1235326
-#EXTINF:-1 tvg-id="1235325" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1235325" tvg-name="Live  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  NCAA Division I | MA
 https://v5on.site/play.php?id=1235325
-#EXTINF:-1 tvg-id="1235327" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1235327" tvg-name="End  SLB Cup | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  SLB Cup | MA
 https://v5on.site/play.php?id=1235327
 #EXTINF:-1 tvg-id="1235331" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1235331
@@ -99,9 +99,9 @@ https://v5on.site/play.php?id=1491827
 https://v5on.site/play.php?id=1491828
 #EXTINF:-1 tvg-id="1491829" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1491829
-#EXTINF:-1 tvg-id="1504713" tvg-name="Next  18:00 (GMT)  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  18:00 (GMT)  NCAA Division I | MA
+#EXTINF:-1 tvg-id="1504713" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504713
-#EXTINF:-1 tvg-id="1504714" tvg-name="Next  18:15 (GMT)  Red Bull TV | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  18:15 (GMT)  Red Bull TV | MA
+#EXTINF:-1 tvg-id="1504714" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504714
 #EXTINF:-1 tvg-id="1504715" tvg-name="Next  19:00 (GMT)  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  19:00 (GMT)  NCAA Division I | MA
 https://v5on.site/play.php?id=1504715
