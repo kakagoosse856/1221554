@@ -1,16 +1,1 @@
-[
-  {
-    "name": "Animax",
-    "url": "http://example.com/animax.m3u8",
-    "logo": "https://example.com/animax.png",
-    "epg_id": "369848",
-    "group": "ترفيه"
-  },
-  {
-    "name": "BabyTV",
-    "url": "http://example.com/babytv.m3u8",
-    "logo": "https://example.com/babytv.png",
-    "epg_id": "9396",
-    "group": "أطفال"
-  }
-]
+{}
