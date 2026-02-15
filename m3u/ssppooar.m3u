@@ -1,3 +1,25 @@
+#EXTM3U
+#EXTINF:0 CUID="17549" tvg-name="AL FAJER 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379458.m3u8
+#EXTINF:0 CUID="17550" tvg-name="AL FAJER 1 FHD ✦" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 1 FHD ✦
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379474.m3u8
+#EXTINF:0 CUID="17551" tvg-name="AL FAJER 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379459.m3u8
+#EXTINF:0 CUID="17552" tvg-name="AL FAJER 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 2  FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379464.m3u8
+#EXTINF:0 CUID="17553" tvg-name="AL FAJER 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379460.m3u8
+#EXTINF:0 CUID="17554" tvg-name="AL FAJER 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 3 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379465.m3u8
+#EXTINF:0 CUID="17555" tvg-name="AL FAJER 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379461.m3u8
+#EXTINF:0 CUID="17556" tvg-name="AL FAJER 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 4 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379466.m3u8
+#EXTINF:0 CUID="17557" tvg-name="AL FAJER 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379462.m3u8
+#EXTINF:0 CUID="17558" tvg-name="AL FAJER 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg" group-title="aL FAJER TV  قنوات الفجر",AL FAJER 5 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/379467.m3u8
+
 #EXTINF:0 CUID="17212" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",beIN  UHD
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506104.m3u8
 #EXTINF:0 CUID="17418" tvg-name="BEIN SPORTS USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",BEIN SPORTS USA
