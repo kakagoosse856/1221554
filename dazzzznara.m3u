@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="470192" tvg-name="Live  Red Bull TV | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Red Bull TV | MA
+#EXTINF:-1 tvg-id="470192" tvg-name="End  Freestyle Chess World Championship | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Freestyle Chess World Championship | MA
 https://v5on.site/play.php?id=470192
 #EXTINF:-1 tvg-id="470195" tvg-name="End  WRC | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  WRC | MA
 https://v5on.site/play.php?id=470195
@@ -17,7 +17,7 @@ https://v5on.site/play.php?id=1165158
 https://v5on.site/play.php?id=1165159
 #EXTINF:-1 tvg-id="1165160" tvg-name="Live  Top Tier | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Top Tier | MA
 https://v5on.site/play.php?id=1165160
-#EXTINF:-1 tvg-id="1165161" tvg-name="Live  Freestyle Chess World Championship | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  Freestyle Chess World Championship | MA
+#EXTINF:-1 tvg-id="1165161" tvg-name="Live  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  NCAA Division I | MA
 https://v5on.site/play.php?id=1165161
 #EXTINF:-1 tvg-id="1165162" tvg-name="End  Jupiler Pro League | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Jupiler Pro League | MA
 https://v5on.site/play.php?id=1165162
@@ -25,11 +25,11 @@ https://v5on.site/play.php?id=1165162
 https://v5on.site/play.php?id=1165163
 #EXTINF:-1 tvg-id="1165164" tvg-name="End  Serie A Femminile | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Serie A Femminile | MA
 https://v5on.site/play.php?id=1165164
-#EXTINF:-1 tvg-id="1165165" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1165165" tvg-name="End  Red Bull TV | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  Red Bull TV | MA
 https://v5on.site/play.php?id=1165165
 #EXTINF:-1 tvg-id="1165166" tvg-name="End  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",End  NCAA Division I | MA
 https://v5on.site/play.php?id=1165166
-#EXTINF:-1 tvg-id="1165167" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
+#EXTINF:-1 tvg-id="1165167" tvg-name="Live  NCAA Division I Women | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Live  NCAA Division I Women | MA
 https://v5on.site/play.php?id=1165167
 #EXTINF:-1 tvg-id="1491830" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1491830
@@ -107,9 +107,9 @@ https://v5on.site/play.php?id=1504714
 https://v5on.site/play.php?id=1504715
 #EXTINF:-1 tvg-id="1504716" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504716
-#EXTINF:-1 tvg-id="1504717" tvg-name="Next  21:00 (GMT)  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  21:00 (GMT)  NCAA Division I | MA
+#EXTINF:-1 tvg-id="1504717" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504717
-#EXTINF:-1 tvg-id="1504718" tvg-name="Next  21:00 (GMT)  NCAA Division I Women | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",Next  21:00 (GMT)  NCAA Division I Women | MA
+#EXTINF:-1 tvg-id="1504718" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504718
 #EXTINF:-1 tvg-id="1504712" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182",MA | No Event
 https://v5on.site/play.php?id=1504712
