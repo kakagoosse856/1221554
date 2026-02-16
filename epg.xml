@@ -463,9 +463,29 @@
     <desc>Aurelia and Travis travel to Farsas for Oscar's birthday, where Travis enlists Tinasha as his stand-in woman.</desc>
     <date>2026-02-17</date>
   </programme>
-  <programme channel="369848" start="20260217220000 +0700" stop="20260218000000 +0700">
+  <programme channel="369848" start="20260217220000 +0700" stop="20260217223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-17</date>
+  </programme>
+  <programme channel="369848" start="20260217223000 +0700" stop="20260217230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="369848" start="20260217230000 +0700" stop="20260217233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="369848" start="20260217233000 +0700" stop="20260218000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-02-17</date>
+  </programme>
+  <programme channel="369848" start="20260218000000 +0700" stop="20260219000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Valt, the mastermind who has long threatened Farsas, kidnaps Tinasha to claim the red and blue Eleterria orbs.</desc>
+    <date>2026-02-18</date>
   </programme>
 </tv>
