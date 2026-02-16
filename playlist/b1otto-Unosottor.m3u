@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-16 11:59 AM (BD Time)
-# TV channel counts :- 631
+# Last Updated: 2026-02-16 01:02 PM (BD Time)
+# TV channel counts :- 587
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
@@ -11,21 +11,21 @@ https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangla",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla",RTV
-https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangla",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla",Channel 9
-https://tvsen6.aynaott.com/channel9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangla",Channel S UK HD
@@ -88,8 +88,6 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian Bangla News",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Indian Bangla News",R Bangla
-https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Bangla News",NK
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Hinde Movies
@@ -184,122 +182,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="English News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,Rongeen Tv
-https://tvsen5.aynaott.com/RongeenTV/index.m3u8
-#EXTINF:-1,CNN
-https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1,BBC NEWS
-https://tvsen6.aynaott.com/bbcnews/index.m3u8
-#EXTINF:-1,Sadhna Prime News
-https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8
-#EXTINF:-1,News 24
-https://tvsen7.aynaott.com/News24/index.m3u8
-#EXTINF:-1,R Bangla
-https://tvsen7.aynaott.com/R_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Star Sports 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1,Sony Ten  1 HD
-https://tvsen5.aynaott.com/snTn1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",T Sports
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-#EXTINF:-1,Massranga Tv
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1,Deepto Tv
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
-#EXTINF:-1,NTV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1,ATN BANGLA
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1,RTV HD
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1,NTV BD
-https://tvsen5.aynaott.com/ntvbd/index.m3u8
-#EXTINF:-1,ASIAN TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-#EXTINF:-1,Ananda Tv
-https://tvsen6.aynaott.com/anandatv/index.m3u8
-#EXTINF:-1,SA Tv
-https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1,Desh Tv
-https://tvsen6.aynaott.com/deshtv/index.m3u8
-#EXTINF:-1,Bagnla Tv
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1,Jamuna Tv
-https://tvsen6.aynaott.com/jamunatv/index.m3u8
-#EXTINF:-1,Nexus Tv
-https://tvsen6.aynaott.com/nexustv/index.m3u8
-#EXTINF:-1,BTV HD
-https://tvsen6.aynaott.com/btvhd/index.m3u8
-#EXTINF:-1,BTV NEWS
-https://tvsen6.aynaott.com/BTVNews/index.m3u8
-#EXTINF:-1,BTV WORLD
-https://tvsen6.aynaott.com/btv_world/index.m3u8
-#EXTINF:-1,BTV CHATTRAGRAM
-https://tvsen6.aynaott.com/btvctg/index.m3u8
-#EXTINF:-1,MY TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
-#EXTINF:-1,Atn News HD
-https://tvsen6.aynaott.com/atnnews/index.m3u8
-#EXTINF:-1,Etv
-https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1,DURONTO TV
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8
-#EXTINF:-1,Time TV
-https://tvsen7.aynaott.com/timetv/index.m3u8
-#EXTINF:-1,GAZI TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1,Green TV
-https://tvsen6.aynaott.com/GreenTvHD/index.m3u8
-#EXTINF:-1,Bijoy Tv HD
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1,Mohona Tv
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1,Boushakhi Tv
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1,Ekhon Tv
-https://tvsen6.aynaott.com/ekhontv/index.m3u8
-#EXTINF:-1,Banglavishion
-https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1,Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8
-#EXTINF:-1,Independent Tv
-https://tvsen6.aynaott.com/independenttv/index.m3u8
-#EXTINF:-1,DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8
-#EXTINF:-1,Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8
-#EXTINF:-1,News 24
-https://tvsen6.aynaott.com/news24/index.m3u8
-#EXTINF:-1,Ekattor Tv
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
-#EXTINF:-1,Somoy News
-https://tvsen6.aynaott.com/somoytv/index.m3u8
-#EXTINF:-1,STAR JALSHA HD
-https://tvsen7.aynaott.com/sjhdbd/index.m3u8
-#EXTINF:-1,ZEE Bangla HD
-https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1,Colors Bangla HD
-https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
-#EXTINF:-1,SONY TV HD
-https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
-#EXTINF:-1,STAR PLUS HD
-https://tvsen7.aynaott.com/sphdbd/index.m3u8
-#EXTINF:-1,COLORS HD
-https://tvsen6.aynaott.com/ColorsHD/index.m3u8
-#EXTINF:-1,Dhamaka Movies
-https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8
-#EXTINF:-1,B4u HITZ
-https://tvsen5.aynaott.com/B4UHitz/index.m3u8
-#EXTINF:-1,B4U Kadak
-https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
-#EXTINF:-1,Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:-1,Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
-#EXTINF:-1,Madani Tv
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",A SPORTS
 http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",FAST SPORTS
@@ -678,8 +560,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
@@ -714,6 +594,38 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="NEWS INTERNASIONAL",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 1
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 2
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 3
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 4
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 5
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 6
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 7
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports Premire League
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 9
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 English
+https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 hindy
+https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 2
+https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 3
+https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports tamil
+https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 1
+https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 2
+https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
@@ -815,7 +727,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="46322f2123346b2e33246830233425232a68273636063029223c292821682b2c3328292928683230">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="80f4e9e7e5f2ade8f5e2aef6e5f2e3e5ecaee1f0f0c0f6efe4faefeee7aeedeaf5eeefefeeaef4f6">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -905,7 +817,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87c5d5cec3c0ced3d4c7dec6cfc8c8a9c4c8ca">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cb8999828f8c829f988b928a838484e5888486">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
