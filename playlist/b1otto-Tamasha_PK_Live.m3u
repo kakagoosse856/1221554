@@ -2,16 +2,16 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-16 10:28 PM (BD Time)
+# Last Updated: 2026-02-16 10:49 PM (BD Time)
 # TV channel counts :- 5
 #==================================
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771179917229.webp?id=56" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-b
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDM6MjY6MjUgUE0maGFzaF92YWx1ZT1HTlREelY0bkR3UTNwVEI3RkpsMkpBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771179942283.webp?id=90" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-c
-https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDM6MjY6MzIgUE0maGFzaF92YWx1ZT1kSWlXK1NmTVFuQWZSUWFpMXN5MSt3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770989235932.webp?id=22" group-title="Tamasha-Live",the-dug-out-icc-t20-world-cup-2026
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDM6MjY6MzggUE0maGFzaF92YWx1ZT15L25lM29KVjBjTmxYQjV6QjR1TDVnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=56" group-title="Tamasha-Live",ptv-sports
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDM6MjY6NDUgUE0maGFzaF92YWx1ZT1yRDNmUFRqZkRSMkFIbTFvTjVwSjN3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=45" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDM6MjY6NTEgUE0maGFzaF92YWx1ZT0yMmIrVkFrcEFCcS8zaDI2YUU3aWJRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771179917229.webp?id=41" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-b
+https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77215fc600b1b67f81952/TMSH_WEB2_DIRTY.m3u8?timeshift=1&delay=1800&mode=6
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771179942283.webp?id=47" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-c
+https://cdn12lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDQ6MDM6MjQgUE0maGFzaF92YWx1ZT0rRGVBWjZqQmd0RloyaldVNlVUVmF3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770989235932.webp?id=11" group-title="Tamasha-Live",the-dug-out-icc-t20-world-cup-2026
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDQ6MDM6MzAgUE0maGFzaF92YWx1ZT1KeEZGQmh3WXdBdUgwMG1Pak5NVTB3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=15" group-title="Tamasha-Live",ptv-sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDQ6MDM6MzcgUE0maGFzaF92YWx1ZT1qcjA0N0EzZVZWNmVNUitHY2NxNjJBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=39" group-title="Tamasha-Live",eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDQ6MDM6NDQgUE0maGFzaF92YWx1ZT1IY3gyREU4WmdyQ2l4MWVPMGpvVFVBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
