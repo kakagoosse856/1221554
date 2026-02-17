@@ -1,0 +1,42 @@
+name: all_araaaab M3U
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # كل ساعة
+  workflow_dispatch:     # يمكن تشغيله يدويًا
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate M3U
+        run: python all_araaaab.py
+
+      - name: Check if files exist and commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          # إضافة الملفات المتغيرة
+          git add all_araaaab.m3u selected_cats.txt 2>/dev/null || true
+          
+          # محاولة الالتزام فقط إذا كان هناك تغييرات
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update bein.m3u [skip ci]"
+            git pull --rebase
+            git push
+          fi
