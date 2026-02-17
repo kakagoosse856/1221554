@@ -463,9 +463,29 @@
     <desc>Plant Quetta has been attacked by a pair of Gundams. Miorine is separated from Suletta.</desc>
     <date>2026-02-18</date>
   </programme>
-  <programme channel="369848" start="20260218220000 +0700" stop="20260219000000 +0700">
+  <programme channel="369848" start="20260218220000 +0700" stop="20260218223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-18</date>
+  </programme>
+  <programme channel="369848" start="20260218223000 +0700" stop="20260218230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-18</date>
+  </programme>
+  <programme channel="369848" start="20260218230000 +0700" stop="20260218233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-02-18</date>
+  </programme>
+  <programme channel="369848" start="20260218233000 +0700" stop="20260219000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata can't act well in the rehearsal of the play, so he asks Takagi-san to go to the roof and practise with him.</desc>
+    <date>2026-02-18</date>
+  </programme>
+  <programme channel="369848" start="20260219000000 +0700" stop="20260220000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
+    <desc>The members of Earth House depart to pick up the Aerial, which has been under repair and their destination is Benerit Group's development facility.</desc>
+    <date>2026-02-19</date>
   </programme>
 </tv>
