@@ -5,7 +5,7 @@ from urllib.parse import urljoin
 import re
 
 # قراءة أرقام الباقات من الملف
-SELECTED_CATS_FILE = "selected_cats.txt"
+SELECTED_CATS_FILE = "selected_cats1.txt"
 OUTPUT_FILE = "all_ennnng.m3u"
 
 # استثناء القنوات حسب tvg-id أو الاسم
