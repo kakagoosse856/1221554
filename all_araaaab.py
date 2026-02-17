@@ -21,8 +21,8 @@ HEADERS = {
 # قاموس لتخزين أرقام الباقات وأسمائها من الملف
 SELECTED_CATEGORIES = {}
 
-def load_selected_cats_from_html():
-    """قراءة أرقام الباقات وأسمائها من ملف HTML"""
+def load_selected_cats():
+    """قراءة أرقام الباقات وأسمائها من الملف"""
     if not os.path.exists(SELECTED_CATS_FILE):
         print(f"⚠️ الملف {SELECTED_CATS_FILE} غير موجود.")
         return False
@@ -30,25 +30,32 @@ def load_selected_cats_from_html():
     print(f"📋 جاري قراءة الباقات من الملف {SELECTED_CATS_FILE}...")
     
     with open(SELECTED_CATS_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
-    
-    # استخدام BeautifulSoup لتحليل HTML
-    soup = BeautifulSoup(content, "html.parser")
-    
-    # البحث عن جميع روابط الباقات
-    for a in soup.select("a.nav-pill"):
-        href = a.get("href", "")
-        if "?cat=" in href:
-            cat_id = href.split("=")[-1].strip()
-            # استخراج اسم الباقة وتنظيفه
-            cat_name = a.text.strip()
-            # إزالة |AR| ✪ والمسافات الزائدة
-            cat_name = cat_name.replace("|AR|", "").replace("✪", "").strip()
-            # تنظيف المسافات المتعددة
-            cat_name = ' '.join(cat_name.split())
-            
-            SELECTED_CATEGORIES[cat_id] = cat_name
-            print(f"  ✅ {cat_id}: {cat_name}")
+        for line in f:
+            line = line.strip()
+            # تجاهل الأسطر الفارغة والتعليقات
+            if line and not line.startswith("#"):
+                # استخراج الرقم واسم الباقة
+                parts = line.split('#')
+                cat_part = parts[0].strip()
+                
+                # استخراج الرقم
+                cat_id = cat_part.split()[0].strip() if cat_part else ""
+                
+                # استخراج اسم الباقة من التعليق
+                cat_name = ""
+                if len(parts) > 1:
+                    cat_name = parts[1].strip()
+                    # تنظيف اسم الباقة
+                    cat_name = cat_name.replace("|AR|", "").replace("✪", "").strip()
+                    cat_name = ' '.join(cat_name.split())
+                
+                if cat_id.isdigit():
+                    # إذا لم نجد اسم في التعليق، نستخدم اسم افتراضي
+                    if not cat_name:
+                        cat_name = f"باقة {cat_id}"
+                    
+                    SELECTED_CATEGORIES[cat_id] = cat_name
+                    print(f"  ✅ {cat_id}: {cat_name}")
     
     print(f"📊 تم تحميل {len(SELECTED_CATEGORIES)} باقة من الملف")
     return len(SELECTED_CATEGORIES) > 0
@@ -85,6 +92,9 @@ def extract_channels_from_cat(cat_id, cat_name):
         
         logo_tag = a.select_one(".card-thumbnail img")
         logo = logo_tag["src"] if logo_tag else ""
+        if logo and not logo.startswith("http"):
+            logo = urljoin("https://v5on.site/", logo)
+        
         channel_url = urljoin("https://v5on.site/", href)
         
         # إضافة اسم الباقة للقناة
@@ -94,8 +104,8 @@ def extract_channels_from_cat(cat_id, cat_name):
     return channels
 
 def main():
-    # قراءة الباقات من ملف HTML
-    if not load_selected_cats_from_html():
+    # قراءة الباقات من الملف
+    if not load_selected_cats():
         print("❌ لم يتم العثور على أي باقات في الملف.")
         return
     
