@@ -1,119 +1,82 @@
 # قائمة الباقات المراد استخراجها من موقع v5on.site
+# كل سطر يحتوي على: رقم_الباقة # اسم_الباقة
 # يمكنك إضافة أو إزالة أي باقة عن طريق إزالة الرقم الخاص بها
 
-# الرياضة
-1129  # |AR| ✪ DAZN PPV MENA
-678   # |AR| ✪ SPORTS ARABIC
-2308  # |AR| ✪ POST SPORT
-2273  # |AR| ✪ THMANYAH SPORT
-2276  # |AR| ✪ SHAHID SPORT PPV
-2315  # |AR| ✪ ALWAN SPORT
-2316  # |AR| ✪ ALWAN ENTERTAINMENT
-2280  # |AR| ✪ SERIE A SPORT
-624   # |AR| ✪ STARZPLAY SPORT | EVENT PPV
-679   # |AR| ✪ AL KASS HD
+# === باقات الرياضة ===
+8     # BEIN SPORT HD
+597   # BEIN SPORT SD
+470   # BEIN SPORT 4K
+1178  # BEIN SPORT DELAY
+653   # beIN SPORTS MAX
+1129  # DAZN PPV MENA
+678   # SPORTS ARABIC
+2308  # POST SPORT
+2273  # THMANYAH SPORT
+2276  # SHAHID SPORT PPV
+2315  # ALWAN SPORT
+2280  # SERIE A SPORT
+624   # STARZPLAY SPORT | EVENT PPV
+679   # AL KASS HD
+2445  # SPORT TV PPV
 
-# ترفيه وأفلام
-288   # |AR| ✪ BEIN ENTERTAINMENT
-289   # |AR| ✪ OSN PREMIUM
-377   # |AR| ✪ NETFLIX
-2338  # |AR| ✪ ZINA PACKAGE
-2008  # |AR| ✪ ONC VIP
-1198  # |AR| ✪ BOX OFFICE 24H/7
-20    # |AR| ✪ DOCUMENTARY
-654   # |AR| ✪ DREAMOVIES UHD
-1369  # |AR| ✪ ROYA
-2038  # |AR| ✪ AL MAJDE
-290   # |AR| ✪ GOBX
-721   # |AR| ✪ SHAHID
-2383  # |AR| ✪ ALJAZEERA 360
+# === المغرب ===
+1150  # MOROCCO DELAY
+2031  # MOROCCO / SPAIN
+604   # MOROCCO RADIO
 
-# قنوات متنوعة
-434   # |AR| ✪ MBC | ROTANA
-1158  # |AR| ✪ MBC DELAY
-380   # |AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7
-436   # |AR| ✪ ARABIC NEWS
-565   # |AR| ✪ QURAN
-438   # |AR| ✪ ISLAM TV
-579   # |AR| ✪ قـــصـــص القـــــران
+# === الجزائر ===
+12    # ALGERIA
+1151  # ALGERIA DELAY
+1166  # ALGERIA RADIO
 
-# دول عربية
-422   # |AR| ✪ LEBANON
-1154  # |AR| ✪ LEBANON DELAY
-835   # |AR| ✪ JORDAN
-833   # |AR| ✪ EGYPT
-1157  # |AR| ✪ EGYPT DELAY
-844   # |AR| ✪ UAE
-843   # |AR| ✪ SYRIA
-1153  # |AR| ✪ SYRIA DELAY
-489   # |AR| ✪ IRAQ
-1155  # |AR| ✪ IRAQ DELAY
-841   # |AR| ✪ SAUDI ARABIA (KSA)
-838   # |AR| ✪ LIBYA
-840   # |AR| ✪ QATAR
-831   # |AR| ✪ PALESTINE
-842   # |AR| ✪ SUDAN
-468   # |AR| ✪ MAURITANIA
-846   # |AR| ✪ YEMEN
-839   # |AR| ✪ OMAN
-832   # |AR| ✪ BAHRAIN
-836   # |AR| ✪ KUWAIT
-848   # |AR| ✪ CHRISTIAN TV
-634   # |AR| ✪ (باقة إضافية)
+# === تونس ===
+13    # TUNISIA
+1152  # TNISIA DELAY
 
-# قنوات إضافية من قائمتك السابقة
-565   # قناة 565 (مكرر للتأكيد)
-4     # باقة 4
-1150  # باقة 1150
-2031  # باقة 2031
-604   # باقة 604
-12    # باقة 12
-1151  # باقة 1151
-1166  # باقة 1166
-13    # باقة 13
-1152  # باقة 1152
-8     # باقة 8
-597   # باقة 597
-470   # باقة 470
-1178  # باقة 1178
-2445  # باقة 2445
-653   # باقة 6532008
-1198
-20
-654
-1369
-2038
-290
-721
-2383
-436
-438
-579
-434
-1158
-380
-422
-1154
-835
-833
-1157
-844
-843
-1153
-489
-1155
-841
-838
-840
-831
-842
-468
-846
-839
-832
-836
-848
+# === ترفيه وأفلام ===
+288   # BEIN ENTERTAINMENT
+289   # OSN PREMIUM
+377   # NETFLIX
+2338  # ZINA PACKAGE
+2008  # ONC VIP
+1198  # BOX OFFICE 24H/7
+20    # DOCUMENTARY
+654   # DREAMOVIES UHD
+1369  # ROYA
+2038  # AL MAJDE
+290   # GOBX
+721   # SHAHID
+2383  # ALJAZEERA 360
 
+# === قنوات متنوعة ===
+434   # MBC | ROTANA
+1158  # MBC DELAY
+380   # KIDS ENTERTAINMENT | KIDS 24/7
+436   # ARABIC NEWS
+565   # QURAN
+438   # ISLAM TV
+579   # قـــصـــص القـــــران
 
-
-# يمكنك إضافة المزيد...
+# === دول عربية ===
+422   # LEBANON
+1154  # LEBANON DELAY
+835   # JORDAN
+833   # EGYPT
+1157  # EGYPT DELAY
+844   # UAE
+843   # SYRIA
+1153  # SYRIA DELAY
+489   # IRAQ
+1155  # IRAQ DELAY
+841   # SAUDI ARABIA (KSA)
+838   # LIBYA
+840   # QATAR
+831   # PALESTINE
+842   # SUDAN
+468   # MAURITANIA
+846   # YEMEN
+839   # OMAN
+832   # BAHRAIN
+836   # KUWAIT
+848   # CHRISTIAN TV
+634   # باقة إضافية
