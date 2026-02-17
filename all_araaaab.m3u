@@ -889,7 +889,7 @@ https://v5on.site/play.php?id=1854135
 https://v5on.site/play.php?id=1854138
 #EXTINF:-1 tvg-id="470192" tvg-name="End  NFL Game Pass | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  NFL Game Pass | MA
 https://v5on.site/play.php?id=470192
-#EXTINF:-1 tvg-id="470195" tvg-name="Live  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Live  Enterprise National League North & South | MA
+#EXTINF:-1 tvg-id="470195" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=470195
 #EXTINF:-1 tvg-id="470196" tvg-name="End  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  NCAA Division I | MA
 https://v5on.site/play.php?id=470196
@@ -897,13 +897,13 @@ https://v5on.site/play.php?id=470196
 https://v5on.site/play.php?id=1165155
 #EXTINF:-1 tvg-id="1165156" tvg-name="End  Dubai Duty Free Championships | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  Dubai Duty Free Championships | MA
 https://v5on.site/play.php?id=1165156
-#EXTINF:-1 tvg-id="1165157" tvg-name="Live  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Live  Enterprise National League North & South | MA
+#EXTINF:-1 tvg-id="1165157" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1165157
-#EXTINF:-1 tvg-id="1165158" tvg-name="Live  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Live  Enterprise National League North & South | MA
+#EXTINF:-1 tvg-id="1165158" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1165158
-#EXTINF:-1 tvg-id="1165159" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
+#EXTINF:-1 tvg-id="1165159" tvg-name="End  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  Enterprise National League North & South | MA
 https://v5on.site/play.php?id=1165159
-#EXTINF:-1 tvg-id="1165160" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
+#EXTINF:-1 tvg-id="1165160" tvg-name="End  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  Enterprise National League North & South | MA
 https://v5on.site/play.php?id=1165160
 #EXTINF:-1 tvg-id="1165161" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1165161
@@ -953,7 +953,7 @@ https://v5on.site/play.php?id=1235336
 https://v5on.site/play.php?id=1235324
 #EXTINF:-1 tvg-id="1235329" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1235329
-#EXTINF:-1 tvg-id="1236711" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
+#EXTINF:-1 tvg-id="1236711" tvg-name="End  Enterprise National League North & South | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  Enterprise National League North & South | MA
 https://v5on.site/play.php?id=1236711
 #EXTINF:-1 tvg-id="1491814" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1491814
@@ -3161,6 +3161,14 @@ https://v5on.site/play.php?id=196119
 https://v5on.site/play.php?id=196126
 #EXTINF:-1 tvg-id="196133" tvg-name="DREAMOVIES STAND-UP [Multi]" tvg-logo="http://138.199.27.237:8080/DREAM/STAND.png" group-title="DREAMOVIES UHD",DREAMOVIES STAND-UP [Multi]
 https://v5on.site/play.php?id=196133
+#EXTINF:-1 tvg-id="1299405" tvg-name="Play Arabic Cinema 1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="SHAHID",Play Arabic Cinema 1
+https://v5on.site/play.php?id=1299405
+#EXTINF:-1 tvg-id="1299406" tvg-name="Play Arabic Cinema 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="SHAHID",Play Arabic Cinema 2
+https://v5on.site/play.php?id=1299406
+#EXTINF:-1 tvg-id="1303339" tvg-name="PLAY Arabic Cinema 3" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="SHAHID",PLAY Arabic Cinema 3
+https://v5on.site/play.php?id=1303339
+#EXTINF:-1 tvg-id="1303350" tvg-name="PLAY Arabic Cinema 4" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="SHAHID",PLAY Arabic Cinema 4
+https://v5on.site/play.php?id=1303350
 #EXTINF:-1 tvg-id="265710" tvg-name="SHAHID CINEMA 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/SHAHID/SHAHIDVIP.png" group-title="SHAHID",SHAHID CINEMA 1 ᵁᴴᴰ
 https://v5on.site/play.php?id=265710
 #EXTINF:-1 tvg-id="265711" tvg-name="SHAHID CINEMA 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/SHAHID/SHAHIDVIP.png" group-title="SHAHID",SHAHID CINEMA 2 ᵁᴴᴰ
