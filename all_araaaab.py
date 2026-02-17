@@ -18,47 +18,40 @@ HEADERS = {
                   "Chrome/117.0.0.0 Safari/537.36"
 }
 
-# قاموس لتخزين أرقام الباقات وأسمائها من الملف
-SELECTED_CATEGORIES = {}
+# قاموس لتخزين أرقام الباقات وأسمائها
+CATEGORIES = {}
 
-def load_selected_cats():
-    """قراءة أرقام الباقات وأسمائها من الملف"""
+def load_categories_from_file():
+    """قراءة أرقام الباقات وأسمائها من ملف selected_cats.txt"""
     if not os.path.exists(SELECTED_CATS_FILE):
         print(f"⚠️ الملف {SELECTED_CATS_FILE} غير موجود.")
         return False
     
-    print(f"📋 جاري قراءة الباقات من الملف {SELECTED_CATS_FILE}...")
+    print(f"📋 جاري قراءة الباقات من {SELECTED_CATS_FILE}...")
     
     with open(SELECTED_CATS_FILE, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            # تجاهل الأسطر الفارغة والتعليقات
-            if line and not line.startswith("#"):
-                # استخراج الرقم واسم الباقة
-                parts = line.split('#')
-                cat_part = parts[0].strip()
+            # تجاهل الأسطر الفارغة والتعليقات التي تبدأ بـ #
+            if not line or line.startswith("#"):
+                continue
+            
+            # تنسيق السطر: رقم_الباقة # اسم_الباقة
+            if "#" in line:
+                parts = line.split("#", 1)
+                cat_id = parts[0].strip()
+                cat_name = parts[1].strip()
                 
-                # استخراج الرقم
-                cat_id = cat_part.split()[0].strip() if cat_part else ""
-                
-                # استخراج اسم الباقة من التعليق
-                cat_name = ""
-                if len(parts) > 1:
-                    cat_name = parts[1].strip()
-                    # تنظيف اسم الباقة
-                    cat_name = cat_name.replace("|AR|", "").replace("✪", "").strip()
-                    cat_name = ' '.join(cat_name.split())
+                # تنظيف اسم الباقة
+                cat_name = cat_name.replace("|AR|", "").replace("✪", "").strip()
+                cat_name = re.sub(r'\s+', ' ', cat_name)  # إزالة المسافات الزائدة
                 
                 if cat_id.isdigit():
-                    # إذا لم نجد اسم في التعليق، نستخدم اسم افتراضي
-                    if not cat_name:
-                        cat_name = f"باقة {cat_id}"
-                    
-                    SELECTED_CATEGORIES[cat_id] = cat_name
+                    CATEGORIES[cat_id] = cat_name
                     print(f"  ✅ {cat_id}: {cat_name}")
     
-    print(f"📊 تم تحميل {len(SELECTED_CATEGORIES)} باقة من الملف")
-    return len(SELECTED_CATEGORIES) > 0
+    print(f"📊 تم تحميل {len(CATEGORIES)} باقة")
+    return len(CATEGORIES) > 0
 
 def extract_channels_from_cat(cat_id, cat_name):
     """استخراج القنوات من باقة محددة"""
@@ -97,32 +90,35 @@ def extract_channels_from_cat(cat_id, cat_name):
         
         channel_url = urljoin("https://v5on.site/", href)
         
-        # إضافة اسم الباقة للقناة
-        channels.append((ch_id, name, logo, channel_url, cat_name))
+        # إضافة القناة مع اسم الباقة
+        channels.append({
+            'id': ch_id,
+            'name': name,
+            'logo': logo,
+            'url': channel_url,
+            'category': cat_name  # اسم الباقة الحقيقي
+        })
     
-    print(f"✅ تم العثور على {len(channels)} قناة في الباقة {cat_id}")
+    print(f"✅ تم العثور على {len(channels)} قناة")
     return channels
 
 def main():
-    # قراءة الباقات من الملف
-    if not load_selected_cats():
+    # 1. قراءة الباقات من الملف
+    if not load_categories_from_file():
         print("❌ لم يتم العثور على أي باقات في الملف.")
         return
     
-    print(f"📋 سيتم معالجة {len(SELECTED_CATEGORIES)} باقة")
-    
-    # استخراج القنوات من جميع الباقات
+    # 2. استخراج القنوات من كل باقة
     all_channels = []
-    for cat_id, cat_name in SELECTED_CATEGORIES.items():
+    for cat_id, cat_name in CATEGORIES.items():
         channels = extract_channels_from_cat(cat_id, cat_name)
         all_channels.extend(channels)
     
-    # إزالة القنوات المكررة (نفس الـ ID)
+    # 3. إزالة القنوات المكررة (نفس الـ ID)
     unique_channels = {}
     for ch in all_channels:
-        ch_id, name, logo, url, cat_name = ch
-        if ch_id not in unique_channels:
-            unique_channels[ch_id] = ch
+        if ch['id'] not in unique_channels:
+            unique_channels[ch['id']] = ch
     
     final_channels = list(unique_channels.values())
     
@@ -130,25 +126,26 @@ def main():
         print("⚠️ لم يتم العثور على أي قناة.")
         return
     
-    # كتابة ملف M3U مع إضافة group-title (اسم الباقة)
+    # 4. كتابة ملف M3U مع اسم الباقة في group-title
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for ch_id, name, logo, channel_url, cat_name in final_channels:
-            # إضافة group-title الذي يمثل اسم الباقة
-            f.write(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{cat_name}",{name}\n')
-            f.write(channel_url + "\n")
+        
+        for ch in final_channels:
+            # كتابة معلومات القناة مع group-title = اسم الباقة الحقيقي
+            f.write(f'#EXTINF:-1 tvg-id="{ch["id"]}" '
+                   f'tvg-name="{ch["name"]}" '
+                   f'tvg-logo="{ch["logo"]}" '
+                   f'group-title="{ch["category"]}",{ch["name"]}\n')
+            f.write(ch["url"] + "\n")
     
     print(f"✔ تم حفظ {len(final_channels)} قناة في {OUTPUT_FILE}")
-    print(f"📊 تم استخدام {len(set([ch[4] for ch in final_channels]))} باقة مختلفة")
-
-    # عرض إحصائيات لكل باقة
+    
+    # 5. عرض إحصائيات الباقات
     print("\n📊 إحصائيات الباقات:")
     cat_stats = {}
     for ch in final_channels:
-        cat_name = ch[4]
-        if cat_name not in cat_stats:
-            cat_stats[cat_name] = 0
-        cat_stats[cat_name] += 1
+        cat_name = ch['category']
+        cat_stats[cat_name] = cat_stats.get(cat_name, 0) + 1
     
     for cat_name, count in sorted(cat_stats.items()):
         print(f"  {cat_name}: {count} قناة")
