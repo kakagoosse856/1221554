@@ -1,35 +1,83 @@
-# قائمة الباقات المراد استخراجها (سطر واحد لكل cat_id)
-565
-4
-1150
-2031
-604
-12
-1151
-1166
-13
-1152
-8
-597
-470
-1178
-2445
-653
-1129
-678
-2308
-2273
-2276
-2315
-2316
-2280
-624
-679
-288
-289
-377
-2338
-2008
+# قائمة الباقات المراد استخراجها من موقع v5on.site
+# يمكنك إضافة أو إزالة أي باقة عن طريق إزالة الرقم الخاص بها
+
+# الرياضة
+1129  # |AR| ✪ DAZN PPV MENA
+678   # |AR| ✪ SPORTS ARABIC
+2308  # |AR| ✪ POST SPORT
+2273  # |AR| ✪ THMANYAH SPORT
+2276  # |AR| ✪ SHAHID SPORT PPV
+2315  # |AR| ✪ ALWAN SPORT
+2316  # |AR| ✪ ALWAN ENTERTAINMENT
+2280  # |AR| ✪ SERIE A SPORT
+624   # |AR| ✪ STARZPLAY SPORT | EVENT PPV
+679   # |AR| ✪ AL KASS HD
+
+# ترفيه وأفلام
+288   # |AR| ✪ BEIN ENTERTAINMENT
+289   # |AR| ✪ OSN PREMIUM
+377   # |AR| ✪ NETFLIX
+2338  # |AR| ✪ ZINA PACKAGE
+2008  # |AR| ✪ ONC VIP
+1198  # |AR| ✪ BOX OFFICE 24H/7
+20    # |AR| ✪ DOCUMENTARY
+654   # |AR| ✪ DREAMOVIES UHD
+1369  # |AR| ✪ ROYA
+2038  # |AR| ✪ AL MAJDE
+290   # |AR| ✪ GOBX
+721   # |AR| ✪ SHAHID
+2383  # |AR| ✪ ALJAZEERA 360
+
+# قنوات متنوعة
+434   # |AR| ✪ MBC | ROTANA
+1158  # |AR| ✪ MBC DELAY
+380   # |AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7
+436   # |AR| ✪ ARABIC NEWS
+565   # |AR| ✪ QURAN
+438   # |AR| ✪ ISLAM TV
+579   # |AR| ✪ قـــصـــص القـــــران
+
+# دول عربية
+422   # |AR| ✪ LEBANON
+1154  # |AR| ✪ LEBANON DELAY
+835   # |AR| ✪ JORDAN
+833   # |AR| ✪ EGYPT
+1157  # |AR| ✪ EGYPT DELAY
+844   # |AR| ✪ UAE
+843   # |AR| ✪ SYRIA
+1153  # |AR| ✪ SYRIA DELAY
+489   # |AR| ✪ IRAQ
+1155  # |AR| ✪ IRAQ DELAY
+841   # |AR| ✪ SAUDI ARABIA (KSA)
+838   # |AR| ✪ LIBYA
+840   # |AR| ✪ QATAR
+831   # |AR| ✪ PALESTINE
+842   # |AR| ✪ SUDAN
+468   # |AR| ✪ MAURITANIA
+846   # |AR| ✪ YEMEN
+839   # |AR| ✪ OMAN
+832   # |AR| ✪ BAHRAIN
+836   # |AR| ✪ KUWAIT
+848   # |AR| ✪ CHRISTIAN TV
+634   # |AR| ✪ (باقة إضافية)
+
+# قنوات إضافية من قائمتك السابقة
+565   # قناة 565 (مكرر للتأكيد)
+4     # باقة 4
+1150  # باقة 1150
+2031  # باقة 2031
+604   # باقة 604
+12    # باقة 12
+1151  # باقة 1151
+1166  # باقة 1166
+13    # باقة 13
+1152  # باقة 1152
+8     # باقة 8
+597   # باقة 597
+470   # باقة 470
+1178  # باقة 1178
+2445  # باقة 2445
+653   # باقة 6532008
 1198
 20
 654
