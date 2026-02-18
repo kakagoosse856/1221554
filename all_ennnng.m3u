@@ -3719,7 +3719,7 @@ https://v5on.site/play.php?id=613104
 https://v5on.site/play.php?id=623307
 #EXTINF:-1 tvg-id="613105" tvg-name="ES | No Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/FIA_F3_Championship_logo.png" group-title="FORMULA 1",ES | No Event
 https://v5on.site/play.php?id=613105
-#EXTINF:-1 tvg-id="1244377" tvg-name="Next  06:55 (GMT)  Test de Baréin 2026  ES" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" group-title="FORMULA 1",Next  06:55 (GMT)  Test de Baréin 2026  ES
+#EXTINF:-1 tvg-id="1244377" tvg-name="ES | No Event" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" group-title="FORMULA 1",ES | No Event
 https://v5on.site/play.php?id=1244377
 #EXTINF:-1 tvg-id="1109395" tvg-name="ES | No Event" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="BUNDESLIGA PPV",ES | No Event
 https://v5on.site/play.php?id=1109395
@@ -4211,7 +4211,7 @@ https://v5on.site/play.php?id=1248617
 https://v5on.site/play.php?id=1248618
 #EXTINF:-1 tvg-id="1269459" tvg-name="End  NCAA Basketball | ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",End  NCAA Basketball | ES
 https://v5on.site/play.php?id=1269459
-#EXTINF:-1 tvg-id="1269460" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
+#EXTINF:-1 tvg-id="1269460" tvg-name="Live  Curling, Slalom, Estilo libre, Slalom & Biatlón  ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Live  Curling, Slalom, Estilo libre, Slalom & Biatlón  ES
 https://v5on.site/play.php?id=1269460
 #EXTINF:-1 tvg-id="1269461" tvg-name="End  NFL Game Pass | ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",End  NFL Game Pass | ES
 https://v5on.site/play.php?id=1269461
@@ -4229,7 +4229,7 @@ https://v5on.site/play.php?id=1269466
 https://v5on.site/play.php?id=1269467
 #EXTINF:-1 tvg-id="1269468" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1269468
-#EXTINF:-1 tvg-id="1269470" tvg-name="Next  07:55 (GMT)  Curling, Slalom, Estilo libre, Slalom & Biatlón  ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Next  07:55 (GMT)  Curling, Slalom, Estilo libre, Slalom & Biatlón  ES
+#EXTINF:-1 tvg-id="1269470" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1269470
 #EXTINF:-1 tvg-id="1269471" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1269471
@@ -6067,11 +6067,11 @@ https://v5on.site/play.php?id=623172
 https://v5on.site/play.php?id=623308
 #EXTINF:-1 tvg-id="623309" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623309
-#EXTINF:-1 tvg-id="623310" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623310" tvg-name="Live  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623310
 #EXTINF:-1 tvg-id="623311" tvg-name="End  NFL Game Pass | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NFL Game Pass | IT
 https://v5on.site/play.php?id=623311
-#EXTINF:-1 tvg-id="623312" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623312" tvg-name="Live  Curling, Sci alpino, Sci di fondo (ES1)  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Curling, Sci alpino, Sci di fondo (ES1)  IT
 https://v5on.site/play.php?id=623312
 #EXTINF:-1 tvg-id="623313" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=623313
@@ -6155,7 +6155,7 @@ https://v5on.site/play.php?id=1235777
 https://v5on.site/play.php?id=1235778
 #EXTINF:-1 tvg-id="1236027" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236027
-#EXTINF:-1 tvg-id="1236032" tvg-name="Next  07:00 (GMT)  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  07:00 (GMT)  Radio TV Serie A | IT
+#EXTINF:-1 tvg-id="1236032" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236032
 #EXTINF:-1 tvg-id="1504728" tvg-name="Next  15:40 (GMT)  Curling (ES1)  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  15:40 (GMT)  Curling (ES1)  IT
 https://v5on.site/play.php?id=1504728
@@ -6181,7 +6181,7 @@ https://v5on.site/play.php?id=1504747
 https://v5on.site/play.php?id=1235775
 #EXTINF:-1 tvg-id="1236028" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236028
-#EXTINF:-1 tvg-id="1236033" tvg-name="Next  08:00 (GMT)  Curling, Sci alpino, Sci di fondo (ES1)  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  08:00 (GMT)  Curling, Sci alpino, Sci di fondo (ES1)  IT
+#EXTINF:-1 tvg-id="1236033" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236033
 #EXTINF:-1 tvg-id="1236036" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236036
