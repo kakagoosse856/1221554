@@ -463,9 +463,29 @@
     <desc>The incident at Plant Quetta occurred two weeks ago. Suletta is at the academy and looks toward seeing Miorine again.</desc>
     <date>2026-02-19</date>
   </programme>
-  <programme channel="369848" start="20260219220000 +0700" stop="20260220000000 +0700">
+  <programme channel="369848" start="20260219220000 +0700" stop="20260219223000 +0700">
     <title lang="zh">RAGNA CRIMSON</title>
     <desc>The neck-and-neck battle between Kamui and Ragna reminds Kamui of Gilzea, the dragon who defeated him in the past.</desc>
     <date>2026-02-19</date>
+  </programme>
+  <programme channel="369848" start="20260219223000 +0700" stop="20260219230000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The battle between Ragna and Kamui finally ends and Ultimatia tries using her regained power to bring everyone back.</desc>
+    <date>2026-02-19</date>
+  </programme>
+  <programme channel="369848" start="20260219230000 +0700" stop="20260219233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Lily subjugates Akutsu, who refuses to hunt demons. She activates his collar, making his body move against his will.</desc>
+    <date>2026-02-19</date>
+  </programme>
+  <programme channel="369848" start="20260219233000 +0700" stop="20260220000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu rescues Lily, and they hunt demons instead of dating. As they investigate wild dog attacks, a sinister gaze watches them.</desc>
+    <date>2026-02-19</date>
+  </programme>
+  <programme channel="369848" start="20260220000000 +0700" stop="20260221000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
+    <desc>Plant Quetta has been attacked by a pair of Gundams. Miorine is separated from Suletta.</desc>
+    <date>2026-02-20</date>
   </programme>
 </tv>
