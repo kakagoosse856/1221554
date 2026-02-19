@@ -463,9 +463,29 @@
     <desc>Behind the glamorous open campus, Suletta learns what Sophie wants to get through the duel.</desc>
     <date>2026-02-20</date>
   </programme>
-  <programme channel="369848" start="20260220220000 +0700" stop="20260221000000 +0700">
+  <programme channel="369848" start="20260220220000 +0700" stop="20260220223000 +0700">
     <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
     <desc>Shiraishi is so ordinary that no one notices him at all, but Kubo sitting next to him does. One day, she talks to him.</desc>
     <date>2026-02-20</date>
+  </programme>
+  <programme channel="369848" start="20260220223000 +0700" stop="20260220230000 +0700">
+    <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
+    <desc>Shiraishi visits a bookstore to buy a new book but the automatic door can't sense him! Luckily, he meets Kubo.</desc>
+    <date>2026-02-20</date>
+  </programme>
+  <programme channel="369848" start="20260220230000 +0700" stop="20260220233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu rescues Lily, and they hunt demons instead of dating. As they investigate wild dog attacks, a sinister gaze watches them.</desc>
+    <date>2026-02-20</date>
+  </programme>
+  <programme channel="369848" start="20260220233000 +0700" stop="20260221000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu rescues Lily, skipping their date for a demon hunt. As they investigate wild dog attacks, a menacing gaze follows them.</desc>
+    <date>2026-02-20</date>
+  </programme>
+  <programme channel="369848" start="20260221000000 +0700" stop="20260222000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>The incident at Plant Quetta occurred two weeks ago. Suletta is at the academy and looks toward seeing Miorine again.</desc>
+    <date>2026-02-21</date>
   </programme>
 </tv>
