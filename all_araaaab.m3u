@@ -1055,8 +1055,6 @@ https://v5on.site/play.php?id=7736
 https://v5on.site/play.php?id=7733
 #EXTINF:-1 tvg-id="7728" tvg-name="Dzair News" tvg-logo="http://138.199.27.237:8080/0tv_logo/156.png" group-title="ALGERIA",Dzair News
 https://v5on.site/play.php?id=7728
-#EXTINF:-1 tvg-id="7729" tvg-name="Dzair Jannah" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/DZAIRJANNAH-1.png" group-title="ALGERIA",Dzair Jannah
-https://v5on.site/play.php?id=7729
 #EXTINF:-1 tvg-id="12357" tvg-name="HAYAT" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/El_Hayat_TV.png" group-title="ALGERIA",HAYAT
 https://v5on.site/play.php?id=12357
 #EXTINF:-1 tvg-id="141594" tvg-name="ELWATANIA TV ALGERIA" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/EL WATANIA ALGERIE(1).png" group-title="ALGERIA",ELWATANIA TV ALGERIA
@@ -1069,8 +1067,6 @@ https://v5on.site/play.php?id=7732
 https://v5on.site/play.php?id=255754
 #EXTINF:-1 tvg-id="255880" tvg-name="Zahra TV" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/zahratv.png" group-title="ALGERIA",Zahra TV
 https://v5on.site/play.php?id=255880
-#EXTINF:-1 tvg-id="12356" tvg-name="Echorouk +" tvg-logo="http://138.199.27.237:8080/0tv_logo/719.png" group-title="ALGERIA",Echorouk +
-https://v5on.site/play.php?id=12356
 #EXTINF:-1 tvg-id="201253" tvg-name="AL24 News" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/alg-24.png" group-title="ALGERIA",AL24 News
 https://v5on.site/play.php?id=201253
 #EXTINF:-1 tvg-id="201421" tvg-name="Algeria N1" tvg-logo="http://138.199.27.237:8080/AFRICA/ALGERIA/El Djazair N1.png" group-title="ALGERIA",Algeria N1
@@ -1099,8 +1095,6 @@ https://v5on.site/play.php?id=7918
 https://v5on.site/play.php?id=7916
 #EXTINF:-1 tvg-id="227827" tvg-name="Hannibal TNT" tvg-logo="http://138.199.27.237:8080/0tv_logo/18.png" group-title="TUNISIA",Hannibal TNT
 https://v5on.site/play.php?id=227827
-#EXTINF:-1 tvg-id="53943" tvg-name="Watania Educative" tvg-logo="http://138.199.27.237:8080/AFRICA/TUNISIA/educat.jpg" group-title="TUNISIA",Watania Educative
-https://v5on.site/play.php?id=53943
 #EXTINF:-1 tvg-id="7912" tvg-name="AL JANOUBIA TV" tvg-logo="http://138.199.27.237:8080/0tv_logo/7.png" group-title="TUNISIA",AL JANOUBIA TV
 https://v5on.site/play.php?id=7912
 #EXTINF:-1 tvg-id="227821" tvg-name="Al Janoubia TNT" tvg-logo="http://138.199.27.237:8080/AFRICA/TUNISIA/ALJANOUBIA-1.png" group-title="TUNISIA",Al Janoubia TNT
@@ -1115,8 +1109,6 @@ https://v5on.site/play.php?id=7910
 https://v5on.site/play.php?id=227835
 #EXTINF:-1 tvg-id="9015" tvg-name="Al Insen Tnt" tvg-logo="http://138.199.27.237:8080/0tv_logo/745.png" group-title="TUNISIA",Al Insen Tnt
 https://v5on.site/play.php?id=9015
-#EXTINF:-1 tvg-id="7911" tvg-name="M TUNISIA" tvg-logo="http://138.199.27.237:8080/AFRICA/TUNISIA/MTUNISIATV.png" group-title="TUNISIA",M TUNISIA
-https://v5on.site/play.php?id=7911
 #EXTINF:-1 tvg-id="227824" tvg-name="Carthage+ Tnt" tvg-logo="http://138.199.27.237:8080/0tv_logo/801.png" group-title="TUNISIA",Carthage+ Tnt
 https://v5on.site/play.php?id=227824
 #EXTINF:-1 tvg-id="7915" tvg-name="Carthage" tvg-logo="http://138.199.27.237:8080/0tv_logo/801.png" group-title="TUNISIA",Carthage
@@ -2475,10 +2467,6 @@ https://v5on.site/play.php?id=77065
 https://v5on.site/play.php?id=165
 #EXTINF:-1 tvg-id="201429" tvg-name="HOLY QURAN" tvg-logo="http://138.199.27.237:8080/ISLAMIC/islamic.png" group-title="ISLAM TV",HOLY QURAN
 https://v5on.site/play.php?id=201429
-#EXTINF:-1 tvg-id="1421" tvg-name="KAIFA" tvg-logo="http://138.199.27.237:8080/ARABE/KAIFA.png" group-title="ISLAM TV",KAIFA
-https://v5on.site/play.php?id=1421
-#EXTINF:-1 tvg-id="201430" tvg-name="Menhag Alnbowa" tvg-logo="http://138.199.27.237:8080/ISLAMIC/islamic.png" group-title="ISLAM TV",Menhag Alnbowa
-https://v5on.site/play.php?id=201430
 #EXTINF:-1 tvg-id="223" tvg-name="Safa TV" tvg-logo="http://138.199.27.237:8080/ISLAMIC/SAFA.png" group-title="ISLAM TV",Safa TV
 https://v5on.site/play.php?id=223
 #EXTINF:-1 tvg-id="1293" tvg-name="Saudia Iqraa Tv" tvg-logo="http://138.199.27.237:8080/ARABE/IQRAA.png" group-title="ISLAM TV",Saudia Iqraa Tv
@@ -2487,12 +2475,8 @@ https://v5on.site/play.php?id=1293
 https://v5on.site/play.php?id=169
 #EXTINF:-1 tvg-id="231128" tvg-name="الرقية الشرعية" tvg-logo="https://play-lh.googleusercontent.com/wHtZAlotn8nvUwlZtRl7YqHq2KqtMDfNx_gvtNww-r_-sj_yKA2gr3jJdiu_bpiYK-pG=w240-h480-rw" group-title="ISLAM TV",الرقية الشرعية
 https://v5on.site/play.php?id=231128
-#EXTINF:-1 tvg-id="28185" tvg-name="Ahel Al Quran" tvg-logo="https://www.ahlu.tv/uploads/Logo-1.png" group-title="ISLAM TV",Ahel Al Quran
-https://v5on.site/play.php?id=28185
 #EXTINF:-1 tvg-id="170860" tvg-name="IBN OUTHAYMINE" tvg-logo="https://www.ahlu.tv/uploads/Logo-1.png" group-title="ISLAM TV",IBN OUTHAYMINE
 https://v5on.site/play.php?id=170860
-#EXTINF:-1 tvg-id="28182" tvg-name="Alerth Alnbawi" tvg-logo="http://138.199.27.237:8080/ISLAMIC/islamic.png" group-title="ISLAM TV",Alerth Alnbawi
-https://v5on.site/play.php?id=28182
 #EXTINF:-1 tvg-id="170861" tvg-name="Al Fath Sonnah TV" tvg-logo="http://138.199.27.237:8080/ISLAMIC/1519892433163.png" group-title="ISLAM TV",Al Fath Sonnah TV
 https://v5on.site/play.php?id=170861
 #EXTINF:-1 tvg-id="201242" tvg-name="Al Huda TV" tvg-logo="http://138.199.27.237:8080/AFRICA/huda-tv.png" group-title="ISLAM TV",Al Huda TV
@@ -2513,14 +2497,10 @@ https://v5on.site/play.php?id=168
 https://v5on.site/play.php?id=201244
 #EXTINF:-1 tvg-id="201245" tvg-name="BANGAWAZ TV" tvg-logo="http://138.199.27.237:8080/ISLAMIC/islamic.png" group-title="ISLAM TV",BANGAWAZ TV
 https://v5on.site/play.php?id=201245
-#EXTINF:-1 tvg-id="201248" tvg-name="DUA CHANNEL" tvg-logo="http://138.199.27.237:8080/ISLAMIC/islamic.png" group-title="ISLAM TV",DUA CHANNEL
-https://v5on.site/play.php?id=201248
 #EXTINF:-1 tvg-id="164" tvg-name="Iqraa" tvg-logo="http://138.199.27.237:8080/ARABE/IQRAA.png" group-title="ISLAM TV",Iqraa
 https://v5on.site/play.php?id=164
 #EXTINF:-1 tvg-id="170" tvg-name="Madinha For Sunnah" tvg-logo="http://138.199.27.237:8080/ISLAMIC/SUNNA.png" group-title="ISLAM TV",Madinha For Sunnah
 https://v5on.site/play.php?id=170
-#EXTINF:-1 tvg-id="28180" tvg-name="Mahaba tv" tvg-logo="http://138.199.27.237:8080/IRAN/mahabadtv.png" group-title="ISLAM TV",Mahaba tv
-https://v5on.site/play.php?id=28180
 #EXTINF:-1 tvg-id="166" tvg-name="Majd Quran" tvg-logo="http://138.199.27.237:8080/ISLAMIC/ALMAJDHOLYQURAN.png" group-title="ISLAM TV",Majd Quran
 https://v5on.site/play.php?id=166
 #EXTINF:-1 tvg-id="14364" tvg-name="Makkah live For Quran" tvg-logo="http://138.199.27.237:8080/ASIA/SAUDIARABIA/SAUDIQURAN.png" group-title="ISLAM TV",Makkah live For Quran
