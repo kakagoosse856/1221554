@@ -1668,3 +1668,388 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38772.m3u8
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38810.m3u8
 #EXTINF:0 CUID="17897" tvg-name="EGY.El MOLED TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofovGMs6aYahaIJsf-nxR8Lv0dqBsrKauMyEqYinMSA&s" group-title="|AR| EGYPT مصر ",EGY.El MOLED TV
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38820.m3u8
+#EXTM3U
+#EXTINF:0 CUID="17947" tvg-name="IRQ :  ALNAHRAIN TV 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkECtqnoANLEa3NNslmcAeVgTNPpxRZEA6g&s" group-title="|AR| IRAQ    العراق",IRQ :  ALNAHRAIN TV 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547528.m3u8
+#EXTINF:0 CUID="17948" tvg-name="IRQ :  1 IRAQ TV" group-title="|AR| IRAQ    العراق",IRQ :  1 IRAQ TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/525726.m3u8
+#EXTINF:0 CUID="17949" tvg-name="IRQ : IRAQI DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iraGif9VlIKHx05XbNX6gA57a4H.jpg" group-title="|AR| IRAQ    العراق",IRQ : IRAQI DRAMA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/394487.m3u8
+#EXTINF:0 CUID="17950" tvg-name="IRQ : MBC IRAQ 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| IRAQ    العراق",IRQ : MBC IRAQ 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46016.m3u8
+#EXTINF:0 CUID="17951" tvg-name="IRQ.AL SHARQIYA HD" group-title="|AR| IRAQ    العراق",IRQ.AL SHARQIYA HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/266367.m3u8
+#EXTINF:0 CUID="17952" tvg-name="IRQ.AL SHARQIYA FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="|AR| IRAQ    العراق",IRQ.AL SHARQIYA FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45584.m3u8
+#EXTINF:0 CUID="17953" tvg-name="IRQ: AL SHARQIYA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="|AR| IRAQ    العراق",IRQ: AL SHARQIYA NEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46230.m3u8
+#EXTINF:0 CUID="17954" tvg-name="IRQ: AL SHARQIYA NEWS FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="|AR| IRAQ    العراق",IRQ: AL SHARQIYA NEWS FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60763.m3u8
+#EXTINF:0 CUID="17955" tvg-name="IRQ : ALJANOUBIA IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrD2rM0BLOu8wG8F3DxrkeASGvl8ABXHXmiSjhvSzhg&s" group-title="|AR| IRAQ    العراق",IRQ : ALJANOUBIA IRAQ
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/336067.m3u8
+#EXTINF:0 CUID="17956" tvg-name="IRQ: Albaghdadiya" tvg-logo="http://go4.pw/ASIA/IRAQ/ALBAGHDADIYA.png" group-title="|AR| IRAQ    العراق",IRQ: Albaghdadiya
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/56857.m3u8
+#EXTINF:0 CUID="17957" tvg-name="IRQ : ANB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3k7ILV1mrdZcVu4DS2hD8fFxUVlHZOgryynonsDjr&s" group-title="|AR| IRAQ    العراق",IRQ : ANB
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46018.m3u8
+#EXTINF:0 CUID="17958" tvg-name="IRQ : Al Rabiaa Movies" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Movies
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514784.m3u8
+#EXTINF:0 CUID="17959" tvg-name="IRQ : Al Rabiaa Musica" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Musica
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514785.m3u8
+#EXTINF:0 CUID="17960" tvg-name="IRQ : Al Rabiaa TV" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514786.m3u8
+#EXTINF:0 CUID="17961" tvg-name="IRQ : Rabiaa Sport 3" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Rabiaa Sport 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514787.m3u8
+#EXTINF:0 CUID="17962" tvg-name="IRQ : Al Rabiaa Sport 2" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Sport 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514788.m3u8
+#EXTINF:0 CUID="17963" tvg-name="IRQ : Al Rabiaa Sport 1" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Sport 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514789.m3u8
+#EXTINF:0 CUID="17964" tvg-name="IRQ : Al Rabiaa Quran" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Quran
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514790.m3u8
+#EXTINF:0 CUID="17965" tvg-name="IRQ : Al Rabiaa Geo" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Geo
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514791.m3u8
+#EXTINF:0 CUID="17966" tvg-name="IRQ : Al Rabiaa Series" tvg-logo="https://alrabiaagroup.tv/movies.png" group-title="|AR| IRAQ    العراق",IRQ : Al Rabiaa Series
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/514792.m3u8
+#EXTINF:0 CUID="17967" tvg-name="IRQ :  Al Rabiaa Iraq" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/al-rabiaa.png" group-title="|AR| IRAQ    العراق",IRQ :  Al Rabiaa Iraq
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/177688.m3u8
+#EXTINF:0 CUID="17968" tvg-name="IRQ : Alhadath Iraqia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/1200px-Al_Hadath_TV_logo_2023.svg.png" group-title="|AR| IRAQ    العراق",IRQ : Alhadath Iraqia
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46019.m3u8
+#EXTINF:0 CUID="17969" tvg-name="IRQ : IRAQIA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="|AR| IRAQ    العراق",IRQ : IRAQIA NEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46017.m3u8
+#EXTINF:0 CUID="17970" tvg-name="IRQ.Iraqia News HD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="|AR| IRAQ    العراق",IRQ.Iraqia News HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60747.m3u8
+#EXTINF:0 CUID="17971" tvg-name="IRQ : DIJLAH TARAB  TV" tvg-logo="https://i.imgur.com/UJqDWVB.png" group-title="|AR| IRAQ    العراق",IRQ : DIJLAH TARAB  TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541648.m3u8
+#EXTINF:0 CUID="17972" tvg-name="IRQ : DIJLAH ZAMAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aaNqcqZbWS3XzWJ6DrFXPmC1f3_QAU2a5vnM8HmC&s" group-title="|AR| IRAQ    العراق",IRQ : DIJLAH ZAMAN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46015.m3u8
+#EXTINF:0 CUID="17973" tvg-name="IRQ : Dijlah TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aaNqcqZbWS3XzWJ6DrFXPmC1f3_QAU2a5vnM8HmC&s" group-title="|AR| IRAQ    العراق",IRQ : Dijlah TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46014.m3u8
+#EXTINF:0 CUID="17974" tvg-name="IRQ.IRAQ FUTURE" tvg-logo="http://go4.pw/ASIA/IRAQ/IRAQ_FUTURE.png" group-title="|AR| IRAQ    العراق",IRQ.IRAQ FUTURE
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45563.m3u8
+#EXTINF:0 CUID="17975" tvg-name="IRQ.AL ANWAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR.png" group-title="|AR| IRAQ    العراق",IRQ.AL ANWAR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45564.m3u8
+#EXTINF:0 CUID="17976" tvg-name="IRQ.AL ANWAR 2" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR2.png" group-title="|AR| IRAQ    العراق",IRQ.AL ANWAR 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45565.m3u8
+#EXTINF:0 CUID="17977" tvg-name="IRQ.AL AHED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofwhJBGUPmRtnxl6PqEFkORPHWR_w5Iupl-xQGonKpA&s" group-title="|AR| IRAQ    العراق",IRQ.AL AHED
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45582.m3u8
+#EXTINF:0 CUID="17978" tvg-name="IRQ : Karbala TV" tvg-logo="http://go4.pw/ASIA/IRAQ/KARBALATV.png" group-title="|AR| IRAQ    العراق",IRQ : Karbala TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/90485.m3u8
+#EXTINF:0 CUID="17979" tvg-name="IRQ.AL SHARQIA FROM KARBALA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZprF0KVeHbz1AAgxng3wVjmv9JvoYaXCuHi7hOlXgg&s" group-title="|AR| IRAQ    العراق",IRQ.AL SHARQIA FROM KARBALA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45585.m3u8
+#EXTINF:0 CUID="17980" tvg-name="IRQ.AL TAGHIER" tvg-logo="http://go4.pw/IRAQ/AL-TAGHIER.png" group-title="|AR| IRAQ    العراق",IRQ.AL TAGHIER
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45586.m3u8
+#EXTINF:0 CUID="17981" tvg-name="IRQ.W.TV" tvg-logo="https://www.marefa.org/w/images/thumb/4/44/Wwtv.png/1200px-Wwtv.png" group-title="|AR| IRAQ    العراق",IRQ.W.TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45550.m3u8
+#EXTINF:0 CUID="17982" tvg-name="IRQ.Al FALLUJA" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFALOUJA.png" group-title="|AR| IRAQ    العراق",IRQ.Al FALLUJA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45555.m3u8
+#EXTINF:0 CUID="17983" tvg-name="IRQ.HONA BAGHDAD" tvg-logo="http://go4.pw/ASIA/IRAQ/HONABAGHDAD.png" group-title="|AR| IRAQ    العراق",IRQ.HONA BAGHDAD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45557.m3u8
+#EXTINF:0 CUID="17984" tvg-name="IRQ.AL FORAT TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFORATTV.png" group-title="|AR| IRAQ    العراق",IRQ.AL FORAT TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45571.m3u8
+#EXTINF:0 CUID="17985" tvg-name="IRQ.AL HURRA IRAQ TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALHURRAIRAQ.png" group-title="|AR| IRAQ    العراق",IRQ.AL HURRA IRAQ TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45572.m3u8
+#EXTINF:0 CUID="17986" tvg-name="IRQ.AL MAAREF TV" tvg-logo="https://almaaref.ch/wp-content/uploads/2021/10/Almaaref-Logo.png" group-title="|AR| IRAQ    العراق",IRQ.AL MAAREF TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45574.m3u8
+#EXTINF:0 CUID="17987" tvg-name="IRQ.UTV" tvg-logo="http://go4.pw/ASIA/IRAQ/UTV-Iraq.png" group-title="|AR| IRAQ    العراق",IRQ.UTV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45575.m3u8
+#EXTINF:0 CUID="17988" tvg-name="IRQ.BABYLON TV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg" group-title="|AR| IRAQ    العراق",IRQ.BABYLON TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45576.m3u8
+#EXTINF:0 CUID="17989" tvg-name="IRQ.ALGHADEER" tvg-logo="http://go4.pw/ASIA/IRAQ/ALGHADEER.png" group-title="|AR| IRAQ    العراق",IRQ.ALGHADEER
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45591.m3u8
+#EXTINF:0 CUID="17990" tvg-name="IRQ:W TV Watan 4K" tvg-logo="https://media0043.elcinema.com/tvguide/1192_1.png" group-title="|AR| IRAQ    العراق",IRQ:W TV Watan 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/208809.m3u8
+#EXTINF:0 CUID="17991" tvg-name="IRQ.W TV Watan HD" tvg-logo="https://media0043.elcinema.com/tvguide/1192_1.png" group-title="|AR| IRAQ    العراق",IRQ.W TV Watan HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45606.m3u8
+#EXTINF:0 CUID="17992" tvg-name="IRQ.SALAHDEN TV  1" tvg-logo="http://go4.pw/IRAQ/salahaddin.png" group-title="|AR| IRAQ    العراق",IRQ.SALAHDEN TV  1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45610.m3u8
+#EXTINF:0 CUID="17993" tvg-name="IRQ.SAMARRA TV" tvg-logo="http://go4.pw/ASIA/IRAQ/SAMARRAE.png" group-title="|AR| IRAQ    العراق",IRQ.SAMARRA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45611.m3u8
+#EXTINF:0 CUID="17994" tvg-name="IRQ. SAWT ALITRA TV" tvg-logo="https://trend.nl7za.com/wp-content/uploads/2023/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%B9%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-Sawt-Alitra-Tv.png" group-title="|AR| IRAQ    العراق",IRQ. SAWT ALITRA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45612.m3u8
+#EXTINF:0 CUID="17995" tvg-name="IRQ.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="|AR| IRAQ    العراق",IRQ.TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45615.m3u8
+#EXTINF:0 CUID="17996" tvg-name="IRQ. ALMUSTAFA" tvg-logo="https://almustafaa.tv/images/logo.png" group-title="|AR| IRAQ    العراق",IRQ. ALMUSTAFA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/431163.m3u8
+#EXTINF:0 CUID="17997" tvg-name="IRQ : ALQAMAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALQAMAR.png" group-title="|AR| IRAQ    العراق",IRQ : ALQAMAR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46028.m3u8
+#EXTINF:0 CUID="17998" tvg-name="IRQ.AHLULBAYT DUCUMENARIES  4K" group-title="|AR| IRAQ    العراق",IRQ.AHLULBAYT DUCUMENARIES  4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529144.m3u8
+#EXTINF:0 CUID="17999" tvg-name="IRQ. AQILA" tvg-logo="http://go4.pw/ASIA/IRAQ/ALAQILA.png" group-title="|AR| IRAQ    العراق",IRQ. AQILA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60743.m3u8
+#EXTINF:0 CUID="18000" tvg-name="EmanTv (1080p)" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="|AR| IRAQ    العراق",EmanTv (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541652.m3u8
+#EXTINF:0 CUID="18001" tvg-name="IRQ.AHLULBAYT TV" tvg-logo="https://e7.pngegg.com/pngimages/674/963/png-clipart-ahlulbayt-tv-television-channel-television-show-live-television-outlook-festival-television-text.png" group-title="|AR| IRAQ    العراق",IRQ.AHLULBAYT TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45558.m3u8
+#EXTINF:0 CUID="18002" tvg-name="IMAM HUSSEIN URDU" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IMAM HUSSEIN URDU
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45553.m3u8
+#EXTINF:0 CUID="18003" tvg-name="IRQ.IMAM HUSSEIN TURKISH" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN TURKISH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45616.m3u8
+#EXTINF:0 CUID="18004" tvg-name="IRQ.IMAM HUSSEIN FARSI" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN FARSI
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45560.m3u8
+#EXTINF:0 CUID="18005" tvg-name="IRQ.IMAM HUSSEIN ENGLISH" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN ENGLISH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45605.m3u8
+#EXTINF:0 CUID="18006" tvg-name="IRQ.IMAM HUSSEIN 1" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/223715.m3u8
+#EXTINF:0 CUID="18007" tvg-name="IRQ.IMAM HUSSEIN TV 2" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN TV 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60755.m3u8
+#EXTINF:0 CUID="18008" tvg-name="IRQ.IMAM HUSSEIN 3" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM HUSSEIN 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/223716.m3u8
+#EXTINF:0 CUID="18009" tvg-name="IRQ : IMAM HOSSAIN 1" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ : IMAM HOSSAIN 1
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435503.m3u8
+#EXTINF:0 CUID="18010" tvg-name="IRQ : IMAM HOSSAIN 2" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ : IMAM HOSSAIN 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435504.m3u8
+#EXTINF:0 CUID="18011" tvg-name="IRQ : IMAM HOSSAIN 3" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ : IMAM HOSSAIN 3
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435506.m3u8
+#EXTINF:0 CUID="18012" tvg-name="IRQ : IMAM HOSSAIN 4" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ : IMAM HOSSAIN 4
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435507.m3u8
+#EXTINF:0 CUID="18013" tvg-name="IRQ : IMAM HOSSAIN 6" tvg-logo="http://go4.pw/ASIA/IRAQ/TV%2002.png" group-title="|AR| IRAQ    العراق",IRQ : IMAM HOSSAIN 6
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435509.m3u8
+#EXTINF:0 CUID="18014" tvg-name="IRQ.IMAM ALI TV" tvg-logo="https://w7.pngwing.com/pngs/725/929/png-transparent-imam-ali-mosque-shia-islam-rajab-graphy-others-text-photography-logo.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM ALI TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/223713.m3u8
+#EXTINF:0 CUID="18015" tvg-name="FarmodaTV (1080p)" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="|AR| IRAQ    العراق",FarmodaTV (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541653.m3u8
+#EXTINF:0 CUID="18016" tvg-name="IRQ.IMAM SADEQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jafar_as-Sadiq_Calligraphy.png/1200px-Jafar_as-Sadiq_Calligraphy.png" group-title="|AR| IRAQ    العراق",IRQ.IMAM SADEQ
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45600.m3u8
+#EXTINF:0 CUID="18017" tvg-name="IRQ.Al Sumaria TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSUMARIATV.png" group-title="|AR| IRAQ    العراق",IRQ.Al Sumaria TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60779.m3u8
+#EXTINF:0 CUID="18018" tvg-name="IRQ.Al Sumaria HD TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSUMARIATV.png" group-title="|AR| IRAQ    العراق",IRQ.Al Sumaria HD TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60780.m3u8
+#EXTINF:0 CUID="18019" tvg-name="IRQ: DiwanTV" tvg-logo="https://seeklogo.com/images/D/Diwan-logo-7E48B8159F-seeklogo.com.png" group-title="|AR| IRAQ    العراق",IRQ: DiwanTV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60795.m3u8
+#EXTINF:0 CUID="18020" tvg-name="IRQ.AFAQ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/%D9%82%D9%86%D8%A7%D8%A9_%D8%A3%D9%81%D8%A7%D9%82.png" group-title="|AR| IRAQ    العراق",IRQ.AFAQ TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60801.m3u8
+#EXTINF:0 CUID="18021" tvg-name="IRQ. : ANB" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9d/Anb_bank_logo_2022.png" group-title="|AR| IRAQ    العراق",IRQ. : ANB
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/287.m3u8
+#EXTINF:0 CUID="18022" tvg-name="IRQ. Suroyo TV" tvg-logo="http://go4.pw/CHRISTAIN/SUROYOTV.png" group-title="|AR| IRAQ    العراق",IRQ. Suroyo TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/223719.m3u8
+#EXTINF:0 CUID="18023" tvg-name="IRQ.TURKMENELI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="|AR| IRAQ    العراق",IRQ.TURKMENELI HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/128486.m3u8
+#EXTINF:0 CUID="18024" tvg-name="IRQ.IRAQIA TURKUMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="|AR| IRAQ    العراق",IRQ.IRAQIA TURKUMAN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45590.m3u8
+#EXTINF:0 CUID="18025" tvg-name="IRQ.Iraqia Syriac" tvg-logo="http://go4.pw/ASIA/IRAQ/iraqia-syriac.png" group-title="|AR| IRAQ    العراق",IRQ.Iraqia Syriac
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60744.m3u8
+#EXTINF:0 CUID="18026" tvg-name="IRQ.Iraqia Sport HD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="|AR| IRAQ    العراق",IRQ.Iraqia Sport HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60745.m3u8
+#EXTINF:0 CUID="18027" tvg-name="IRQ  : Iraqiya Sports 4K" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="|AR| IRAQ    العراق",IRQ  : Iraqiya Sports 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/277.m3u8
+#EXTINF:0 CUID="18028" tvg-name="IRQ.AL TALEAA" tvg-logo="http://go4.pw/IRAQ/AL-TALEAA-TV.png" group-title="|AR| IRAQ    العراق",IRQ.AL TALEAA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45549.m3u8
+#EXTINF:0 CUID="18029" tvg-name="IRQ.AL ETEJAH TV" tvg-logo="http://go4.pw/IRAQ/Al-ETEJAH.png" group-title="|AR| IRAQ    العراق",IRQ.AL ETEJAH TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45562.m3u8
+#EXTINF:0 CUID="18030" tvg-name="IRQ.AL AWHAD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALAWHAD.png" group-title="|AR| IRAQ    العراق",IRQ.AL AWHAD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45566.m3u8
+#EXTINF:0 CUID="18031" tvg-name="IRQ.AL RAFIDAIN" tvg-logo="https://alrafidain.tv/wp-content/uploads/2022/04/%D9%84%D9%88%D8%BA%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-1.png" group-title="|AR| IRAQ    العراق",IRQ.AL RAFIDAIN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45567.m3u8
+#EXTINF:0 CUID="18032" tvg-name="IRQ.AL KAWTHAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALKAWTHAR.png" group-title="|AR| IRAQ    العراق",IRQ.AL KAWTHAR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45573.m3u8
+#EXTINF:0 CUID="18033" tvg-name="IRQ.AL MASSAR AL OULA" tvg-logo="http://go4.pw/IRAQ/ALMASSAR.png" group-title="|AR| IRAQ    العراق",IRQ.AL MASSAR AL OULA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45577.m3u8
+#EXTINF:0 CUID="18034" tvg-name="IRQ.AL MAWSLEYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="|AR| IRAQ    العراق",IRQ.AL MAWSLEYA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45579.m3u8
+#EXTINF:0 CUID="18035" tvg-name="IRQ.AL RASHEED" tvg-logo="http://go4.pw/ASIA/IRAQ/ALRASHEEDTV.png" group-title="|AR| IRAQ    العراق",IRQ.AL RASHEED
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45583.m3u8
+#EXTINF:0 CUID="18036" tvg-name="IRQ. AL RASHEED TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALRASHEEDTV.png" group-title="|AR| IRAQ    العراق",IRQ. AL RASHEED TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/14554.m3u8
+#EXTINF:0 CUID="18037" tvg-name="IRQ.AL NAEEM TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALNAEEM.png" group-title="|AR| IRAQ    العراق",IRQ.AL NAEEM TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45580.m3u8
+#EXTINF:0 CUID="18038" tvg-name="IRQ.ALANBAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANBAR.png" group-title="|AR| IRAQ    العراق",IRQ.ALANBAR
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45589.m3u8
+#EXTINF:0 CUID="18039" tvg-name="IRQ.DUA" tvg-logo="http://go4.pw/ASIA/IRAQ/DUATV.png" group-title="|AR| IRAQ    العراق",IRQ.DUA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45596.m3u8
+#EXTINF:0 CUID="18040" tvg-name="IRQ.MARJAEYAT 2" tvg-logo="http://go4.pw/IRAQ/MARJAEYAT-TV.png" group-title="|AR| IRAQ    العراق",IRQ.MARJAEYAT 2
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45599.m3u8
+#EXTINF:0 CUID="18041" tvg-name="IRQ.ASSIRAT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjD7BeC-Zv6s5IERZG57cdt-Q5-3lqr3lXOqpSFMIRw&s" group-title="|AR| IRAQ    العراق",IRQ.ASSIRAT TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45602.m3u8
+#EXTINF:0 CUID="18042" tvg-name="IRQ.I News HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="|AR| IRAQ    العراق",IRQ.I News HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60751.m3u8
+#EXTINF:0 CUID="18043" tvg-name="IRQ.NEWS" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="|AR| IRAQ    العراق",IRQ.NEWS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/45607.m3u8
+#EXTINF:0 CUID="18044" tvg-name="IRQ : ALMANAR FHD" tvg-logo="http://go4.pw/ASIA/LEBANON/ALMANAR.png" group-title="|AR| IRAQ    العراق",IRQ : ALMANAR FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46030.m3u8
+#EXTINF:0 CUID="18045" tvg-name="IRQ : AlMayadeen.TV" tvg-logo="http://go4.pw/ASIA/LEBANON/ALMAYADEENTV.png" group-title="|AR| IRAQ    العراق",IRQ : AlMayadeen.TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46029.m3u8
+#EXTINF:0 CUID="18046" tvg-name="IRQ : ALAYAM" tvg-logo="https://www.alayam.com/assets/images/alayam-logo-small.png" group-title="|AR| IRAQ    العراق",IRQ : ALAYAM
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46027.m3u8
+#EXTINF:0 CUID="18047" tvg-name="IRQ : Shaaer TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHAAER.png" group-title="|AR| IRAQ    العراق",IRQ : Shaaer TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46025.m3u8
+#EXTINF:0 CUID="18048" tvg-name="IRQ : Hona Baghdad" tvg-logo="http://go4.pw/ASIA/IRAQ/HONABAGHDAD.png" group-title="|AR| IRAQ    العراق",IRQ : Hona Baghdad
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46024.m3u8
+#EXTINF:0 CUID="18049" tvg-name="IRQ:Al Falloja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="|AR| IRAQ    العراق",IRQ:Al Falloja
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46023.m3u8
+#EXTINF:0 CUID="18050" tvg-name="IRQ : ALBAEENAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Benna_TV_logo_and_wordmark_%28H%29.svg/1024px-Benna_TV_logo_and_wordmark_%28H%29.svg.png" group-title="|AR| IRAQ    العراق",IRQ : ALBAEENAH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46021.m3u8
+#EXTINF:0 CUID="18051" tvg-name="IRQ : ALNOJABA TV" tvg-logo="http://go4.pw/ASIA/IRAQ/Al%20Nojaba%20TV.png" group-title="|AR| IRAQ    العراق",IRQ : ALNOJABA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/46020.m3u8
+#EXTINF:0 CUID="18052" tvg-name="IRQ.ALNOJABA TV" tvg-logo="http://go4.pw/ASIA/IRAQ/Al%20Nojaba%20TV.png" group-title="|AR| IRAQ    العراق",IRQ.ALNOJABA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60769.m3u8
+#EXTINF:0 CUID="18053" tvg-name="IRQ:AL AHAD 4K" tvg-logo="https://pbs.twimg.com/media/CuzvblvWgAA_eKr.png" group-title="|AR| IRAQ    العراق",IRQ:AL AHAD 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60740.m3u8
+#EXTINF:0 CUID="18054" tvg-name="IRQ.AL AHAD HD" tvg-logo="https://pbs.twimg.com/media/CuzvblvWgAA_eKr.png" group-title="|AR| IRAQ    العراق",IRQ.AL AHAD HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60799.m3u8
+#EXTINF:0 CUID="18055" tvg-name="IRQ.Kirkuk TV" tvg-logo="http://go4.pw/EUROPE/KURDISTAN/KIRKUK%20TV.png" group-title="|AR| IRAQ    العراق",IRQ.Kirkuk TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60742.m3u8
+#EXTINF:0 CUID="18056" tvg-name="IRQ.IFILM ARABIC FHD" tvg-logo="https://ar.ifilmtv.ir/img/colorize-logo-final.png" group-title="|AR| IRAQ    العراق",IRQ.IFILM ARABIC FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/286903.m3u8
+#EXTINF:0 CUID="18057" tvg-name="IRQ.IFILM ARABIC" tvg-logo="https://ar.ifilmtv.ir/img/colorize-logo-final.png" group-title="|AR| IRAQ    العراق",IRQ.IFILM ARABIC
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60757.m3u8
+#EXTINF:0 CUID="18058" tvg-name="IRQ: IRAQ 24 FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/IRAQ24.png" group-title="|AR| IRAQ    العراق",IRQ: IRAQ 24 FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/232778.m3u8
+#EXTINF:0 CUID="18059" tvg-name="IRQ.Iraq 24 HD" tvg-logo="http://go4.pw/ASIA/IRAQ/IRAQ24.png" group-title="|AR| IRAQ    العراق",IRQ.Iraq 24 HD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60754.m3u8
+#EXTINF:0 CUID="18060" tvg-name="IRQ.Alwilayah TV" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="|AR| IRAQ    العراق",IRQ.Alwilayah TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60767.m3u8
+#EXTINF:0 CUID="18061" tvg-name="IRQ.Almasalah" tvg-logo="http://go4.pw/ASIA/IRAQ/ALMASALAH.png" group-title="|AR| IRAQ    العراق",IRQ.Almasalah
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60772.m3u8
+#EXTINF:0 CUID="18062" tvg-name="IRQ.AL ESHRAQ TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALESHRAQTV.png" group-title="|AR| IRAQ    العراق",IRQ.AL ESHRAQ TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/60793.m3u8
+#EXTINF:0 CUID="18063" tvg-name="IRAQ: Alnahrain Tv النهرين" group-title="|AR| IRAQ    العراق",IRAQ: Alnahrain Tv النهرين
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547511.m3u8
+#EXTINF:0 CUID="17609" tvg-name="SP : JORDAN SPORT" tvg-logo="https://www.zarkachat.com/wp-content/uploads/2022/09/jordan-sport-32434f.jpg" group-title="|AR| JORDAN  الاردن",SP : JORDAN SPORT
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12718.m3u8
+#EXTINF:0 CUID="19444" tvg-name="JO : ALHQEQA ALDWALEH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgVeBnzHT6xG3wOyKlKiAAsIVCURvdkxAreeBMzs1&s" group-title="|AR| JORDAN  الاردن",JO : ALHQEQA ALDWALEH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/435473.m3u8
+#EXTINF:0 CUID="19445" tvg-name="JO : ROYA KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/d4/e9/dbd4e9f2-0deb-debc-eacd-b2152aa5c2af/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" group-title="|AR| JORDAN  الاردن",JO : ROYA KIDS
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/426699.m3u8
+#EXTINF:0 CUID="19446" tvg-name="JO : Roya TV Plus" tvg-logo="http://go4.pw/ASIA/JORDAN/ROYAHD.png" group-title="|AR| JORDAN  الاردن",JO : Roya TV Plus
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/271747.m3u8
+#EXTINF:0 CUID="19447" tvg-name="JO : ROYA 4K" tvg-logo="http://go4.pw/ASIA/JORDAN/ROYAHD.png" group-title="|AR| JORDAN  الاردن",JO : ROYA 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12713.m3u8
+#EXTINF:0 CUID="19448" tvg-name="JO : ROYA NEWS FHD" tvg-logo="http://go4.pw/ASIA/JORDAN/ROYAHD.png" group-title="|AR| JORDAN  الاردن",JO : ROYA NEWS FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/272.m3u8
+#EXTINF:0 CUID="19449" tvg-name="Roya الهيبة" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/o4UUz5AVJsrzhsu.png" group-title="|AR| JORDAN  الاردن",Roya الهيبة
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506055.m3u8
+#EXTINF:0 CUID="19450" tvg-name="Roya Kitchen" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/y2AB2KZz3UMXtyK.png" group-title="|AR| JORDAN  الاردن",Roya Kitchen
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506056.m3u8
+#EXTINF:0 CUID="19451" tvg-name="Roya Music" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/NH7iEqT9rXHmwxl.png" group-title="|AR| JORDAN  الاردن",Roya Music
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506057.m3u8
+#EXTINF:0 CUID="19452" tvg-name="رؤيا فلسطين" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/5Akaby168yQpPIs.png" group-title="|AR| JORDAN  الاردن",رؤيا فلسطين
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506058.m3u8
+#EXTINF:0 CUID="19453" tvg-name="Roya DRAMA" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/TtFuZdW2broxc2b.png" group-title="|AR| JORDAN  الاردن",Roya DRAMA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506059.m3u8
+#EXTINF:0 CUID="19454" tvg-name="Roya Comedy" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/y2Py5n3VFgXp0dX.png" group-title="|AR| JORDAN  الاردن",Roya Comedy
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/506060.m3u8
+#EXTINF:0 CUID="19455" tvg-name="JO : JORDAN 4K" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN  الاردن",JO : JORDAN 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/113985.m3u8
+#EXTINF:0 CUID="19456" tvg-name="JO : JORDAN FHD" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN  الاردن",JO : JORDAN FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12716.m3u8
+#EXTINF:0 CUID="19457" tvg-name="JO : AlMAMLAKA TV 4K" tvg-logo="http://go4.pw/JORDAN/ALMAMLAKAHD.png" group-title="|AR| JORDAN  الاردن",JO : AlMAMLAKA TV 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12721.m3u8
+#EXTINF:0 CUID="19458" tvg-name="JO : AlMAMLAKA TV FHD" tvg-logo="http://go4.pw/JORDAN/ALMAMLAKAHD.png" group-title="|AR| JORDAN  الاردن",JO : AlMAMLAKA TV FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/267.m3u8
+#EXTINF:0 CUID="19459" tvg-name="JO:A1 Jordan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszehETRPo2Wv_SDMDQYmqn0-xhUASvr0wUydVGuIKBQ&s" group-title="|AR| JORDAN  الاردن",JO:A1 Jordan
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12717.m3u8
+#EXTINF:0 CUID="19460" tvg-name="JO : JORDAN SPORT FHD" tvg-logo="https://www.zarkachat.com/wp-content/uploads/2022/09/jordan-sport-32434f.jpg" group-title="|AR| JORDAN  الاردن",JO : JORDAN SPORT FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4360.m3u8
+#EXTINF:0 CUID="19461" tvg-name="JO:JORDAN NOW" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANNOW.png" group-title="|AR| JORDAN  الاردن",JO:JORDAN NOW
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12724.m3u8
+#EXTINF:0 CUID="19462" tvg-name="JO:JORDAN.SAMA" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANSAMA.png" group-title="|AR| JORDAN  الاردن",JO:JORDAN.SAMA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/269.m3u8
+#EXTINF:0 CUID="19463" tvg-name="JO : AMMAN FHD" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANAMMAN.png" group-title="|AR| JORDAN  الاردن",JO : AMMAN FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/271.m3u8
+#EXTINF:0 CUID="19464" tvg-name="JO : AMMAN 4K" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANAMMAN.png" group-title="|AR| JORDAN  الاردن",JO : AMMAN 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12719.m3u8
+#EXTINF:0 CUID="19465" tvg-name="JO:HAQEQA  EL DAWLIAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgVeBnzHT6xG3wOyKlKiAAsIVCURvdkxAreeBMzs1&s" group-title="|AR| JORDAN  الاردن",JO:HAQEQA  EL DAWLIAH
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/4359.m3u8
+#EXTINF:0 CUID="19466" tvg-name="JO:AL HAQEQA" group-title="|AR| JORDAN  الاردن",JO:AL HAQEQA
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12723.m3u8
+#EXTINF:0 CUID="19467" tvg-name="JO : PALESTINE TODAY FHD" tvg-logo="http://go4.pw/PALESTINE/PALESTINETODAY.png" group-title="|AR| JORDAN  الاردن",JO : PALESTINE TODAY FHD
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12728.m3u8
+#EXTINF:0 CUID="19468" tvg-name="JO : QUDS TODAY" tvg-logo="http://go4.pw//PALESTINE/ALQUDSTODAY.png" group-title="|AR| JORDAN  الاردن",JO : QUDS TODAY
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12734.m3u8
+#EXTINF:0 CUID="19469" tvg-name="JO : KAIFA TV" tvg-logo="http://go4.pw/ARABE/KAIFA.png" group-title="|AR| JORDAN  الاردن",JO : KAIFA TV
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/268.m3u8
+#EXTINF:0 CUID="19470" tvg-name="JO : JORDAN AMEN" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.2Mhn1kE5uWtT_YSceUBl2gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="|AR| JORDAN  الاردن",JO : JORDAN AMEN
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/12711.m3u8
+#EXTINF:0 CUID="19471" tvg-name="JO :  AWDAH 4K" tvg-logo="https://th.bing.com/th/id/OIP.p40svjxmC1KVshYvNewRIgHaHa?w=80&h=80&c=1&bgcl=caa1a5&r=0&o=7&cb=thws5&dpr=1.3&pid=ImgRC&rm=3" group-title="|AR| JORDAN  الاردن",JO :  AWDAH 4K
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/113990.m3u8
+#EXTINF:0 CUID="19472" tvg-name="JO :  FM اذاعة حياة" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbsrhzvhZsgutIHTt9spns-Qhj7m3wZe-DeDcClf0mQ&s" group-title="|AR| JORDAN  الاردن",JO :  FM اذاعة حياة
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535496.m3u8
+#EXTINF:0 CUID="19473" tvg-name="JO : Husna FM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/39/46/1d3946e2-92e6-c48d-b0e8-47fe1461ef27/01.png/643x0w.jpg" group-title="|AR| JORDAN  الاردن",JO : Husna FM
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535327.m3u8
+#EXTINF:0 CUID="19474" tvg-name="JO : Radio FM مزاج" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/93/2c/de/932cdebd-fb48-e8fc-24f3-1dec70d162d1/source/512x512bb.jpg" group-title="|AR| JORDAN  الاردن",JO : Radio FM مزاج
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535516.m3u8
+#EXTINF:0 CUID="19475" tvg-name="JO : Radio FM ميلودي" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.VennEd56vmSY4TWGd35HIAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="|AR| JORDAN  الاردن",JO : Radio FM ميلودي
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535517.m3u8
+#EXTINF:0 CUID="19476" tvg-name="JO : Radio FM راديوهلا" tvg-logo="https://www.hala.jo/halalogo.webp" group-title="|AR| JORDAN  الاردن",JO : Radio FM راديوهلا
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535518.m3u8
+#EXTINF:0 CUID="19477" tvg-name="JO : Radio FM جيش" tvg-logo="https://jeishfm.jo/images/logo.png" group-title="|AR| JORDAN  الاردن",JO : Radio FM جيش
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/535519.m3u8
+#EXTINF:0 CUID="17141" tvg-name="Jordan Archive (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Archive (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541070.m3u8
+#EXTINF:0 CUID="17142" tvg-name="Jordan Drama (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Drama (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541072.m3u8
+#EXTINF:0 CUID="17143" tvg-name="Jordan Kitchen (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Kitchen (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541073.m3u8
+#EXTINF:0 CUID="17144" tvg-name="Jordan Satellite Channel (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Satellite Channel (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541074.m3u8
+#EXTINF:0 CUID="17145" tvg-name="Jordan Songs (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Songs (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541075.m3u8
+#EXTINF:0 CUID="17146" tvg-name="Jordan Tourism (1080p)" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Jordan Tourism (1080p)
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541078.m3u8
+#EXTINF:0 CUID="17147" tvg-name="Radio Fann Jordan Studio (1080p) [Not 24/7]" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Radio Fann Jordan Studio (1080p) [Not 24/7]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541080.m3u8
+#EXTINF:0 CUID="17148" tvg-name="Radio Yaqeen Jordan City View (1080p) [Not 24/7]" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541081.m3u8
+#EXTINF:0 CUID="17149" tvg-name="Rotana Radio Jordan Studio (1080p) [Not 24/7]" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541082.m3u8
+#EXTINF:0 CUID="17150" tvg-name="Rotana Tarab Jordan City View (720p) [Not 24/7]" tvg-logo="http://go4.pw/ASIA/JORDAN/JORDANHD.png" group-title="|AR| JORDAN VIP الاردن ",Rotana Tarab Jordan City View (720p) [Not 24/7]
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/541083.m3u8
+#EXTINF:0 CUID="18507" tvg-name="#######  ROYA 4K  #######" group-title="|AR| ROYA 4K   رؤيا الاردن",#######  ROYA 4K  #######
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/530038.m3u8
+#EXTINF:0 CUID="18508" tvg-name="[SHM*] Roya Amen 911" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Amen 911
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529490.m3u8
+#EXTINF:0 CUID="18509" tvg-name="[SHM*] Roya Alhayba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Alhayba
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529488.m3u8
+#EXTINF:0 CUID="18510" tvg-name="[SHM*] Roya Alzaeem" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Alzaeem
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529489.m3u8
+#EXTINF:0 CUID="18511" tvg-name="[SHM*] Roya Ana Bahkilak Elqessa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Ana Bahkilak Elqessa
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529491.m3u8
+#EXTINF:0 CUID="18512" tvg-name="[SHM*] Roya Around The World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Around The World
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529492.m3u8
+#EXTINF:0 CUID="18513" tvg-name="[SHM*] Roya Ayman Zaydan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Ayman Zaydan
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529493.m3u8
+#EXTINF:0 CUID="18514" tvg-name="[SHM*] Roya Big World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Big World
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529494.m3u8
+#EXTINF:0 CUID="18515" tvg-name="[SHM*] Roya By2ah Shamyeh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya By2ah Shamyeh
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529495.m3u8
+#EXTINF:0 CUID="18516" tvg-name="[SHM*] Roya Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Comedy
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529498.m3u8
+#EXTINF:0 CUID="18517" tvg-name="[SHM*] Roya Documentaries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Documentaries
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529499.m3u8
+#EXTINF:0 CUID="18518" tvg-name="[SHM*] Roya Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Drama
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529500.m3u8
+#EXTINF:0 CUID="18519" tvg-name="[SHM*] Roya Haki Monawwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Haki Monawwa
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529501.m3u8
+#EXTINF:0 CUID="18520" tvg-name="[SHM*] Roya Haret Alqubbeh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Haret Alqubbeh
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529502.m3u8
+#EXTINF:0 CUID="18521" tvg-name="[SHM*] Roya Helwa Ya Donia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Helwa Ya Donia
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529503.m3u8
+#EXTINF:0 CUID="18522" tvg-name="[SHM*] Roya Jalta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Jalta
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529504.m3u8
+#EXTINF:0 CUID="18523" tvg-name="[SHM*] Roya Kids Originals" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Kids Originals
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529505.m3u8
+#EXTINF:0 CUID="18524" tvg-name="[SHM*] Roya Kitchen" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Kitchen
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529506.m3u8
+#EXTINF:0 CUID="18525" tvg-name="[SHM*] Roya Masrahyyat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Masrahyyat
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529508.m3u8
+#EXTINF:0 CUID="18526" tvg-name="[SHM*] Roya Mojtamaii" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Mojtamaii
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529509.m3u8
+#EXTINF:0 CUID="18527" tvg-name="[SHM*] Roya Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Music
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529510.m3u8
+#EXTINF:0 CUID="18528" tvg-name="[SHM*] Roya Nadine Njaim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Nadine Njaim
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529511.m3u8
+#EXTINF:0 CUID="18529" tvg-name="[SHM*] Roya News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya News
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529512.m3u8
+#EXTINF:0 CUID="18530" tvg-name="[SHM*] Roya Palestine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Palestine
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529513.m3u8
+#EXTINF:0 CUID="18531" tvg-name="[SHM*] Roya RedBull" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya RedBull
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529515.m3u8
+#EXTINF:0 CUID="18532" tvg-name="[SHM*] Roya Saeet Mahabbeh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Saeet Mahabbeh
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529516.m3u8
+#EXTINF:0 CUID="18533" tvg-name="[SHM*] Roya Sett Alnakhat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Sett Alnakhat
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529517.m3u8
+#EXTINF:0 CUID="18534" tvg-name="[SHM*] Roya Tabekh W Nafekh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Tabekh W Nafekh
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529518.m3u8
+#EXTINF:0 CUID="18535" tvg-name="[SHM*] Roya Watan 3a Watar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Watan 3a Watar
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529519.m3u8
+#EXTINF:0 CUID="18536" tvg-name="[SHM*] Roya Zest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Zest
+http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529520.m3u8
