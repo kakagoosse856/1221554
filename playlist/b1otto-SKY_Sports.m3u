@@ -2,11 +2,9 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-19 10:54 AM (BD Time)
-# TV channel counts :- 80
+# Last Updated: 2026-02-19 11:50 AM (BD Time)
+# TV channel counts :- 79
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413482391-613049330.webp" group-title="Cricket - (Live)",Western Australia VS Victoria [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de84eec167956f9cb7b9f9
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413582268-971990933.webp" group-title="Cricket - (Live)",Tasmania Tigers VS New South Wales [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de855207d2ecfd0c15939b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771401477387-518100253.webp" group-title="Cricket - (Live)",Central Stags VS Wellington Firebirds [Live]
@@ -69,20 +67,20 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=699081f5e018c8f932ba5d0b
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f3315e018c8f932ba5d07
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078183457-507594867.webp" group-title="Cricket - (Upcoming)",Sapience Club Gurgaon VS Vijay Yadav CA [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6990822a74685a2a43504c8a
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Northern District [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp" group-title="Cricket - (Upcoming)",Crystal Balaji Titans VS Bindals Strikers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f3220fc6be820629a2d5b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078233156-167761960.webp" group-title="Cricket - (Upcoming)",TBD VS TBD [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6990825da472ea3a69589109
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076439191-270282673.webp" group-title="Cricket - (Upcoming)",Cricgiri Champs VS Silverton Tigers [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69907b5ba472ea3a69589107
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078297724-400606602.webp" group-title="Cricket - (Upcoming)",TBD VS TBD [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699082a8a472ea3a6958910a
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076439191-270282673.webp" group-title="Cricket - (Upcoming)",Cricgiri Champs VS Silverton Tigers [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69907b5ba472ea3a69589107
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Devbhoomi Royals [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907a4cd15882860301aace
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078357513-683771649.webp" group-title="Cricket - (Upcoming)",TBD VS TBD [Upcoming]
