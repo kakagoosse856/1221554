@@ -1325,7 +1325,6 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/59324.m3u8
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/408.m3u8
 #EXTINF:0 CUID="17820" tvg-name="SY : BAB AL HARA" tvg-logo="http://go4.pw/ASIA/SYRIA/SHAMFM.png" group-title="|AR| SYRIA    سوريا ",SY : BAB AL HARA
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/407.m3u8
-#EXTM3U
 #EXTINF:0 CUID="17898" tvg-name="LB : JADEED 8K" tvg-logo="http://go4.pw/ASIA/LEBANON/ALJADEEDTV.png" group-title="|AR| LEBANON  لبنان",LB : JADEED 8K
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/25787.m3u8
 #EXTINF:0 CUID="17899" tvg-name="LB : JADEED FHD" tvg-logo="http://go4.pw/ASIA/LEBANON/ALJADEEDTV.png" group-title="|AR| LEBANON  لبنان",LB : JADEED FHD
@@ -1424,8 +1423,6 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/552233.m3u
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/552234.m3u8
 #EXTINF:0 CUID="17946" tvg-name="Taha TV" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="|AR| LEBANON  لبنان",Taha TV
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/552242.m3u8
-
-#EXTM3U
 #EXTINF:0 CUID="19305" tvg-name="KSA. Al Riyadh Radio" tvg-logo="https://img.favpng.com/24/16/21/television-channel-radio-station-radio-riyadh-png-favpng-vid7ZAAR5mq31YajiWBu6vACR.jpg" group-title="|AR| SAUDI    السعودية ",KSA. Al Riyadh Radio
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547958.m3u8
 #EXTINF:0 CUID="19306" tvg-name="KSA.SAUDI TV FHD" tvg-logo="https://images.pluto.tv/channels/6123742451cce0000789fc7a/colorLogoPNG.png" group-title="|AR| SAUDI    السعودية ",KSA.SAUDI TV FHD
@@ -1668,7 +1665,6 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38772.m3u8
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38810.m3u8
 #EXTINF:0 CUID="17897" tvg-name="EGY.El MOLED TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofovGMs6aYahaIJsf-nxR8Lv0dqBsrKauMyEqYinMSA&s" group-title="|AR| EGYPT مصر ",EGY.El MOLED TV
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/38820.m3u8
-#EXTM3U
 #EXTINF:0 CUID="17947" tvg-name="IRQ :  ALNAHRAIN TV 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkECtqnoANLEa3NNslmcAeVgTNPpxRZEA6g&s" group-title="|AR| IRAQ    العراق",IRQ :  ALNAHRAIN TV 4K
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/547528.m3u8
 #EXTINF:0 CUID="17948" tvg-name="IRQ :  1 IRAQ TV" group-title="|AR| IRAQ    العراق",IRQ :  1 IRAQ TV
@@ -2053,3 +2049,4 @@ http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529518.m3u
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529519.m3u8
 #EXTINF:0 CUID="18536" tvg-name="[SHM*] Roya Zest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYtD59lp7noQMVWGHqN_aQ_VLH9d5R2llIg&s" group-title="|AR| ROYA 4K   رؤيا الاردن",[SHM*] Roya Zest
 http://yusfiptv.ddns.net:8880/live/+9647754787695/697b02f628340.16012/529520.m3u8
+
