@@ -885,7 +885,7 @@ https://v5on.site/play.php?id=1854135
 https://v5on.site/play.php?id=1854138
 #EXTINF:-1 tvg-id="470192" tvg-name="End  NFL Game Pass | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  NFL Game Pass | MA
 https://v5on.site/play.php?id=470192
-#EXTINF:-1 tvg-id="470195" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
+#EXTINF:-1 tvg-id="470195" tvg-name="Live  Copa del Rey de Baloncesto | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Live  Copa del Rey de Baloncesto | MA
 https://v5on.site/play.php?id=470195
 #EXTINF:-1 tvg-id="470196" tvg-name="End  NCAA Division I | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",End  NCAA Division I | MA
 https://v5on.site/play.php?id=470196
@@ -905,7 +905,7 @@ https://v5on.site/play.php?id=1165160
 https://v5on.site/play.php?id=1165161
 #EXTINF:-1 tvg-id="1165162" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1165162
-#EXTINF:-1 tvg-id="1165163" tvg-name="Next  20:00 (GMT)  Copa del Rey de Baloncesto | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  20:00 (GMT)  Copa del Rey de Baloncesto | MA
+#EXTINF:-1 tvg-id="1165163" tvg-name="MA | No Event" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",MA | No Event
 https://v5on.site/play.php?id=1165163
 #EXTINF:-1 tvg-id="1165164" tvg-name="Next  21:00 (GMT)  Ring Magazine | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  21:00 (GMT)  Ring Magazine | MA
 https://v5on.site/play.php?id=1165164
@@ -1931,6 +1931,26 @@ https://v5on.site/play.php?id=1805616
 https://v5on.site/play.php?id=1805578
 #EXTINF:-1 tvg-id="1805617" tvg-name="Will Smith" tvg-logo="https://www.lenouvelliste.ma/wp-content/uploads/2025/09/cinema.jpg" group-title="NETFLIX",Will Smith
 https://v5on.site/play.php?id=1805617
+#EXTINF:-1 tvg-id="1877344" tvg-name="DISENY KIDS 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 1 4K
+https://v5on.site/play.php?id=1877344
+#EXTINF:-1 tvg-id="1877345" tvg-name="DISENY KIDS 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 2 4K
+https://v5on.site/play.php?id=1877345
+#EXTINF:-1 tvg-id="1877346" tvg-name="DISENY KIDS 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 3 4K
+https://v5on.site/play.php?id=1877346
+#EXTINF:-1 tvg-id="1877347" tvg-name="DISENY KIDS 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 4 4K
+https://v5on.site/play.php?id=1877347
+#EXTINF:-1 tvg-id="1877348" tvg-name="DISENY KIDS 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 5 4K
+https://v5on.site/play.php?id=1877348
+#EXTINF:-1 tvg-id="1877349" tvg-name="DISENY KIDS 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 6 4K
+https://v5on.site/play.php?id=1877349
+#EXTINF:-1 tvg-id="1877350" tvg-name="DISENY KIDS 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 7 4K
+https://v5on.site/play.php?id=1877350
+#EXTINF:-1 tvg-id="1877351" tvg-name="DISENY KIDS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 8 4K
+https://v5on.site/play.php?id=1877351
+#EXTINF:-1 tvg-id="1877352" tvg-name="DISENY KIDS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 9 4K
+https://v5on.site/play.php?id=1877352
+#EXTINF:-1 tvg-id="1877353" tvg-name="DISENY KIDS 10 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disney%2B_Original_%282024%29.svg/250px-Disney%2B_Original_%282024%29.svg.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",DISENY KIDS 10 4K
+https://v5on.site/play.php?id=1877353
 #EXTINF:-1 tvg-id="1749543" tvg-name="CARTON ARABIC 1" tvg-logo="https://m.media-amazon.com/images/I/81lMze0KAkL.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",CARTON ARABIC 1
 https://v5on.site/play.php?id=1749543
 #EXTINF:-1 tvg-id="1749544" tvg-name="CARTON ARABIC 2" tvg-logo="https://m.media-amazon.com/images/I/81lMze0KAkL.png" group-title="KIDS ENTERTAINMENT | KIDS 24/7",CARTON ARABIC 2
@@ -2781,6 +2801,22 @@ https://v5on.site/play.php?id=309033
 https://v5on.site/play.php?id=309032
 #EXTINF:-1 tvg-id="309031" tvg-name="al kafeel" tvg-logo="http://138.199.27.237:8080/CHRISTAIN/ANBSAT.png" group-title="IRAQ",al kafeel
 https://v5on.site/play.php?id=309031
+#EXTINF:-1 tvg-id="1877354" tvg-name="AR: QURAN ABDULBASIT TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN ABDULBASIT TV
+https://v5on.site/play.php?id=1877354
+#EXTINF:-1 tvg-id="1877355" tvg-name="AR: QURAN ALAFASI TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN ALAFASI TV
+https://v5on.site/play.php?id=1877355
+#EXTINF:-1 tvg-id="1877356" tvg-name="AR: QURAN ALGHAMDI TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN ALGHAMDI TV
+https://v5on.site/play.php?id=1877356
+#EXTINF:-1 tvg-id="1877357" tvg-name="AR: QURAN ALMOAIQLY TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN ALMOAIQLY TV
+https://v5on.site/play.php?id=1877357
+#EXTINF:-1 tvg-id="1877358" tvg-name="AR: QURAN FARES ABAD TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN FARES ABAD TV
+https://v5on.site/play.php?id=1877358
+#EXTINF:-1 tvg-id="1877359" tvg-name="AR: QURAN KHALIL ABDULJALIL TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN KHALIL ABDULJALIL TV
+https://v5on.site/play.php?id=1877359
+#EXTINF:-1 tvg-id="1877360" tvg-name="AR: QURAN NASIR ALQUTAMI TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN NASIR ALQUTAMI TV
+https://v5on.site/play.php?id=1877360
+#EXTINF:-1 tvg-id="1877361" tvg-name="AR: QURAN YASER ALDOUSRI TV" tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg" group-title="QURAN",AR: QURAN YASER ALDOUSRI TV
+https://v5on.site/play.php?id=1877361
 #EXTINF:-1 tvg-id="122889" tvg-name="Abdulbasit Abdulsamad   عبد الباسط عبد الصمد" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" group-title="QURAN",Abdulbasit Abdulsamad   عبد الباسط عبد الصمد
 https://v5on.site/play.php?id=122889
 #EXTINF:-1 tvg-id="122896" tvg-name="Abdul Rahman  Al Sudais  عبدالرحمن السديس" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" group-title="QURAN",Abdul Rahman  Al Sudais  عبدالرحمن السديس
