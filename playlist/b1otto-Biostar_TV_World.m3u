@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-20 11:39 PM (BD Time)
-# TV channel counts :- 718
+# Last Updated: 2026-02-21 12:30 AM (BD Time)
+# TV channel counts :- 716
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -596,6 +596,8 @@ http://163.61.227.29:8000/play/a03v/index.m3u8
 http://163.61.227.29:8000/play/a03w/index.m3u8
 #EXTINF:-1,KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
+#EXTINF:-1,Cartoon Network Hindi
+http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Islamic",Makka live
@@ -672,8 +674,6 @@ http://hls.168.us.kg/u/630/master.m3u8
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",Shol Sports
 https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
@@ -740,10 +740,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Unknown
-https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="ISLAMIC CHANNELS",Saudi Quran
@@ -989,7 +985,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e19588868493cc899483cf97849382848dcf809191a1978e859b8e8f86cf8c8b948f8e8e8fcf9597">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74001d131106591c01165a0211061711185a15040434021b100e1b1a135a191e011a1b1b1a5a0002">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -1079,7 +1075,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d795859e93909e8384978e969f9898f994989a">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="97d5c5ded3d0dec3c4d7ced6dfd8d8b9d4d8da">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
