@@ -161,8 +161,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",BeIN Sports UHD 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 3",beIN Sports MAX
-http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 1
@@ -233,8 +231,8 @@ http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BeIN Sports 3
 http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1
