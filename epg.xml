@@ -463,9 +463,29 @@
     <desc>Hinata thinks Kageyama is unsupportive, which then leads the pair to have a heated argument.</desc>
     <date>2026-02-21</date>
   </programme>
-  <programme channel="369848" start="20260221215800 +0700" stop="20260222000000 +0700">
+  <programme channel="369848" start="20260221215800 +0700" stop="20260221222800 +0700">
     <title lang="zh">HAIKYU!! 2ND SEASON</title>
     <desc>Kageyama seeks out Oikawa for advice concerning Hinata's wishes to try new techniques.</desc>
     <date>2026-02-21</date>
+  </programme>
+  <programme channel="369848" start="20260221222800 +0700" stop="20260221230000 +0700">
+    <title lang="zh">HAIKYU!! 2ND SEASON</title>
+    <desc>Karasuno High School arrives at Shinzen High's campus for the training camp.</desc>
+    <date>2026-02-21</date>
+  </programme>
+  <programme channel="369848" start="20260221230000 +0700" stop="20260221233000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Before her coronation, Tinasha lifts Oscar's curse. At the ceremony, she releases the spirits she had summoned.</desc>
+    <date>2026-02-21</date>
+  </programme>
+  <programme channel="369848" start="20260221233000 +0700" stop="20260222000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Tinasha tries to turn back time to save the children from an accident but fails. Oscar sets out to fight Cezal.</desc>
+    <date>2026-02-21</date>
+  </programme>
+  <programme channel="369848" start="20260222000000 +0700" stop="20260223000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>Valt, the mastermind who has long threatened Farsas, kidnaps Tinasha to claim the red and blue Eleterria orbs.</desc>
+    <date>2026-02-22</date>
   </programme>
 </tv>
