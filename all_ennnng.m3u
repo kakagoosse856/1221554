@@ -6025,7 +6025,7 @@ https://v5on.site/play.php?id=623308
 https://v5on.site/play.php?id=623309
 #EXTINF:-1 tvg-id="623310" tvg-name="Next  19:30 (GMT)  Serie A1 Tigotà | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  19:30 (GMT)  Serie A1 Tigotà | IT
 https://v5on.site/play.php?id=623310
-#EXTINF:-1 tvg-id="623311" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623311" tvg-name="Live  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623311
 #EXTINF:-1 tvg-id="623312" tvg-name="Next  19:30 (GMT)  SuperLega Credem Banca | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  19:30 (GMT)  SuperLega Credem Banca | IT
 https://v5on.site/play.php?id=623312
@@ -6157,7 +6157,7 @@ https://v5on.site/play.php?id=1236034
 https://v5on.site/play.php?id=1236029
 #EXTINF:-1 tvg-id="1236030" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236030
-#EXTINF:-1 tvg-id="1236031" tvg-name="Next  07:00 (GMT)  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  07:00 (GMT)  Radio TV Serie A | IT
+#EXTINF:-1 tvg-id="1236031" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1236031
 #EXTINF:-1 tvg-id="41042" tvg-name="SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="SKY CALCIO",SKY SPORT CALCIO ᵁᴴᴰ
 https://v5on.site/play.php?id=41042
@@ -8569,7 +8569,7 @@ https://v5on.site/play.php?id=264736
 https://v5on.site/play.php?id=1242725
 #EXTINF:-1 tvg-id="1242734" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242734
-#EXTINF:-1 tvg-id="1242728" tvg-name="Next  Ski Freestyle  Finale Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle  Finale Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242728" tvg-name="Next  SV Darmstadt 1898 vs. Düsseldorfer TuS Fortuna 1895  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  SV Darmstadt 1898 vs. Düsseldorfer TuS Fortuna 1895  PRIME-DE
 https://v5on.site/play.php?id=1242728
 #EXTINF:-1 tvg-id="1242733" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242733
@@ -8585,9 +8585,9 @@ https://v5on.site/play.php?id=1242735
 https://v5on.site/play.php?id=1242739
 #EXTINF:-1 tvg-id="1242740" tvg-name="Next  Real Sociedad vs. Oviedo  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Real Sociedad vs. Oviedo  PRIME-DE
 https://v5on.site/play.php?id=1242740
-#EXTINF:-1 tvg-id="1242730" tvg-name="Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE
+#EXTINF:-1 tvg-id="1242730" tvg-name="Next  Skibergsteigen  Finale Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skibergsteigen  Finale Olympia  all | PRIME-DE
 https://v5on.site/play.php?id=1242730
-#EXTINF:-1 tvg-id="264926" tvg-name="Next  Ski Freestyle  Finale Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle  Finale Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="264926" tvg-name="Next  2. BL: Multiview-23. Spieltag, Samstag  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  2. BL: Multiview-23. Spieltag, Samstag  PRIME-DE
 https://v5on.site/play.php?id=264926
 #EXTINF:-1 tvg-id="1242736" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242736
@@ -8595,9 +8595,9 @@ https://v5on.site/play.php?id=1242736
 https://v5on.site/play.php?id=1242737
 #EXTINF:-1 tvg-id="1242738" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242738
-#EXTINF:-1 tvg-id="1242726" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242726" tvg-name="Next  Juventus vs. Como  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Juventus vs. Como  PRIME-DE
 https://v5on.site/play.php?id=1242726
-#EXTINF:-1 tvg-id="1242727" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242727" tvg-name="Next  Bundesliga Conference  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Bundesliga Conference  all | PRIME-DE
 https://v5on.site/play.php?id=1242727
 #EXTINF:-1 tvg-id="1242741" tvg-name="Next  UAE Tour Men  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  UAE Tour Men  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242741
@@ -8611,35 +8611,35 @@ https://v5on.site/play.php?id=1242744
 https://v5on.site/play.php?id=1242745
 #EXTINF:-1 tvg-id="1242746" tvg-name="Next  1. FC Nürnberg - FC Carl Zeiss Jena  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  1. FC Nürnberg - FC Carl Zeiss Jena  PRIME-DE
 https://v5on.site/play.php?id=1242746
-#EXTINF:-1 tvg-id="1242747" tvg-name="Next  Skilanglauf  Tesero  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skilanglauf  Tesero  PRIME-DE
+#EXTINF:-1 tvg-id="1242747" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242747
-#EXTINF:-1 tvg-id="1242748" tvg-name="Next  Skilanglauf  Tesero  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skilanglauf  Tesero  PRIME-DE
+#EXTINF:-1 tvg-id="1242748" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242748
 #EXTINF:-1 tvg-id="1242749" tvg-name="Next  Rajadamnern World Series  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Rajadamnern World Series  all | PRIME-DE
 https://v5on.site/play.php?id=1242749
-#EXTINF:-1 tvg-id="1242750" tvg-name="Next  Ski Freestyle  Finals Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle  Finals Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242750" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242750
 #EXTINF:-1 tvg-id="1242751" tvg-name="Next  Skibergsteigen  Finale Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skibergsteigen  Finale Olympia  all | PRIME-DE
 https://v5on.site/play.php?id=1242751
-#EXTINF:-1 tvg-id="1242752" tvg-name="Next  Ski Freestyle  Finals Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle  Finals Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242752" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242752
 #EXTINF:-1 tvg-id="1242753" tvg-name="Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE
 https://v5on.site/play.php?id=1242753
 #EXTINF:-1 tvg-id="1242754" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242754
-#EXTINF:-1 tvg-id="1242755" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242755" tvg-name="Next  SV 07 Elversberg vs. Braunschweiger TSV Eintracht 1895  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  SV 07 Elversberg vs. Braunschweiger TSV Eintracht 1895  PRIME-DE
 https://v5on.site/play.php?id=1242755
-#EXTINF:-1 tvg-id="1242756" tvg-name="Next  Skibergsteigen  Finale Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skibergsteigen  Finale Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242756" tvg-name="Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Radsport: UAE Tour: 6. Etappe der Männer  PRIME-DE
 https://v5on.site/play.php?id=1242756
-#EXTINF:-1 tvg-id="1242757" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242757" tvg-name="Next  Fußball: 2. Bundesliga - Samstags-Konferenz-23. Spieltag  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Fußball: 2. Bundesliga - Samstags-Konferenz-23. Spieltag  PRIME-DE
 https://v5on.site/play.php?id=1242757
-#EXTINF:-1 tvg-id="1242758" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242758" tvg-name="Next  Karlsruher SC vs. Kieler SV Holstein 1900  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Karlsruher SC vs. Kieler SV Holstein 1900  PRIME-DE
 https://v5on.site/play.php?id=1242758
-#EXTINF:-1 tvg-id="1242759" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242759" tvg-name="Next  Hamburger SV - SV Werder Bremen  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Hamburger SV - SV Werder Bremen  PRIME-DE
 https://v5on.site/play.php?id=1242759
-#EXTINF:-1 tvg-id="1242760" tvg-name="Next  Bob  2. Lauf Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Bob  2. Lauf Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242760" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242760
-#EXTINF:-1 tvg-id="1242761" tvg-name="Next  Bob  2. Lauf Olympia  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Bob  2. Lauf Olympia  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242761" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242761
 #EXTINF:-1 tvg-id="1242762" tvg-name="Next  Poland Darts Open  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Poland Darts Open  all | PRIME-DE
 https://v5on.site/play.php?id=1242762
