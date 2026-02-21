@@ -463,9 +463,29 @@
     <desc>Shiraishi visits a bookstore to buy a new book but the automatic door can't sense him! Luckily, he meets Kubo.</desc>
     <date>2026-02-22</date>
   </programme>
-  <programme channel="369848" start="20260222220000 +0700" stop="20260223000000 +0700">
+  <programme channel="369848" start="20260222220000 +0700" stop="20260222223000 +0700">
     <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
     <desc>Plant Quetta has been attacked by a pair of Gundams. Miorine is separated from Suletta.</desc>
     <date>2026-02-22</date>
+  </programme>
+  <programme channel="369848" start="20260222223000 +0700" stop="20260222230000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>The incident at Plant Quetta occurred two weeks ago. Suletta is at the academy and looks toward seeing Miorine again.</desc>
+    <date>2026-02-22</date>
+  </programme>
+  <programme channel="369848" start="20260222230000 +0700" stop="20260222233000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Behind the glamorous open campus, Suletta learns what Sophie wants to get through the duel.</desc>
+    <date>2026-02-22</date>
+  </programme>
+  <programme channel="369848" start="20260222233000 +0700" stop="20260223000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-22</date>
+  </programme>
+  <programme channel="369848" start="20260223000000 +0700" stop="20260224000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-23</date>
   </programme>
 </tv>
