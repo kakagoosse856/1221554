@@ -2,8 +2,14 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-22 06:21 PM (BD Time)
-# TV channel counts :- 1
+# Last Updated: 2026-02-22 06:54 PM (BD Time)
+# TV channel counts :- 4
 #==================================
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=22" group-title="Tamasha-Live",ptv-sports
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDc6MDY6MjggQU0maGFzaF92YWx1ZT1yVUpramF2L0E2ZWNBVFh2RUtBYXp3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771692866858.webp?id=98" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026-b
+https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77215fc600b1b67f81952/TMSH_WEB2_DIRTY.m3u8?timeshift=1&delay=1800&mode=6
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770989235932.webp?id=10" group-title="Tamasha-Live",the-dug-out-icc-t20-world-cup-2026
+https://cdn06khi.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDEyOjMzOjIwIFBNJmhhc2hfdmFsdWU9amxDWjFjNklNZkRTSldmSnMrN05PUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=25" group-title="Tamasha-Live",ptv-sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDEyOjMzOjI2IFBNJmhhc2hfdmFsdWU9NUVHRDQ4dDIya252RllScVp3Y1l6Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=60" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDEyOjMzOjMzIFBNJmhhc2hfdmFsdWU9M3FqYmVnd2FFRkZpZXkydkdHb0ZtZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
