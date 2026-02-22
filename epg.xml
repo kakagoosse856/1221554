@@ -463,9 +463,29 @@
     <desc>In one timeline, Valt was the Head Mage of Farsas. He lived countless lives, but one day, he loses his beloved.</desc>
     <date>2026-02-23</date>
   </programme>
-  <programme channel="369848" start="20260223220000 +0700" stop="20260224000000 +0700">
+  <programme channel="369848" start="20260223220000 +0700" stop="20260223223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-23</date>
+  </programme>
+  <programme channel="369848" start="20260223223000 +0700" stop="20260223230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-23</date>
+  </programme>
+  <programme channel="369848" start="20260223230000 +0700" stop="20260223233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata can't act well in the rehearsal of the play, so he asks Takagi-san to go to the roof and practise with him.</desc>
+    <date>2026-02-23</date>
+  </programme>
+  <programme channel="369848" start="20260223233000 +0700" stop="20260224000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata is thrilled when Takagi-san invites him to walk a dog with her. Will he be able to hide his joy?</desc>
+    <date>2026-02-23</date>
+  </programme>
+  <programme channel="369848" start="20260224000000 +0700" stop="20260225000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>The King of Magdalsia has fallen into a mysterious coma. Lucia, a suspected witch, declares herself in charge.</desc>
+    <date>2026-02-24</date>
   </programme>
 </tv>
