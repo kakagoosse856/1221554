@@ -2,64 +2,48 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-22 04:28 PM (BD Time)
-# TV channel counts :- 183
+# Last Updated: 2026-02-22 05:12 PM (BD Time)
+# TV channel counts :- 153
 #==================================
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick Jr
 http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1,Nick HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick HD
 http://103.140.254.2:3500/live/1226.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://103.140.254.2:3500/live/1079.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
 http://103.140.254.2:3500/live/545.m3u8
-#EXTINF:-1,D kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",D kids
 http://103.140.254.2:3500/live/550.m3u8
 #EXTINF:-1,Turbo
 http://103.140.254.2:3500/live/541.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://103.140.254.2:3500/live/816.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://103.140.254.2:3500/live/815.m3u8
-#EXTINF:-1,D kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",D kids
 http://103.140.254.2:3500/live/554.m3u8
-#EXTINF:-1,Nick Jr hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick Jr hindi
 http://103.140.254.2:3500/live/548.m3u8
 #EXTINF:-1,Pogo
 http://103.140.254.2:3500/live/559.m3u8
-#EXTINF:-1,Colors HD
-http://103.140.254.2:3500/live/144.m3u8
-#EXTINF:-1,Amar Bangla*
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1,Amar Digital*
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1,Mon Tv Bangla*
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1,Bhakti Bangla*
-http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1,Salam Bangla*
-http://115.187.41.216:8080/hls/salambangla/index.m3u8
-#EXTINF:-1,Digital Fashion*
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1,Sananda Tv*
-http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1,KIDS ZONE PK
 http://163.61.227.29:8000/play/a03x/index.m3u8
 #EXTINF:-1,Disney Channel
 http://110.39.27.47:8001/play/a03m/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://110.39.27.47:8001/play/a01k/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://110.39.27.47:8001/play/a00i/index.m3u8
 #EXTINF:-1,Cartoonito
 http://181.78.4.250:8098/play/a067/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://181.78.4.250:8098/play/a08h/index.m3u8
 #EXTINF:-1 group-title="-",Sonic - Rs 1.00
 http://103.182.170.32:8888/play/a02s
 #EXTINF:-1 group-title="-",Nick  - Rs 6.00
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://103.182.170.32:8888/play/a02o
 #EXTINF:-1,Disney Channel
 http://103.182.170.32:8888/play/a04g
@@ -69,30 +53,6 @@ http://103.182.170.32:8888/play/a01y
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1,ETV Bal Bharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1,Ani
-http://ott.watch/stream/D3FX33QMIH1/306.m3u8
-#EXTINF:-1,Gulli Gril
-http://ott.watch/stream/D3FX33QMIH1/305.m3u8
-#EXTINF:-1,Na!oc
-http://ott.watch/stream/D3FX33QMIH1/339.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/cnpzqb.webp" group-title="KIDS",Dream Works
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/pyelcj.webp" group-title="KIDS",Zoomoo
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/crpnla.webp" group-title="KIDS",Kids Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/hassbk.webp" group-title="KIDS",Cbeebies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/fnwwtk.webp" group-title="KIDS",Nick
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/xjuyad.webp" group-title="KIDS",Nick jr
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:-1 tvg-logo="https://api.visionplustv.id/static/wukkms.webp" group-title="KIDS",Animax
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s" group-title="Kids",Hungama Kids
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=150480
-#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/668/e46/668e468de3ea4aa21743d810e96e8e9dd9347041cff36fac05e5b4217b94fc06:200" group-title="Kids",Disney-Channel
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=388459
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzo4tarJFt6JPsCIpm39l50-RCc3RBZACguQ&s" group-title="Kids",24/7 Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png" group-title="Kids",24/7 Oggy and Cockroach
@@ -109,24 +69,10 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnSccGpR8nuF3o4-eJaLHSkU1mr27g-U_hg&s" group-title="Kids",Kido Matix
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://superawesomevectors.com/wp-content/uploads/2023/09/mr-bean-vector.jpg" group-title="Kids",Mr Bean Animated
-https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1253218549889241088/nyeNrOPq_400x400.jpg" group-title="Kids",NuNuTV
-https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/936b9d60-11fb-4871-a6f4-01ceef718426/playlist.m3u8?api-key=e302eb59-caaa-4d44-9e30-2086bf183c4e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a532fe4b4a0e806e7cf196e05131e8a518d994e25e04cf8ae66f575262b48b76.png" group-title="Kids",Kids TV India
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmsaICedvkgrzqzh6ghY83iQU0uJf5KJd4Q&s" group-title="Kids",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.openmoviemap.com/images/productions/280/104.jpg" group-title="Kids",Mr.Bean
-https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/09/113-s.webp" group-title="Kids",Gubbare HD
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9Uv2Q3iiaFc/maxresdefault.jpg" group-title="Kids",24/7 Moto Patlo
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNK3wSO_AdeH8C8ynjxffe8tOhuoDjdiCVw&s" group-title="Kids",ZB Cartoon
@@ -137,10 +83,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QcstsCGM-pNCHrA-d6Ig2lS7NnIm9lX2Kww7jgZAV3_JJ9p-VKKwnZMmJr72sw69z944" group-title="Kids",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Al23vKkkhMd04Y3R29Qsn9aOy14rxNPlNzXWDoZDtGvzEk1fwu7nAZmMqLmtx_Y5oXKSNrQr=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Kids",Rongeen TV
@@ -153,8 +95,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/wiggles/images/3/35/DisneyJunior.jpg/revision/latest/scale-to-width-down/3000?cb=20170729154725" group-title="Kids",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cPTAAvCeTEG6nu_ofBT-9xP1qfk6gU7AxM_z4Cwv_-zFQOLAND7ja6z1KnuMkWb3J-k" group-title="Kids",Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CwSMIWAAxtjCgAnv8GHlUQOcuZe9qQw7_Ho0jjE0FYrPHMEKCmZjDeclxjNJK_LO6g" group-title="Kids",Toon Google
