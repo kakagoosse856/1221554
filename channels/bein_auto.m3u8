@@ -179,8 +179,6 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN SPORTS 8
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",Bein Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 10",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 12",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
