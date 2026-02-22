@@ -2,7 +2,7 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-22 05:27 AM (BD Time)
+# Last Updated: 2026-02-22 07:02 AM (BD Time)
 # TV channel counts :- 735
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Peace Tv Bangla
@@ -320,8 +320,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel",Makkah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel",AL Sunnah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 group-title="Relagion Channel",EWTN TV
@@ -696,6 +694,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Sky Sports 1
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",NOW SPORTS PRIME
+http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",MuxIP-SportsFirst TV🎯
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
@@ -1017,7 +1017,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="07736e6062752a6f72652971627564626b29667777477168637d686960296a6d7269686869297371">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2c6dbd5d7c09fdac7d09cc4d7c0d1d7de9cd3c2c2f2c4ddd6c8dddcd59cdfd8c7dcdddddc9cc6c4">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -1107,7 +1107,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c684948f82818f9295869f878e8989e885898b">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cb8999828f8c829f988b928a838484e5888486">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
