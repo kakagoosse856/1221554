@@ -2,12 +2,12 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-22 05:12 PM (BD Time)
-# TV channel counts :- 153
+# Last Updated: 2026-02-22 05:23 PM (BD Time)
+# TV channel counts :- 152
 #==================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="Kids",Nick Jr
 http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick HD
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5345539c-4938-45f7-92b4-450da9b53e24/di1buvp-5052fe00-79e5-46d9-87e9-1880c6fe231a.png/v1/fill/w_1280,h_984/nickelodeon_hd_logo__2023__by_yellowpen2009_di1buvp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg0IiwicGF0aCI6Ii9mLzUzNDU1MzljLTQ5MzgtNDVmNy05MmI0LTQ1MGRhOWI1M2UyNC9kaTFidXZwLTUwNTJmZTAwLTc5ZTUtNDZkOS04N2U5LTE4ODBjNmZlMjMxYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q9layhwzm8rSrNFmtnk1Y_kO8chHqNskVVfqWSlc5Q4" group-title="Kids",Nick HD
 http://103.140.254.2:3500/live/1226.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://103.140.254.2:3500/live/1079.m3u8
@@ -15,7 +15,7 @@ http://103.140.254.2:3500/live/1079.m3u8
 http://103.140.254.2:3500/live/545.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",D kids
 http://103.140.254.2:3500/live/550.m3u8
-#EXTINF:-1,Turbo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamworksanimation/images/b/b6/Turbo.png" group-title="Kids",Turbo
 http://103.140.254.2:3500/live/541.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://103.140.254.2:3500/live/816.m3u8
@@ -23,36 +23,34 @@ http://103.140.254.2:3500/live/816.m3u8
 http://103.140.254.2:3500/live/815.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",D kids
 http://103.140.254.2:3500/live/554.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick Jr hindi
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="Kids",Nick Jr hindi
 http://103.140.254.2:3500/live/548.m3u8
-#EXTINF:-1,Pogo
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1d47df5bb049d4e70d8d7301ef9666cb.png" group-title="Kids",Pogo
 http://103.140.254.2:3500/live/559.m3u8
-#EXTINF:-1,KIDS ZONE PK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pakistan/images/c/cd/KidsZonelogo-sm.png" group-title="Kids",KIDS ZONE PK
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/03/disney-logo.jpg" group-title="Kids",Disney Channel
 http://110.39.27.47:8001/play/a03m/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 http://110.39.27.47:8001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://110.39.27.47:8001/play/a00i/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" group-title="Kids",Cartoonito
 http://181.78.4.250:8098/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://181.78.4.250:8098/play/a08h/index.m3u8
-#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkMeXwz.png" group-title="Kids",Sonic
 http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
 http://103.182.170.32:8888/play/a04q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery Kids
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/03/disney-logo.jpg" group-title="Kids",Disney Channel
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1,Disney International HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8x_ccJRdxF7mtJFdXtP51tY-8aoILUBuSCw&s" group-title="Kids",Disney International HD
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV1Kp7gAqkJn4ChEnSkHT3YKsTEn6roI5mA&s" group-title="Kids",Disney Junior
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1,ETV Bal Bharat
-http://103.182.170.32:8888/play/a022
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzo4tarJFt6JPsCIpm39l50-RCc3RBZACguQ&s" group-title="Kids",24/7 Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png" group-title="Kids",24/7 Oggy and Cockroach
@@ -171,7 +169,7 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://variety.com/wp-content/uploads/2014/03/disney-logo.jpg" group-title="Kids",Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8R
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
