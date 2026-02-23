@@ -2,9 +2,31 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-24 04:35 AM (BD Time)
-# TV channel counts :- 714
+# Last Updated: 2026-02-24 04:42 AM (BD Time)
+# TV channel counts :- 708
 #==================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://cricxtv.site/isp/play.php?id=tsportshd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Willow HD
+https://cricxtv.site/isp/play.php?id=willowcrickethd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
+https://cricxtv.site/isp/play.php?id=ASportsHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Euro Sports
+https://cricxtv.site/isp/play.php?id=eurosportshd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
+https://cricxtv.site/isp/play.php?id=StarSports1HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
+https://cricxtv.site/isp/play.php?id=StarSports2HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
+https://cricxtv.site/isp/play.php?id=StarSportsSelect1HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
+https://cricxtv.site/isp/play.php?id=StarSportsSelect2HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
+https://cricxtv.site/isp/play.php?id=SonyTen2hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkK3Mszq/20240823_024219.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 3
+https://cricxtv.site/isp/play.php?id=SonyTen3hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 5
+https://cricxtv.site/isp/play.php?id=SonyTen5HD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",B Tv
@@ -38,83 +60,49 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr68ZtBn/20240822-231053.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-https://cricxtv.site/demo/play.php?id=StarJalshaHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=StarJalshaHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
-https://cricxtv.site/demo/play.php?id=ZeeBanglaHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ZeeBanglaHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
-https://cricxtv.site/demo/play.php?id=ColorsBanglaHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ColorsBanglaHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
-https://cricxtv.site/demo/play.php?id=Enter10Bangla&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=Enter10Bangla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath
-https://cricxtv.site/demo/play.php?id=SonyAtth&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=SonyAtth
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
-https://cricxtv.site/demo/play.php?id=ZeeBanglaCinemaHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ZeeBanglaCinemaHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2QfZXGZ/20240822-231655.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Jalsha Movies HD
-https://cricxtv.site/demo/play.php?id=JalshaMoviesHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=JalshaMoviesHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PMph6Yh/20240823_023405.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Star Movies
-https://cricxtv.site/demo/play.php?id=StarMoviesHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=StarMoviesHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/F1t6r1gv/20240823_023247.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors HD
-https://cricxtv.site/demo/play.php?id=ColorsHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ColorsHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw3MFyQH/20240823_022713.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors Cineplex
-https://cricxtv.site/demo/play.php?id=ColorsCineplexHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ColorsCineplexHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Star Plus HD
-https://cricxtv.site/demo/play.php?id=StarPlusHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=StarPlusHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYKYDTmy/20240823_023330.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Star Gold Selected
-https://cricxtv.site/demo/play.php?id=StarGoldHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=StarGoldHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Television
-https://cricxtv.site/demo/play.php?id=SonyHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=SonyHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max HD
-https://cricxtv.site/demo/play.php?id=sonymaxhd&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=sonymaxhd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Tv
-https://cricxtv.site/demo/play.php?id=ZeeTVHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ZeeTVHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Cinema HD
-https://cricxtv.site/demo/play.php?id=ZeeCinemaHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=ZeeCinemaHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png" group-title="𝐊𝐢𝐝𝐬",Discovery Kids
-https://cricxtv.site/demo/play.php?id=DiscoveryKids&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=DiscoveryKids
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png" group-title="𝐊𝐢𝐝𝐬",Cartoon Network
-https://cricxtv.site/demo/play.php?id=CartoonNetworkHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=CartoonNetworkHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGkpCYj3/20240823_021848.png" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
-https://cricxtv.site/demo/play.php?id=SangeetBangla&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png" group-title="𝐌𝐮𝐬𝐢𝐜",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncjZnDxy/20240823_022537.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yGVwxBK/20240823_022500.png" group-title="𝐌𝐮𝐬𝐢𝐜",Show Box
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJj4W1NL/20240823_022343.png" group-title="𝐌𝐮𝐬𝐢𝐜",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+https://cricxtv.site/isp/play.php?id=SangeetBangla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Animal Planet HD
-https://cricxtv.site/demo/play.php?id=AnimalPlanetHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=AnimalPlanetHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery Bangla HD
-https://cricxtv.site/demo/play.php?id=DiscoveryHD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823_024003.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Nat Geo
-https://cricxtv.site/demo/play.php?id=NatGeoWild&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
-https://cricxtv.site/demo/play.php?id=tsportshd&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Willow HD
-https://cricxtv.site/demo/play.php?id=willowcrickethd&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
-https://cricxtv.site/demo/play.php?id=ASportsHD&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Euro Sports
-https://cricxtv.site/demo/play.php?id=eurosportshd&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
-https://cricxtv.site/demo/play.php?id=StarSports1HD&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
-https://cricxtv.site/demo/play.php?id=StarSports2HD&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
-https://cricxtv.site/demo/play.php?id=StarSportsSelect1HD&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
-https://cricxtv.site/demo/play.php?id=StarSportsSelect2HD&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
-https://cricxtv.site/demo/play.php?id=SonyTen2hd&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkK3Mszq/20240823_024219.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 3
-https://cricxtv.site/demo/play.php?id=SonyTen3hd&user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 5
-https://cricxtv.site/demo/play.php?id=SonyTen5HD&user=bongoflix&pass=eaminvai
+https://cricxtv.site/isp/play.php?id=NatGeoWild
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News",BTV News
@@ -977,7 +965,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c1b5a8a6a4b3eca9b4a3efb7a4b3a2a4adefa0b1b181b7aea5bbaeafa6efacabb4afaeaeafefb5b7">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4f3b26282a3d62273a2d61392a3d2c2a23612e3f3f0f39202b352021286122253a21202021613b39">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -1065,7 +1053,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="185a4a515c5f514c4b584159505757365b5755">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f4b6a6bdb0b3bda0a7b4adb5bcbbbbdab7bbb9">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
