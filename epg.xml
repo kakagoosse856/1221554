@@ -463,9 +463,29 @@
     <desc>400 years ago, Tinasha destroyed Tuldarr in a single night. Oscar rewrote history, erasing the Witch of the Azure Moon.</desc>
     <date>2026-02-24</date>
   </programme>
-  <programme channel="369848" start="20260224220000 +0700" stop="20260225000000 +0700">
+  <programme channel="369848" start="20260224220000 +0700" stop="20260224223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-24</date>
+  </programme>
+  <programme channel="369848" start="20260224223000 +0700" stop="20260224230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-24</date>
+  </programme>
+  <programme channel="369848" start="20260224230000 +0700" stop="20260224233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata is thrilled when Takagi-san invites him to walk a dog with her. Will he be able to hide his joy?</desc>
+    <date>2026-02-24</date>
+  </programme>
+  <programme channel="369848" start="20260224233000 +0700" stop="20260225000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata invites Takagi-san to take a side trip after school. Will Nishikata win by chatting to distract Takagi-san?</desc>
+    <date>2026-02-24</date>
+  </programme>
+  <programme channel="369848" start="20260225000000 +0700" stop="20260226000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>400 years ago, Tinasha destroyed Tuldarr in a single night. Oscar rewrote history, erasing the Witch of the Azure Moon.</desc>
+    <date>2026-02-25</date>
   </programme>
 </tv>
