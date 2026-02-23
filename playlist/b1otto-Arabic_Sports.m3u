@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-23 04:38 PM (BD Time)
-# TV channel counts :- 720
+# Last Updated: 2026-02-23 05:31 PM (BD Time)
+# TV channel counts :- 719
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -424,6 +424,8 @@ https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="h" group-title="KIDS",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo
@@ -472,8 +474,6 @@ http://163.61.227.29:8000/play/a03t/index.m3u8
 http://163.61.227.29:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",PTV SPORTS HD
 http://163.61.227.29:8000/play/a05l/index.m3u8
-#EXTINF:-1,ESPN 7
-http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1,Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,AND PICTURES HD
@@ -562,6 +562,8 @@ http://119.152.240.15:8000/play/a0ke/index.m3u8
 http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1,National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1,National Geographic
+http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1,SONY BBC EARTH
 http://119.152.240.15:8000/play/a0bm/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -642,8 +644,6 @@ https://stream.spicefmbd.com/stream.m3u8
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Sky Sport Mian Event
 https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
-https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 group-title="Cricket 🏏",🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",🚨 Willow USA SPORT HD 🚨📡📺
@@ -748,8 +748,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Peace tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Mizanur Rahman Ajhari
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ISLAMIC CHANNELS",Noor Tv
@@ -846,8 +844,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
@@ -946,6 +942,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="English News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Moto Patlu
@@ -989,7 +987,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f7839e909285da9f8295d981928594929bd9968787b78198938d989990d99a9d8299989899d98381">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="22564b4547500f4a57400c54475041474e0c43525262544d46584d4c450c4f48574c4d4d4c0c5654">[email&#160;protected]</a>:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
@@ -1077,7 +1075,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9ddfcfd4d9dad4c9ceddc4dcd5d2d2b3ded2d0">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3476667d70737d6067746d757c7b7b1a777b79">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",MK Six
