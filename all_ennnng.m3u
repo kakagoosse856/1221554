@@ -3457,7 +3457,7 @@ https://v5on.site/play.php?id=611738
 https://v5on.site/play.php?id=611739
 #EXTINF:-1 tvg-id="611740" tvg-name="ES | No Event" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="LALIGA PPV",ES | No Event
 https://v5on.site/play.php?id=611740
-#EXTINF:-1 tvg-id="611741" tvg-name="Next  14:00 (GMT)  Programa 20  ES" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="LALIGA PPV",Next  14:00 (GMT)  Programa 20  ES
+#EXTINF:-1 tvg-id="611741" tvg-name="Next  14:00 (GMT)  ¿Culpable en la derrota del Madrid?  ES" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="LALIGA PPV",Next  14:00 (GMT)  ¿Culpable en la derrota del Madrid?  ES
 https://v5on.site/play.php?id=611741
 #EXTINF:-1 tvg-id="611742" tvg-name="Next  19:00 (GMT)  Jornada 25  ES" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="LALIGA PPV",Next  19:00 (GMT)  Jornada 25  ES
 https://v5on.site/play.php?id=611742
@@ -8575,7 +8575,7 @@ https://v5on.site/play.php?id=1242733
 https://v5on.site/play.php?id=1242731
 #EXTINF:-1 tvg-id="1242729" tvg-name="Next  Alavés vs. Girona  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Alavés vs. Girona  PRIME-DE
 https://v5on.site/play.php?id=1242729
-#EXTINF:-1 tvg-id="1242732" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242732" tvg-name="Next  Inside The Ring - Feb 23  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Inside The Ring - Feb 23  PRIME-DE
 https://v5on.site/play.php?id=1242732
 #EXTINF:-1 tvg-id="1242735" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242735
@@ -22475,6 +22475,112 @@ https://v5on.site/play.php?id=1184941
 https://v5on.site/play.php?id=1184930
 #EXTINF:-1 tvg-id="1184931" tvg-name="CZ| CANAL+ SPORT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/canal-plus-sport-sk.png" group-title="CANAL+ SPORT",CZ| CANAL+ SPORT HD
 https://v5on.site/play.php?id=1184931
+#EXTINF:-1 tvg-id="30624" tvg-name="HRT 1 (HR)" tvg-logo="http://138.199.27.237:8080/EXYU/N1HR.png" group-title="EX-YU ENTERTEMNTS",HRT 1 (HR)
+https://v5on.site/play.php?id=30624
+#EXTINF:-1 tvg-id="30623" tvg-name="HRT 2 (HR)" tvg-logo="http://138.199.27.237:8080/EXYU/HRT2HD.png" group-title="EX-YU ENTERTEMNTS",HRT 2 (HR)
+https://v5on.site/play.php?id=30623
+#EXTINF:-1 tvg-id="30622" tvg-name="HRT 3 (HR)" tvg-logo="http://138.199.27.237:8080/EXYU/HRT3.png" group-title="EX-YU ENTERTEMNTS",HRT 3 (HR)
+https://v5on.site/play.php?id=30622
+#EXTINF:-1 tvg-id="30621" tvg-name="HRT 4 (HR)" tvg-logo="http://138.199.27.237:8080/EXYU/HRT%204.png" group-title="EX-YU ENTERTEMNTS",HRT 4 (HR)
+https://v5on.site/play.php?id=30621
+#EXTINF:-1 tvg-id="30615" tvg-name="RTS 1 (RS)" tvg-logo="http://138.199.27.237:8080/EXYU/RTS2.png" group-title="EX-YU ENTERTEMNTS",RTS 1 (RS)
+https://v5on.site/play.php?id=30615
+#EXTINF:-1 tvg-id="30614" tvg-name="RTS 2 (RS)" tvg-logo="http://138.199.27.237:8080/EXYU/RTS2.png" group-title="EX-YU ENTERTEMNTS",RTS 2 (RS)
+https://v5on.site/play.php?id=30614
+#EXTINF:-1 tvg-id="30613" tvg-name="RTS 3 (RS)" tvg-logo="http://138.199.27.237:8080/EXYU/RTS2.png" group-title="EX-YU ENTERTEMNTS",RTS 3 (RS)
+https://v5on.site/play.php?id=30613
+#EXTINF:-1 tvg-id="30612" tvg-name="RTS DRAMA (RS)" tvg-logo="http://138.199.27.237:8080/EXYU/RTS2.png" group-title="EX-YU ENTERTEMNTS",RTS DRAMA (RS)
+https://v5on.site/play.php?id=30612
+#EXTINF:-1 tvg-id="30665" tvg-name="PINK 2" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK 2
+https://v5on.site/play.php?id=30665
+#EXTINF:-1 tvg-id="30664" tvg-name="PINK 3 INFO" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK 3 INFO
+https://v5on.site/play.php?id=30664
+#EXTINF:-1 tvg-id="30663" tvg-name="PINK ACTION" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK ACTION
+https://v5on.site/play.php?id=30663
+#EXTINF:-1 tvg-id="30662" tvg-name="PINK BH" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK BH
+https://v5on.site/play.php?id=30662
+#EXTINF:-1 tvg-id="30661" tvg-name="PINK BRAVO" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK BRAVO
+https://v5on.site/play.php?id=30661
+#EXTINF:-1 tvg-id="30660" tvg-name="PINK CLASSIC" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK CLASSIC
+https://v5on.site/play.php?id=30660
+#EXTINF:-1 tvg-id="30659" tvg-name="PINK COMEDY" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK COMEDY
+https://v5on.site/play.php?id=30659
+#EXTINF:-1 tvg-id="30658" tvg-name="PINK CRIME MYSTERY" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK CRIME MYSTERY
+https://v5on.site/play.php?id=30658
+#EXTINF:-1 tvg-id="30657" tvg-name="PINK EXTRA" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK EXTRA
+https://v5on.site/play.php?id=30657
+#EXTINF:-1 tvg-id="30656" tvg-name="PINK FAMILY" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK FAMILY
+https://v5on.site/play.php?id=30656
+#EXTINF:-1 tvg-id="30654" tvg-name="PINK FILM" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK FILM
+https://v5on.site/play.php?id=30654
+#EXTINF:-1 tvg-id="30653" tvg-name="PINK FOLK 1" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK FOLK 1
+https://v5on.site/play.php?id=30653
+#EXTINF:-1 tvg-id="30652" tvg-name="PINK FOLK 2" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK FOLK 2
+https://v5on.site/play.php?id=30652
+#EXTINF:-1 tvg-id="30651" tvg-name="PINK HAHA" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK HAHA
+https://v5on.site/play.php?id=30651
+#EXTINF:-1 tvg-id="30650" tvg-name="PINK HITS" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK HITS
+https://v5on.site/play.php?id=30650
+#EXTINF:-1 tvg-id="30649" tvg-name="PINK HITS 2" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK HITS 2
+https://v5on.site/play.php?id=30649
+#EXTINF:-1 tvg-id="30648" tvg-name="PINK HOROR" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK HOROR
+https://v5on.site/play.php?id=30648
+#EXTINF:-1 tvg-id="30647" tvg-name="PINK KIDS" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK KIDS
+https://v5on.site/play.php?id=30647
+#EXTINF:-1 tvg-id="30646" tvg-name="PINK KONCERT" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK KONCERT
+https://v5on.site/play.php?id=30646
+#EXTINF:-1 tvg-id="30645" tvg-name="PINK KUVAR" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK KUVAR
+https://v5on.site/play.php?id=30645
+#EXTINF:-1 tvg-id="30644" tvg-name="PINK LOL" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK LOL
+https://v5on.site/play.php?id=30644
+#EXTINF:-1 tvg-id="30643" tvg-name="PNK MOVIES" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PNK MOVIES
+https://v5on.site/play.php?id=30643
+#EXTINF:-1 tvg-id="30640" tvg-name="PINK PEDIA" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK PEDIA
+https://v5on.site/play.php?id=30640
+#EXTINF:-1 tvg-id="30639" tvg-name="PINK PLUS" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK PLUS
+https://v5on.site/play.php?id=30639
+#EXTINF:-1 tvg-id="30638" tvg-name="PINK PREMIUM" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK PREMIUM
+https://v5on.site/play.php?id=30638
+#EXTINF:-1 tvg-id="30637" tvg-name="PINK REALITY" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK REALITY
+https://v5on.site/play.php?id=30637
+#EXTINF:-1 tvg-id="30636" tvg-name="PINK ROMANCE" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK ROMANCE
+https://v5on.site/play.php?id=30636
+#EXTINF:-1 tvg-id="30635" tvg-name="PINK SCI FI / FANTASY" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK SCI FI / FANTASY
+https://v5on.site/play.php?id=30635
+#EXTINF:-1 tvg-id="30634" tvg-name="PINK SERIJE" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK SERIJE
+https://v5on.site/play.php?id=30634
+#EXTINF:-1 tvg-id="30633" tvg-name="PINK SHOW" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK SHOW
+https://v5on.site/play.php?id=30633
+#EXTINF:-1 tvg-id="30632" tvg-name="PINK SOAP" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK SOAP
+https://v5on.site/play.php?id=30632
+#EXTINF:-1 tvg-id="30631" tvg-name="PINK STYLE" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK STYLE
+https://v5on.site/play.php?id=30631
+#EXTINF:-1 tvg-id="30630" tvg-name="PINK SUPER KIDS" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK SUPER KIDS
+https://v5on.site/play.php?id=30630
+#EXTINF:-1 tvg-id="30629" tvg-name="PINK THRILLER" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK THRILLER
+https://v5on.site/play.php?id=30629
+#EXTINF:-1 tvg-id="30628" tvg-name="PINK WESTERN" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK WESTERN
+https://v5on.site/play.php?id=30628
+#EXTINF:-1 tvg-id="30627" tvg-name="PINK WORLD" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK WORLD
+https://v5on.site/play.php?id=30627
+#EXTINF:-1 tvg-id="30626" tvg-name="PINK WORLD CINEMA" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK WORLD CINEMA
+https://v5on.site/play.php?id=30626
+#EXTINF:-1 tvg-id="30625" tvg-name="PINK ZABAVA" tvg-logo="http://138.199.27.237:8080/EXYU/PINKPLUS.png" group-title="EX-YU ENTERTEMNTS",PINK ZABAVA
+https://v5on.site/play.php?id=30625
+#EXTINF:-1 tvg-id="30616" tvg-name="NICK JR" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="EX-YU ENTERTEMNTS",NICK JR
+https://v5on.site/play.php?id=30616
+#EXTINF:-1 tvg-id="30619" tvg-name="MINIMAX" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="EX-YU ENTERTEMNTS",MINIMAX
+https://v5on.site/play.php?id=30619
+#EXTINF:-1 tvg-id="30617" tvg-name="NATIONAL GEOGRAPHIC WILD ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="EX-YU ENTERTEMNTS",NATIONAL GEOGRAPHIC WILD ᴴᴰ
+https://v5on.site/play.php?id=30617
+#EXTINF:-1 tvg-id="30618" tvg-name="NATIONAL GEOGRAPHIC CHANNEL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="EX-YU ENTERTEMNTS",NATIONAL GEOGRAPHIC CHANNEL ᴴᴰ
+https://v5on.site/play.php?id=30618
+#EXTINF:-1 tvg-id="30609" tvg-name="VIASAT NATURE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATNATURE.png" group-title="EX-YU ENTERTEMNTS",VIASAT NATURE
+https://v5on.site/play.php?id=30609
+#EXTINF:-1 tvg-id="30610" tvg-name="VIASAT HISTORY" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATHISTORY.png" group-title="EX-YU ENTERTEMNTS",VIASAT HISTORY
+https://v5on.site/play.php?id=30610
+#EXTINF:-1 tvg-id="30611" tvg-name="VIASAT EXPLORER" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="EX-YU ENTERTEMNTS",VIASAT EXPLORER
+https://v5on.site/play.php?id=30611
 #EXTINF:-1 tvg-id="32848" tvg-name="AGRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Agro_TV_logo.png" group-title="SERBIA",AGRO TV
 https://v5on.site/play.php?id=32848
 #EXTINF:-1 tvg-id="32863" tvg-name="CBS REALITY" tvg-logo="http://138.199.27.237:8080/EXYU/CBS_Reality.png" group-title="SERBIA",CBS REALITY
