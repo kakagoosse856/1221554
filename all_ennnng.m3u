@@ -4471,7 +4471,7 @@ https://v5on.site/play.php?id=1264536
 https://v5on.site/play.php?id=1322149
 #EXTINF:-1 tvg-id="1322150" tvg-name="Next  19:50 (GMT)  all | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png" group-title="UEFA CHAMPIONS LEAGUE",Next  19:50 (GMT)  all | MX
 https://v5on.site/play.php?id=1322150
-#EXTINF:-1 tvg-id="1322147" tvg-name="Next  16:30 (GMT)  all | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png" group-title="UEFA CHAMPIONS LEAGUE",Next  16:30 (GMT)  all | MX
+#EXTINF:-1 tvg-id="1322147" tvg-name="Live  all | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png" group-title="UEFA CHAMPIONS LEAGUE",Live  all | MX
 https://v5on.site/play.php?id=1322147
 #EXTINF:-1 tvg-id="1322148" tvg-name="Next  19:45 (GMT)  all | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png" group-title="UEFA CHAMPIONS LEAGUE",Next  19:45 (GMT)  all | MX
 https://v5on.site/play.php?id=1322148
@@ -6023,7 +6023,7 @@ https://v5on.site/play.php?id=623172
 https://v5on.site/play.php?id=623308
 #EXTINF:-1 tvg-id="623309" tvg-name="End  NFL Game Pass | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NFL Game Pass | IT
 https://v5on.site/play.php?id=623309
-#EXTINF:-1 tvg-id="623310" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623310" tvg-name="Live  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623310
 #EXTINF:-1 tvg-id="623311" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623311
@@ -6141,7 +6141,7 @@ https://v5on.site/play.php?id=1236028
 https://v5on.site/play.php?id=1236033
 #EXTINF:-1 tvg-id="1236036" tvg-name="Next  19:45 (GMT)  Enterprise National League | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  19:45 (GMT)  Enterprise National League | IT
 https://v5on.site/play.php?id=1236036
-#EXTINF:-1 tvg-id="1235774" tvg-name="Next  16:30 (GMT)  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  16:30 (GMT)  Radio TV Serie A | IT
+#EXTINF:-1 tvg-id="1235774" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1235774
 #EXTINF:-1 tvg-id="1236035" tvg-name="Next  19:45 (GMT)  Enterprise National League North & South | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  19:45 (GMT)  Enterprise National League North & South | IT
 https://v5on.site/play.php?id=1236035
@@ -8589,9 +8589,9 @@ https://v5on.site/play.php?id=1242730
 https://v5on.site/play.php?id=264926
 #EXTINF:-1 tvg-id="1242736" tvg-name="Next  Snooker: Welsh Open: 1. Runde  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker: Welsh Open: 1. Runde  PRIME-DE
 https://v5on.site/play.php?id=1242736
-#EXTINF:-1 tvg-id="1242737" tvg-name="Live  1. Runde  Home Nations Series  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Live  1. Runde  Home Nations Series  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242737" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242737
-#EXTINF:-1 tvg-id="1242738" tvg-name="Next  Jack Lisowski - Louis Heathcote Welsh Open  Llandudno  Original Sound  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Jack Lisowski - Louis Heathcote Welsh Open  Llandudno  Original Sound  PRIME-DE
+#EXTINF:-1 tvg-id="1242738" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242738
 #EXTINF:-1 tvg-id="1242726" tvg-name="Next  Atlético Madrid vs. Club Brugge  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Atlético Madrid vs. Club Brugge  PRIME-DE
 https://v5on.site/play.php?id=1242726
@@ -10423,11 +10423,11 @@ https://v5on.site/play.php?id=379294
 https://v5on.site/play.php?id=379293
 #EXTINF:-1 tvg-id="459148" tvg-name="PDC Board 1 : 2026 Players Championship 5 // UK Tue 24 Feb 1:00pm // ET Tue 24 Feb 8:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 1 : 2026 Players Championship 5 // UK Tue 24 Feb 1:00pm // ET Tue 24 Feb 8:00am
 https://v5on.site/play.php?id=459148
-#EXTINF:-1 tvg-id="459149" tvg-name="PDC Board 2 : Superbet Poland Darts Open | Day 3 - Evening Session // UK Sun 22 Feb 6:00pm // ET Sun 22 Feb 1:00pm" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 2 : Superbet Poland Darts Open | Day 3 - Evening Session // UK Sun 22 Feb 6:00pm // ET Sun 22 Feb 1:00pm
+#EXTINF:-1 tvg-id="459149" tvg-name="PDC Board 2 : 2026 Players Championship 6 Board 2 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 2 : 2026 Players Championship 6 Board 2 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am
 https://v5on.site/play.php?id=459149
-#EXTINF:-1 tvg-id="459150" tvg-name="PDC Board 3 : 2026 ADA Tour | Weekend 1 - Day 2 // UK Sat 21 Feb 1:30am // ET Fri 20 Feb 8:30pm" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 3 : 2026 ADA Tour | Weekend 1 - Day 2 // UK Sat 21 Feb 1:30am // ET Fri 20 Feb 8:30pm
+#EXTINF:-1 tvg-id="459150" tvg-name="PDC Board 3 : 2026 Players Championship 6 Board 3 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 3 : 2026 Players Championship 6 Board 3 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am
 https://v5on.site/play.php?id=459150
-#EXTINF:-1 tvg-id="459151" tvg-name="PDC Board 4 : Players championship 34 board 2 // UK Thu 30 Oct 2:00pm // ET Thu 30 Oct 9:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 4 : Players championship 34 board 2 // UK Thu 30 Oct 2:00pm // ET Thu 30 Oct 9:00am
+#EXTINF:-1 tvg-id="459151" tvg-name="PDC Board 4 : 2026 Players Championship 6 Board 4 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 4 : 2026 Players Championship 6 Board 4 // UK Wed 25 Feb 1:00pm // ET Wed 25 Feb 8:00am
 https://v5on.site/play.php?id=459151
 #EXTINF:-1 tvg-id="459152" tvg-name="PDC Board 5 : 2025 german darts championship day two // UK Sat 18 Oct 12:00pm // ET Sat 18 Oct 7:00am" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="PDC BOARD",PDC Board 5 : 2025 german darts championship day two // UK Sat 18 Oct 12:00pm // ET Sat 18 Oct 7:00am
 https://v5on.site/play.php?id=459152
@@ -19813,7 +19813,7 @@ https://v5on.site/play.php?id=1110251
 https://v5on.site/play.php?id=1110252
 #EXTINF:-1 tvg-id="1110253" tvg-name="SE: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110253
-#EXTINF:-1 tvg-id="1110236" tvg-name="SE: MAX PPV 2 - RYAN DAY - BULCSÚ RÉVÉSZ  8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 2 - RYAN DAY - BULCSÚ RÉVÉSZ  8K EXCLUSIVE
+#EXTINF:-1 tvg-id="1110236" tvg-name="SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110236
 #EXTINF:-1 tvg-id="1110254" tvg-name="SE: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110254
@@ -19835,7 +19835,7 @@ https://v5on.site/play.php?id=1110261
 https://v5on.site/play.php?id=1110262
 #EXTINF:-1 tvg-id="1110263" tvg-name="SE: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110263
-#EXTINF:-1 tvg-id="1110237" tvg-name="SE: MAX PPV 3 - ZHOU YUELONG - ALEXANDER URSENBACHER  8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 3 - ZHOU YUELONG - ALEXANDER URSENBACHER  8K EXCLUSIVE
+#EXTINF:-1 tvg-id="1110237" tvg-name="SE: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110237
 #EXTINF:-1 tvg-id="1110264" tvg-name="SE: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110264
@@ -19857,7 +19857,7 @@ https://v5on.site/play.php?id=1110271
 https://v5on.site/play.php?id=1110272
 #EXTINF:-1 tvg-id="1110273" tvg-name="SE: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110273
-#EXTINF:-1 tvg-id="1110238" tvg-name="SE: MAX PPV 4 - ZHAO XINTONG - FAN ZHENGYI  8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 4 - ZHAO XINTONG - FAN ZHENGYI  8K EXCLUSIVE
+#EXTINF:-1 tvg-id="1110238" tvg-name="SE: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110238
 #EXTINF:-1 tvg-id="1110274" tvg-name="SE: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110274
@@ -19879,7 +19879,7 @@ https://v5on.site/play.php?id=1110281
 https://v5on.site/play.php?id=1110282
 #EXTINF:-1 tvg-id="1110283" tvg-name="SE: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110283
-#EXTINF:-1 tvg-id="1110239" tvg-name="SE: MAX PPV 5 - JACK LISOWSKI - LOUIS HEATHCOTE  8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 5 - JACK LISOWSKI - LOUIS HEATHCOTE  8K EXCLUSIVE
+#EXTINF:-1 tvg-id="1110239" tvg-name="SE: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110239
 #EXTINF:-1 tvg-id="1110284" tvg-name="SE: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110284
