@@ -6019,11 +6019,11 @@ https://v5on.site/play.php?id=623170
 https://v5on.site/play.php?id=623171
 #EXTINF:-1 tvg-id="623172" tvg-name="IT | No Event" tvg-logo="https://seeklogo.com/images/S/serie-bkt-2018-19-logo-06B5CCA666-seeklogo.com.png" group-title="DAZN SERIE BKT",IT | No Event
 https://v5on.site/play.php?id=623172
-#EXTINF:-1 tvg-id="623308" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623308" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623308
 #EXTINF:-1 tvg-id="623309" tvg-name="End  NFL Game Pass | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NFL Game Pass | IT
 https://v5on.site/play.php?id=623309
-#EXTINF:-1 tvg-id="623310" tvg-name="Live  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  NCAA Division I | IT
+#EXTINF:-1 tvg-id="623310" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=623310
 #EXTINF:-1 tvg-id="623311" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623311
@@ -7017,22 +7017,6 @@ https://v5on.site/play.php?id=115424
 https://v5on.site/play.php?id=115425
 #EXTINF:-1 tvg-id="115426" tvg-name="DMTV Boxoffice 8" tvg-logo="http://138.199.27.237:8080/FRANCE/DMTVBOXOFFICE.png" group-title="BOX OFFICE",DMTV Boxoffice 8
 https://v5on.site/play.php?id=115426
-#EXTINF:-1 tvg-id="4804" tvg-name="E entertainement ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5067.png" group-title="ENTERTAINMENT",E entertainement ᴴᴰ
-https://v5on.site/play.php?id=4804
-#EXTINF:-1 tvg-id="4803" tvg-name="E! ENTERTAINMENT H265" tvg-logo="http://138.199.27.237:8080/0tv_logo/5067.png" group-title="ENTERTAINMENT",E! ENTERTAINMENT H265
-https://v5on.site/play.php?id=4803
-#EXTINF:-1 tvg-id="4805" tvg-name="E ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5067.png" group-title="ENTERTAINMENT",E ᴴᴰ
-https://v5on.site/play.php?id=4805
-#EXTINF:-1 tvg-id="284053" tvg-name="BBC Entertainment" tvg-logo="http://138.199.27.237:8080/NEDERLAND/BBCENTERTAINMENT.png" group-title="ENTERTAINMENT",BBC Entertainment
-https://v5on.site/play.php?id=284053
-#EXTINF:-1 tvg-id="284068" tvg-name="Fashion TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/FASHIONTV.png" group-title="ENTERTAINMENT",Fashion TV ᴴᴰ
-https://v5on.site/play.php?id=284068
-#EXTINF:-1 tvg-id="4928" tvg-name="RTL CRIME NL" tvg-logo="http://138.199.27.237:8080/NEDERLAND/RTLCRIME.png" group-title="ENTERTAINMENT",RTL CRIME NL
-https://v5on.site/play.php?id=4928
-#EXTINF:-1 tvg-id="4929" tvg-name="Rtl Crime" tvg-logo="http://138.199.27.237:8080/NEDERLAND/RTLCRIME.png" group-title="ENTERTAINMENT",Rtl Crime
-https://v5on.site/play.php?id=4929
-#EXTINF:-1 tvg-id="4927" tvg-name="RTL Crime H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/RTLCRIME.png" group-title="ENTERTAINMENT",RTL Crime H265
-https://v5on.site/play.php?id=4927
 #EXTINF:-1 tvg-id="4961" tvg-name="Npo 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/NPO1.png" group-title="REGIONAL",Npo 1 ᴴᴰ
 https://v5on.site/play.php?id=4961
 #EXTINF:-1 tvg-id="4962" tvg-name="NPO1" tvg-logo="http://138.199.27.237:8080/NEDERLAND/NPO1.png" group-title="REGIONAL",NPO1
@@ -8459,72 +8443,6 @@ https://v5on.site/play.php?id=15052
 https://v5on.site/play.php?id=15030
 #EXTINF:-1 tvg-id="267907" tvg-name="NAUTICAL CHANNEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/NAUTICALCHANNEL.png" group-title="ENTERTAINMENT",NAUTICAL CHANNEL ᵁᴴᴰ
 https://v5on.site/play.php?id=267907
-#EXTINF:-1 tvg-id="268077" tvg-name="N-TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/NTV.png" group-title="NEWS| DOKU",N-TV ᵁᴴᴰ
-https://v5on.site/play.php?id=268077
-#EXTINF:-1 tvg-id="268005" tvg-name="BILD LIVE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/BILDLIVE.png" group-title="NEWS| DOKU",BILD LIVE ᵁᴴᴰ
-https://v5on.site/play.php?id=268005
-#EXTINF:-1 tvg-id="78477" tvg-name="DMAX ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/DMAX.png" group-title="NEWS| DOKU",DMAX ᵁᴴᴰ
-https://v5on.site/play.php?id=78477
-#EXTINF:-1 tvg-id="15022" tvg-name="Nat Geo Wild ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="NEWS| DOKU",Nat Geo Wild ᵁᴴᴰ
-https://v5on.site/play.php?id=15022
-#EXTINF:-1 tvg-id="522131" tvg-name="CURIOSITY CHANNEL" tvg-logo="http://138.199.27.237:8080/EUROPE/GERMANY/Curiosity Channel powered by SPIEGEL.jpeg" group-title="NEWS| DOKU",CURIOSITY CHANNEL
-https://v5on.site/play.php?id=522131
-#EXTINF:-1 tvg-id="268082" tvg-name="DISCOVERY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/DISCOVERYCHANNEL.png" group-title="NEWS| DOKU",DISCOVERY ᵁᴴᴰ
-https://v5on.site/play.php?id=268082
-#EXTINF:-1 tvg-id="268088" tvg-name="SKY NATURE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYNATURE.png" group-title="NEWS| DOKU",SKY NATURE ᵁᴴᴰ
-https://v5on.site/play.php?id=268088
-#EXTINF:-1 tvg-id="268087" tvg-name="SKY DOCUMENTARIES ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYDOCUMENTARIES.png" group-title="NEWS| DOKU",SKY DOCUMENTARIES ᵁᴴᴰ
-https://v5on.site/play.php?id=268087
-#EXTINF:-1 tvg-id="234155" tvg-name="Crime Investigation ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/CRIMEINVESTIGATION.png" group-title="NEWS| DOKU",Crime Investigation ᵁᴴᴰ
-https://v5on.site/play.php?id=234155
-#EXTINF:-1 tvg-id="78476" tvg-name="History ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/HISTORY.png" group-title="NEWS| DOKU",History ᵁᴴᴰ
-https://v5on.site/play.php?id=78476
-#EXTINF:-1 tvg-id="1470387" tvg-name="TERRA MATER WILD" tvg-logo="https://core2023.ots.at/api/v1/file/2023/10/16/OBS/OBS_20231016_OBS0025_1697441528_large.jpg" group-title="NEWS| DOKU",TERRA MATER WILD
-https://v5on.site/play.php?id=1470387
-#EXTINF:-1 tvg-id="268078" tvg-name="WAIDWERK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/WAIDWERK.png" group-title="NEWS| DOKU",WAIDWERK ᵁᴴᴰ
-https://v5on.site/play.php?id=268078
-#EXTINF:-1 tvg-id="246605" tvg-name="Waidwerk Free" tvg-logo="http://103.161.34.238/dreamtv/tv/Waidwerk%20Free.jpg" group-title="NEWS| DOKU",Waidwerk Free
-https://v5on.site/play.php?id=246605
-#EXTINF:-1 tvg-id="185566" tvg-name="GEO TELEVISION ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/GEOTELEVISION.png" group-title="NEWS| DOKU",GEO TELEVISION ᵁᴴᴰ
-https://v5on.site/play.php?id=185566
-#EXTINF:-1 tvg-id="246554" tvg-name="N24 Doku" tvg-logo="http://103.161.34.238/dreamtv/tv/N24%20Doku.jpg" group-title="NEWS| DOKU",N24 Doku
-https://v5on.site/play.php?id=246554
-#EXTINF:-1 tvg-id="268074" tvg-name="ANIMAL PLANET ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/ANIMALPLANETHD.png" group-title="NEWS| DOKU",ANIMAL PLANET ᵁᴴᴰ
-https://v5on.site/play.php?id=268074
-#EXTINF:-1 tvg-id="78452" tvg-name="TLC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/TLCHD.png" group-title="NEWS| DOKU",TLC ᵁᴴᴰ
-https://v5on.site/play.php?id=78452
-#EXTINF:-1 tvg-id="90538" tvg-name="Welt der Wunder ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/WELTHD.png" group-title="NEWS| DOKU",Welt der Wunder ᵁᴴᴰ
-https://v5on.site/play.php?id=90538
-#EXTINF:-1 tvg-id="90539" tvg-name="Phoenix ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/PHOENIX.png" group-title="NEWS| DOKU",Phoenix ᴴᴰ
-https://v5on.site/play.php?id=90539
-#EXTINF:-1 tvg-id="15051" tvg-name="EuroNews ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/EURONEWS.png" group-title="NEWS| DOKU",EuroNews ᴴᴰ
-https://v5on.site/play.php?id=15051
-#EXTINF:-1 tvg-id="90537" tvg-name="Tageschau 24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/TAGESCHAU24.png" group-title="NEWS| DOKU",Tageschau 24 ᴴᴰ
-https://v5on.site/play.php?id=90537
-#EXTINF:-1 tvg-id="12602" tvg-name="N-TV" tvg-logo="http://138.199.27.237:8080/GERMANY/NTV.png" group-title="NEWS| DOKU",N-TV
-https://v5on.site/play.php?id=12602
-#EXTINF:-1 tvg-id="608" tvg-name="National Geographic ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="NEWS| DOKU",National Geographic ᵁᴴᴰ
-https://v5on.site/play.php?id=608
-#EXTINF:-1 tvg-id="15023" tvg-name="Nat Geo ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="NEWS| DOKU",Nat Geo ᵁᴴᴰ
-https://v5on.site/play.php?id=15023
-#EXTINF:-1 tvg-id="307107" tvg-name="GEO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="NEWS| DOKU",GEO ᵁᴴᴰ
-https://v5on.site/play.php?id=307107
-#EXTINF:-1 tvg-id="609" tvg-name="Discovery ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/DISCOVERYCHANNEL.png" group-title="NEWS| DOKU",Discovery ᴴᴰ
-https://v5on.site/play.php?id=609
-#EXTINF:-1 tvg-id="617" tvg-name="Sky Documentaries ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYDOCUMENTARIES.png" group-title="NEWS| DOKU",Sky Documentaries ᴴᴰ
-https://v5on.site/play.php?id=617
-#EXTINF:-1 tvg-id="186272" tvg-name="ZDF info ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/ZDFINFO.png" group-title="NEWS| DOKU",ZDF info ᴴᴰ
-https://v5on.site/play.php?id=186272
-#EXTINF:-1 tvg-id="186275" tvg-name="ZDF NEO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/ZDFNEO.png" group-title="NEWS| DOKU",ZDF NEO ᵁᴴᴰ
-https://v5on.site/play.php?id=186275
-#EXTINF:-1 tvg-id="268055" tvg-name="CLIPMYHORSE.TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/CLIPMYHORSE.png" group-title="NEWS| DOKU",CLIPMYHORSE.TV ᵁᴴᴰ
-https://v5on.site/play.php?id=268055
-#EXTINF:-1 tvg-id="267892" tvg-name="DISCOVERY CHANNEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/DISCOVERYCHANNEL.png" group-title="NEWS| DOKU",DISCOVERY CHANNEL ᵁᴴᴰ
-https://v5on.site/play.php?id=267892
-#EXTINF:-1 tvg-id="12595" tvg-name="Dmax ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/DMAX.png" group-title="NEWS| DOKU",Dmax ᵁᴴᴰ
-https://v5on.site/play.php?id=12595
-#EXTINF:-1 tvg-id="268086" tvg-name="SPIEGEL GESCHICHTE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SPIEGELGESCHICHTE.png" group-title="NEWS| DOKU",SPIEGEL GESCHICHTE ᵁᴴᴰ
-https://v5on.site/play.php?id=268086
 #EXTINF:-1 tvg-id="79325" tvg-name="DAZN 1 BAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN SPORT 24/7",DAZN 1 BAR ᵁᴴᴰ
 https://v5on.site/play.php?id=79325
 #EXTINF:-1 tvg-id="403740" tvg-name="DAZN RISE" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN SPORT 24/7",DAZN RISE
@@ -8565,25 +8483,25 @@ https://v5on.site/play.php?id=264731
 https://v5on.site/play.php?id=264736
 #EXTINF:-1 tvg-id="1242725" tvg-name="Next  Al-Taawoun - Al-Hilal  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Al-Taawoun - Al-Hilal  PRIME-DE
 https://v5on.site/play.php?id=1242725
-#EXTINF:-1 tvg-id="1242734" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242734" tvg-name="Next  Snooker: Welsh Open: 1. Runde  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker: Welsh Open: 1. Runde  PRIME-DE
 https://v5on.site/play.php?id=1242734
-#EXTINF:-1 tvg-id="1242728" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242728" tvg-name="Next  Inter vs. Bodø/Glimt  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Inter vs. Bodø/Glimt  PRIME-DE
 https://v5on.site/play.php?id=1242728
-#EXTINF:-1 tvg-id="1242733" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242733" tvg-name="Next  Snooker: Welsh Open: 1. Runde  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker: Welsh Open: 1. Runde  PRIME-DE
 https://v5on.site/play.php?id=1242733
-#EXTINF:-1 tvg-id="1242731" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242731" tvg-name="Next  Irun - THW Kiel  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Irun - THW Kiel  PRIME-DE
 https://v5on.site/play.php?id=1242731
-#EXTINF:-1 tvg-id="1242729" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242729" tvg-name="Next  Newcastle vs. Qarabağ  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Newcastle vs. Qarabağ  PRIME-DE
 https://v5on.site/play.php?id=1242729
-#EXTINF:-1 tvg-id="1242732" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242732" tvg-name="Next  Tuesday's Conference  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tuesday's Conference  all | PRIME-DE
 https://v5on.site/play.php?id=1242732
-#EXTINF:-1 tvg-id="1242735" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242735" tvg-name="Next  Snooker: Welsh Open: 1. Runde  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker: Welsh Open: 1. Runde  PRIME-DE
 https://v5on.site/play.php?id=1242735
 #EXTINF:-1 tvg-id="1242739" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242739
 #EXTINF:-1 tvg-id="1242740" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242740
-#EXTINF:-1 tvg-id="1242730" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242730" tvg-name="Next  Eintracht Frankfurt U19 - Sporting U19  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Eintracht Frankfurt U19 - Sporting U19  PRIME-DE
 https://v5on.site/play.php?id=1242730
 #EXTINF:-1 tvg-id="264926" tvg-name="Next  Flensburg-Handewitt - Montpellier Handball  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Flensburg-Handewitt - Montpellier Handball  PRIME-DE
 https://v5on.site/play.php?id=264926
@@ -8595,7 +8513,7 @@ https://v5on.site/play.php?id=1242737
 https://v5on.site/play.php?id=1242738
 #EXTINF:-1 tvg-id="1242726" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242726
-#EXTINF:-1 tvg-id="1242727" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242727" tvg-name="Next  Atlético Madrid vs. Club Brugge  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Atlético Madrid vs. Club Brugge  PRIME-DE
 https://v5on.site/play.php?id=1242727
 #EXTINF:-1 tvg-id="1242741" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242741
@@ -19789,7 +19707,7 @@ https://v5on.site/play.php?id=453433
 https://v5on.site/play.php?id=453435
 #EXTINF:-1 tvg-id="453458" tvg-name="IC| TLC" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/TLCHD.png" group-title="ICELAND",IC| TLC
 https://v5on.site/play.php?id=453458
-#EXTINF:-1 tvg-id="1110235" tvg-name="SE: MAX PPV 1 - ALI CARTER - ANTHONY MCGILL  8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 1 - ALI CARTER - ANTHONY MCGILL  8K EXCLUSIVE
+#EXTINF:-1 tvg-id="1110235" tvg-name="SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110235
 #EXTINF:-1 tvg-id="1110244" tvg-name="SE: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="MAX PPV",SE: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 https://v5on.site/play.php?id=1110244
