@@ -463,9 +463,29 @@
     <desc>At the hideout, Guel was taken prisoner by Olcott. Having killed his father, Guel remains sunk in deep despair. ......</desc>
     <date>2026-02-25</date>
   </programme>
-  <programme channel="369848" start="20260225220000 +0700" stop="20260226000000 +0700">
+  <programme channel="369848" start="20260225220000 +0700" stop="20260225223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-02-25</date>
+  </programme>
+  <programme channel="369848" start="20260225223000 +0700" stop="20260225230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-02-25</date>
+  </programme>
+  <programme channel="369848" start="20260225230000 +0700" stop="20260225233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata invites Takagi-san to take a side trip after school. Will Nishikata win by chatting to distract Takagi-san?</desc>
+    <date>2026-02-25</date>
+  </programme>
+  <programme channel="369848" start="20260225233000 +0700" stop="20260226000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata and Takagi-san go to play a claw machine before going to the movies. Can Nishikata get a prize first?</desc>
+    <date>2026-02-25</date>
+  </programme>
+  <programme channel="369848" start="20260226000000 +0700" stop="20260227000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Behind the glamorous open campus, Suletta learns what Sophie wants to get through the duel.</desc>
+    <date>2026-02-26</date>
   </programme>
 </tv>
