@@ -2,11 +2,9 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-24 12:00 PM (BD Time)
-# TV channel counts :- 97
+# Last Updated: 2026-02-24 12:44 PM (BD Time)
+# TV channel counts :- 96
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328523992-436123109.webp" group-title="Cricket - (Upcoming)",ACT Meteors Women VS South Australia Women [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68dd390e0318963666e92aee
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992217567-91872640.webp" group-title="Cricket - (Live)",Vasundhara Super Kings VS Amba Warriors [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f325e75a94bf857f32ad7
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077799559-309453934.webp" group-title="Cricket - (Live)",CA Lucknow VS Shourya Club Indore [Live]
@@ -51,10 +49,10 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=699c3f1be018c8f932ba5d1a
 https://sportsbd.top/demo/styxsportm3u8.php?id=698dd917c05e73d063282b49
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078025658-710614767.webp" group-title="Cricket - (Upcoming)",Indian Air Force VS Vijay Yadav CA [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6990818dfc6be820629a2d5c
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp" group-title="Cricket - (Upcoming)",Tribhuvan army Club VS Armed Police force Club [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69988fbad15882860301aae0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp" group-title="Cricket - (Upcoming)",Bagmati Province VS Nepal Police Club [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69988f7b75a94bf857f32ae4
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp" group-title="Cricket - (Upcoming)",Tribhuvan army Club VS Armed Police force Club [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69988fbad15882860301aae0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076069309-166033303.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Medical Maverics [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699079f3ba9be617883a9ab0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078078230-804350093.webp" group-title="Cricket - (Upcoming)",Sahgal Club Delhi VS Sapience Club Gurgaon [Upcoming]
