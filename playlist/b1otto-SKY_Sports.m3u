@@ -2,15 +2,13 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-24 01:41 PM (BD Time)
-# TV channel counts :- 94
+# Last Updated: 2026-02-24 01:51 PM (BD Time)
+# TV channel counts :- 93
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992217567-91872640.webp" group-title="Cricket - (Live)",Vasundhara Super Kings VS Amba Warriors [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=698f325e75a94bf857f32ad7
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Cricket - (Live)",Bagmati Province VS Tribhuvan army Club [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69988f2339c2e98fc3b6afa5
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp" group-title="Cricket - (Live)",Armed Police force Club VS Nepal Police Club [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69988ed839c2e98fc3b6afa4
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Cricket - (Live)",Bagmati Province VS Tribhuvan army Club [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69988f2339c2e98fc3b6afa5
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp" group-title="Cricket - (Live)",N.E. Railway VS CA Uttarakhand [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699080d439c2e98fc3b6af92
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076369743-725259759.webp" group-title="Cricket - (Live)",RPL Riders VS Tehri Falcons [Live]
@@ -63,12 +61,12 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=6999849874685a2a43504c93
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f3315e018c8f932ba5d07
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078183457-507594867.webp" group-title="Cricket - (Upcoming)",Sapience Club Gurgaon VS Vijay Yadav CA [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6990822a74685a2a43504c8a
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Northern District [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771849600995-28652087.webp" group-title="Cricket - (Upcoming)",Garuda Girls VS Kartini 11 [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c478574685a2a43504c9c
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771849651215-83262807.webp" group-title="Cricket - (Upcoming)",Merpati Warrior VS Gianyar [Upcoming]
