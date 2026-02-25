@@ -6023,11 +6023,11 @@ https://v5on.site/play.php?id=623172
 https://v5on.site/play.php?id=623308
 #EXTINF:-1 tvg-id="623309" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623309
-#EXTINF:-1 tvg-id="623310" tvg-name="Live  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Radio TV Serie A | IT
+#EXTINF:-1 tvg-id="623310" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=623310
 #EXTINF:-1 tvg-id="623311" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623311
-#EXTINF:-1 tvg-id="623312" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623312" tvg-name="End  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623312
 #EXTINF:-1 tvg-id="623313" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=623313
@@ -8563,19 +8563,19 @@ https://v5on.site/play.php?id=264730
 https://v5on.site/play.php?id=264731
 #EXTINF:-1 tvg-id="264736" tvg-name="DAZN EUROSPORT 2 EVENT SP" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN SPORT 24/7",DAZN EUROSPORT 2 EVENT SP
 https://v5on.site/play.php?id=264736
-#EXTINF:-1 tvg-id="1242725" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242725" tvg-name="Next  Atalanta vs. Dortmund  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Atalanta vs. Dortmund  PRIME-DE
 https://v5on.site/play.php?id=1242725
-#EXTINF:-1 tvg-id="1242734" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242734" tvg-name="Next  Wardley vs. Dubois: Launch Press Conference  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Wardley vs. Dubois: Launch Press Conference  PRIME-DE
 https://v5on.site/play.php?id=1242734
-#EXTINF:-1 tvg-id="1242728" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242728" tvg-name="Next  Real Madrid vs. Benfica  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Real Madrid vs. Benfica  PRIME-DE
 https://v5on.site/play.php?id=1242728
-#EXTINF:-1 tvg-id="1242733" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242733" tvg-name="Next  Wednesday's Conference  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Wednesday's Conference  all | PRIME-DE
 https://v5on.site/play.php?id=1242733
-#EXTINF:-1 tvg-id="1242731" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242731" tvg-name="Next  Tour of Sardinia  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tour of Sardinia  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242731
-#EXTINF:-1 tvg-id="1242729" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242729" tvg-name="Next  PSG vs. Monaco  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  PSG vs. Monaco  PRIME-DE
 https://v5on.site/play.php?id=1242729
-#EXTINF:-1 tvg-id="1242732" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242732" tvg-name="Next  Veszprem - Dinamo Bucuresti  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Veszprem - Dinamo Bucuresti  PRIME-DE
 https://v5on.site/play.php?id=1242732
 #EXTINF:-1 tvg-id="1242735" tvg-name="Next  Butler vs. Villanova  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Butler vs. Villanova  PRIME-DE
 https://v5on.site/play.php?id=1242735
@@ -8583,7 +8583,7 @@ https://v5on.site/play.php?id=1242735
 https://v5on.site/play.php?id=1242739
 #EXTINF:-1 tvg-id="1242740" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242740
-#EXTINF:-1 tvg-id="1242730" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242730" tvg-name="Next  Tour of Sardinia  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tour of Sardinia  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242730
 #EXTINF:-1 tvg-id="264926" tvg-name="Next  Al-Najma - Al-Nassr  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Al-Najma - Al-Nassr  PRIME-DE
 https://v5on.site/play.php?id=264926
@@ -8593,7 +8593,7 @@ https://v5on.site/play.php?id=1242736
 https://v5on.site/play.php?id=1242737
 #EXTINF:-1 tvg-id="1242738" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242738
-#EXTINF:-1 tvg-id="1242726" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242726" tvg-name="Next  Juventus vs. Galatasaray  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Juventus vs. Galatasaray  PRIME-DE
 https://v5on.site/play.php?id=1242726
 #EXTINF:-1 tvg-id="1242727" tvg-name="Next  Giro di Sardegna - Stage 1 - Castelsardo - Bosa (189.8km)  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Giro di Sardegna - Stage 1 - Castelsardo - Bosa (189.8km)  PRIME-DE
 https://v5on.site/play.php?id=1242727
@@ -13645,27 +13645,27 @@ https://v5on.site/play.php?id=303217
 https://v5on.site/play.php?id=303218
 #EXTINF:-1 tvg-id="303219" tvg-name="NBA 14 : San Antonio Spurs @ Golden State Warriors // UK Thu 12 Feb 2:45am // ET Wed 11 Feb 9:45pm" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",NBA 14 : San Antonio Spurs @ Golden State Warriors // UK Thu 12 Feb 2:45am // ET Wed 11 Feb 9:45pm
 https://v5on.site/play.php?id=303219
-#EXTINF:-1 tvg-id="290357" tvg-name="Indiana Pacers vs Philadelphia 76ers @ Feb 24 7:00 PM :NBA  01" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Indiana Pacers vs Philadelphia 76ers @ Feb 24 7:00 PM :NBA  01
+#EXTINF:-1 tvg-id="290357" tvg-name="Detroit Pistons vs Oklahoma City Thunder  @ Feb 25 7:30 PM :NBA  01" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Detroit Pistons vs Oklahoma City Thunder  @ Feb 25 7:30 PM :NBA  01
 https://v5on.site/play.php?id=290357
-#EXTINF:-1 tvg-id="290358" tvg-name="Atlanta Hawks vs Washington Wizards @ Feb 24 7:30 PM :NBA  02" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA",Atlanta Hawks vs Washington Wizards @ Feb 24 7:30 PM :NBA  02
+#EXTINF:-1 tvg-id="290358" tvg-name="Toronto Raptors vs San Antonio Spurs  @ Feb 25 7:30 PM :NBA  02" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA",Toronto Raptors vs San Antonio Spurs  @ Feb 25 7:30 PM :NBA  02
 https://v5on.site/play.php?id=290358
-#EXTINF:-1 tvg-id="290359" tvg-name="Brooklyn Nets vs Dallas Mavericks  @ Feb 24 7:30 PM :NBA  03" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Brooklyn Nets vs Dallas Mavericks  @ Feb 24 7:30 PM :NBA  03
+#EXTINF:-1 tvg-id="290359" tvg-name="Memphis Grizzlies vs Golden State Warriors  @ Feb 25 7:30 PM :NBA  03" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Memphis Grizzlies vs Golden State Warriors  @ Feb 25 7:30 PM :NBA  03
 https://v5on.site/play.php?id=290359
-#EXTINF:-1 tvg-id="290360" tvg-name="Toronto Raptors vs Oklahoma City Thunder @ Feb 24 7:30 PM :NBA  04" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Toronto Raptors vs Oklahoma City Thunder @ Feb 24 7:30 PM :NBA  04
+#EXTINF:-1 tvg-id="290360" tvg-name="Houston Rockets vs Sacramento Kings  @ Feb 25 8:00 PM :NBA  04" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Houston Rockets vs Sacramento Kings  @ Feb 25 8:00 PM :NBA  04
 https://v5on.site/play.php?id=290360
-#EXTINF:-1 tvg-id="290361" tvg-name="Cleveland Cavaliers vs New York Knicks @ Feb 24 7:30 PM :NBA  05" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Cleveland Cavaliers vs New York Knicks @ Feb 24 7:30 PM :NBA  05
+#EXTINF:-1 tvg-id="290361" tvg-name="Milwaukee Bucks vs Cleveland Cavaliers  @ Feb 25 8:00 PM :NBA  05" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Milwaukee Bucks vs Cleveland Cavaliers  @ Feb 25 8:00 PM :NBA  05
 https://v5on.site/play.php?id=290361
-#EXTINF:-1 tvg-id="290362" tvg-name="Chicago Bulls vs Charlotte Hornets @ Feb 24 8:00 PM :NBA  06" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Chicago Bulls vs Charlotte Hornets @ Feb 24 8:00 PM :NBA  06
+#EXTINF:-1 tvg-id="290362" tvg-name="Denver Nuggets vs Boston Celtics  @ Feb 25 10:00 PM :NBA  06" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Denver Nuggets vs Boston Celtics  @ Feb 25 10:00 PM :NBA  06
 https://v5on.site/play.php?id=290362
-#EXTINF:-1 tvg-id="290363" tvg-name="Milwaukee Bucks vs Miami Heat @ Feb 24 8:00 PM :NBA  07" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Milwaukee Bucks vs Miami Heat @ Feb 24 8:00 PM :NBA  07
+#EXTINF:-1 tvg-id="290363" tvg-name=":NBA  07" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  07
 https://v5on.site/play.php?id=290363
-#EXTINF:-1 tvg-id="290364" tvg-name="New Orleans Pelicans vs Golden State Warriors @ Feb 24 8:00 PM :NBA  08" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",New Orleans Pelicans vs Golden State Warriors @ Feb 24 8:00 PM :NBA  08
+#EXTINF:-1 tvg-id="290364" tvg-name=":NBA  08" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  08
 https://v5on.site/play.php?id=290364
-#EXTINF:-1 tvg-id="290365" tvg-name="Phoenix Suns vs Boston Celtics  @ Feb 24 9:00 PM :NBA  09" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Phoenix Suns vs Boston Celtics  @ Feb 24 9:00 PM :NBA  09
+#EXTINF:-1 tvg-id="290365" tvg-name=":NBA  09" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  09
 https://v5on.site/play.php?id=290365
-#EXTINF:-1 tvg-id="290366" tvg-name="Portland Trail Blazers vs Minnesota Timberwolves @ Feb 24 10:00 PM :NBA  10" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Portland Trail Blazers vs Minnesota Timberwolves @ Feb 24 10:00 PM :NBA  10
+#EXTINF:-1 tvg-id="290366" tvg-name=":NBA  10" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  10
 https://v5on.site/play.php?id=290366
-#EXTINF:-1 tvg-id="290367" tvg-name="Los Angeles Lakers vs Orlando Magic @ Feb 24 10:30 PM :NBA  11" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",Los Angeles Lakers vs Orlando Magic @ Feb 24 10:30 PM :NBA  11
+#EXTINF:-1 tvg-id="290367" tvg-name=":NBA  11" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  11
 https://v5on.site/play.php?id=290367
 #EXTINF:-1 tvg-id="290368" tvg-name=":NBA  12" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="NBA",:NBA  12
 https://v5on.site/play.php?id=290368
@@ -27777,170 +27777,6 @@ https://v5on.site/play.php?id=277247
 https://v5on.site/play.php?id=277248
 #EXTINF:-1 tvg-id="277249" tvg-name="TULJA BHAVANI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="MARATHI",TULJA BHAVANI
 https://v5on.site/play.php?id=277249
-#EXTINF:-1 tvg-id="277208" tvg-name="COLORS GUJARATI" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",COLORS GUJARATI
-https://v5on.site/play.php?id=277208
-#EXTINF:-1 tvg-id="277209" tvg-name="COLORS GUJARATI CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",COLORS GUJARATI CINEMA
-https://v5on.site/play.php?id=277209
-#EXTINF:-1 tvg-id="277210" tvg-name="GSTV" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",GSTV
-https://v5on.site/play.php?id=277210
-#EXTINF:-1 tvg-id="277211" tvg-name="INDIA NEWS GUJARAT" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",INDIA NEWS GUJARAT
-https://v5on.site/play.php?id=277211
-#EXTINF:-1 tvg-id="277212" tvg-name="LAKSHYA TV ᴴᴰ" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",LAKSHYA TV ᴴᴰ
-https://v5on.site/play.php?id=277212
-#EXTINF:-1 tvg-id="277213" tvg-name="MANTAVYA NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",MANTAVYA NEWS
-https://v5on.site/play.php?id=277213
-#EXTINF:-1 tvg-id="277214" tvg-name="SANDESH NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",SANDESH NEWS
-https://v5on.site/play.php?id=277214
-#EXTINF:-1 tvg-id="277215" tvg-name="VTV NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",VTV NEWS
-https://v5on.site/play.php?id=277215
-#EXTINF:-1 tvg-id="277216" tvg-name="CNBC BAZAR" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",CNBC BAZAR
-https://v5on.site/play.php?id=277216
-#EXTINF:-1 tvg-id="277217" tvg-name="KARTAVYA TV" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",KARTAVYA TV
-https://v5on.site/play.php?id=277217
-#EXTINF:-1 tvg-id="277218" tvg-name="TV9 NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",TV9 NEWS
-https://v5on.site/play.php?id=277218
-#EXTINF:-1 tvg-id="277219" tvg-name="ABP ASMITA" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",ABP ASMITA
-https://v5on.site/play.php?id=277219
-#EXTINF:-1 tvg-id="277220" tvg-name="CNBC AAWAZ" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="GUJARAT",CNBC AAWAZ
-https://v5on.site/play.php?id=277220
-#EXTINF:-1 tvg-id="277175" tvg-name="MIDDLE EAST" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",MIDDLE EAST
-https://v5on.site/play.php?id=277175
-#EXTINF:-1 tvg-id="277176" tvg-name="SURYA COMEDY" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SURYA COMEDY
-https://v5on.site/play.php?id=277176
-#EXTINF:-1 tvg-id="277177" tvg-name="MEDIA ONE NEWS" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",MEDIA ONE NEWS
-https://v5on.site/play.php?id=277177
-#EXTINF:-1 tvg-id="277178" tvg-name="AMRITHA TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",AMRITHA TV
-https://v5on.site/play.php?id=277178
-#EXTINF:-1 tvg-id="277179" tvg-name="ASIANET ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",ASIANET ᴴᴰ
-https://v5on.site/play.php?id=277179
-#EXTINF:-1 tvg-id="277180" tvg-name="FLOWERS TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",FLOWERS TV
-https://v5on.site/play.php?id=277180
-#EXTINF:-1 tvg-id="277181" tvg-name="KAIRALI PEOPLE TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KAIRALI PEOPLE TV
-https://v5on.site/play.php?id=277181
-#EXTINF:-1 tvg-id="277182" tvg-name="KOCHU TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KOCHU TV
-https://v5on.site/play.php?id=277182
-#EXTINF:-1 tvg-id="277183" tvg-name="MAZAVIL MANORAMA ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",MAZAVIL MANORAMA ᴴᴰ
-https://v5on.site/play.php?id=277183
-#EXTINF:-1 tvg-id="277184" tvg-name="NEWS 18 KERALA" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",NEWS 18 KERALA
-https://v5on.site/play.php?id=277184
-#EXTINF:-1 tvg-id="277185" tvg-name="RAJ MUSIC" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",RAJ MUSIC
-https://v5on.site/play.php?id=277185
-#EXTINF:-1 tvg-id="277186" tvg-name="ASIANET MOVIE" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",ASIANET MOVIE
-https://v5on.site/play.php?id=277186
-#EXTINF:-1 tvg-id="277187" tvg-name="ASIANET PLUS" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",ASIANET PLUS
-https://v5on.site/play.php?id=277187
-#EXTINF:-1 tvg-id="277188" tvg-name="SURYA MOVIES" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SURYA MOVIES
-https://v5on.site/play.php?id=277188
-#EXTINF:-1 tvg-id="277189" tvg-name="SURYA TV ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SURYA TV ᴴᴰ
-https://v5on.site/play.php?id=277189
-#EXTINF:-1 tvg-id="277190" tvg-name="WE TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",WE TV
-https://v5on.site/play.php?id=277190
-#EXTINF:-1 tvg-id="277191" tvg-name="ASIANET NEWS ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",ASIANET NEWS ᴴᴰ
-https://v5on.site/play.php?id=277191
-#EXTINF:-1 tvg-id="277192" tvg-name="MANORAMA NEWS" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",MANORAMA NEWS
-https://v5on.site/play.php?id=277192
-#EXTINF:-1 tvg-id="277193" tvg-name="SURYA MUSIC" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SURYA MUSIC
-https://v5on.site/play.php?id=277193
-#EXTINF:-1 tvg-id="277194" tvg-name="JANAM TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",JANAM TV
-https://v5on.site/play.php?id=277194
-#EXTINF:-1 tvg-id="277195" tvg-name="ZEE KERALAM ᴴᴰ" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",ZEE KERALAM ᴴᴰ
-https://v5on.site/play.php?id=277195
-#EXTINF:-1 tvg-id="277196" tvg-name="DD MALAYALAM" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",DD MALAYALAM
-https://v5on.site/play.php?id=277196
-#EXTINF:-1 tvg-id="277197" tvg-name="JAIHIND TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",JAIHIND TV
-https://v5on.site/play.php?id=277197
-#EXTINF:-1 tvg-id="277198" tvg-name="MATHRUBHUMI NEWS" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",MATHRUBHUMI NEWS
-https://v5on.site/play.php?id=277198
-#EXTINF:-1 tvg-id="277199" tvg-name="REPORTER TV YUPP" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",REPORTER TV YUPP
-https://v5on.site/play.php?id=277199
-#EXTINF:-1 tvg-id="277200" tvg-name="KAPPA TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KAPPA TV
-https://v5on.site/play.php?id=277200
-#EXTINF:-1 tvg-id="277201" tvg-name="RAJ NEWS MALAYALAM" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",RAJ NEWS MALAYALAM
-https://v5on.site/play.php?id=277201
-#EXTINF:-1 tvg-id="277202" tvg-name="SAFARI TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SAFARI TV
-https://v5on.site/play.php?id=277202
-#EXTINF:-1 tvg-id="277203" tvg-name="KAIRALI ARABIA" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KAIRALI ARABIA
-https://v5on.site/play.php?id=277203
-#EXTINF:-1 tvg-id="277204" tvg-name="KAIRALI NEWS" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KAIRALI NEWS
-https://v5on.site/play.php?id=277204
-#EXTINF:-1 tvg-id="277205" tvg-name="KAUMUDY" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",KAUMUDY
-https://v5on.site/play.php?id=277205
-#EXTINF:-1 tvg-id="277206" tvg-name="SHOLAM TV" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",SHOLAM TV
-https://v5on.site/play.php?id=277206
-#EXTINF:-1 tvg-id="277207" tvg-name="24 NEWS MALAYALAM" tvg-logo="https://img.freepik.com/premium-vector/red-live-button-icon-tv-streaming_875240-606.jpg?semt=ais_hybrid&w=740&q=80" group-title="MALAYALAM",24 NEWS MALAYALAM
-https://v5on.site/play.php?id=277207
-#EXTINF:-1 tvg-id="277139" tvg-name="ABN NEWS TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ABN NEWS TV
-https://v5on.site/play.php?id=277139
-#EXTINF:-1 tvg-id="277140" tvg-name="CVR NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",CVR NEWS
-https://v5on.site/play.php?id=277140
-#EXTINF:-1 tvg-id="277141" tvg-name="BHAKTI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",BHAKTI TV
-https://v5on.site/play.php?id=277141
-#EXTINF:-1 tvg-id="277142" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",DISCOVERY WORLD ᴴᴰ
-https://v5on.site/play.php?id=277142
-#EXTINF:-1 tvg-id="277143" tvg-name="ETV CINEMA" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ETV CINEMA
-https://v5on.site/play.php?id=277143
-#EXTINF:-1 tvg-id="277144" tvg-name="ETV ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ETV ᴴᴰ
-https://v5on.site/play.php?id=277144
-#EXTINF:-1 tvg-id="277145" tvg-name="GEMINI ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",GEMINI ᴴᴰ
-https://v5on.site/play.php?id=277145
-#EXTINF:-1 tvg-id="277146" tvg-name="GEMINI MOVIES ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",GEMINI MOVIES ᴴᴰ
-https://v5on.site/play.php?id=277146
-#EXTINF:-1 tvg-id="277147" tvg-name="GEMINI COMEDY" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",GEMINI COMEDY
-https://v5on.site/play.php?id=277147
-#EXTINF:-1 tvg-id="277148" tvg-name="HISTORY 18 TELUGU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",HISTORY 18 TELUGU ᴴᴰ
-https://v5on.site/play.php?id=277148
-#EXTINF:-1 tvg-id="277149" tvg-name="STAR MAA MOVIES ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",STAR MAA MOVIES ᴴᴰ
-https://v5on.site/play.php?id=277149
-#EXTINF:-1 tvg-id="277150" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",NATIONAL GEOGRAPHIC ᴴᴰ
-https://v5on.site/play.php?id=277150
-#EXTINF:-1 tvg-id="277151" tvg-name="RAJ MUSIC TELUGU" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",RAJ MUSIC TELUGU
-https://v5on.site/play.php?id=277151
-#EXTINF:-1 tvg-id="277152" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",RAJ NEWS TELUGU
-https://v5on.site/play.php?id=277152
-#EXTINF:-1 tvg-id="277153" tvg-name="SONY BBC EARTH ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",SONY BBC EARTH ᴴᴰ
-https://v5on.site/play.php?id=277153
-#EXTINF:-1 tvg-id="277154" tvg-name="STAR MAA GOLD ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",STAR MAA GOLD ᴴᴰ
-https://v5on.site/play.php?id=277154
-#EXTINF:-1 tvg-id="277155" tvg-name="STAR MAA ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",STAR MAA ᴴᴰ
-https://v5on.site/play.php?id=277155
-#EXTINF:-1 tvg-id="277156" tvg-name="TATA SKY TELUGU CINEMA ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",TATA SKY TELUGU CINEMA ᴴᴰ
-https://v5on.site/play.php?id=277156
-#EXTINF:-1 tvg-id="277157" tvg-name="TV9 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",TV9 NEWS
-https://v5on.site/play.php?id=277157
-#EXTINF:-1 tvg-id="277158" tvg-name="V6 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",V6 NEWS
-https://v5on.site/play.php?id=277158
-#EXTINF:-1 tvg-id="277159" tvg-name="ETV PLUS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ETV PLUS
-https://v5on.site/play.php?id=277159
-#EXTINF:-1 tvg-id="277160" tvg-name="ZEE CINEMALU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ZEE CINEMALU ᴴᴰ
-https://v5on.site/play.php?id=277160
-#EXTINF:-1 tvg-id="277161" tvg-name="ZEE TELUGU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ZEE TELUGU ᴴᴰ
-https://v5on.site/play.php?id=277161
-#EXTINF:-1 tvg-id="277162" tvg-name="GEMINI MUSIC" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",GEMINI MUSIC
-https://v5on.site/play.php?id=277162
-#EXTINF:-1 tvg-id="277163" tvg-name="GEMINI LIFE" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",GEMINI LIFE
-https://v5on.site/play.php?id=277163
-#EXTINF:-1 tvg-id="277164" tvg-name="ETV LIFE" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",ETV LIFE
-https://v5on.site/play.php?id=277164
-#EXTINF:-1 tvg-id="277165" tvg-name="TV5 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",TV5 NEWS
-https://v5on.site/play.php?id=277165
-#EXTINF:-1 tvg-id="277166" tvg-name="SONY YAY" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",SONY YAY
-https://v5on.site/play.php?id=277166
-#EXTINF:-1 tvg-id="277167" tvg-name="10 TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",10 TV
-https://v5on.site/play.php?id=277167
-#EXTINF:-1 tvg-id="277168" tvg-name="DD SAPTAGIRI" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",DD SAPTAGIRI
-https://v5on.site/play.php?id=277168
-#EXTINF:-1 tvg-id="277169" tvg-name="VANITHA TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",VANITHA TV
-https://v5on.site/play.php?id=277169
-#EXTINF:-1 tvg-id="277170" tvg-name="VISSA TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",VISSA TV
-https://v5on.site/play.php?id=277170
-#EXTINF:-1 tvg-id="277171" tvg-name="KUSHI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",KUSHI TV
-https://v5on.site/play.php?id=277171
-#EXTINF:-1 tvg-id="277172" tvg-name="SAKSHI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",SAKSHI TV
-https://v5on.site/play.php?id=277172
-#EXTINF:-1 tvg-id="277173" tvg-name="STAR MAA ᴴᴰ²" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",STAR MAA ᴴᴰ²
-https://v5on.site/play.php?id=277173
-#EXTINF:-1 tvg-id="277174" tvg-name="STAR MAA ᴴᴰ³" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="TELUGU",STAR MAA ᴴᴰ³
-https://v5on.site/play.php?id=277174
 #EXTINF:-1 tvg-id="598758" tvg-name="SUN TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="TAMIL",SUN TV ᴴᴰ
 https://v5on.site/play.php?id=598758
 #EXTINF:-1 tvg-id="598757" tvg-name="ZEE TAMIL ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="TAMIL",ZEE TAMIL ᴴᴰ
