@@ -463,9 +463,29 @@
     <desc>Miorine decides to take over the Quiet Zero project in exchange for Suletta's release.</desc>
     <date>2026-02-27</date>
   </programme>
-  <programme channel="369848" start="20260227220000 +0700" stop="20260228000000 +0700">
+  <programme channel="369848" start="20260227220000 +0700" stop="20260227223000 +0700">
     <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
     <desc>On White Day, Shiraishi recalls that he received a chocolate gift on Valentine's Day, so he finds Kubo and….</desc>
     <date>2026-02-27</date>
+  </programme>
+  <programme channel="369848" start="20260227223000 +0700" stop="20260227230000 +0700">
+    <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
+    <desc>One day, Shiraishi's lost his handkerchief. A girl behind picks it up and calls out to him. She's Kubo's little sister.</desc>
+    <date>2026-02-27</date>
+  </programme>
+  <programme channel="369848" start="20260227230000 +0700" stop="20260227233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>After training with his demon boss Liz, Akutsu gains confidence and sets out to corrupt Lily. As they battle in charm, Lily makes a desperate move.</desc>
+    <date>2026-02-27</date>
+  </programme>
+  <programme channel="369848" start="20260227233000 +0700" stop="20260228000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Lily, sleepless after last night with Akutsu, dozes off in class. He appears in her romance game dream—could this be her chance to win him over?</desc>
+    <date>2026-02-27</date>
+  </programme>
+  <programme channel="369848" start="20260228000000 +0700" stop="20260301000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Due to the incident, the school was in chaos. Miorine returns to school after a long hiatus from the hearing.</desc>
+    <date>2026-02-28</date>
   </programme>
 </tv>
