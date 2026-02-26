@@ -1645,7 +1645,7 @@ https://v5on.site/play.php?id=1235330
 https://v5on.site/play.php?id=1235328
 #EXTINF:-1 tvg-id="1235326" tvg-name="Next  20:00 (GMT)  Mérida Open Akron Women Single | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  20:00 (GMT)  Mérida Open Akron Women Single | MA
 https://v5on.site/play.php?id=1235326
-#EXTINF:-1 tvg-id="1235325" tvg-name="Next  17:00 (GMT)  ATX Open Women Single | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  17:00 (GMT)  ATX Open Women Single | MA
+#EXTINF:-1 tvg-id="1235325" tvg-name="Next  19:00 (GMT)  ATX Open Women Single | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  19:00 (GMT)  ATX Open Women Single | MA
 https://v5on.site/play.php?id=1235325
 #EXTINF:-1 tvg-id="1235327" tvg-name="Next  20:00 (GMT)  NFL Game Pass | MA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN PPV MENA",Next  20:00 (GMT)  NFL Game Pass | MA
 https://v5on.site/play.php?id=1235327
@@ -4271,6 +4271,88 @@ https://v5on.site/play.php?id=91146
 https://v5on.site/play.php?id=91143
 #EXTINF:-1 tvg-id="91144" tvg-name="KUWAIT TV 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/KUWAIT/KTV2.png" group-title="KUWAIT",KUWAIT TV 2 ᵁᴴᴰ
 https://v5on.site/play.php?id=91144
+#EXTINF:-1 tvg-id="1061507" tvg-name="AL JAMAHIRIYA TV" tvg-logo="https://www.lj-bc.tv/wp-content/uploads/2021/11/lj-bc-logo.png" group-title="LIBYA",AL JAMAHIRIYA TV
+https://v5on.site/play.php?id=1061507
+#EXTINF:-1 tvg-id="49529" tvg-name="LIBYA ALMUSTAQBAL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-ALMUSTAQBAL-HD.png" group-title="LIBYA",LIBYA ALMUSTAQBAL ᴴᴰ
+https://v5on.site/play.php?id=49529
+#EXTINF:-1 tvg-id="49530" tvg-name="Libya Febrayer" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/ARABIC/libyafebrayer.png" group-title="LIBYA",Libya Febrayer
+https://v5on.site/play.php?id=49530
+#EXTINF:-1 tvg-id="8620" tvg-name="LIBYA ALHADATH" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-ALHADATH.png" group-title="LIBYA",LIBYA ALHADATH
+https://v5on.site/play.php?id=8620
+#EXTINF:-1 tvg-id="8621" tvg-name="Libya Al Ahrar TV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYAELAHRAR.png" group-title="LIBYA",Libya Al Ahrar TV
+https://v5on.site/play.php?id=8621
+#EXTINF:-1 tvg-id="49517" tvg-name="LIBYA PANORAMA FM" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYAPANORAMA.png" group-title="LIBYA",LIBYA PANORAMA FM
+https://v5on.site/play.php?id=49517
+#EXTINF:-1 tvg-id="8618" tvg-name="Libya Sport Channel" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYASPORTCHANNEL.png" group-title="LIBYA",Libya Sport Channel
+https://v5on.site/play.php?id=8618
+#EXTINF:-1 tvg-id="141581" tvg-name="Libya Sport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-SPORTS.png" group-title="LIBYA",Libya Sport 2 ᴴᴰ
+https://v5on.site/play.php?id=141581
+#EXTINF:-1 tvg-id="49518" tvg-name="LIBYA WAAD FM" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/waad.png" group-title="LIBYA",LIBYA WAAD FM
+https://v5on.site/play.php?id=49518
+#EXTINF:-1 tvg-id="8614" tvg-name="TANASUH LIBYA" tvg-logo="http://138.199.27.237:8080/ISLAMIC/TANASOH.png" group-title="LIBYA",TANASUH LIBYA
+https://v5on.site/play.php?id=8614
+#EXTINF:-1 tvg-id="8625" tvg-name="Libya_WTV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LiByawTV.png" group-title="LIBYA",Libya_WTV
+https://v5on.site/play.php?id=8625
+#EXTINF:-1 tvg-id="8619" tvg-name="Libya_Alrasmia" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYAALRSMIATV.png" group-title="LIBYA",Libya_Alrasmia
+https://v5on.site/play.php?id=8619
+#EXTINF:-1 tvg-id="8624" tvg-name="LIBYA TV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYATV.png" group-title="LIBYA",LIBYA TV
+https://v5on.site/play.php?id=8624
+#EXTINF:-1 tvg-id="8617" tvg-name="Libya Alwataniya" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-ALWATANIYA.png" group-title="LIBYA",Libya Alwataniya
+https://v5on.site/play.php?id=8617
+#EXTINF:-1 tvg-id="8616" tvg-name="LIBYA_TELEVISION" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYATELEVISION.png" group-title="LIBYA",LIBYA_TELEVISION
+https://v5on.site/play.php?id=8616
+#EXTINF:-1 tvg-id="192429" tvg-name="LIBYA Salam TV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYASALAMTV.png" group-title="LIBYA",LIBYA Salam TV
+https://v5on.site/play.php?id=192429
+#EXTINF:-1 tvg-id="50180" tvg-name="LIBYA AHRAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYAELAHRAR.png" group-title="LIBYA",LIBYA AHRAR ᵁᴴᴰ
+https://v5on.site/play.php?id=50180
+#EXTINF:-1 tvg-id="50194" tvg-name="ALMUSTQBAL LIBYA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-ALMUSTAQBAL-HD.png" group-title="LIBYA",ALMUSTQBAL LIBYA ᵁᴴᴰ
+https://v5on.site/play.php?id=50194
+#EXTINF:-1 tvg-id="201218" tvg-name="LEBDA TV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LEBDA.png" group-title="LIBYA",LEBDA TV
+https://v5on.site/play.php?id=201218
+#EXTINF:-1 tvg-id="201220" tvg-name="Libya 218" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA218.png" group-title="LIBYA",Libya 218
+https://v5on.site/play.php?id=201220
+#EXTINF:-1 tvg-id="201251" tvg-name="ALMASAR TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/ALMASAR.png" group-title="LIBYA",ALMASAR TV ᴴᴰ
+https://v5on.site/play.php?id=201251
+#EXTINF:-1 tvg-id="309158" tvg-name="Libya Alwataniya" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYA-ALWATANIYA.png" group-title="LIBYA",Libya Alwataniya
+https://v5on.site/play.php?id=309158
+#EXTINF:-1 tvg-id="309157" tvg-name="Libya Channel ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/LIBYACHANNEL.png" group-title="LIBYA",Libya Channel ᴴᴰ
+https://v5on.site/play.php?id=309157
+#EXTINF:-1 tvg-id="309155" tvg-name="Mourabitoun" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/mourabitoun.jpeg" group-title="LIBYA",Mourabitoun
+https://v5on.site/play.php?id=309155
+#EXTINF:-1 tvg-id="309154" tvg-name="ETIHAD TV" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/ETIHAD TV.jpeg" group-title="LIBYA",ETIHAD TV
+https://v5on.site/play.php?id=309154
+#EXTINF:-1 tvg-id="170856" tvg-name="Libya Abnaa Al Balad" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/abnaabalad.png" group-title="LIBYA",Libya Abnaa Al Balad
+https://v5on.site/play.php?id=170856
+#EXTINF:-1 tvg-id="170859" tvg-name="Libya Education" tvg-logo="http://138.199.27.237:8080/AFRICA/LIBYAN/Education.jpeg" group-title="LIBYA",Libya Education
+https://v5on.site/play.php?id=170859
+#EXTINF:-1 tvg-id="28187" tvg-name="Oman tv sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/47bc434d89.webp" group-title="OMAN",Oman tv sport ᴴᴰ
+https://v5on.site/play.php?id=28187
+#EXTINF:-1 tvg-id="1319" tvg-name="Oman tv" tvg-logo="http://138.199.27.237:8080/OMAN/OMANTV.png" group-title="OMAN",Oman tv
+https://v5on.site/play.php?id=1319
+#EXTINF:-1 tvg-id="1318" tvg-name="OMAN TV Live ˢᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/OMANTV.png" group-title="OMAN",OMAN TV Live ˢᴰ
+https://v5on.site/play.php?id=1318
+#EXTINF:-1 tvg-id="49591" tvg-name="OMAN TV Culture ˢᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/OMAN TV Culture.jpeg" group-title="OMAN",OMAN TV Culture ˢᴰ
+https://v5on.site/play.php?id=49591
+#EXTINF:-1 tvg-id="50218" tvg-name="OMAN TV CULTURE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/OMAN TV Culture.jpeg" group-title="OMAN",OMAN TV CULTURE ᵁᴴᴰ
+https://v5on.site/play.php?id=50218
+#EXTINF:-1 tvg-id="50219" tvg-name="OMAN TV LIVE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/OMANTV.png" group-title="OMAN",OMAN TV LIVE ᵁᴴᴰ
+https://v5on.site/play.php?id=50219
+#EXTINF:-1 tvg-id="50220" tvg-name="OMAN TV GENERAL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/OMANTV.png" group-title="OMAN",OMAN TV GENERAL ᵁᴴᴰ
+https://v5on.site/play.php?id=50220
+#EXTINF:-1 tvg-id="50221" tvg-name="OMAN TV SPORTS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/OMAN/47bc434d89.webp" group-title="OMAN",OMAN TV SPORTS ᵁᴴᴰ
+https://v5on.site/play.php?id=50221
+#EXTINF:-1 tvg-id="201435" tvg-name="Amman FM" tvg-logo="http://138.199.27.237:8080/OMAN/Amman FM.jpeg" group-title="OMAN",Amman FM
+https://v5on.site/play.php?id=201435
+#EXTINF:-1 tvg-id="1305" tvg-name="Qatar tv" tvg-logo="http://138.199.27.237:8080/QATAR/QATARTVHD.png" group-title="QATAR",Qatar tv
+https://v5on.site/play.php?id=1305
+#EXTINF:-1 tvg-id="4978" tvg-name="Qatar today" tvg-logo="http://138.199.27.237:8080/QATAR/QATARTODAY.png" group-title="QATAR",Qatar today
+https://v5on.site/play.php?id=4978
+#EXTINF:-1 tvg-id="50239" tvg-name="AL RAYYAN ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ASIA/UAE/rayyan.png" group-title="QATAR",AL RAYYAN ᵁᴴᴰ
+https://v5on.site/play.php?id=50239
+#EXTINF:-1 tvg-id="50240" tvg-name="AL RAYYAN QADEEM ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ASIA/UAE/rayyanqadim.png" group-title="QATAR",AL RAYYAN QADEEM ᵁᴴᴰ
+https://v5on.site/play.php?id=50240
+#EXTINF:-1 tvg-id="776634" tvg-name="AL ARABY 2" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.png" group-title="QATAR",AL ARABY 2
+https://v5on.site/play.php?id=776634
 #EXTINF:-1 tvg-id="49496" tvg-name="Majd" tvg-logo="http://138.199.27.237:8080/0tv_logo/720.png" group-title="SAUDI ARABIA (KSA)",Majd
 https://v5on.site/play.php?id=49496
 #EXTINF:-1 tvg-id="1290" tvg-name="Saudi-1" tvg-logo="http://138.199.27.237:8080/ASIA/SAUDIARABIA/SAUDI1.png" group-title="SAUDI ARABIA (KSA)",Saudi-1
