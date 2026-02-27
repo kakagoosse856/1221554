@@ -463,9 +463,29 @@
     <desc>For the last practice match of the training camp, Karasuno High School is against Fukurōdani again.</desc>
     <date>2026-02-28</date>
   </programme>
-  <programme channel="369848" start="20260228215800 +0700" stop="20260301000000 +0700">
+  <programme channel="369848" start="20260228215800 +0700" stop="20260228222800 +0700">
     <title lang="zh">HAIKYU!! 2ND SEASON</title>
     <desc>Karasuno learns why Fukurōdani has one of the top volleyball teams in Tokyo.</desc>
     <date>2026-02-28</date>
+  </programme>
+  <programme channel="369848" start="20260228222800 +0700" stop="20260228230000 +0700">
+    <title lang="zh">HAIKYU!! 2ND SEASON</title>
+    <desc>Karasuno come up against Ougiminami High. And there's a confrontation between Hinata and Yoshiki Towada in the bathroom.</desc>
+    <date>2026-02-28</date>
+  </programme>
+  <programme channel="369848" start="20260228230000 +0700" stop="20260228233000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>The King of Magdalsia has fallen into a mysterious coma. Lucia, a suspected witch, declares herself in charge.</desc>
+    <date>2026-02-28</date>
+  </programme>
+  <programme channel="369848" start="20260228233000 +0700" stop="20260301000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>In one timeline, Valt was the Head Mage of Farsas. He lived countless lives, but one day, he loses his beloved.</desc>
+    <date>2026-02-28</date>
+  </programme>
+  <programme channel="369848" start="20260301000000 +0700" stop="20260302000000 +0700">
+    <title lang="zh">UNNAMED MEMORY SEASON 2</title>
+    <desc>400 years ago, Tinasha destroyed Tuldarr in a single night. Oscar rewrote history, erasing the Witch of the Azure Moon.</desc>
+    <date>2026-03-01</date>
   </programme>
 </tv>
