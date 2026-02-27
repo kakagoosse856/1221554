@@ -2,9 +2,17 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-27 04:40 PM (BD Time)
-# TV channel counts :- 269
+# Last Updated: 2026-02-27 05:23 PM (BD Time)
+# TV channel counts :- 273
 #==================================
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16 tv
+https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771144676_6801.jpg" group-title="Bangladesh",Akash
+https://iptv.porosh.com.bd/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771064849_5532.jpeg" group-title="Bangladesh",channela1tv
+https://iptv.porosh.com.bd/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="Bangladesh",Ptv Bangla
+https://iptv.porosh.com.bd/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zhpfnXry/Ananda-TV.jpg" group-title="Bangladesh",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D04SQBVt/Asian-TV.jpg" group-title="Bangladesh",Asian TV
