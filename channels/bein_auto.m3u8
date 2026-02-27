@@ -199,6 +199,8 @@ http://135.125.109.73:9000/beinsportglobal_.m3u8
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 2 SD
 http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 3 SD
+http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 4 SD
 http://135.125.109.73:9000/beinsport4_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 5 SD
