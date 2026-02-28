@@ -3395,7 +3395,7 @@ https://v5on.site/play.php?id=1148797
 https://v5on.site/play.php?id=1148798
 #EXTINF:-1 tvg-id="1148799" tvg-name="Next  15:00 (GMT)  Premier League | ES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",Next  15:00 (GMT)  Premier League | ES
 https://v5on.site/play.php?id=1148799
-#EXTINF:-1 tvg-id="623044" tvg-name="Live  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",Live  GP PT de Tailandia  ES
+#EXTINF:-1 tvg-id="623044" tvg-name="End  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",End  GP PT de Tailandia  ES
 https://v5on.site/play.php?id=623044
 #EXTINF:-1 tvg-id="623043" tvg-name="End  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",End  GP PT de Tailandia  ES
 https://v5on.site/play.php?id=623043
@@ -4119,7 +4119,7 @@ https://v5on.site/play.php?id=1269483
 https://v5on.site/play.php?id=1269484
 #EXTINF:-1 tvg-id="1269485" tvg-name="End  NHL.TV | ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",End  NHL.TV | ES
 https://v5on.site/play.php?id=1269485
-#EXTINF:-1 tvg-id="1269486" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
+#EXTINF:-1 tvg-id="1269486" tvg-name="Live  Jarama (E4) + (E3)  ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Live  Jarama (E4) + (E3)  ES
 https://v5on.site/play.php?id=1269486
 #EXTINF:-1 tvg-id="1269487" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1269487
@@ -4159,7 +4159,7 @@ https://v5on.site/play.php?id=1303343
 https://v5on.site/play.php?id=1303347
 #EXTINF:-1 tvg-id="1504753" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1504753
-#EXTINF:-1 tvg-id="1504754" tvg-name="Next  10:40 (GMT)  Jarama (E4) + (E3)  ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Next  10:40 (GMT)  Jarama (E4) + (E3)  ES
+#EXTINF:-1 tvg-id="1504754" tvg-name="ES | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",ES | No Event
 https://v5on.site/play.php?id=1504754
 #EXTINF:-1 tvg-id="1504755" tvg-name="Next  11:35 (GMT)  Porsche Sprint Challenge SE | ES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Next  11:35 (GMT)  Porsche Sprint Challenge SE | ES
 https://v5on.site/play.php?id=1504755
@@ -5923,9 +5923,9 @@ https://v5on.site/play.php?id=623171
 https://v5on.site/play.php?id=623172
 #EXTINF:-1 tvg-id="623308" tvg-name="End  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623308
-#EXTINF:-1 tvg-id="623309" tvg-name="Next  10:30 (GMT)  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  10:30 (GMT)  Radio TV Serie A | IT
+#EXTINF:-1 tvg-id="623309" tvg-name="Live  Discesa maschile  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Discesa maschile  IT
 https://v5on.site/play.php?id=623309
-#EXTINF:-1 tvg-id="623310" tvg-name="Next  10:45 (GMT)  Discesa maschile  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  10:45 (GMT)  Discesa maschile  IT
+#EXTINF:-1 tvg-id="623310" tvg-name="End  Super G femminile 1  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  Super G femminile 1  IT
 https://v5on.site/play.php?id=623310
 #EXTINF:-1 tvg-id="623311" tvg-name="Next  11:35 (GMT)  Barcellona  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  11:35 (GMT)  Barcellona  IT
 https://v5on.site/play.php?id=623311
@@ -5939,7 +5939,7 @@ https://v5on.site/play.php?id=623314
 https://v5on.site/play.php?id=623315
 #EXTINF:-1 tvg-id="623316" tvg-name="End  NCAA Division I | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NCAA Division I | IT
 https://v5on.site/play.php?id=623316
-#EXTINF:-1 tvg-id="623317" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
+#EXTINF:-1 tvg-id="623317" tvg-name="Live  Radio TV Serie A | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Radio TV Serie A | IT
 https://v5on.site/play.php?id=623317
 #EXTINF:-1 tvg-id="1236037" tvg-name="Next  17:30 (GMT)  NHL | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  17:30 (GMT)  NHL | IT
 https://v5on.site/play.php?id=1236037
@@ -5995,7 +5995,7 @@ https://v5on.site/play.php?id=1504733
 https://v5on.site/play.php?id=1504735
 #EXTINF:-1 tvg-id="1504734" tvg-name="Next  23:00 (GMT)  NHL | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Next  23:00 (GMT)  NHL | IT
 https://v5on.site/play.php?id=1504734
-#EXTINF:-1 tvg-id="1504737" tvg-name="Live  Super G femminile 1  IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",Live  Super G femminile 1  IT
+#EXTINF:-1 tvg-id="1504737" tvg-name="IT | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",IT | No Event
 https://v5on.site/play.php?id=1504737
 #EXTINF:-1 tvg-id="1504736" tvg-name="End  NHL | IT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-it-1458.png" group-title="DAZN EVENT",End  NHL | IT
 https://v5on.site/play.php?id=1504736
@@ -6797,7 +6797,7 @@ https://v5on.site/play.php?id=1761539
 https://v5on.site/play.php?id=1547016
 #EXTINF:-1 tvg-id="1547006" tvg-name="Penguins vs. Rangers (2026-02-28 17:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/46v1wmydbz5psilt5gkz3h9zo_image-header_pRow_1753969352000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Penguins vs. Rangers (2026-02-28 17:30:00)
 https://v5on.site/play.php?id=1547006
-#EXTINF:-1 tvg-id="1546977" tvg-name="Nuggets @ Thunder (2026-02-28 02:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h5v9ey0vewjy1wtca9bc0siht_image-header_pRow_1751557069000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Nuggets @ Thunder (2026-02-28 02:30:00)
+#EXTINF:-1 tvg-id="1546977" tvg-name="Rutgers @ Maryland (2026-03-01 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h5v9ey0vewjy1wtca9bc0siht_image-header_pRow_1751557069000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Rutgers @ Maryland (2026-03-01 17:00:00)
 https://v5on.site/play.php?id=1546977
 #EXTINF:-1 tvg-id="1547012" tvg-name="2026 NFL Scouting Combine - Quarterbacks, Wide Receivers & Running Backs (2026-02-28 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sfftq4qaewkm1oingghxwezxd_image-header_pRow_1748857836000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",2026 NFL Scouting Combine - Quarterbacks, Wide Receivers & Running Backs (2026-02-28 18:00:00)
 https://v5on.site/play.php?id=1547012
@@ -6811,7 +6811,7 @@ https://v5on.site/play.php?id=1546999
 https://v5on.site/play.php?id=1547008
 #EXTINF:-1 tvg-id="1547014" tvg-name="Jong Genk - Lierse (2026-02-28 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6tq9fdswkox0zil8kq45r70tu_image-header_pRow_1752544929000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Jong Genk - Lierse (2026-02-28 19:00:00)
 https://v5on.site/play.php?id=1547014
-#EXTINF:-1 tvg-id="1546976" tvg-name="Wild vs. Mammoth (2026-02-28 02:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q0fx9us6g19v18fap85par59x_image-header_pRow_1751557069000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Wild vs. Mammoth (2026-02-28 02:00:00)
+#EXTINF:-1 tvg-id="1546976" tvg-name="Torino - Lazio (in italiano) (2026-03-01 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q0fx9us6g19v18fap85par59x_image-header_pRow_1751557069000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Torino - Lazio (in italiano) (2026-03-01 17:00:00)
 https://v5on.site/play.php?id=1546976
 #EXTINF:-1 tvg-id="1547000" tvg-name="Iowa @ Penn State (2026-02-28 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wc2m1wv2fbrc1e6lukl3btluc_image-header_pRow_1751557069000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Iowa @ Penn State (2026-02-28 17:00:00)
 https://v5on.site/play.php?id=1547000
@@ -6825,11 +6825,11 @@ https://v5on.site/play.php?id=1546996
 https://v5on.site/play.php?id=1546992
 #EXTINF:-1 tvg-id="1546997" tvg-name="Cooper vs. Ursu: Prelims (2026-02-28 16:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8bz2jegt6zc8hbajfpqnap4yz_image-header_pRow_1754468805000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Cooper vs. Ursu: Prelims (2026-02-28 16:30:00)
 https://v5on.site/play.php?id=1546997
-#EXTINF:-1 tvg-id="1546970" tvg-name="Cavaliers @ Pistons (2026-02-28 00:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/93mfpasy31no0vgq575pkuhhu_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Cavaliers @ Pistons (2026-02-28 00:00:00)
+#EXTINF:-1 tvg-id="1546970" tvg-name="Valencia - Osasuna (2026-03-01 15:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/93mfpasy31no0vgq575pkuhhu_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Valencia - Osasuna (2026-03-01 15:15:00)
 https://v5on.site/play.php?id=1546970
 #EXTINF:-1 tvg-id="1546980" tvg-name="Jake Newman vs. Amirreza Chegini (2026-02-28 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b09he5f1jmd8wzeu1ukvgzpez_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Jake Newman vs. Amirreza Chegini (2026-02-28 12:00:00)
 https://v5on.site/play.php?id=1546980
-#EXTINF:-1 tvg-id="1546971" tvg-name="Sabres vs. Panthers (2026-02-28 00:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c6ljtzcmz5sprz46k7vn1xc9p_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Sabres vs. Panthers (2026-02-28 00:00:00)
+#EXTINF:-1 tvg-id="1546971" tvg-name="Metz - Brest (2026-03-01 16:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c6ljtzcmz5sprz46k7vn1xc9p_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Metz - Brest (2026-03-01 16:15:00)
 https://v5on.site/play.php?id=1546971
 #EXTINF:-1 tvg-id="1547005" tvg-name="Morecambe - York (2026-02-28 17:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vsvfwboia8v53ffrrhs1832x_image-header_pRow_1751478656000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Morecambe - York (2026-02-28 17:30:00)
 https://v5on.site/play.php?id=1547005
@@ -6867,11 +6867,11 @@ https://v5on.site/play.php?id=1547010
 https://v5on.site/play.php?id=1547002
 #EXTINF:-1 tvg-id="1547003" tvg-name="Seton Hall @ UConn (2026-02-28 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bgdlqsuiy5g5bjuf6otxytzyf_image-header_pRow_1753454550000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Seton Hall @ UConn (2026-02-28 17:00:00)
 https://v5on.site/play.php?id=1547003
-#EXTINF:-1 tvg-id="1546973" tvg-name="Argentina - Uruguay (2026-02-28 00:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ilow1kihhma4jgo1d3k79cbv_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Argentina - Uruguay (2026-02-28 00:30:00)
+#EXTINF:-1 tvg-id="1546973" tvg-name="Lille - Nantes (2026-03-01 16:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ilow1kihhma4jgo1d3k79cbv_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Lille - Nantes (2026-03-01 16:15:00)
 https://v5on.site/play.php?id=1546973
-#EXTINF:-1 tvg-id="1546978" tvg-name="Jets vs. Ducks (2026-02-28 03:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o0cr2rkxnh91bf5o6w4wclyw_image-header_pRow_1751557070000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Jets vs. Ducks (2026-02-28 03:00:00)
+#EXTINF:-1 tvg-id="1546978" tvg-name="Estonia - Sweden (2026-03-01 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o0cr2rkxnh91bf5o6w4wclyw_image-header_pRow_1751557070000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Estonia - Sweden (2026-03-01 17:00:00)
 https://v5on.site/play.php?id=1546978
-#EXTINF:-1 tvg-id="1546974" tvg-name="Michigan @ Illinois (2026-02-28 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6tlwaj5ap4z2s00qbnr61ndbs_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Michigan @ Illinois (2026-02-28 01:00:00)
+#EXTINF:-1 tvg-id="1546974" tvg-name="Frankfurt - Freiburg (2026-03-01 16:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6tlwaj5ap4z2s00qbnr61ndbs_image-header_pRow_1751559463000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Frankfurt - Freiburg (2026-03-01 16:30:00)
 https://v5on.site/play.php?id=1546974
 #EXTINF:-1 tvg-id="1546994" tvg-name="Aldershot - Rochdale (2026-02-28 15:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5qgtznbbre3zu8zkf1b9d6f6x_image-header_pRow_1754061154000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Aldershot - Rochdale (2026-02-28 15:00:00)
 https://v5on.site/play.php?id=1546994
@@ -6887,9 +6887,9 @@ https://v5on.site/play.php?id=1546993
 https://v5on.site/play.php?id=1547011
 #EXTINF:-1 tvg-id="1546985" tvg-name="KV Mechelen - Zulte Waregem (2026-02-28 15:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3uwjfo9wrxiunaw7brfj0ip5h_image-header_pRow_1754350415000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",KV Mechelen - Zulte Waregem (2026-02-28 15:00:00)
 https://v5on.site/play.php?id=1546985
-#EXTINF:-1 tvg-id="1546972" tvg-name="Golden Knights vs. Capitals (2026-02-28 00:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hh9qfraioh3jxvvjzjckqg5g_image-header_pRow_1754394698000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Golden Knights vs. Capitals (2026-02-28 00:00:00)
+#EXTINF:-1 tvg-id="1546972" tvg-name="Lorient - Auxerre (2026-03-01 16:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hh9qfraioh3jxvvjzjckqg5g_image-header_pRow_1754394698000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Lorient - Auxerre (2026-03-01 16:15:00)
 https://v5on.site/play.php?id=1546972
-#EXTINF:-1 tvg-id="1546975" tvg-name="Cuba - Panama (2026-02-28 01:10:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9txyhxca49chwg8t7k9u5o4vo_image-header_pRow_1754393943000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Cuba - Panama (2026-02-28 01:10:00)
+#EXTINF:-1 tvg-id="1546975" tvg-name="Finland - Belgium (2026-03-01 16:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9txyhxca49chwg8t7k9u5o4vo_image-header_pRow_1754393943000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Finland - Belgium (2026-03-01 16:30:00)
 https://v5on.site/play.php?id=1546975
 #EXTINF:-1 tvg-id="1547019" tvg-name="Oregon @ Northwestern (2026-02-28 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/112bd6crko47f1f25gtjhqb5nf_image-header_pRow_1753276617000/fill/none/top/none/85/668/374/webp/image" group-title="DAZN EVENT",Oregon @ Northwestern (2026-02-28 19:00:00)
 https://v5on.site/play.php?id=1547019
@@ -8469,7 +8469,7 @@ https://v5on.site/play.php?id=264736
 https://v5on.site/play.php?id=1242725
 #EXTINF:-1 tvg-id="1242734" tvg-name="Next  Kulm  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Kulm  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242734
-#EXTINF:-1 tvg-id="1242728" tvg-name="Next  Tour of Sardinia  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tour of Sardinia  Männer  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242728" tvg-name="Next  Giro di Sardegna  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Giro di Sardegna  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242728
 #EXTINF:-1 tvg-id="1242733" tvg-name="Next  Kulm  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Kulm  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242733
@@ -8497,25 +8497,25 @@ https://v5on.site/play.php?id=1242737
 https://v5on.site/play.php?id=1242738
 #EXTINF:-1 tvg-id="1242726" tvg-name="Next  Krynica  Frauen / Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Krynica  Frauen / Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242726
-#EXTINF:-1 tvg-id="1242727" tvg-name="Next  Tour of Sardinia  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tour of Sardinia  Männer  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242727" tvg-name="Next  Giro di Sardegna  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Giro di Sardegna  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242727
-#EXTINF:-1 tvg-id="1242741" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242741" tvg-name="Next  Como vs. Lecce  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Como vs. Lecce  PRIME-DE
 https://v5on.site/play.php?id=1242741
 #EXTINF:-1 tvg-id="1242742" tvg-name="Next  Bundesliga Conference  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Bundesliga Conference  all | PRIME-DE
 https://v5on.site/play.php?id=1242742
-#EXTINF:-1 tvg-id="1242743" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242743" tvg-name="Next  Empoli FC vs. Cesena FC  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Empoli FC vs. Cesena FC  PRIME-DE
 https://v5on.site/play.php?id=1242743
 #EXTINF:-1 tvg-id="1242744" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242744
 #EXTINF:-1 tvg-id="1242745" tvg-name="Next  DSC Arminia Bielefeld vs. Hannoverscher Sportverein 1896  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  DSC Arminia Bielefeld vs. Hannoverscher Sportverein 1896  PRIME-DE
 https://v5on.site/play.php?id=1242745
-#EXTINF:-1 tvg-id="1242746" tvg-name="Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242746" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242746
 #EXTINF:-1 tvg-id="1242747" tvg-name="Next  Falun  Qualifikation Weltcup  Englischer Kommentar  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Falun  Qualifikation Weltcup  Englischer Kommentar  PRIME-DE
 https://v5on.site/play.php?id=1242747
 #EXTINF:-1 tvg-id="1242748" tvg-name="Next  Falun  Qualifikation Weltcup  Englischer Kommentar  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Falun  Qualifikation Weltcup  Englischer Kommentar  PRIME-DE
 https://v5on.site/play.php?id=1242748
-#EXTINF:-1 tvg-id="1242749" tvg-name="Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE
+#EXTINF:-1 tvg-id="1242749" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1242749
 #EXTINF:-1 tvg-id="1242750" tvg-name="Next  Fußball: 2. Bundesliga - Samstags-Konferenz-24. Spieltag  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Fußball: 2. Bundesliga - Samstags-Konferenz-24. Spieltag  PRIME-DE
 https://v5on.site/play.php?id=1242750
@@ -9061,7 +9061,7 @@ https://v5on.site/play.php?id=536433
 https://v5on.site/play.php?id=536424
 #EXTINF:-1 tvg-id="536341" tvg-name="Magenta Info" tvg-logo="http://138.199.27.237:8080/GERMANY/MAGENTA.png" group-title="MAGENTA TV",Magenta Info
 https://v5on.site/play.php?id=536341
-#EXTINF:-1 tvg-id="623318" tvg-name="DE | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",DE | No Event
+#EXTINF:-1 tvg-id="623318" tvg-name="Live  Abfahrt  DE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Live  Abfahrt  DE
 https://v5on.site/play.php?id=623318
 #EXTINF:-1 tvg-id="623319" tvg-name="End  College Basketball | DE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",End  College Basketball | DE
 https://v5on.site/play.php?id=623319
@@ -9083,7 +9083,7 @@ https://v5on.site/play.php?id=623326
 https://v5on.site/play.php?id=623327
 #EXTINF:-1 tvg-id="623328" tvg-name="DE | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",DE | No Event
 https://v5on.site/play.php?id=623328
-#EXTINF:-1 tvg-id="623329" tvg-name="Next  10:45 (GMT)  Abfahrt  DE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Next  10:45 (GMT)  Abfahrt  DE
+#EXTINF:-1 tvg-id="623329" tvg-name="DE | No Event" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",DE | No Event
 https://v5on.site/play.php?id=623329
 #EXTINF:-1 tvg-id="623330" tvg-name="Next  11:35 (GMT)  Barcelona  DE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="DAZN EVENT",Next  11:35 (GMT)  Barcelona  DE
 https://v5on.site/play.php?id=623330
@@ -15859,11 +15859,11 @@ https://v5on.site/play.php?id=328769
 https://v5on.site/play.php?id=310504
 #EXTINF:-1 tvg-id="69599" tvg-name="MLB NETWORK" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB NETWORK
 https://v5on.site/play.php?id=69599
-#EXTINF:-1 tvg-id="303183" tvg-name="MLB 1 |  Orioles x Pirates start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 1 |  Orioles x Pirates start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20
+#EXTINF:-1 tvg-id="303183" tvg-name="MLB 1 |  Twins x Red Sox start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 1 |  Twins x Red Sox start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20
 https://v5on.site/play.php?id=303183
-#EXTINF:-1 tvg-id="303182" tvg-name="MLB 2 | Mets x Cardinals start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 2 | Mets x Cardinals start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20
+#EXTINF:-1 tvg-id="303182" tvg-name="MLB 2 | Braves x Orioles start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 2 | Braves x Orioles start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20
 https://v5on.site/play.php?id=303182
-#EXTINF:-1 tvg-id="303181" tvg-name="MLB 3 | Blue Jays x Rays start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 3 | Blue Jays x Rays start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20
+#EXTINF:-1 tvg-id="303181" tvg-name="MLB 3 | Blue Jays x Yankees start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 3 | Blue Jays x Yankees start:2026-02-28 18:05:00 stop:2026-03-01 01:18:20
 https://v5on.site/play.php?id=303181
 #EXTINF:-1 tvg-id="303180" tvg-name="MLB 4 | Phillies x Tigers start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20" tvg-logo="http://138.199.27.237:8080/USA/MLBNETWORKHD.png" group-title="MLB",MLB 4 | Phillies x Tigers start:2026-02-27 18:05:00 stop:2026-02-28 01:18:20
 https://v5on.site/play.php?id=303180
