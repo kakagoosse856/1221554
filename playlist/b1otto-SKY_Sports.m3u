@@ -2,17 +2,13 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-02-28 01:28 PM (BD Time)
-# TV channel counts :- 63
+# Last Updated: 2026-02-28 02:14 PM (BD Time)
+# TV channel counts :- 61
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp" group-title="Cricket - (Live)",Crystal Balaji Titans VS Bindals Strikers [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=698f3220fc6be820629a2d5b
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771849794055-746314605.webp" group-title="Cricket - (Live)",Kartini 11 VS Gianyar [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=699c4847fc6be820629a2d6f
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772195330020-612432755.webp" group-title="Cricket - (Live)",Indian Air Force VS Shourya Club Indore [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=699082a8a472ea3a6958910a
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076439191-270282673.webp" group-title="Cricket - (Live)",Cricgiri Champs VS Silverton Tigers [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907b5ba472ea3a69589107
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772195330020-612432755.webp" group-title="Cricket - (Live)",Indian Air Force VS Shourya Club Indore [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=699082a8a472ea3a6958910a
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771849851632-429958694.webp" group-title="Cricket - (Live)",Garuda Girls VS Gianyar [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c487e39c2e98fc3b6afb9
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Live)",Canterbury Kings VS Otago [Live]
