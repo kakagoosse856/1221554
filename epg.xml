@@ -468,9 +468,24 @@
     <desc>At the hideout, Guel was taken prisoner by Olcott. Having killed his father, Guel remains sunk in deep despair. ......</desc>
     <date>2026-03-01</date>
   </programme>
-  <programme channel="369848" start="20260301223000 +0700" stop="20260302000000 +0700">
+  <programme channel="369848" start="20260301223000 +0700" stop="20260301225800 +0700">
     <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
     <desc>Due to the incident, the school was in chaos. Miorine returns to school after a long hiatus from the hearing.</desc>
     <date>2026-03-01</date>
+  </programme>
+  <programme channel="369848" start="20260301225800 +0700" stop="20260301233000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Miorine decides to take over the Quiet Zero project in exchange for Suletta's release.</desc>
+    <date>2026-03-01</date>
+  </programme>
+  <programme channel="369848" start="20260301233000 +0700" stop="20260302000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-01</date>
+  </programme>
+  <programme channel="369848" start="20260302000000 +0700" stop="20260303000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-02</date>
   </programme>
 </tv>
