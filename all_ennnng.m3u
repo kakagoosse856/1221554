@@ -3397,7 +3397,7 @@ https://v5on.site/play.php?id=1148798
 https://v5on.site/play.php?id=1148799
 #EXTINF:-1 tvg-id="623044" tvg-name="Next  05:25 (GMT)  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",Next  05:25 (GMT)  GP PT de Tailandia  ES
 https://v5on.site/play.php?id=623044
-#EXTINF:-1 tvg-id="623043" tvg-name="Live  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",Live  GP PT de Tailandia  ES
+#EXTINF:-1 tvg-id="623043" tvg-name="End  GP PT de Tailandia  ES" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",End  GP PT de Tailandia  ES
 https://v5on.site/play.php?id=623043
 #EXTINF:-1 tvg-id="623351" tvg-name="ES | No Event" tvg-logo="http://138.199.27.237:8080/EUROPE/F1.png" group-title="MOTO GP",ES | No Event
 https://v5on.site/play.php?id=623351
@@ -8465,7 +8465,7 @@ https://v5on.site/play.php?id=264730
 https://v5on.site/play.php?id=264731
 #EXTINF:-1 tvg-id="264736" tvg-name="DAZN EUROSPORT 2 EVENT SP" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN SPORT 24/7",DAZN EUROSPORT 2 EVENT SP
 https://v5on.site/play.php?id=264736
-#EXTINF:-1 tvg-id="1242725" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242725" tvg-name="Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE
 https://v5on.site/play.php?id=1242725
 #EXTINF:-1 tvg-id="1242734" tvg-name="Next  Taira  Frauen / Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Taira  Frauen / Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242734
@@ -8473,7 +8473,7 @@ https://v5on.site/play.php?id=1242734
 https://v5on.site/play.php?id=1242728
 #EXTINF:-1 tvg-id="1242733" tvg-name="Live  Moguls Weltcup  Englischer Kommentar  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Live  Moguls Weltcup  Englischer Kommentar  PRIME-DE
 https://v5on.site/play.php?id=1242733
-#EXTINF:-1 tvg-id="1242731" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242731" tvg-name="Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE
 https://v5on.site/play.php?id=1242731
 #EXTINF:-1 tvg-id="1242729" tvg-name="Next  Rayo Vallecano vs. Athletic Club  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Rayo Vallecano vs. Athletic Club  PRIME-DE
 https://v5on.site/play.php?id=1242729
@@ -8495,7 +8495,7 @@ https://v5on.site/play.php?id=1242736
 https://v5on.site/play.php?id=1242737
 #EXTINF:-1 tvg-id="1242738" tvg-name="Next  FIS Freestyle Skiing  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  FIS Freestyle Skiing  PRIME-DE
 https://v5on.site/play.php?id=1242738
-#EXTINF:-1 tvg-id="1242726" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242726" tvg-name="Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Skispringen: Weltcup in Bad Mitterndorf: HS 235 Männer  PRIME-DE
 https://v5on.site/play.php?id=1242726
 #EXTINF:-1 tvg-id="1242727" tvg-name="Next  Tour of Sardinia  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Tour of Sardinia  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242727
@@ -8529,25 +8529,25 @@ https://v5on.site/play.php?id=1242753
 https://v5on.site/play.php?id=1242754
 #EXTINF:-1 tvg-id="1242755" tvg-name="Next  Junioren-WM  Jugend männlich Zwiesel  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Junioren-WM  Jugend männlich Zwiesel  all | PRIME-DE
 https://v5on.site/play.php?id=1242755
-#EXTINF:-1 tvg-id="1242756" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242756" tvg-name="Next  IBU Biathlon  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  IBU Biathlon  PRIME-DE
 https://v5on.site/play.php?id=1242756
-#EXTINF:-1 tvg-id="1242757" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242757" tvg-name="Next  Snooker Welsh Open  Llandudno  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker Welsh Open  Llandudno  all | PRIME-DE
 https://v5on.site/play.php?id=1242757
-#EXTINF:-1 tvg-id="1242758" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242758" tvg-name="Next  Snooker Welsh Open  Llandudno  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Snooker Welsh Open  Llandudno  all | PRIME-DE
 https://v5on.site/play.php?id=1242758
 #EXTINF:-1 tvg-id="1242759" tvg-name="Next  Kulm  Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Kulm  Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1242759
-#EXTINF:-1 tvg-id="1242760" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242760" tvg-name="Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE
 https://v5on.site/play.php?id=1242760
-#EXTINF:-1 tvg-id="1242761" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242761" tvg-name="Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE
 https://v5on.site/play.php?id=1242761
-#EXTINF:-1 tvg-id="1242762" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242762" tvg-name="Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Alpin: Weltcup in Garmisch-Partenkirchen: Abfahrt Männer  PRIME-DE
 https://v5on.site/play.php?id=1242762
-#EXTINF:-1 tvg-id="1242763" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1242763" tvg-name="Next  Bournemouth vs. Sunderland  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Bournemouth vs. Sunderland  PRIME-DE
 https://v5on.site/play.php?id=1242763
 #EXTINF:-1 tvg-id="1243943" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243943
-#EXTINF:-1 tvg-id="1243932" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243932" tvg-name="Next  Porsche Sprint Challenge SE  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Porsche Sprint Challenge SE  all | PRIME-DE
 https://v5on.site/play.php?id=1243932
 #EXTINF:-1 tvg-id="1243940" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243940
@@ -8561,31 +8561,31 @@ https://v5on.site/play.php?id=1244181
 https://v5on.site/play.php?id=1243939
 #EXTINF:-1 tvg-id="1243935" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243935
-#EXTINF:-1 tvg-id="1243926" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243926" tvg-name="Next  Omloop Nieuwsblad UCI World Tour  Brügge - Ninove (207km)  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Omloop Nieuwsblad UCI World Tour  Brügge - Ninove (207km)  PRIME-DE
 https://v5on.site/play.php?id=1243926
-#EXTINF:-1 tvg-id="1243927" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243927" tvg-name="Next  Ski Freestyle: Weltcup in Kopaonik: Skicross der Frauen Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle: Weltcup in Kopaonik: Skicross der Frauen Männer  PRIME-DE
 https://v5on.site/play.php?id=1243927
 #EXTINF:-1 tvg-id="1243942" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243942
 #EXTINF:-1 tvg-id="1243941" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243941
-#EXTINF:-1 tvg-id="1243934" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243934" tvg-name="Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE
 https://v5on.site/play.php?id=1243934
 #EXTINF:-1 tvg-id="1243925" tvg-name="Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Faun-Ardèche Classic UCI Pro Series  Guilherand-Granges - Guilherand-Granges (189km)  all | PRIME-DE
 https://v5on.site/play.php?id=1243925
-#EXTINF:-1 tvg-id="1243928" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243928" tvg-name="Next  Ski Freestyle: Weltcup in Kopaonik: Skicross der Frauen Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Ski Freestyle: Weltcup in Kopaonik: Skicross der Frauen Männer  PRIME-DE
 https://v5on.site/play.php?id=1243928
 #EXTINF:-1 tvg-id="1243931" tvg-name="Next  Krynica  Frauen / Männer  all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Krynica  Frauen / Männer  all | PRIME-DE
 https://v5on.site/play.php?id=1243931
-#EXTINF:-1 tvg-id="1243924" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243924" tvg-name="Next  Omloop Nieuwsblad UCI World Tour  Brügge - Ninove (207km)  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Omloop Nieuwsblad UCI World Tour  Brügge - Ninove (207km)  PRIME-DE
 https://v5on.site/play.php?id=1243924
 #EXTINF:-1 tvg-id="1243936" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243936
 #EXTINF:-1 tvg-id="1243937" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1243937
-#EXTINF:-1 tvg-id="1243929" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243929" tvg-name="Next  Radsport: Omloop Het Nieuwsblad: Eintagesrennen der Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Radsport: Omloop Het Nieuwsblad: Eintagesrennen der Männer  PRIME-DE
 https://v5on.site/play.php?id=1243929
-#EXTINF:-1 tvg-id="1243930" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="1243930" tvg-name="Next  Radsport: Omloop Het Nieuwsblad: Eintagesrennen der Männer  PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",Next  Radsport: Omloop Het Nieuwsblad: Eintagesrennen der Männer  PRIME-DE
 https://v5on.site/play.php?id=1243930
 #EXTINF:-1 tvg-id="1244182" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="AMAZON PRIME",PRIME-DE | No Event
 https://v5on.site/play.php?id=1244182
