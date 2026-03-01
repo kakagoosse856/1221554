@@ -2,15 +2,13 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-01 10:11 AM (BD Time)
+# Last Updated: 2026-03-01 10:55 AM (BD Time)
 # TV channel counts :- 53
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Otago [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Northern District [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Northern District [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Cricket - (Live)",RPL Riders VS Devbhoomi Royals [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907a4cd15882860301aace
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850046757-660934614.webp" group-title="Cricket - (Live)",Merpati Warrior VS Gianyar [Live]
@@ -23,6 +21,8 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=699c498774685a2a43504c9f
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f2d7cba9be617883a9aae
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850185397-960006976.webp" group-title="Cricket - (Live)",Kartini 11 VS Gianyar [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c49ccba9be617883a9ad0
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Live)",Canterbury Kings VS Otago [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850233426-282665097.webp" group-title="Cricket - (Live)",Garuda Girls VS Gianyar [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c49fbba9be617883a9ad1
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850277425-819115696.webp" group-title="Cricket - (Upcoming)",Kartini 11 VS Merpati Warrior [Upcoming]
