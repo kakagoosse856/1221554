@@ -2,21 +2,19 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-01 03:18 PM (BD Time)
-# TV channel counts :- 50
+# Last Updated: 2026-03-01 03:33 PM (BD Time)
+# TV channel counts :- 49
 #==================================
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772284157177-646493080.webp" group-title="Cricket - (Live)",CA Lucknow VS Indian Air Force [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699082d775a94bf857f32adf
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770990967028-614396286.webp" group-title="Cricket - (Live)",Vasundhara Super Kings VS Bhawani Lions [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f2d7cba9be617883a9aae
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850185397-960006976.webp" group-title="Cricket - (Live)",Kartini 11 VS Gianyar [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=699c49ccba9be617883a9ad0
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Live)",Canterbury Kings VS Otago [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Live)",Central Stags VS Wellington Firebirds [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp" group-title="Cricket - (Live)",Auckland Aces VS Northern District [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Live)",Canterbury Kings VS Otago [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850233426-282665097.webp" group-title="Cricket - (Live)",Garuda Girls VS Gianyar [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c49fbba9be617883a9ad1
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850277425-819115696.webp" group-title="Cricket - (Upcoming)",Kartini 11 VS Merpati Warrior [Upcoming]
@@ -57,10 +55,10 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=698f2f58e018c8f932ba5d06
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f340174685a2a43504c83
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770904343571-448412047.webp" group-title="Cricket - (Upcoming)",Silverton Panthers VS Bindals Strikers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698ddb19c05e73d063282b4a
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299727094-256458161.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Canterbury Kings [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=6919d193fd87c2948fb48092
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299450081-67842530.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Otago [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=6919d07efd87c2948fb48091
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299727094-256458161.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Canterbury Kings [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=6919d193fd87c2948fb48092
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Devbhoomi Royals [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907a4cd15882860301aace
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771075952896-779703434.webp" group-title="Cricket - (Upcoming)",Cricgiri Champs VS Medical Maverics [Upcoming]
