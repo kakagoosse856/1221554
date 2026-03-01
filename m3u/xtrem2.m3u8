@@ -1,3 +1,751 @@
+#EXTINF:-1 tvg-id="" tvg-name="|KB| ADA TV" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| ADA TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KB| BRT 1" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| BRT 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KB| BRT 2 FHD" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| BRT 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KB| BRT 3" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| BRT 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KB| KANAL T" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| KANAL T
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KB| KIBRIS TV" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/18/36/turkish-42777_960_720.png" group-title="KIBRIS",|KB| KIBRIS TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/296953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb8cb31d387df94b3348f9070790831c.png" group-title="HUNGARY",|HU| ANIMAL PLANET
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Arena 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d07a5ee1eb8706c76031e09f4a252277.png" group-title="HUNGARY",|HU| Arena 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8c240f4e74e09447de1e4a754549071d.png" group-title="HUNGARY",|HU| ATV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e378114db4a6621bef3980ce0a057ce8.png" group-title="HUNGARY",|HU| AXN
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| AXN Black" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dabfa7c0392d9b9599947ac2b929cae.png" group-title="HUNGARY",|HU| AXN Black
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| AXN White" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/67169be1479ada683025062b15618f2a.png" group-title="HUNGARY",|HU| AXN White
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Balaton TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c48b0db847ced72d03a73e79bc607e1d.png" group-title="HUNGARY",|HU| Balaton TV HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e56e85265479360b10a3bbe536a3b856.png" group-title="HUNGARY",|HU| Boomerang
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2321506ea62dbdf99336ed3272631dd8.png" group-title="HUNGARY",|HU| Cartoon Network
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| CBS Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9182779226a73995b1c073e3734bf9cd.png" group-title="HUNGARY",|HU| CBS Reality
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Cinemax 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e6085f85e562e5e4d5f8c8aaab43268e.png" group-title="HUNGARY",|HU| Cinemax 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/711e87b9ea53fad209b8684d73fb9661.png" group-title="HUNGARY",|HU| Comedy Central
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Cool TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6507765e75d33f9f3a34132ea9e5b19b.png" group-title="HUNGARY",|HU| Cool TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54da0170126215370608f451eb02cf81.png" group-title="HUNGARY",|HU| Da Vinci
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Digi Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bcb6d6810697cff6d77d2645ead18769.png" group-title="HUNGARY",|HU| Digi Life
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Digi Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2c85f77215e6c492a3acb2e086868b05.png" group-title="HUNGARY",|HU| Digi Sport 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Digi Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7aa4f45766e71aefe0ba68c4da8cac69.png" group-title="HUNGARY",|HU| Digi Sport 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Digi Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/82aa723bfa7f1ff1947b3de64385fe5b.png" group-title="HUNGARY",|HU| Digi Sport 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Digi World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d56884161f50d8b65fc83ee08fba9b31.png" group-title="HUNGARY",|HU| Digi World
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Dikh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b537e50794261c26190f6dc6023aa091.png" group-title="HUNGARY",|HU| Dikh TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/92a36d704c70973440093c0ad4ebea90.png" group-title="HUNGARY",|HU| Discovery Science
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dccff278bdec5ba76805a626a7b8769a.png" group-title="HUNGARY",|HU| Discovery World
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b85ac4b79071b816162ba3eb43270559.png" group-title="HUNGARY",|HU| Disney Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Duck TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ab378490ae48fde098f772e36ed8b424.jpg" group-title="HUNGARY",|HU| Duck TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Duna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a7e4c157f49069a8a79c269c47b189f.png" group-title="HUNGARY",|HU| Duna TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Duna World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8600519f6f712d4b37310df12c483988.png" group-title="HUNGARY",|HU| Duna World
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Epic Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/868d51561846c94e72d494054b272073.png" group-title="HUNGARY",|HU| Epic Drama
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cc0d96b84f5aa8244f0eb6d07b6611aa.png" group-title="HUNGARY",|HU| EUROSPORT 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a603ea841ae6af5a023beeff010d2a40.png" group-title="HUNGARY",|HU| EUROSPORT 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| EWTN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e069cd9a6cf26ba6984e5277b93e9238.png" group-title="HUNGARY",|HU| EWTN
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Fem 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6b05baf0b9afed37b6519975c2cdebc5.png" group-title="HUNGARY",|HU| Fem 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Film 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/164042d071130e0fd28073ef791f3117.png" group-title="HUNGARY",|HU| Film 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Film Cafe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c182205d0639a689ec7643b7cb817895.png" group-title="HUNGARY",|HU| Film Cafe
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Film Mania" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/239aa9b75c5ca92620abe5dce819c2ff.png" group-title="HUNGARY",|HU| Film Mania
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Film+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f5416117b974d3637c9195f59cea0a3f.png" group-title="HUNGARY",|HU| Film+
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Filmbox Arthouse" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fdb2d9affc67e34a952630427771cc9.png" group-title="HUNGARY",|HU| Filmbox Arthouse
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| FilmboX Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/83f49b94b33497d6f1ae2f2c6b96fd33.png" group-title="HUNGARY",|HU| FilmboX Family
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| FilmBox Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a773dda859ea3cf78ad21aa5292c6b9b.png" group-title="HUNGARY",|HU| FilmBox Premium
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| FilmBox Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/650d5801f81ace253f380c082786cf5b.png" group-title="HUNGARY",|HU| FilmBox Stars
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Galaxy 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dee73ec53491fe9a8f1700081547cb9e.png" group-title="HUNGARY",|HU| Galaxy 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| H!T Music Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5bbbf20e8edbe0970f9c21a1a7173bca.png" group-title="HUNGARY",|HU| H!T Music Channel HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Hatos csatorna" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5bfc3fb78c9a537f73926217d61c8b70.jpg" group-title="HUNGARY",|HU| Hatos csatorna
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fd96af269d03b29c6698c4f834f87d77.png" group-title="HUNGARY",|HU| HBO
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/85728f0fb469daf4881313075a48ffbf.png" group-title="HUNGARY",|HU| HBO 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| HBO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4ed63d6adf483af3fdafb4322b9fbe13.png" group-title="HUNGARY",|HU| HBO 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Hir TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0e73eebdae7e35f1a51f67aad799d518.png" group-title="HUNGARY",|HU| Hir TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/47176a5ee053034bca0c3f0a60103702.png" group-title="HUNGARY",|HU| History
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6fba63ba9c5c5b0f80bc5989ca171aa2.jpg" group-title="HUNGARY",|HU| Investigation Discovery
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Izaura TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/edf936e63ddfa07e4c7921c6e956e907.png" group-title="HUNGARY",|HU| Izaura TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| JimJam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/47f29d82eca6b25300b5e85b09d5f5d8.png" group-title="HUNGARY",|HU| JimJam
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Jocky TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c8c261579093c8e0d844f91fabe6dca5.png" group-title="HUNGARY",|HU| Jocky TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| L&oacute;verseny k&ouml;zvet&iacute;t&eacute;s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dcfbae04a1d76fd0dce6f4dbf0f2ca4f.jpg" group-title="HUNGARY",|HU| L&oacute;verseny k&ouml;zvet&iacute;t&eacute;s HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Life TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cc3856f00a9b6a49c044ec0cdb843507.png" group-title="HUNGARY",|HU| Life TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| M1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3009b7b623b42e55e6a1f35a9b33231.png" group-title="HUNGARY",|HU| M1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| M2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9c17dda6047303616645b53b48fcffc8.png" group-title="HUNGARY",|HU| M2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| M4 Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eee3bf5ae78f7fe0dbb050374ae20947.png" group-title="HUNGARY",|HU| M4 Sport
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| M5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1f31c5a4e84895b7406a329a4e9cc499.png" group-title="HUNGARY",|HU| M5
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Minimax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4f8a119e831361e5903934cd9008cdef.png" group-title="HUNGARY",|HU| Minimax
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Moziverzum" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d6fd391517144c70ef9ee4509f2c8ef7.png" group-title="HUNGARY",|HU| Moziverzum
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Music Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0e49040f67bab02d349632054a902adb.png" group-title="HUNGARY",|HU| Music Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Music Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/01521f4316c69cac9fb8de1c660bf947.webp" group-title="HUNGARY",|HU| Music Plus
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Muzsika TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1fc6bd8afe19bce7397564d8091b34ef.png" group-title="HUNGARY",|HU| Muzsika TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0d647411a0c7d5ba7b73b1194bbc5d9f.png" group-title="HUNGARY",|HU| NAT GEO
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c3cdd713de8c6f4f64ff8841cf81504d.png" group-title="HUNGARY",|HU| NAT GEO Wild
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/576c18732365eb8fee5fe97849391f42.png" group-title="HUNGARY",|HU| nickelodeon
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Ozone TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7bbc6e1d4aac7fd7f9addd397650f0cf.png" group-title="HUNGARY",|HU| Ozone TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9d08c5838e04cad8b446b9c2b9a7aa9d.jpg" group-title="HUNGARY",|HU| Paramount Network
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d104b84616c57bd0578c50eab85ac95c.png" group-title="HUNGARY",|HU| Prime
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| RTL Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2c335f79744fb3bc004401fd90a4f68.png" group-title="HUNGARY",|HU| RTL Gold
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| RTL II" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd421907bc29d8714d19fe0ce4cbdaa0.png" group-title="HUNGARY",|HU| RTL II
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| RTL Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/efa2de5cb94e65eac06b59fdcbcf0477.png" group-title="HUNGARY",|HU| RTL Klub
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| RTL+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2d64102e664383ae429b738886bf3330.png" group-title="HUNGARY",|HU| RTL+
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Slager TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/95bddd90c871e55670a48604c686b23d.png" group-title="HUNGARY",|HU| Slager TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e82e3c403f09c8b8f54eeaac95c57c5c.png" group-title="HUNGARY",|HU| Sony Max
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Sorozat+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/814766ba932ff819e0b9d020f21a44ca.png" group-title="HUNGARY",|HU| Sorozat+
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Spektrum" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1afc19ba3a86d2bbf76049f48899ad6.png" group-title="HUNGARY",|HU| Spektrum
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Spiler 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eb07095361fd741b12391e5b9fc8981b.png" group-title="HUNGARY",|HU| Spiler 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Spiler 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d98f06c07b77e953711bf936aaf0fa53.png" group-title="HUNGARY",|HU| Spiler 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6653879ce8d30b2712fcf545611808a2.png" group-title="HUNGARY",|HU| Sport 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1d12bd490928de163de261dd7590183.png" group-title="HUNGARY",|HU| Sport 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Story 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8c4afe08c0d8ce53e301cc5751d07984.png" group-title="HUNGARY",|HU| Story 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Super TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/571f0eb49e4ff9b88af0fd15fee5c08f.png" group-title="HUNGARY",|HU| Super TV 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| The Fishing &amp; Hunting Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a6327e1e885ed2e316b11788ba398af.png" group-title="HUNGARY",|HU| The Fishing &amp; Hunting Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Tisza TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/467a33a5ada34981a794d162ba7bb6a2.jpg" group-title="HUNGARY",|HU| Tisza TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ff19fcbe064dc28c2dff38fabde78f70.png" group-title="HUNGARY",|HU| TLC
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2ee285ed763b5d9932dd17d762061f48.png" group-title="HUNGARY",|HU| Travel Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90c43dc417ef95fec491b052ddf2c4ef.png" group-title="HUNGARY",|HU| TV 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV 2 Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb3c878867deab0651b00126306f4974.png" group-title="HUNGARY",|HU| TV 2 Comedy
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV 2 Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c49f65637fe4b453afc60b636f7d5b6b.png" group-title="HUNGARY",|HU| TV 2 Kids
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV 2 Sef" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d188c0f1788aebfec290ae6ab7c3060f.png" group-title="HUNGARY",|HU| TV 2 Sef
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV Paprika" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d4212ac0ffba20c75f54edb4e83c649.png" group-title="HUNGARY",|HU| TV Paprika
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| TV7 Bekescsaba HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/87ae8afc8a20bde34473cd3a22b313c5.png" group-title="HUNGARY",|HU| TV7 Bekescsaba HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Viasat 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/010981598363b8d5262fadf3f914777b.png" group-title="HUNGARY",|HU| Viasat 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Viasat 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/aac62ff0d7108402183fecb2a62636ba.png" group-title="HUNGARY",|HU| Viasat 6
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Viasat Explore" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/aac64ddc3199087f9f1ae0f07f623c39.png" group-title="HUNGARY",|HU| Viasat Explore
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|HU| Viasat History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c77d7e945c20d56563a514d99591275f.png" group-title="HUNGARY",|HU| Viasat History
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/281905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | 4E" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | 4E
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Action 24 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Action 24 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | ALPHA CYPRUS" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | ALPHA CYPRUS
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | BRT 1 (cyprus)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | BRT 1 (cyprus)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | CHANNEL 9 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | CHANNEL 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Cinema 1 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Cinema 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Cinema 2 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Cinema 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Cinema 3 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Cinema 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Cinema 4 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Cinema 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote History HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote History HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Sport 2 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Sport 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote SPORT 3 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote SPORT 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Sport 4 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Sport 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Sport 5 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Sport 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Sport 6 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Sport 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Cosmote Sport 8 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Cosmote Sport 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Creta TV HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Creta TV HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | DISCOVERY ID HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | DISCOVERY ID HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Disney Junior" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Disney Junior
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | EPIRUS TV1" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | EPIRUS TV1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Epirus TV1 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Epirus TV1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | ERT 1 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | ERT 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | ERT 2" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | ERT 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | ERT 3" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | ERT 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | ERT Sport FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | ERT Sport FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | euronews Greek" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | euronews Greek
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Food Network HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Food Network HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | FOX LIFE HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | FOX LIFE HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | GREEK VOICE" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | GREEK VOICE
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Kontra Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Kontra Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | KPHTH HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | KPHTH HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | MAD HITS HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | MAD HITS HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | MAD TV HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | MAD TV HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | MAGIC TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | MAGIC TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Makedonia HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Makedonia HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Mega HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Mega HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | MONTREAL GREEK TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | MONTREAL GREEK TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nickelodeon HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nickelodeon HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Cinema 1 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Cinema 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Cinema 2 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Cinema 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Cinema 3 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Cinema 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Cinema 4 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Cinema 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 1 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 10 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 10 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 2 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA Premiere 3 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | NOVA Premiere 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA Premiere 4 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | NOVA Premiere 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 5 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 7 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere 9 FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere 9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Nova Premiere Multivision" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Nova Premiere Multivision
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA SPORT 3 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | NOVA SPORT 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA SPORT 4 HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | NOVA SPORT 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | OMEGA CYPRUS" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | OMEGA CYPRUS
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | OPEN TV HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | OPEN TV HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Outdoor Channel HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Outdoor Channel HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Rik SAT" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Rik SAT
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | SiGMA CYPRUS" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | SiGMA CYPRUS
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Sigma TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Sigma TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Skai FHD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Skai FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | SMILE" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | SMILE
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | STAR HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | STAR HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Star Kentrikis Ellados" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Star Kentrikis Ellados
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Thrakinet TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Thrakinet TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | TV 100" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | TV 100
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Viasat Explore" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Viasat Explore
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Viasat History HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Viasat History HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | VILLAGE CINEMA HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | VILLAGE CINEMA HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | Vouli HD" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | Vouli HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | XALASTRA TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | XALASTRA TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GR | XPLORE Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",GR | XPLORE Channel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/154960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  10 Channel (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  10 Channel (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  4E (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  4E (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Acheloos TV (576p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Acheloos TV (576p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Action 24 (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Action 24 (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Aeolos TV (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Aeolos TV (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Alert (576p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Alert (576p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Alfa Dramas (226p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Alfa Dramas (226p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Ionian Channel (1080p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Ionian Channel (1080p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Irida TV" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Irida TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Kontra Channel (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Kontra Channel (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  KPHTH TV (720p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  KPHTH TV (720p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Lychnos TV (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Lychnos TV (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  MAD Greekz (360p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  MAD Greekz (360p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Magic TV (480p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Magic TV (480p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Naftemporiki TV (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Naftemporiki TV (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Nea TV (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Nea TV (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Nea TV (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Nea TV (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Netmax TV (720p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Netmax TV (720p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  NG (614p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  NG (614p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  NG (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  NG (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Notioi TV (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Notioi TV (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  NRG 91 (720p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  NRG 91 (720p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  NRG TV (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  NRG TV (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Open TV (576p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Open TV (576p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Panik TV (1080p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Panik TV (1080p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Pella TV (576p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Pella TV (576p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Play TV (480p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Play TV (480p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  PLP" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  PLP
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  RedMusic (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  RedMusic (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Reload Play (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Reload Play (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Rise TV (240p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Rise TV (240p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Samiaki TV (540p) " tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Samiaki TV (540p) 
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Skai TV (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Skai TV (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Skai TV (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Skai TV (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Smile TV (360p) [Geo-blocked]" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Smile TV (360p) [Geo-blocked]
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|GR|  Star Channel (720p)" tvg-logo="https://www.pngall.com/wp-content/uploads/9/Greece.png" group-title="GREECE CH",|GR|  Star Channel (720p)
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/718870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I 24 News English" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",I 24 News English
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meir Tv Israel" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",Meir Tv Israel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR|  YES The Big Brother HD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR|  YES The Big Brother HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT 3" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT 8" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT 8
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Animal Planet" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Animal Planet
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Baby" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Baby
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Channel 14" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Channel 14
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Channel 9" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Channel 9
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT CINEMA 1" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT CINEMA 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT CINEMA 2" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT CINEMA 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT CINEMA 3" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT CINEMA 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT CINEMA 4" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT CINEMA 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT COMEDY CENTRAL" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT COMEDY CENTRAL
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Discovery" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Discovery
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Discovery ID" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Discovery ID
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Disney" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Disney
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT DisneyJunior" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT DisneyJunior
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Ego Total" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Ego Total
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Food" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Food
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Good Life" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Good Life
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT HBO" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT HBO
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Health" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Health
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT HISTORY HD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT HISTORY HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Home Plus" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Home Plus
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Hop" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Hop
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Hop! Childhood" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Hop! Childhood
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Israel Entertaiment" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Israel Entertaiment
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT ISRAELI CINEMA" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT ISRAELI CINEMA
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Jim Jam" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Jim Jam
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Junior" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Junior
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Kan 11" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Kan 11
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Keshet 12" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Keshet 12
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Mikan" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Mikan
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT MTV Hits" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT MTV Hits
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Nat Geo Wild" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Nat Geo Wild
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT National-Geographic HD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT National-Geographic HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Nickelodeon" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Nickelodeon
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT ONE 1 SPORT" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT ONE 1 SPORT
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT ONE 2 SPORT" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT ONE 2 SPORT
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Reshet 13" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Reshet 13
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Sport 1" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Sport 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Sport 2" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Sport 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Sport 3" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Sport 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Sport 4" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Sport 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT SPORT 5" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT SPORT 5
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT SPORT 5 GOLD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT SPORT 5 GOLD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT SPORT 5 LIVE" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT SPORT 5 LIVE
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT SPORT 5 PLUS" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT SPORT 5 PLUS
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Sport 5 Stares" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Sport 5 Stares
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT TLC" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT TLC
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Travel" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Travel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Turkish Drama 1" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Turkish Drama 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Turkish Drama 2" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Turkish Drama 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Turkish Drama 3" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Turkish Drama 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Turkish Dramas Plus" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Turkish Dramas Plus
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT VIVA" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT VIVA
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Viva Plus" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Viva Plus
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT YOYO" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT YOYO
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT ZONE" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT ZONE
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| HOT Zoom" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| HOT Zoom
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES 13 Reshet SD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES 13 Reshet SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES ARTe" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES ARTe
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES CBS Reality" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES CBS Reality
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES CGTN Docu" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES CGTN Docu
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Channal 97" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Channal 97
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Channal 98" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Channal 98
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Channel 21" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Channel 21
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Channel 24" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Channel 24
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Channel 66" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Channel 66
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Club MTV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Club MTV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES CNN" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES CNN
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Docu" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Docu
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Eurosport 1" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Eurosport 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES EuroSport 2" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES EuroSport 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES EuroStar" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES EuroStar
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Fashion" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Fashion
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Fox News" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Fox News
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES France 2" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES France 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES France 24" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES France 24
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES France 3" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES France 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES GTV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES GTV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Hala TV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Hala TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Hidabroot" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Hidabroot
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Home Plus" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Home Plus
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES IETV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES IETV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Jim Jam" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Jim Jam
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Kan 11 SD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Kan 11 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Kan 33 Makan HD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Kan 33 Makan HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Kan 33 Makan SD" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Kan 33 Makan SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Kan Education" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Kan Education
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Kneest 33" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Kneest 33
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Metv" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Metv
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MOVIES ACTION" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MOVIES ACTION
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MOVIES COMEDY" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MOVIES COMEDY
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MOVIES DRAMA" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MOVIES DRAMA
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MOVIES KIDS" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MOVIES KIDS
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MTV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MTV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MTV 00s" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MTV 00s
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES MTV 80 s" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES MTV 80 s
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Music IL" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Music IL
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES REN TV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES REN TV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES RTL" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES RTL
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES RTR Planeta" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES RTR Planeta
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Sky News" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Sky News
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Sport 5 Stars" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Sport 5 Stars
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TeenNick" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TeenNick
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Telecafe" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Telecafe
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES The Shopping" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES The Shopping
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TV Action" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TV Action
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TV Comedy" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TV Comedy
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TV Drama" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TV Drama
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TVCI" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TVCI
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TVE" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TVE
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES TVRi" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES TVRi
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Wiz Kidz" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Wiz Kidz
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES Yam Tichoni 25" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES Yam Tichoni 25
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES YoYo Israel" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES YoYo Israel
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ISR| YES ZeeTV" tvg-logo="http://x12tv.co/mbc/yess.jpeg" group-title="AMOS",|ISR| YES ZeeTV
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/868747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| 6TER FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ARTE FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| ARTE FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| C8 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| C8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| CHERIE 25 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| CSTAR FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| FRANCE 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| FRANCE 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| FRANCE 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| FRANCE 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| M6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| NRJ 12 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| RMC STORY FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| TF1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SERIES FILM FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| TF1 SERIES FILM FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| TFX FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| TMC FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE TNT FHD",|FR| W9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" |FR| CANAL+BOX-OFFICE 4K" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD", |FR| CANAL+BOX-OFFICE 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL + DOCS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL + DOCS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL + KIDS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL + KIDS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  4K" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+  4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/739067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  GRAND ECRAN FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+  GRAND ECRAN FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ BOX OFFICE FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ BOX OFFICE FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ CINEMA FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ FAMILY FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ SERIES FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ SPORT FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ STUDIO FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+ STUDIO FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+A LA CARTE 1 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+A LA CARTE 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+A LA CARTE 2 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE CANAL+ FHD",|FR| CANAL+A LA CARTE 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM BUSINESS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| BFM BUSINESS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM LYON MÉTROPOLE FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| BFM LYON MÉTROPOLE FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM PARIS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| BFM PARIS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM TV FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| BFM TV FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CNEWS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| CNEWS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EURONEWS FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| EURONEWS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 24 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| FRANCE 24 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| FRANCE INFO FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| I24 FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| I24 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| LA CHAINE METEO FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCI FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| LCI FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCP FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| LCP FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV5 MONDE MAGHREB ORIENT FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| TV5 MONDE MAGHREB ORIENT FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV5 MONDE STYLE FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE INFOMATONS FHD",|FR| TV5 MONDE STYLE FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|4k| DAZN 4k (50FPS) (EVENT ONLY )" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE GENERALE SPORTS",|4k| DAZN 4k (50FPS) (EVENT ONLY )
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN  SPORT  FHD" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE GENERALE SPORTS",|FR| DAZN  SPORT  FHD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/844575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN BETCLIC 1 FHD EVENT" tvg-logo="http://x12tv.co/mbc/Flag_of_France.svg.png" group-title="FRANCE GENERALE SPORTS",|FR| DAZN BETCLIC 1 FHD EVENT
