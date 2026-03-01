@@ -203,6 +203,8 @@ http://135.125.109.73:9000/beinsport2_.m3u8
 http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 4 SD
 http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 5 SD
+http://135.125.109.73:9000/beinsport5_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 6 SD
 http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN SPORTS  Qatar 7 SD
