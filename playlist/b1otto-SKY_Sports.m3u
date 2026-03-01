@@ -2,7 +2,7 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-01 12:51 PM (BD Time)
+# Last Updated: 2026-03-01 01:25 PM (BD Time)
 # TV channel counts :- 52
 #==================================
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076313577-322888770.webp" group-title="Cricket - (Live)",Tehri Falcons VS Devbhoomi Royals [Live]
@@ -19,6 +19,8 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=699c49ccba9be617883a9ad0
 https://sportsbd.top/demo/styxsportm3u8.php?id=6918465324f2af2c8dfdcc0e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Cricket - (Live)",Canterbury Kings VS Otago [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69184843fa673af67ab17303
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Live)",Central Stags VS Wellington Firebirds [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850233426-282665097.webp" group-title="Cricket - (Live)",Garuda Girls VS Gianyar [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=699c49fbba9be617883a9ad1
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850277425-819115696.webp" group-title="Cricket - (Upcoming)",Kartini 11 VS Merpati Warrior [Upcoming]
@@ -31,8 +33,6 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=699ea5ac39c2e98fc3b6afc4
 https://sportsbd.top/demo/styxsportm3u8.php?id=699ea5d2fc6be820629a2d74
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992805189-897599602.webp" group-title="Cricket - (Upcoming)",RPL Riders VS Cricgiri Champs [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f34abe018c8f932ba5d08
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Cricket - (Upcoming)",Central Stags VS Wellington Firebirds [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69184694fa673af67ab17301
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770991115233-69880147.webp" group-title="Cricket - (Upcoming)",Crystal Balaji Titans VS Bhawani Lions [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f2e10ba9be617883a9aaf
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413665839-152242582.webp" group-title="Cricket - (Upcoming)",Tasmania Tigers VS Victoria [Upcoming]
