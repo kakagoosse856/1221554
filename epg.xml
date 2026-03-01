@@ -463,9 +463,29 @@
     <desc>Raeliana goes to the duke's mansion to seal a deal with Noah, but he seems unfazed by the trump card she plays.</desc>
     <date>2026-03-02</date>
   </programme>
-  <programme channel="369848" start="20260302220000 +0700" stop="20260303000000 +0700">
+  <programme channel="369848" start="20260302220000 +0700" stop="20260302223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-03-02</date>
+  </programme>
+  <programme channel="369848" start="20260302223000 +0700" stop="20260302230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-02</date>
+  </programme>
+  <programme channel="369848" start="20260302230000 +0700" stop="20260302233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata and Takagi-san go to play a claw machine before going to the movies. Can Nishikata get a prize first?</desc>
+    <date>2026-03-02</date>
+  </programme>
+  <programme channel="369848" start="20260302233000 +0700" stop="20260303000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata and Takagi-san make their first shrine visit to make wishes, and they have their first competition this year.</desc>
+    <date>2026-03-02</date>
+  </programme>
+  <programme channel="369848" start="20260303000000 +0700" stop="20260304000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>After her mysterious death, Rinko is reincarnated into Raeliana, a character in a novel destined to be killed.</desc>
+    <date>2026-03-03</date>
   </programme>
 </tv>
