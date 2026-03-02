@@ -463,9 +463,29 @@
     <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
     <date>2026-03-03</date>
   </programme>
-  <programme channel="369848" start="20260303220000 +0700" stop="20260304000000 +0700">
+  <programme channel="369848" start="20260303220000 +0700" stop="20260303223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
     <date>2026-03-03</date>
+  </programme>
+  <programme channel="369848" start="20260303223000 +0700" stop="20260303230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-03</date>
+  </programme>
+  <programme channel="369848" start="20260303230000 +0700" stop="20260303233000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata and Takagi-san make their first shrine visit to make wishes, and they have their first competition this year.</desc>
+    <date>2026-03-03</date>
+  </programme>
+  <programme channel="369848" start="20260303233000 +0700" stop="20260304000000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>On Valentine's Day, Nishikata is sure Takagi-san will tease him. Meanwhile, various things happen within the school.</desc>
+    <date>2026-03-03</date>
+  </programme>
+  <programme channel="369848" start="20260304000000 +0700" stop="20260305000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-03-04</date>
   </programme>
 </tv>
