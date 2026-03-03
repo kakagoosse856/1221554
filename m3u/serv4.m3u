@@ -379,3 +379,61 @@ http://orien.live:80/live/01008435139/01096695980/439148.m3u8
 http://orien.live:80/live/01008435139/01096695980/439149.m3u8
 #EXTINF:-1 tvg-name="Bein Xtra 4K 3" tvg-logo="https://g.top4top.io/p_3339aekt11.png" group-title="AR | BEIN SPORT 4K (F)",Bein Xtra 4K 3
 http://orien.live:80/live/01008435139/01096695980/439150.m3u8
+------–---------------–---------------–---------–---------------------–---------------–-BeIN Sport |FHD| --------------–---------------–---------------–---------–---------------------–---------------–---------------–---------
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/1.png" group-title="BeIN Sport |FHD|",BeIN Sport 1 [FHD]  
+http://5.62.130.10/iptv/iptv/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/1.png" group-title="BeIN Sport |FHD|",BeIN Sport 2 [FHD]  
+http://5.62.130.10:80/iptv/iptv/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/3.png" group-title="BeIN Sport |FHD|",BeIN Sport 3 [FHD]  
+http://5.62.130.10:80/iptv/iptv/32.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/4.png" group-title="BeIN Sport |FHD|",BeIN Sport 4 [FHD]  
+http://5.62.130.10:80/iptv/iptv/33.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/5.png" group-title="BeIN Sport |FHD|",BeIN Sport 5 [FHD]  
+http://5.62.130.10:80/iptv/iptv/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/6.png" group-title="BeIN Sport |FHD|",BeIN Sport 6 [FHD]  
+http://5.62.130.10:80/iptv/iptv/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/7.png" group-title="BeIN Sport |FHD|",BeIN Sport 7 [FHD]  
+http://5.62.130.10:80/iptv/iptv/36.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/8.png" group-title="BeIN Sport |FHD|",BeIN Sport 8 [FHD]  
+http://5.62.130.10:80/iptv/iptv/37.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/c5/31/62c531ac6399a7aaa22204c5b77e3892.png" group-title="BeIN Sport |FHD|",BeIN Sport 9 [FHD]  
+http://5.62.130.10:80/iptv/iptv/38.m3u8
+
+------–---------------–---------------–---------–---------------------–---------------–-BeIN Sport |VAGA| --------------–---------------–---------------–---------–---------------------–---------------–---------------–---------
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/1.png" group-title="BeIN Sport |VAGA|",BeIN Sport 1 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3645_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/1.png" group-title="BeIN Sport |VAGA|",BeIN Sport 2 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3644_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/3.png" group-title="BeIN Sport |VAGA|",BeIN Sport 3 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3653_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/4.png" group-title="BeIN Sport |VAGA|",BeIN Sport 4 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3652_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/5.png" group-title="BeIN Sport |VAGA|",BeIN Sport 5 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3651_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/6.png" group-title="BeIN Sport |VAGA|",BeIN Sport 6 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3650_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/7.png" group-title="BeIN Sport |VAGA|",BeIN Sport 7 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3649_.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.web2023.work/bein/8.png" group-title="BeIN Sport |VAGA|",BeIN Sport 8 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3648_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/c5/31/62c531ac6399a7aaa22204c5b77e3892.png" group-title="BeIN Sport |VAGA|",BeIN Sport 9 [SD]  
+https://vg105xm.vg2095-2024-vega.com/3647_.m3u8
+
