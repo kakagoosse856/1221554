@@ -1,40 +1,40 @@
-#EXTINF:-1 tvg-id="" tvg-name="MA:2M Maroc" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="all",MA:2M Maroc
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M Maroc" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="Maroc",MA:2M Maroc
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:2M TNT" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="all",MA:2M TNT
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M TNT" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="Maroc",MA:2M TNT
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/7032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Al Aoula" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm.png" group-title="all",MA:Al Aoula
+#EXTINF:-1 tvg-id="" tvg-name="MA:Al Aoula" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm.png" group-title="Maroc",MA:Al Aoula
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Aoula Bkp" tvg-logo="" group-title="all",MA:Aoula Bkp
+#EXTINF:-1 tvg-id="" tvg-name="MA:Aoula Bkp" tvg-logo="" group-title="Maroc",MA:Aoula Bkp
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/60787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Laayoune TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_laayoune.png" group-title="all",MA:Laayoune TV
+#EXTINF:-1 tvg-id="" tvg-name="MA:Laayoune TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_laayoune.png" group-title="Maroc",MA:Laayoune TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Al Maghribia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="all",MA:Al Maghribia
+#EXTINF:-1 tvg-id="" tvg-name="MA:Al Maghribia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="Maroc",MA:Al Maghribia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Arryadia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="all",MA:Arryadia
+#EXTINF:-1 tvg-id="" tvg-name="MA:Arryadia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="Maroc",MA:Arryadia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Arryadia HD1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="all",MA:Arryadia HD1
+#EXTINF:-1 tvg-id="" tvg-name="MA:Arryadia HD1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="Maroc",MA:Arryadia HD1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Athaqafia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_4_athaqafia.png" group-title="all",MA:Athaqafia
+#EXTINF:-1 tvg-id="" tvg-name="MA:Athaqafia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_4_athaqafia.png" group-title="Maroc",MA:Athaqafia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Assadissa" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_6_assadissa.png" group-title="all",MA:Assadissa
+#EXTINF:-1 tvg-id="" tvg-name="MA:Assadissa" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_6_assadissa.png" group-title="Maroc",MA:Assadissa
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Aflam TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_7_aflam_tv.png" group-title="all",MA:Aflam TV
+#EXTINF:-1 tvg-id="" tvg-name="MA:Aflam TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_7_aflam_tv.png" group-title="Maroc",MA:Aflam TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/4167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Tamazight" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_8_tamazight.png" group-title="all",MA:Tamazight
+#EXTINF:-1 tvg-id="" tvg-name="MA:Tamazight" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_8_tamazight.png" group-title="Maroc",MA:Tamazight
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Medi 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="all",MA:Medi 1
+#EXTINF:-1 tvg-id="" tvg-name="MA:Medi 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Maroc",MA:Medi 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Medi 1 Maghreb" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="all",MA:Medi 1 Maghreb
+#EXTINF:-1 tvg-id="" tvg-name="MA:Medi 1 Maghreb" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Maroc",MA:Medi 1 Maghreb
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA: Medi1 Afrique" tvg-logo="" group-title="all",MA: Medi1 Afrique
+#EXTINF:-1 tvg-id="" tvg-name="MA: Medi1 Afrique" tvg-logo="" group-title="Maroc",MA: Medi1 Afrique
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/95912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Tele Maroc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_maroc_es.png" group-title="all",MA:Tele Maroc
+#EXTINF:-1 tvg-id="" tvg-name="MA:Tele Maroc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_maroc_es.png" group-title="Maroc",MA:Tele Maroc
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="all",MA:Chada TV
+#EXTINF:-1 tvg-id="" tvg-name="MA:Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Maroc",MA:Chada TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:M24" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m24-ma.png" group-title="all",MA:M24
+#EXTINF:-1 tvg-id="" tvg-name="MA:M24" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m24-ma.png" group-title="Maroc",MA:M24
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/9900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Al Onse" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png" group-title="all",MA:Al Onse
+#EXTINF:-1 tvg-id="" tvg-name="MA:Al Onse" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png" group-title="Maroc",MA:Al Onse
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2132.m3u8
 #EXTINF:-1 tvg-id="41eaaa4a-f91e-4085-bb03-62f06b048777" tvg-name="Med_Saad" tvg-logo="" group-title="all",Med_Saad
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/56464.m3u8
@@ -56,51 +56,51 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/56475.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/56628.m3u8
 #EXTINF:-1 tvg-id="d37be313-bc60-400b-9959-8714d63374fb" tvg-name="Ahmed_IZZ" tvg-logo="" group-title="all",Ahmed_IZZ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/56627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 1" tvg-logo="http://logo.ndasat.com/iptv/images/86905_algerie.jpg" group-title="all",DZ:Algerie 1
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 1" tvg-logo="http://logo.ndasat.com/iptv/images/86905_algerie.jpg" group-title="Algerie",DZ:Algerie 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 2" tvg-logo="" group-title="all",DZ:Algerie 2
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 2" tvg-logo="" group-title="Algerie",DZ:Algerie 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 3" tvg-logo="http://logo.ndasat.com/iptv/images/18351_alg3.png" group-title="all",DZ:Algerie 3
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 3" tvg-logo="http://logo.ndasat.com/iptv/images/18351_alg3.png" group-title="Algerie",DZ:Algerie 3
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 4" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="all",DZ:Algerie 4
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 4" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="Algerie",DZ:Algerie 4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 5" tvg-logo="http://logo.ndasat.com/iptv/images/24088_entv_5_95x92.gif" group-title="all",DZ:Algerie 5
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 5" tvg-logo="http://logo.ndasat.com/iptv/images/24088_entv_5_95x92.gif" group-title="Algerie",DZ:Algerie 5
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 6" tvg-logo="" group-title="all",DZ:Algerie 6
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 6" tvg-logo="" group-title="Algerie",DZ:Algerie 6
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 7" tvg-logo="" group-title="all",DZ:Algerie 7
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 7" tvg-logo="" group-title="Algerie",DZ:Algerie 7
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 8" tvg-logo="" group-title="all",DZ:Algerie 8
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Algerie 8" tvg-logo="" group-title="Algerie",DZ:Algerie 8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:AL24 News" tvg-logo="http://logo.ndasat.com/iptv/images/11780_496.png" group-title="all",DZ:AL24 News
+#EXTINF:-1 tvg-id="" tvg-name="DZ:AL24 News" tvg-logo="http://logo.ndasat.com/iptv/images/11780_496.png" group-title="Algerie",DZ:AL24 News
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Alfajr" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="all",DZ:Alfajr
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Alfajr" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="Algerie",DZ:Alfajr
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:AL HADDAF TV" tvg-logo="http://logo.ndasat.com/iptv/images/13070_191.png" group-title="all",DZ:AL HADDAF TV
+#EXTINF:-1 tvg-id="" tvg-name="DZ:AL HADDAF TV" tvg-logo="http://logo.ndasat.com/iptv/images/13070_191.png" group-title="Algerie",DZ:AL HADDAF TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Al Hayat" tvg-logo="" group-title="all",DZ:Al Hayat
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Al Hayat" tvg-logo="" group-title="Algerie",DZ:Al Hayat
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Almagharibia" tvg-logo="" group-title="all",DZ:Almagharibia
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Almagharibia" tvg-logo="" group-title="Algerie",DZ:Almagharibia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/18304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Bahia Tv" tvg-logo="http://logo.ndasat.com/iptv/images/82610_bahia.png" group-title="all",DZ:Bahia Tv
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Bahia Tv" tvg-logo="http://logo.ndasat.com/iptv/images/82610_bahia.png" group-title="Algerie",DZ:Bahia Tv
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Berbere TV" tvg-logo="http://logo.ndasat.com/iptv/images/96635_308_medium.png" group-title="all",DZ:Berbere TV
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Berbere TV" tvg-logo="http://logo.ndasat.com/iptv/images/96635_308_medium.png" group-title="Algerie",DZ:Berbere TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Al Watania" tvg-logo="http://logo.ndasat.com/iptv/images/12229_beur.png" group-title="all",DZ:Al Watania
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Al Watania" tvg-logo="http://logo.ndasat.com/iptv/images/12229_beur.png" group-title="Algerie",DZ:Al Watania
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:ECHOROKTV NEWS" tvg-logo="http://logo.ndasat.com/iptv/images/21459_logo-chourouk.png" group-title="all",DZ:ECHOROKTV NEWS
+#EXTINF:-1 tvg-id="" tvg-name="DZ:ECHOROKTV NEWS" tvg-logo="http://logo.ndasat.com/iptv/images/21459_logo-chourouk.png" group-title="Algerie",DZ:ECHOROKTV NEWS
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk Tv" tvg-logo="http://logo.ndasat.com/iptv/images/20943_754.png" group-title="all",DZ:Echorouk Tv
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk Tv" tvg-logo="http://logo.ndasat.com/iptv/images/20943_754.png" group-title="Algerie",DZ:Echorouk Tv
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="all",DZ:El Bilad News dz
+#EXTINF:-1 tvg-id="" tvg-name="DZ:El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="Algerie",DZ:El Bilad News dz
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Ennahar Algerie" tvg-logo="http://logo.ndasat.com/iptv/images/57240_ennaharalgerie.jpg" group-title="all",DZ:Ennahar Algerie
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Ennahar Algerie" tvg-logo="http://logo.ndasat.com/iptv/images/57240_ennaharalgerie.jpg" group-title="Algerie",DZ:Ennahar Algerie
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:N1 Dzair" tvg-logo="" group-title="all",DZ:N1 Dzair
+#EXTINF:-1 tvg-id="" tvg-name="DZ:N1 Dzair" tvg-logo="" group-title="Algerie",DZ:N1 Dzair
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/20742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Samira Tv" tvg-logo="http://logo.ndasat.com/iptv/images/4870_samira.jpg" group-title="all",DZ:Samira Tv
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Samira Tv" tvg-logo="http://logo.ndasat.com/iptv/images/4870_samira.jpg" group-title="Algerie",DZ:Samira Tv
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Zahra" tvg-logo="http://logo.ndasat.com/iptv/images/10591_almagharibiya.jpg" group-title="all",DZ:Zahra
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Zahra" tvg-logo="http://logo.ndasat.com/iptv/images/10591_almagharibiya.jpg" group-title="Algerie",DZ:Zahra
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TN:National 1" tvg-logo="http://logo.ndasat.com/iptv/images/89568_1.png" group-title="all",TN:National 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/434.m3u8
@@ -1280,7 +1280,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2394.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1468.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EG:MIX one" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/queen-anime-eg.png" group-title="all",EG:MIX one
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/16326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA;Arryadia TNT" tvg-logo="" group-title="all",MA;Arryadia TNT
+#EXTINF:-1 tvg-id="" tvg-name="MA;Arryadia TNT" tvg-logo="" group-title="Maroc",MA;Arryadia TNT
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3953.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AV:Smart Zone" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="all",AV:Smart Zone
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1611.m3u8
@@ -1418,7 +1418,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48721.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48351.m3u8
 #EXTINF:-1 tvg-id="40c2461a-9dcf-474f-b3c4-5e1d2f73d663" tvg-name="Elbahja2" tvg-logo="" group-title="all",Elbahja2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48720.m3u8
-#EXTINF:-1 tvg-id="bbd8b248-ba33-47ab-a731-3985863132b5" tvg-name="Masha" tvg-logo="" group-title="all",Masha
+#EXTINF:-1 tvg-id="bbd8b248-ba33-47ab-a731-3985863132b5" tvg-name="Masha" tvg-logo="" group-title="Maroc",MAsha
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48353.m3u8
 #EXTINF:-1 tvg-id="e9366b56-1c3f-4113-b6b5-91df10e70ee8" tvg-name="Kaysariat_ofla" tvg-logo="" group-title="all",Kaysariat_ofla
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48719.m3u8
@@ -1454,7 +1454,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48306.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48320.m3u8
 #EXTINF:-1 tvg-id="b41b0e40-01f0-44bc-a74b-800b3195a5a0" tvg-name="Qisas_Hayawanat" tvg-logo="" group-title="all",Qisas_Hayawanat
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48324.m3u8
-#EXTINF:-1 tvg-id="ef905738-da0f-4f8b-b3d1-5febc6335a81" tvg-name="Mama America" tvg-logo="" group-title="all",Mama America
+#EXTINF:-1 tvg-id="ef905738-da0f-4f8b-b3d1-5febc6335a81" tvg-name="Mama America" tvg-logo="" group-title="Maroc",MAma America
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49826.m3u8
 #EXTINF:-1 tvg-id="3ea883bf-0efc-4d31-903c-97ceee2063ce" tvg-name="Al_Boasaa" tvg-logo="" group-title="all",Al_Boasaa
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48295.m3u8
@@ -1508,7 +1508,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49817.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49816.m3u8
 #EXTINF:-1 tvg-id="d7da127b-40c4-4c33-b35a-2097a523ef68" tvg-name="kasak ya watan" tvg-logo="" group-title="all",kasak ya watan
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49815.m3u8
-#EXTINF:-1 tvg-id="a4fa57b5-43bd-49a9-9660-bb7a75a658e8" tvg-name="Madrasat Al mochaghibin" tvg-logo="" group-title="all",Madrasat Al mochaghibin
+#EXTINF:-1 tvg-id="a4fa57b5-43bd-49a9-9660-bb7a75a658e8" tvg-name="Madrasat Al mochaghibin" tvg-logo="" group-title="Maroc",MAdrasat Al mochaghibin
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49814.m3u8
 #EXTINF:-1 tvg-id="3fa20c5c-cc72-477e-b07b-0e344d9dc81a" tvg-name="Shaqaeq No3man" tvg-logo="" group-title="all",Shaqaeq No3man
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49813.m3u8
@@ -1552,7 +1552,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48687.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48323.m3u8
 #EXTINF:-1 tvg-id="c799edc2-a8d4-4773-8e77-54d3bc2cea7b" tvg-name="Qisas_Nisaa" tvg-logo="" group-title="all",Qisas_Nisaa
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48327.m3u8
-#EXTINF:-1 tvg-id="5099e416-6328-4f24-b988-3bfecef89f23" tvg-name="Majid Almohandis" tvg-logo="" group-title="all",Majid Almohandis
+#EXTINF:-1 tvg-id="5099e416-6328-4f24-b988-3bfecef89f23" tvg-name="Majid Almohandis" tvg-logo="" group-title="Maroc",MAjid Almohandis
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49987.m3u8
 #EXTINF:-1 tvg-id="d6d6ba92-16a4-4ac6-976d-b94729055b88" tvg-name="Umm Kalthoum" tvg-logo="" group-title="all",Umm Kalthoum
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/49986.m3u8
@@ -1624,7 +1624,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48887.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48886.m3u8
 #EXTINF:-1 tvg-id="b7bd02e0-8bc8-47a5-bd5c-c988bcdb1f4d" tvg-name="Shahid  9abl hadf" tvg-logo="" group-title="all",Shahid  9abl hadf
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48885.m3u8
-#EXTINF:-1 tvg-id="60c9a9ba-e3c4-421c-b9aa-ceff9d97c73b" tvg-name="Manahil" tvg-logo="" group-title="all",Manahil
+#EXTINF:-1 tvg-id="60c9a9ba-e3c4-421c-b9aa-ceff9d97c73b" tvg-name="Manahil" tvg-logo="" group-title="Maroc",MAnahil
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48336.m3u8
 #EXTINF:-1 tvg-id="29004342-70ed-4cf6-9ce0-c71947341e59" tvg-name="The_Boy_S02" tvg-logo="" group-title="all",The_Boy_S02
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48692.m3u8
@@ -2112,7 +2112,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/856.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2355.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="SP:Bein Xtra1 HD" tvg-logo="" group-title="all",SP:Bein Xtra1 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21275.m3u8
-#EXTINF:-1 tvg-id="e99653ea-1b5a-4fbd-8595-3efd6bee1c91" tvg-name="Madame Smiress" tvg-logo="" group-title="all",Madame Smiress
+#EXTINF:-1 tvg-id="e99653ea-1b5a-4fbd-8595-3efd6bee1c91" tvg-name="Madame Smiress" tvg-logo="" group-title="Maroc",MAdame Smiress
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/60623.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NL:NPO1" tvg-logo="http://logo.ndasat.com/iptv/images/42799_npo1.png" group-title="all",NL:NPO1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/584.m3u8
@@ -4558,29 +4558,29 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/70946.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/70947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ar: Al-Mahdi" tvg-logo="" group-title="all",Ar: Al-Mahdi
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/70948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +4" tvg-logo="" group-title="all",MA:Alaoula +4
+#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +4" tvg-logo="" group-title="Maroc",MA:Alaoula +4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +1" tvg-logo="" group-title="all",MA:Alaoula +1
+#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +1" tvg-logo="" group-title="Maroc",MA:Alaoula +1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +8" tvg-logo="" group-title="all",MA:Alaoula +8
+#EXTINF:-1 tvg-id="" tvg-name="MA:Alaoula +8" tvg-logo="" group-title="Maroc",MA:Alaoula +8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:2M +1" tvg-logo="" group-title="all",MA:2M +1
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M +1" tvg-logo="" group-title="Maroc",MA:2M +1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:2M +4" tvg-logo="" group-title="all",MA:2M +4
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M +4" tvg-logo="" group-title="Maroc",MA:2M +4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA:2M +6" tvg-logo="" group-title="all",MA:2M +6
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M +6" tvg-logo="" group-title="Maroc",MA:2M +6
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +8" tvg-logo="" group-title="all",DZ:Echorouk +8
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +8" tvg-logo="" group-title="Algerie",DZ:Echorouk +8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +2" tvg-logo="" group-title="all",DZ:Echorouk +2
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +2" tvg-logo="" group-title="Algerie",DZ:Echorouk +2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +4" tvg-logo="" group-title="all",DZ:Echorouk +4
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Echorouk +4" tvg-logo="" group-title="Algerie",DZ:Echorouk +4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +8" tvg-logo="" group-title="all",DZ:Elnahar Algerie +8
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +8" tvg-logo="" group-title="Algerie",DZ:Elnahar Algerie +8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +2" tvg-logo="" group-title="all",DZ:Elnahar Algerie +2
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +2" tvg-logo="" group-title="Algerie",DZ:Elnahar Algerie +2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +4" tvg-logo="" group-title="all",DZ:Elnahar Algerie +4
+#EXTINF:-1 tvg-id="" tvg-name="DZ:Elnahar Algerie +4" tvg-logo="" group-title="Algerie",DZ:Elnahar Algerie +4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TN:El Hiwar Tounsi +2" tvg-logo="" group-title="all",TN:El Hiwar Tounsi +2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/71424.m3u8
