@@ -414,295 +414,295 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/893.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH:RTS UN" tvg-logo="http://logo.ndasat.com/iptv/images/3891_640.jpg" group-title="all",CH:RTS UN
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:La1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="all",ES:La1
+#EXTINF:-1 tvg-id="" tvg-name="ES:La1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPAN",FR:La1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:La2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="all",ES:La2
+#EXTINF:-1 tvg-id="" tvg-name="ES:La2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPAN",FR:La2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Antena 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="all",ES:Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="ES:Antena 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPAN",FR:Antena 3
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Cuatro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="all",ES:Cuatro
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cuatro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="ESPAN",FR:Cuatro
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Tele5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="all",ES:Tele5
+#EXTINF:-1 tvg-id="" tvg-name="ES:Tele5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="ESPAN",FR:Tele5
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:La sexta" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="all",ES:La sexta
+#EXTINF:-1 tvg-id="" tvg-name="ES:La sexta" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="ESPAN",FR:La sexta
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Mega" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega_gr.png" group-title="all",ES:Mega
+#EXTINF:-1 tvg-id="" tvg-name="ES:Mega" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega_gr.png" group-title="ESPAN",FR:Mega
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Neox" tvg-logo="http://fauconteam.com//logo//neox.png" group-title="all",ES:Neox
+#EXTINF:-1 tvg-id="" tvg-name="ES:Neox" tvg-logo="http://fauconteam.com//logo//neox.png" group-title="ESPAN",FR:Neox
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Nova" tvg-logo="http://fauconteam.com//logo//nova.png" group-title="all",ES:Nova
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nova" tvg-logo="http://fauconteam.com//logo//nova.png" group-title="ESPAN",FR:Nova
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M Plus 1" tvg-logo="http://fauconteam.com//logo//0.png" group-title="all",ES:M Plus 1
+#EXTINF:-1 tvg-id="" tvg-name="ES:M Plus 1" tvg-logo="http://fauconteam.com//logo//0.png" group-title="ESPAN",FR:M Plus 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Tele 7" tvg-logo="" group-title="all",ES:Tele 7
+#EXTINF:-1 tvg-id="" tvg-name="ES:Tele 7" tvg-logo="" group-title="ESPAN",FR:Tele 7
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:A3 series" tvg-logo="http://fauconteam.com//logo//A3SERIES-TV.png" group-title="all",ES:A3 series
+#EXTINF:-1 tvg-id="" tvg-name="ES:A3 series" tvg-logo="http://fauconteam.com//logo//A3SERIES-TV.png" group-title="ESPAN",FR:A3 series
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="" group-title="all",ES: AMC Break
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="" group-title="ESPAN",FR: AMC Break
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:AMC ESP" tvg-logo="http://fauconteam.com//logo//amc.png" group-title="all",ES:AMC ESP
+#EXTINF:-1 tvg-id="" tvg-name="ES:AMC ESP" tvg-logo="http://fauconteam.com//logo//amc.png" group-title="ESPAN",FR:AMC ESP
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Aragon TV" tvg-logo="" group-title="all",ES:Aragon TV
+#EXTINF:-1 tvg-id="" tvg-name="ES:Aragon TV" tvg-logo="" group-title="ESPAN",FR:Aragon TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:AXN es" tvg-logo="http://fauconteam.com//logo//axn.png" group-title="all",ES:AXN es
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN es" tvg-logo="http://fauconteam.com//logo//axn.png" group-title="ESPAN",FR:AXN es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:AXN  Movies" tvg-logo="http://fauconteam.com//logo//axnwhite.png" group-title="all",ES:AXN  Movies
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN  Movies" tvg-logo="http://fauconteam.com//logo//axnwhite.png" group-title="ESPAN",FR:AXN  Movies
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:BABY TV ESP" tvg-logo="http://fauconteam.com//logo//babytv.png" group-title="all",ES:BABY TV ESP
+#EXTINF:-1 tvg-id="" tvg-name="ES:BABY TV ESP" tvg-logo="http://fauconteam.com//logo//babytv.png" group-title="ESPAN",FR:BABY TV ESP
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Documentales" tvg-logo="http://fauconteam.com//logo//barcatv.png" group-title="all",ES: Movistar Documentales
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Documentales" tvg-logo="http://fauconteam.com//logo//barcatv.png" group-title="ESPAN",FR: Movistar Documentales
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Be Mad" tvg-logo="http://fauconteam.com//logo//bemad.png" group-title="all",ES:Be Mad
+#EXTINF:-1 tvg-id="" tvg-name="ES:Be Mad" tvg-logo="http://fauconteam.com//logo//bemad.png" group-title="ESPAN",FR:Be Mad
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="http://fauconteam.com//logo//blaze.png" group-title="all",ES: XTRM
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="http://fauconteam.com//logo//blaze.png" group-title="ESPAN",FR: XTRM
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Boing es" tvg-logo="http://fauconteam.com//logo//boing.png" group-title="all",ES:Boing es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Boing es" tvg-logo="http://fauconteam.com//logo//boing.png" group-title="ESPAN",FR:Boing es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Enfamilia" tvg-logo="" group-title="all",ES:Enfamilia
+#EXTINF:-1 tvg-id="" tvg-name="ES:Enfamilia" tvg-logo="" group-title="ESPAN",FR:Enfamilia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Crime" tvg-logo="" group-title="all",ES: AMC Crime
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Crime" tvg-logo="" group-title="ESPAN",FR: AMC Crime
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Calle 13" tvg-logo="http://fauconteam.com//logo//calle13.png" group-title="all",ES:Calle 13
+#EXTINF:-1 tvg-id="" tvg-name="ES:Calle 13" tvg-logo="http://fauconteam.com//logo//calle13.png" group-title="ESPAN",FR:Calle 13
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Canal 24 Horas" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_canal_24horas.png" group-title="all",ES:Canal 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="ES:Canal 24 Horas" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_canal_24horas.png" group-title="ESPAN",FR:Canal 24 Horas
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Canal Cocina" tvg-logo="http://fauconteam.com//logo//canalcocina.png" group-title="all",ES:Canal Cocina
+#EXTINF:-1 tvg-id="" tvg-name="ES:Canal Cocina" tvg-logo="http://fauconteam.com//logo//canalcocina.png" group-title="ESPAN",FR:Canal Cocina
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur 2" tvg-logo="http://fauconteam.com//logo//canalpanda.png" group-title="all",ES: Canal Sur 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur 2" tvg-logo="http://fauconteam.com//logo//canalpanda.png" group-title="ESPAN",FR: Canal Sur 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Canal Sur" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_sur_andalucia_es.png" group-title="all",ES:Canal Sur
+#EXTINF:-1 tvg-id="" tvg-name="ES:Canal Sur" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_sur_andalucia_es.png" group-title="ESPAN",FR:Canal Sur
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Caza y Pesca" tvg-logo="http://fauconteam.com//logo//cazaypesca.png" group-title="all",ES:Caza y Pesca
+#EXTINF:-1 tvg-id="" tvg-name="ES:Caza y Pesca" tvg-logo="http://fauconteam.com//logo//cazaypesca.png" group-title="ESPAN",FR:Caza y Pesca
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Clan" tvg-logo="http://fauconteam.com//logo//tveclan.png" group-title="all",ES:Clan
+#EXTINF:-1 tvg-id="" tvg-name="ES:Clan" tvg-logo="http://fauconteam.com//logo//tveclan.png" group-title="ESPAN",FR:Clan
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Comedy Central es" tvg-logo="http://fauconteam.com//logo//comedycentral.png" group-title="all",ES:Comedy Central es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Comedy Central es" tvg-logo="http://fauconteam.com//logo//comedycentral.png" group-title="ESPAN",FR:Comedy Central es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:COSMO" tvg-logo="http://fauconteam.com//logo//cosmo.png" group-title="all",ES:COSMO
+#EXTINF:-1 tvg-id="" tvg-name="ES:COSMO" tvg-logo="http://fauconteam.com//logo//cosmo.png" group-title="ESPAN",FR:COSMO
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Negocios" tvg-logo="http://fauconteam.com//logo//crimeandinvest.png" group-title="all",ES: Movistar Negocios
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Negocios" tvg-logo="http://fauconteam.com//logo//crimeandinvest.png" group-title="ESPAN",FR: Movistar Negocios
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dark" tvg-logo="" group-title="all",ES:Dark
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dark" tvg-logo="" group-title="ESPAN",FR:Dark
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn 1" tvg-logo="http://fauconteam.com//logo//dazn1.png" group-title="all",ES:Dazn 1
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn 1" tvg-logo="http://fauconteam.com//logo//dazn1.png" group-title="ESPAN",FR:Dazn 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/19235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn La liga2" tvg-logo="http://fauconteam.com//logo//dazn2.png" group-title="all",ES:Dazn La liga2
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn La liga2" tvg-logo="http://fauconteam.com//logo//dazn2.png" group-title="ESPAN",FR:Dazn La liga2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/19236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn Liga1" tvg-logo="" group-title="all",ES:Dazn Liga1
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn Liga1" tvg-logo="" group-title="ESPAN",FR:Dazn Liga1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/44538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn 2" tvg-logo="" group-title="all",ES:Dazn 2
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dazn 2" tvg-logo="" group-title="ESPAN",FR:Dazn 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/44539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:DeCasa" tvg-logo="http://fauconteam.com//logo//canaldecasa.png" group-title="all",ES:DeCasa
+#EXTINF:-1 tvg-id="" tvg-name="ES:DeCasa" tvg-logo="http://fauconteam.com//logo//canaldecasa.png" group-title="ESPAN",FR:DeCasa
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Discovery es" tvg-logo="http://fauconteam.com//logo//discoverychannel.png" group-title="all",ES:Discovery es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Discovery es" tvg-logo="http://fauconteam.com//logo//discoverychannel.png" group-title="ESPAN",FR:Discovery es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Boom Cine" tvg-logo="http://fauconteam.com//logo//disney.png" group-title="all",ES: Boom Cine
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boom Cine" tvg-logo="http://fauconteam.com//logo//disney.png" group-title="ESPAN",FR: Boom Cine
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Disney Junior es" tvg-logo="http://fauconteam.com//logo//disneyjunior.png" group-title="all",ES:Disney Junior es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Disney Junior es" tvg-logo="http://fauconteam.com//logo//disneyjunior.png" group-title="ESPAN",FR:Disney Junior es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:DIVINITY" tvg-logo="http://fauconteam.com//logo//divinity.png" group-title="all",ES:DIVINITY
+#EXTINF:-1 tvg-id="" tvg-name="ES:DIVINITY" tvg-logo="http://fauconteam.com//logo//divinity.png" group-title="ESPAN",FR:DIVINITY
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Dkiss" tvg-logo="http://fauconteam.com//logo//D-KISS-TV.png" group-title="all",ES:Dkiss
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dkiss" tvg-logo="http://fauconteam.com//logo//D-KISS-TV.png" group-title="ESPAN",FR:Dkiss
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:ENERGY" tvg-logo="http://fauconteam.com//logo//energy.png" group-title="all",ES:ENERGY
+#EXTINF:-1 tvg-id="" tvg-name="ES:ENERGY" tvg-logo="http://fauconteam.com//logo//energy.png" group-title="ESPAN",FR:ENERGY
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport1 es" tvg-logo="http://fauconteam.com//logo//eurosport1.png" group-title="all",ES:Eurosport1 es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport1 es" tvg-logo="http://fauconteam.com//logo//eurosport1.png" group-title="ESPAN",FR:Eurosport1 es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport 2" tvg-logo="" group-title="all",ES:Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport 2" tvg-logo="" group-title="ESPAN",FR:Eurosport 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Extremadura TV" tvg-logo="" group-title="all",ES:Extremadura TV
+#EXTINF:-1 tvg-id="" tvg-name="ES:Extremadura TV" tvg-logo="" group-title="ESPAN",FR:Extremadura TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:FDF" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/factoria_de_ficcion.png" group-title="all",ES:FDF
+#EXTINF:-1 tvg-id="" tvg-name="ES:FDF" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/factoria_de_ficcion.png" group-title="ESPAN",FR:FDF
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Originales" tvg-logo="http://fauconteam.com//logo//fox.png" group-title="all",ES: Movistar Originales
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Originales" tvg-logo="http://fauconteam.com//logo//fox.png" group-title="ESPAN",FR: Movistar Originales
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:GOL  TV" tvg-logo="http://fauconteam.com//logo//gol.png" group-title="all",ES:GOL  TV
+#EXTINF:-1 tvg-id="" tvg-name="ES:GOL  TV" tvg-logo="http://fauconteam.com//logo//gol.png" group-title="ESPAN",FR:GOL  TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:HISTORIA ESP" tvg-logo="http://fauconteam.com//logo//historia.png" group-title="all",ES:HISTORIA ESP
+#EXTINF:-1 tvg-id="" tvg-name="ES:HISTORIA ESP" tvg-logo="http://fauconteam.com//logo//historia.png" group-title="ESPAN",FR:HISTORIA ESP
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Hollywood es" tvg-logo="http://fauconteam.com//logo//canalhollywood.png" group-title="all",ES:Hollywood es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Hollywood es" tvg-logo="http://fauconteam.com//logo//canalhollywood.png" group-title="ESPAN",FR:Hollywood es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Iberalia" tvg-logo="" group-title="all",ES:Iberalia
+#EXTINF:-1 tvg-id="" tvg-name="ES:Iberalia" tvg-logo="" group-title="ESPAN",FR:Iberalia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:la Liga  Tv BAR" tvg-logo="http://fauconteam.com//logo//laligatvbar.png" group-title="all",ES:la Liga  Tv BAR
+#EXTINF:-1 tvg-id="" tvg-name="ES:la Liga  Tv BAR" tvg-logo="http://fauconteam.com//logo//laligatvbar.png" group-title="ESPAN",FR:la Liga  Tv BAR
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones" tvg-logo="http://fauconteam.com//logo//mlcampeones.png" group-title="all",ES:Liga De Campeones
+#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones" tvg-logo="http://fauconteam.com//logo//mlcampeones.png" group-title="ESPAN",FR:Liga De Campeones
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones 1" tvg-logo="http://fauconteam.com//logo//mlcampeon1.png" group-title="all",ES:Liga De Campeones 1
+#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones 1" tvg-logo="http://fauconteam.com//logo//mlcampeon1.png" group-title="ESPAN",FR:Liga De Campeones 1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones 2" tvg-logo="http://fauconteam.com//logo//mlcampeon2.png" group-title="all",ES:Liga De Campeones 2
+#EXTINF:-1 tvg-id="" tvg-name="ES:Liga De Campeones 2" tvg-logo="http://fauconteam.com//logo//mlcampeon2.png" group-title="ESPAN",FR:Liga De Campeones 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Accion" tvg-logo="http://fauconteam.com//logo//maccion.png" group-title="all",ES:M+ Accion
+#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Accion" tvg-logo="http://fauconteam.com//logo//maccion.png" group-title="ESPAN",FR:M+ Accion
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPANOL" tvg-logo="http://fauconteam.com//logo//mcineespagnol.png" group-title="all",ES: M+ CINE ESPANOL
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPANOL" tvg-logo="http://fauconteam.com//logo//mcineespagnol.png" group-title="ESPAN",FR: M+ CINE ESPANOL
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M Comedia" tvg-logo="http://fauconteam.com//logo//mcomedia.png" group-title="all",ES:M Comedia
+#EXTINF:-1 tvg-id="" tvg-name="ES:M Comedia" tvg-logo="http://fauconteam.com//logo//mcomedia.png" group-title="ESPAN",FR:M Comedia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M Deportes" tvg-logo="http://fauconteam.com//logo//mdeportes.png" group-title="all",ES:M Deportes
+#EXTINF:-1 tvg-id="" tvg-name="ES:M Deportes" tvg-logo="http://fauconteam.com//logo//mdeportes.png" group-title="ESPAN",FR:M Deportes
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Drama" tvg-logo="http://fauconteam.com//logo//mdrama.png" group-title="all",ES: M+ Drama
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Drama" tvg-logo="http://fauconteam.com//logo//mdrama.png" group-title="ESPAN",FR: M+ Drama
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Estrenos" tvg-logo="http://fauconteam.com//logo//mestrenos.png" group-title="all",ES:M+ Estrenos
+#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Estrenos" tvg-logo="http://fauconteam.com//logo//mestrenos.png" group-title="ESPAN",FR:M+ Estrenos
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M  plus 2" tvg-logo="http://fauconteam.com//logo//mcinedocandroll.png" group-title="all",ES:M  plus 2
+#EXTINF:-1 tvg-id="" tvg-name="ES:M  plus 2" tvg-logo="http://fauconteam.com//logo//mcinedocandroll.png" group-title="ESPAN",FR:M  plus 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN  Formula1" tvg-logo="http://fauconteam.com//logo//mformula1.png" group-title="all",ES:DAZN  Formula1
+#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN  Formula1" tvg-logo="http://fauconteam.com//logo//mformula1.png" group-title="ESPAN",FR:DAZN  Formula1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M Golf" tvg-logo="http://fauconteam.com//logo//mgolf.png" group-title="all",ES:M Golf
+#EXTINF:-1 tvg-id="" tvg-name="ES:M Golf" tvg-logo="http://fauconteam.com//logo//mgolf.png" group-title="ESPAN",FR:M Golf
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar LaLiga" tvg-logo="http://fauconteam.com//logo//movistarlaligatv.png" group-title="all",ES:Movistar LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar LaLiga" tvg-logo="http://fauconteam.com//logo//movistarlaligatv.png" group-title="ESPAN",FR:Movistar LaLiga
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Hits" tvg-logo="http://fauconteam.com//logo//mseries.png" group-title="all",ES:M+ Hits
+#EXTINF:-1 tvg-id="" tvg-name="ES:M+ Hits" tvg-logo="http://fauconteam.com//logo//mseries.png" group-title="ESPAN",FR:M+ Hits
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:MTV ESPANA" tvg-logo="http://fauconteam.com//logo//mtvespana.png" group-title="all",ES:MTV ESPANA
+#EXTINF:-1 tvg-id="" tvg-name="ES:MTV ESPANA" tvg-logo="http://fauconteam.com//logo//mtvespana.png" group-title="ESPAN",FR:MTV ESPANA
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Nat geo es" tvg-logo="http://fauconteam.com//logo//nationalgeo.png" group-title="all",ES:Nat geo es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nat geo es" tvg-logo="http://fauconteam.com//logo//nationalgeo.png" group-title="ESPAN",FR:Nat geo es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Nat Geo Wild es" tvg-logo="http://fauconteam.com//logo//natgeowild.png" group-title="all",ES:Nat Geo Wild es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nat Geo Wild es" tvg-logo="http://fauconteam.com//logo//natgeowild.png" group-title="ESPAN",FR:Nat Geo Wild es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Nickelodeon es" tvg-logo="http://fauconteam.com//logo//nickelodeon.png" group-title="all",ES:Nickelodeon es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nickelodeon es" tvg-logo="http://fauconteam.com//logo//nickelodeon.png" group-title="ESPAN",FR:Nickelodeon es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:nick JR" tvg-logo="" group-title="all",ES:nick JR
+#EXTINF:-1 tvg-id="" tvg-name="ES:nick JR" tvg-logo="" group-title="ESPAN",FR:nick JR
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Odisea" tvg-logo="http://fauconteam.com//logo//odisseia.png" group-title="all",ES:Odisea
+#EXTINF:-1 tvg-id="" tvg-name="ES:Odisea" tvg-logo="http://fauconteam.com//logo//odisseia.png" group-title="ESPAN",FR:Odisea
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:PARAMOUNT CHANNEL" tvg-logo="http://fauconteam.com//logo//paramountchannel.png" group-title="all",ES:PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="ES:PARAMOUNT CHANNEL" tvg-logo="http://fauconteam.com//logo//paramountchannel.png" group-title="ESPAN",FR:PARAMOUNT CHANNEL
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: CMM" tvg-logo="" group-title="all",ES: CMM
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM" tvg-logo="" group-title="ESPAN",FR: CMM
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Real Madrid TV" tvg-logo="http://fauconteam.com//logo//realmadridtv.png" group-title="all",ES:Real Madrid TV
+#EXTINF:-1 tvg-id="" tvg-name="ES:Real Madrid TV" tvg-logo="http://fauconteam.com//logo//realmadridtv.png" group-title="ESPAN",FR:Real Madrid TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga Hypermotion" tvg-logo="http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="all",ES: M+ Liga Hypermotion
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga Hypermotion" tvg-logo="http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="ESPAN",FR: M+ Liga Hypermotion
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga Hypermotion 2" tvg-logo="" group-title="all",ES: M+ Liga Hypermotion 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga Hypermotion 2" tvg-logo="" group-title="ESPAN",FR: M+ Liga Hypermotion 2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:SOMOS" tvg-logo="http://fauconteam.com//logo//somos.png" group-title="all",ES:SOMOS
+#EXTINF:-1 tvg-id="" tvg-name="ES:SOMOS" tvg-logo="http://fauconteam.com//logo//somos.png" group-title="ESPAN",FR:SOMOS
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:SUNDANCE" tvg-logo="http://fauconteam.com//logo//sundance.png" group-title="all",ES:SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="ES:SUNDANCE" tvg-logo="http://fauconteam.com//logo//sundance.png" group-title="ESPAN",FR:SUNDANCE
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Syfy es" tvg-logo="http://fauconteam.com//logo//syfy.png" group-title="all",ES:Syfy es
+#EXTINF:-1 tvg-id="" tvg-name="ES:Syfy es" tvg-logo="http://fauconteam.com//logo//syfy.png" group-title="ESPAN",FR:Syfy es
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla1" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="all",ES:Taquilla1
+#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla1" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="ESPAN",FR:Taquilla1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla2" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="all",ES:Taquilla2
+#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla2" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="ESPAN",FR:Taquilla2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla3" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="all",ES:Taquilla3
+#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla3" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="ESPAN",FR:Taquilla3
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla4" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="all",ES:Taquilla4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla4" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="ESPAN",FR:Taquilla4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla5" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="all",ES:Taquilla5
+#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla5" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="ESPAN",FR:Taquilla5
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:TCM" tvg-logo="http://fauconteam.com//logo//tcm.png" group-title="all",ES:TCM
+#EXTINF:-1 tvg-id="" tvg-name="ES:TCM" tvg-logo="http://fauconteam.com//logo//tcm.png" group-title="ESPAN",FR:TCM
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:TELEDEPORTE" tvg-logo="http://fauconteam.com//logo//teledeporte.png" group-title="all",ES:TELEDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="ES:TELEDEPORTE" tvg-logo="http://fauconteam.com//logo//teledeporte.png" group-title="ESPAN",FR:TELEDEPORTE
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Ten" tvg-logo="http://fauconteam.com//logo//ten.jpg" group-title="all",ES:Ten
+#EXTINF:-1 tvg-id="" tvg-name="ES:Ten" tvg-logo="http://fauconteam.com//logo//ten.jpg" group-title="ESPAN",FR:Ten
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="http://fauconteam.com//logo//disneyxd.png" group-title="all",ES: Trece
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="http://fauconteam.com//logo//disneyxd.png" group-title="ESPAN",FR: Trece
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Toros Tv" tvg-logo="http://fauconteam.com//logo//toros.png" group-title="all",ES:Toros Tv
+#EXTINF:-1 tvg-id="" tvg-name="ES:Toros Tv" tvg-logo="http://fauconteam.com//logo//toros.png" group-title="ESPAN",FR:Toros Tv
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:Trece TV" tvg-logo="" group-title="all",ES:Trece TV
+#EXTINF:-1 tvg-id="" tvg-name="ES:Trece TV" tvg-logo="" group-title="ESPAN",FR:Trece TV
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:TV3 Cat" tvg-logo="" group-title="all",ES:TV3 Cat
+#EXTINF:-1 tvg-id="" tvg-name="ES:TV3 Cat" tvg-logo="" group-title="ESPAN",FR:TV3 Cat
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES:TV Galicia" tvg-logo="" group-title="all",ES:TV Galicia
+#EXTINF:-1 tvg-id="" tvg-name="ES:TV Galicia" tvg-logo="" group-title="ESPAN",FR:TV Galicia
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Vamos." tvg-logo="http://fauconteam.com//logo//vamos.png" group-title="all",ES: Vamos.
+#EXTINF:-1 tvg-id="" tvg-name="ES: Vamos." tvg-logo="http://fauconteam.com//logo//vamos.png" group-title="ESPAN",FR: Vamos.
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP:Bein Sports AFC HD" tvg-logo="" group-title="all",SP:Bein Sports AFC HD
+#EXTINF:-1 tvg-id="" tvg-name="SP:Bein Sports AFC HD" tvg-logo="" group-title="SPORT",SP:Bein Sports AFC HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/48079.m3u8
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="SP:Bein News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="all",SP:Bein News
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="SP:Bein News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORT",SP:Bein News
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/68.m3u8
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="SP:Bein Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="all",SP:Bein Sports
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="SP:Bein Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="SPORT",SP:Bein Sports
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1223.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 HD
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5192.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 SD
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1072.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 HQ
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5195.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="all",SP:Bein Sport 1 FHD
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/716.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 HD
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5193.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 SD
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1073.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 HQ
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5196.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="all",SP:Bein Sport 2 FHD
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/717.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="all",SP:Bein Xtra3 HD
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORT",SP:Bein Xtra3 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5194.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="all",SP:Bein Xtra3 SD
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="SPORT",SP:Bein Xtra3 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1074.m3u8
-#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-name="SP:Bein Xtra2 HD" tvg-logo="" group-title="all",SP:Bein Xtra2 HD
+#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-name="SP:Bein Xtra2 HD" tvg-logo="" group-title="SPORT",SP:Bein Xtra2 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21276.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 HD
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORT",SP:Bein Sport 3 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1602.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 SD
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORT",SP:Bein Sport 3 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1070.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 HQ
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORT",SP:Bein Sport 3 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3464.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="all",SP:Bein Sport 3 FHD
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORT",SP:Bein Sport 3 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5143.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 HD
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORT",SP:Bein Sport 4 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1603.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 SD
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORT",SP:Bein Sport 4 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1071.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 HQ
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORT",SP:Bein Sport 4 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3463.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="all",SP:Bein Sport 4 FHD
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORT",SP:Bein Sport 4 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5144.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 HD
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORT",SP:Bein Sport 5 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1604.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 SD
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORT",SP:Bein Sport 5 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/77.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 HQ
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORT",SP:Bein Sport 5 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3462.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="all",SP:Bein Sport 5 FHD
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORT",SP:Bein Sport 5 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5145.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 HD
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORT",SP:Bein Sport 6 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1605.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 SD
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORT",SP:Bein Sport 6 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/78.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 HQ
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORT",SP:Bein Sport 6 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3476.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="all",SP:Bein Sport 6 FHD
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORT",SP:Bein Sport 6 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/8535.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 HD
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORT",SP:Bein Sport 7 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/79.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 SD
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORT",SP:Bein Sport 7 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5146.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 HQ
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORT",SP:Bein Sport 7 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3477.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="all",SP:Bein Sport 7 FHD
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORT",SP:Bein Sport 7 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13790.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 HD
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="SPORT",SP:Bein Sport 8 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/80.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 SD
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="SPORT",SP:Bein Sport 8 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5147.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 HQ
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="SPORT",SP:Bein Sport 8 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3478.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="all",SP:Bein Sport 8 FHD
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="SPORT",SP:Bein Sport 8 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/565.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 HD
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="SPORT",SP:Bein Sport 9 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/81.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 SD
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="SPORT",SP:Bein Sport 9 SD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5148.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 HQ
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="SPORT",SP:Bein Sport 9 HQ
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3479.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="all",SP:Bein Sport 9 FHD
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="SPORT",SP:Bein Sport 9 FHD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13791.m3u8
-#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-name="SP:Bein FRA1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA1 HD
+#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-name="SP:Bein FRA1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="SPORT",SP:Bein FRA1 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13793.m3u8
-#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-name="SP:Bein FRA2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA2 HD
+#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-name="SP:Bein FRA2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="SPORT",SP:Bein FRA2 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13794.m3u8
-#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-name="SP:Bein FRA3 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="all",SP:Bein FRA3 HD
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-name="SP:Bein FRA3 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="SPORT",SP:Bein FRA3 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13795.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="SP:Bein ENG1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="all",SP:Bein ENG1 HD
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="SP:Bein ENG1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="SPORT",SP:Bein ENG1 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/82.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-name="SP:Bein ENG2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="all",SP:Bein ENG2 HD
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-name="SP:Bein ENG2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="SPORT",SP:Bein ENG2 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/83.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Al Yawm" tvg-logo="http://logo.ndasat.com/iptv/images/38797_YAW.jpg" group-title="all",OSN: Al Yawm
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1460.m3u8
@@ -880,15 +880,15 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/44886.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AS: Thmanya 2HD" tvg-logo="" group-title="all",AS: Thmanya 2HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass1" tvg-logo="http://logo.ndasat.com/iptv/images/24697_alkass1.jpg" group-title="all",SP:Alkass1
+#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass1" tvg-logo="http://logo.ndasat.com/iptv/images/24697_alkass1.jpg" group-title="SPORT",SP:Alkass1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sp:Alkass2" tvg-logo="http://logo.ndasat.com/iptv/images/34239_alkass2.jpg" group-title="all",Sp:Alkass2
+#EXTINF:-1 tvg-id="" tvg-name="Sp:Alkass2" tvg-logo="http://logo.ndasat.com/iptv/images/34239_alkass2.jpg" group-title="SPORT",SP:Alkass2
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass3" tvg-logo="" group-title="all",SP:Alkass3
+#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass3" tvg-logo="" group-title="SPORT",SP:Alkass3
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/40896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass4" tvg-logo="http://logo.ndasat.com/iptv/images/29247_knn.jpg" group-title="all",SP:Alkass4
+#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass4" tvg-logo="http://logo.ndasat.com/iptv/images/29247_knn.jpg" group-title="SPORT",SP:Alkass4
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass5" tvg-logo="" group-title="all",SP:Alkass5
+#EXTINF:-1 tvg-id="" tvg-name="SP:Alkass5" tvg-logo="" group-title="SPORT",SP:Alkass5
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/16320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AS:OnTime Sports1" tvg-logo="" group-title="all",AS:OnTime Sports1
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2403.m3u8
@@ -2110,7 +2110,7 @@ http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/547.m3u8
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/856.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT-Cartoon Network" tvg-logo="" group-title="all",IT-Cartoon Network
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/2355.m3u8
-#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="SP:Bein Xtra1 HD" tvg-logo="" group-title="all",SP:Bein Xtra1 HD
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="SP:Bein Xtra1 HD" tvg-logo="" group-title="SPORT",SP:Bein Xtra1 HD
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21275.m3u8
 #EXTINF:-1 tvg-id="e99653ea-1b5a-4fbd-8595-3efd6bee1c91" tvg-name="Madame Smiress" tvg-logo="" group-title="Maroc",MAdame Smiress
 http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/60623.m3u8
