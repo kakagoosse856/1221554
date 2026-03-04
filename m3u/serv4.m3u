@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FR : beIN SPORm3u8 MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="سبورت ",AR : beIN 
-http://off17.lynxcontents.click:2086/live/1396247314/69a791bdf25c4/196157.m3u8?data=gFK3Z-S_iDwhNqBhWQHenM3yNkg0JDMvVbYh_FaIabEOTmBSWmqdyCzKL3Q4fHg0d-8GAHSOi0FNbh9YPT5FiEDuj-QBwU84OGs1O_y-4zS_5u95MJB8dUiGReddMYPRyr6mTf9ZOgWGr7h3oHRWvCS9zPCHD3aIRNeAu2xZHTM=#EXTINF:-1 tvg-name="FR : beIN SPORm3u8 MAX 8 HD" tvg-logo="http://tayaara.store/live/france/max8.jpg" group-title="FRANCE SPOR",FR : beIN SPORm3u8 MAX 8 FHD
+http://off17.lynxcontents.click:2086/live/1396247314/69a791bdf25c4/196157.m3u8?data=7ue7FNYHwnobHVtFyA6JHIHg1jOjQ_ZK_akaAuRr8r033r27ncVfRAukLYuNQKAXImFO9UE0BxKmDBdk9opV7DPMnJFYYbCVd4jzIXG4dX02WoMjOF2e22pp7wGj4JhogvL-h4p0ciGZMqJjVPZSoNU_mLkiOXaaVlW3a7DLRjo=
+#EXTINF:-1 tvg-name="FR : beIN SPORm3u8 MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="سبورت ",AR : beIN 
+http://off17.lynxcontents.click:2086/live/1396247314/69a791bdf25c4/196157.m3u8
+#EXTINF:-1 tvg-name="FR : beIN SPORm3u8 MAX 7 HD" tvg-logo="http://tayaara.store/live/france/max7.jpg" group-title="سبورت ",AR : beIN 
 http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/80083&extension=m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPORm3u8 MAX 9 HD" tvg-logo="http://tayaara.store/live/france/max9.jpg" group-title="FRANCE SPOR",FR : beIN SPORm3u8 MAX 9 FHD
 http://300300.org/play/live.php?mac=00:1A:79:C4:66:63&stream=.org/ch/80084&extension=m3u8
