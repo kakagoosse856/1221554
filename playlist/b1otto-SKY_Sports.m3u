@@ -2,11 +2,9 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-05 12:55 PM (BD Time)
+# Last Updated: 2026-03-05 01:34 PM (BD Time)
 # TV channel counts :- 37
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413665839-152242582.webp" group-title="Cricket - (Upcoming)",Tasmania Tigers VS Victoria [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de85a6c167956f9cb7b9fa
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413745768-808621111.webp" group-title="Cricket - (Upcoming)",Queensland Bulls VS Western Australia [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de85f89f5a848ba39f335b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413835463-572106213.webp" group-title="Cricket - (Live)",South Australia VS New South Wales [Live]
@@ -15,6 +13,8 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=68de864f458c1b0c74d26014
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907c30a472ea3a69589108
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992357380-600650496.webp" group-title="Cricket - (Live)",Crystal Balaji Titans VS Amba Warriors [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f32e774685a2a43504c81
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413665839-152242582.webp" group-title="Cricket - (Live)",Tasmania Tigers VS Victoria [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de85a6c167956f9cb7b9fa
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076547279-630052460.webp" group-title="Cricket - (Upcoming)",Tehri Falcons VS Medical Maverics [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907bc875a94bf857f32adb
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770990828175-237712110.webp" group-title="Cricket - (Upcoming)",Bhawani Lions VS Amba Warriors [Upcoming]
