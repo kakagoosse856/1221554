@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Email  achat  cccamproandiptv@gmail.com" tvg-logo="" group-title="BOUQUET  FRANCAIS",Email  achat  cccamproandiptv@gmail.com
-
-#EXTINF:-1 tvg-ID="" tvg-name="Email: Samiazziz4@gmail.com" tvg-logo="" group-title="BOUQUET  FRANCAIS",Email: Samiazziz4@gmail.com
-http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/5355.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SKYPE  : Francijean    TELEGRAM : https://t.me/localhdTV" tvg-logo="" group-title="BOUQUET  FRANCAIS",SKYPE  : Francijean    TELEGRAM : https://t.me/localhdTV
-http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/5357.m3u8
 #EXTINF:-1 tvg-ID="CanalPlus.fr" tvg-name="|FR| CANAL+ FlHD" tvg-logo="" group-title="BOUQUET  FRANCAIS",|FR| CANAL+ FlHD
 http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/4084.m3u8
 #EXTINF:-1 tvg-ID="CanalPlusCinema.fr" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="http://51.255.51.76:8082/canalpluscinema(s).png" group-title="BOUQUET  FRANCAIS",|FR| CANAL CINEMA FIHD
