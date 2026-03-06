@@ -1,422 +1,50 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA A #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=812197&extension=m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6724.png",AR| EN TV ALGERIA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6724&extension=m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6723.png",AR| CANAL ALGERIE
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6723&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6722.png",AR| A3 ALGERIE
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6722&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/196191.png",AR| TV 6 ALGERIE
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=196191&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6715.png",AR| ECHOUROUK TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6715&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6716.png",AR| ECHOUROUK NEWS
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6716&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6700.png",AR| EL HEDDAF TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6700&extension=m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="http://103.176.90.118/piconsnew/samiratv.png",AR| SAMIRA TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6710&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/828228.png",AR| ZAHRA TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=828228&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/21717.png",AR| EL BILAD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=21717&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6708.png",AR| EL DJAZAIRIA TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6708&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/209712.png",AR| AL ANIS
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=209712&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6717.png",AR| ENNAHAR TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6717&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/819617.png",AR| AL24 NEWS
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=819617&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6709.png",AR| DZAIR JANNAH
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6709&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6707.png",AR| BAHIA TV ORAN
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6707&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6718.png",AR| BEUR TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6718&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6727.png",AR| BERBERE TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6727&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6703.png",AR| EL FADJR TV DZ
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6703&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/EL-FAJR-DRAMA.png",AR| EL FAJR DRAMA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=892110&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6721.png",AR| TV CORAN ALGERIE
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6721&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIE TAMAZIGH
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=6720&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/8167.png",AR| TV5 MAGHREB
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=8167&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/550005.png",AR| EL DJAZAIR N1
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=550005&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIA 4 TAMAZIGHT
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=83669&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/83549.png",AR| AL THANYA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=83549&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/84254.png",AR| EL HAYAT ALGERIA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=84254&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/274151.png",AR| CANAL ATLAS ALGERIA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=274151&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518624.png",AR| ALGERIE CANAL TV 2
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518624&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518623.png",AR| BEUR TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518623&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518620.png",AR| EL DJAZAIRIA1
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518620&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518619.png",AR| ALANES TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518619&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/892107.png",AR| ALGERIAN 4KIDS
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=892107&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/arabic/AL-SALAM.png",AR| AL SALAM
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518618&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518617.png",AR| AL SAHRAA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518617&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518616.png",AR| EL WATANIA TV ALGERIA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518616&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518614.png",AR| ALGERIE ELMAARIFA TV7
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518614&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1472001.png",AR| ALGERIA ONE TV HD
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=1472001&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518613.png",AR| ALGERIE EN TV 1
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518613&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518612.png",AR| ALGERIE TV8 EDHAKIRA
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=518612&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/530382.png",AR| AL ANIS TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=530382&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/509328.png",AR| ALMAGHARIBIA TV
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=509328&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA B #####
-
-
-
-
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=812197&extension=m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6724.png",AR| EN TV ALGERIA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6724&extension=m3u8
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-logo="http://picons.cmshulk.com/picons/6723.png",AR| CANAL ALGERIE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6723&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6722.png",AR| A3 ALGERIE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6722&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/196191.png",AR| TV 6 ALGERIE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=196191&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6715.png",AR| ECHOUROUK TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6715&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6716.png",AR| ECHOUROUK NEWS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6716&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6700.png",AR| EL HEDDAF TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6700&extension=m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="http://103.176.90.118/piconsnew/samiratv.png",AR| SAMIRA TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6710&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/828228.png",AR| ZAHRA TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=828228&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/21717.png",AR| EL BILAD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=21717&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6708.png",AR| EL DJAZAIRIA TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6708&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/209712.png",AR| AL ANIS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=209712&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6717.png",AR| ENNAHAR TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6717&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/819617.png",AR| AL24 NEWS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=819617&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6709.png",AR| DZAIR JANNAH
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6709&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6707.png",AR| BAHIA TV ORAN
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6707&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6718.png",AR| BEUR TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6718&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6727.png",AR| BERBERE TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6727&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6703.png",AR| EL FADJR TV DZ
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6703&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/EL-FAJR-DRAMA.png",AR| EL FAJR DRAMA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=892110&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/6721.png",AR| TV CORAN ALGERIE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6721&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIE TAMAZIGH
-
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=6720&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/8167.png",AR| TV5 MAGHREB
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=8167&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/550005.png",AR| EL DJAZAIR N1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=550005&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png",AR| ALGERIA 4 TAMAZIGHT
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=83669&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/83549.png",AR| AL THANYA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=83549&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/84254.png",AR| EL HAYAT ALGERIA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=84254&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/274151.png",AR| CANAL ATLAS ALGERIA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=274151&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518624.png",AR| ALGERIE CANAL TV 2
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518624&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518623.png",AR| BEUR TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518623&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518620.png",AR| EL DJAZAIRIA1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518620&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518619.png",AR| ALANES TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518619&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/892107.png",AR| ALGERIAN 4KIDS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=892107&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/arabic/AL-SALAM.png",AR| AL SALAM
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518618&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518617.png",AR| AL SAHRAA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518617&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518616.png",AR| EL WATANIA TV ALGERIA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518616&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518614.png",AR| ALGERIE ELMAARIFA TV7
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518614&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1472001.png",AR| ALGERIA ONE TV HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=1472001&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518613.png",AR| ALGERIE EN TV 1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518613&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/518612.png",AR| ALGERIE TV8 EDHAKIRA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=518612&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/530382.png",AR| AL ANIS TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=530382&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/509328.png",AR| ALMAGHARIBIA TV
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B3:01:F3&stream=509328&extension=m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA D #####
-
-
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=812197&extension=m3u8
- 
-
-#EXTINF:-1 tvg-id="" tvg-name="| DZ |  Al magharibia tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ |  Al magharibia tv
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ |  CANAL ALGERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ |  CANAL ALGERIE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ |  El Djazair N1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ |  El Djazair N1
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | AL FAJR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | AL FAJR TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/70937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | ALGERIE  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | ALGERIE  3
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Algerie 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Algerie 3
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Algerie 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Algerie 4
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Algerie 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Algerie 5
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Algerie 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Algerie 6
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Algerie4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Algerie4
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/72310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Annahar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Annahar TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Bahia Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Bahia Tv
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Bahia TV باهية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Bahia TV باهية
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Berbere TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Berbere TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | BERBERE TV بربر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | BERBERE TV بربر
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Beur  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Beur  TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Canal  Algerie 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Canal  Algerie 2
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Chourouk Benna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Chourouk Benna
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Chourouk News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Chourouk News
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Chourouk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Chourouk TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Dzair 24 الجزائر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Dzair 24 الجزائر
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Dzair 7 الجزائر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Dzair 7 الجزائر
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | DZAIR NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | DZAIR NEWS
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/4792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Dzair24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Dzair24
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Echorouk NEWS الشروق اخبار" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Echorouk NEWS الشروق اخبار
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | ECHOROUK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | ECHOROUK TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/4800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Echorouk TV الشروق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Echorouk TV الشروق
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | El Bilad  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | El Bilad  TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | EL BILAD البلاد" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | EL BILAD البلاد
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | El Djazair N1 الجزائر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | El Djazair N1 الجزائر
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | EL HAYAT TV ALGERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | EL HAYAT TV ALGERIE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/77321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | EL HAYAT TV ALGERIE الحياة جزائر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | EL HAYAT TV ALGERIE الحياة جزائر
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | EL HEDDAF TV الهداف" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | EL HEDDAF TV الهداف
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Haddef Algerie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Haddef Algerie
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | PROGRAMME NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | PROGRAMME NATIONAL
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Salam TV سلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Salam TV سلام
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Samira  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Samira  TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Samira TV سميرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Samira TV سميرة
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | Tamazight Alger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | Tamazight Alger
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/2535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | TV 4 Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | TV 4 Tamazight
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/133718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | TV7 ELMAARIFA قناة المعرفة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | TV7 ELMAARIFA قناة المعرفة
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| DZ | TV8 EDHAKIRA قناة الذاكرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر",| DZ | TV8 EDHAKIRA قناة الذاكرة
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/310621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| A3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| A3 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| AL24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| AL24 News
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Algerian 4Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Algerian 4Kids
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Bahia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Bahia TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Canal Algerie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Canal Algerie HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| CHAINE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| CHAINE 1
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| CHAINE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| CHAINE 2
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| CHAINE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| CHAINE 3
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Echorouk News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Echorouk News
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Echorouk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Echorouk TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| El barlamaniya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| El barlamaniya
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| El Bilad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| El Bilad TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| El Hayat TV Algerie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| El Hayat TV Algerie
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| El Heddaf TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| El Heddaf TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| El Watania TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| El Watania TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Eldjazair N1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Eldjazair N1
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Ennahar TV Algerie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Ennahar TV Algerie
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Ifrikya FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Ifrikya FM
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| ONE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| ONE TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| RADIO CORAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| RADIO CORAN
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| RADIO CULTURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| RADIO CULTURE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| RADIO DECROCHAGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| RADIO DECROCHAGE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| RADIO INTERNATIONALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| RADIO INTERNATIONALE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| RADIO JEUNESSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| RADIO JEUNESSE
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Salam TV Algeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Salam TV Algeria
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Samira TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Samira TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| TV 4
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| TV 5
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| TV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| TV6 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| TV7 ELMAARIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| TV7 ELMAARIFA
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| TV8 EDHAKIRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| TV8 EDHAKIRA
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| Zahra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| Zahra TV
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ALG| ZAMEN FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" group-title="ALGERIA - الجزائر  UHD",|ALG| ZAMEN FM
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/872057.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="",##### ALGERIA F #####
-http://alpha-2ott.me:80/play/live.php?mac=00:1a:79:7c:33:5e&stream=812197&extension=m3u8
-
-#EXTINF:-1 tvg-name="Dz | Canal Algerie TV1" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://r665.io/live/EGESIPE/bzAsZNr/171.m3u8
-#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://u.goldeniptv.com:2052/live/Emile/11223344/221409.m3u8
-#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://r665.io/live/EGESIPE/bzAsZNr/1410.m3u8
-#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://u.goldeniptv.com:2052/live/Emile/11223344/221410.m3u8
-#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://r665.io/live/EGESIPE/bzAsZNr/227.m3u8
-#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://u.goldeniptv.com:2052/live/Emile/11223344/221411.m3u8
-#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://r665.io/live/EGESIPE/bzAsZNr/45716.m3u8
-#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://u.goldeniptv.com:2052/live/Emile/11223344/221412.m3u8
-#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://u.goldeniptv.com:2052/live/Emile/11223344/221422.m3u8
-#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=6715&extension=m3u8&play_token=gvd4hz26UW
-#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=6716&extension=m3u8&play_token=gvd4hz26UW
-#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=6715&extension=m3u8&play_token=gvd4hz26UW
-#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://u.goldeniptv.com:2052/live/Emile/11223344/221427.m3u8
-#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://u.goldeniptv.com:2052/live/Emile/11223344/221423.m3u8
-#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://u.goldeniptv.com:2052/live/Emile/11223344/221416.m3u8
-#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://r665.io/live/EGESIPE/bzAsZNr/42041.m3u8
-#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://r665.io/live/EGESIPE/bzAsZNr/236.m3u8
-#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://u.goldeniptv.com:2052/live/Emile/11223344/221421.m3u8
-#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://r665.io/live/EGESIPE/bzAsZNr/41988.m3u8
+#EXTINF:-1 tvg-name="AR | REALX ALGERIA 4K" group-title="EU || RELAX TV 8K",AR | REALX ALGERIA 4K
+http://sbix.pro:80/live/live/ziP800/85704502/577533.m3u8
 #EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://r665.io/live/PacoSico/sbTD8SJ/171.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14878.m3u8
 #EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://r665.io/live/PacoSico/sbTD8SJ/2825.m3u8
+http://arox.cc/live/24232292395865/24232292395865/665.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://r665.io/live/PacoSico/sbTD8SJ/1410.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14783.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://r665.io/live/PacoSico/sbTD8SJ/226.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14784.m3u8
 #EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://r665.io/live/PacoSico/sbTD8SJ/227.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14785.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://r665.io/live/PacoSico/sbTD8SJ/229.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/43605.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://r665.io/live/PacoSico/sbTD8SJ/45716.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/43601.m3u8
 #EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://r665.io/live/PacoSico/sbTD8SJ/45717.m3u8
-#EXTINF:-1 tvg-name="Dz | ONE TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | ONE TV
-http://r665.io/live/PacoSico/sbTD8SJ/22395.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/43599.m3u8
+#EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://r665.io/live/PacoSico/sbTD8SJ/233.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/21218.m3u8
+#EXTINF:-1 tvg-name="Dz: One TV HD" tvg-logo="http://tv.asc.vg/one.dz.png" group-title="Algeria ⭐",Dz: One TV HD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/344039.m3u8
 #EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://r665.io/live/PacoSico/sbTD8SJ/1559.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/21219.m3u8
 #EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://r665.io/live/PacoSico/sbTD8SJ/1560.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/21220
 #EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://r665.io/live/PacoSico/sbTD8SJ/172.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14912.m3u8
 #EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://r665.io/live/PacoSico/sbTD8SJ/2260.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/43603.m3u8
 #EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://r665.io/live/PacoSico/sbTD8SJ/231.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14821.m3u8
 #EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://r665.io/live/PacoSico/sbTD8SJ/42074.m3u8
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://r665.io/live/PacoSico/sbTD8SJ/42041.m3u8
+http://mbrok.xyz:8080/1865973036882453/3250438317687417/112626.m3u8
 #EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://r665.io/live/PacoSico/sbTD8SJ/236.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14876.m3u8
 #EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://r665.io/live/PacoSico/sbTD8SJ/22398.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14913.m3u8
 #EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://r665.io/live/PacoSico/sbTD8SJ/41988.m3u8
+http://sbix.pro:80/live/229815636887/192402289369/14915.m3u8
+#EXTINF:-1 tvg-name="Algerian: BAHIA" group-title="ALGERIE",Algerian: BAHIA
+http://sbix.pro:80/live/229815636887/192402289369/14914.m3u8
+#EXTINF:-1 tvg-name="Algerian:ALANIS TV" group-title="ALGERIE",Algerian:ALANIS TV
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=679&t=live&f=ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
