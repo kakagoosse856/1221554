@@ -14,3 +14,9 @@ http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 http://xcarscharge.pro:8080/bn2hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 2 ",Bein Sport 3
 http://xcarscharge.pro:8080/bn3hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 2 ",Bein Sport 1
+http://xcarscharge.pro:8080/bn14k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 2 ",Bein Sport 2
+http://xcarscharge.pro:8080/bn24k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 2 ",Bein Sport 3
+http://xcarscharge.pro:8080/bn34k/tracks-v1a1/mono.m3u8
