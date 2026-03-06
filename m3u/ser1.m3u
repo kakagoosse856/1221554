@@ -35,3 +35,49 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6127/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 3 ",beIN SPORTS 7  
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6129/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 5
+https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",beIN SPORTS 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",beIN SPORTS 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS", NBATV
+https://dko29we9nm1rd.cloudfront.net/hls/CH642/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 651
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports 652
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS", Premier Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS", Now Sports PLUS
+https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS", HBO
+https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS", NOW
+https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
+
