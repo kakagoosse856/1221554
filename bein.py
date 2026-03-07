@@ -6,36 +6,34 @@ import re
 # مصادر القنوات
 # =====================
 SOURCES = [  
-"https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u",
-"https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser1.m3u",
-"https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/BEIN%20SPORTS%20sx.m3u",
-"https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcfe022cf3d97978a8306f81727680/from_json.m3u",
-"https://raw.githubusercontent.com/raid35/channel-links/66249bc55f090eeead8d86599b4d3ac87ef30dfd/8K.m3u",
-"https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/c7e028af5a8ece7f158a9fe0bae6a446f2323972/TURK_TV.m3u_plus",
-"https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u",
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser1.m3u",
+    "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/BEIN%20SPORTS%20sx.m3u",
+    "https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcfe022cf3d97978a8306f81727680/from_json.m3u",
+    "https://raw.githubusercontent.com/raid35/channel-links/66249bc55f090eeead8d86599b4d3ac87ef30dfd/8K.m3u",
+    "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/c7e028af5a8ece7f158a9fe0bae6a446f2323972/TURK_TV.m3u_plus",
+    "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
     "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
     "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital/e3f60bd80f189c679415e6b2b51d79a77440793a/Cmcl%20digital",
-     "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
-     "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u"
-     "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u",
-      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u",
-       "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/m3u_url.m3u",
-      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u",
-      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/UDPTV.m3u",
-      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/tubi_playlist.m3u",
-      "https://raw.githubusercontent.com/lusianaputri/lusipunyalu/d5d1b411b6020519501860ab1f2dda128a033885/b.txt",
-      "https://github.com/FunctionError/PiratesTv/blob/97aadde222f09567d5f03de4574cae49c3cf90ab/combined_playlist.m3u",
-       "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u",
-       "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
-       "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
-        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
-         "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
-       "https://raw.githubusercontent.com/ashik4u/mrgify-clean/refs/heads/main/playlist.m3u",
-       "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
-    
-    
-    ]
+    "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
+    "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u",
+    "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u",
+    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u",
+    "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/m3u_url.m3u",
+    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u",
+    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/UDPTV.m3u",
+    "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/tubi_playlist.m3u",
+    "https://raw.githubusercontent.com/lusianaputri/lusipunyalu/d5d1b411b6020519501860ab1f2dda128a033885/b.txt",
+    "https://github.com/FunctionError/PiratesTv/blob/97aadde222f09567d5f03de4574cae49c3cf90ab/combined_playlist.m3u",
+    "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u",
+    "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
+    "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
+    "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
+    "https://raw.githubusercontent.com/ashik4u/mrgify-clean/refs/heads/main/playlist.m3u",
+    "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
+]
 
 KEYWORD = "bein"
 OUTPUT_DIR = "channels"
@@ -52,9 +50,11 @@ for idx, src in enumerate(SOURCES, start=1):
 
     print(f"[INFO] تحميل {server_name}: {src}")
     try:
-        lines = requests.get(src, timeout=20).text.splitlines()
+        response = requests.get(src, timeout=20)
+        response.encoding = 'utf-8'
+        lines = response.text.splitlines()
     except Exception as e:
-        print(f"[ERROR] {e}")
+        print(f"[ERROR] فشل تحميل {src}: {e}")
         continue
 
     for i, line in enumerate(lines):
@@ -69,22 +69,22 @@ for idx, src in enumerate(SOURCES, start=1):
             continue
 
         # استخراج اسم القناة الحقيقي
-        name_match = re.search(r'#EXTINF:-1.*?,(.*)', line)
+        name_match = re.search(r'#EXTINF:-?[0-9]*.*?,(.*)', line)
         if name_match:
             channel_name = name_match.group(1).strip()
         else:
             # fallback إذا لم نجد الاسم
             channel_name = "beIN Sports"
-            channel_name = "beİN"
-            channel_name = "beIN Sports FR"
 
         # تحسين أسماء خاصة
         if "max" in channel_name.lower() or "max" in url.lower():
             channel_name = "beIN Sports MAX"
-             channel_name = "beIN Sports HD"
-             channel_name = "beIN Sports SD"
         elif "4k" in channel_name.lower() or "4k" in url.lower():
             channel_name = "beIN Sports 4K"
+        elif "hd" in channel_name.lower() or "hd" in url.lower():
+            channel_name = "beIN Sports HD"
+        elif "sd" in channel_name.lower() or "sd" in url.lower():
+            channel_name = "beIN Sports SD"
 
         # فحص الرابط
         try:
@@ -112,3 +112,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 f.write(url + "\n")
 
 print(f"[DONE] تم إنشاء الباقة: {OUTPUT_FILE}")
+print(f"[INFO] عدد السيرفرات: {len(servers)}")
