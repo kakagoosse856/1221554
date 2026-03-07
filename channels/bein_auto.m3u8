@@ -291,6 +291,8 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bei
 https://goldvod.org/live/hpgdiscoo/123456/346.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORT 1 480P
 https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 + D (V)
+https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P (V)
