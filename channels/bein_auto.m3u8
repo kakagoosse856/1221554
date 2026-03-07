@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 1
-http://213.199.33.203:8081/live/ch1.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 1
-http://tv.vibertv.online:2052/live/SaifTV/b1HD/stream.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 1
-http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 2
-http://213.199.33.203:8081/live/ch2.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 2
-http://xcarscharge.pro:8080/bn2hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 3
-http://xcarscharge.pro:8080/bn3hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 1
-https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports 4K
-http://xcarscharge.pro:8080/bn14k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports 4K
-http://xcarscharge.pro:8080/bn24k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports 4K
-http://xcarscharge.pro:8080/bn34k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",BEIN SPORm3u8  1 FHD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/333800.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",BEIN SPORm3u8  1 HD
