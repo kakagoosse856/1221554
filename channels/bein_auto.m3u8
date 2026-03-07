@@ -231,12 +231,8 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",beIN SPORTS  Qatar 9 SD
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",beIN SPORTS Qatar 1 SD
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",Bein Sports 1🎯
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",beIN Sports MAX
@@ -251,8 +247,6 @@ http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",BeIN Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",BeIN Sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",BeIN Sports 3
