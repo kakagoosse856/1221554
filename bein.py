@@ -6,6 +6,7 @@ import re
 # مصادر القنوات
 # =====================
 SOURCES = [  
+"https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u",
 "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser1.m3u",
 "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/BEIN%20SPORTS%20sx.m3u",
 "https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcfe022cf3d97978a8306f81727680/from_json.m3u",
@@ -75,9 +76,13 @@ for idx, src in enumerate(SOURCES, start=1):
             # fallback إذا لم نجد الاسم
             channel_name = "beIN Sports"
             channel_name = "beİN"
+            channel_name = "beIN Sports FR"
+
         # تحسين أسماء خاصة
         if "max" in channel_name.lower() or "max" in url.lower():
             channel_name = "beIN Sports MAX"
+             channel_name = "beIN Sports HD"
+             channel_name = "beIN Sports SD"
         elif "4k" in channel_name.lower() or "4k" in url.lower():
             channel_name = "beIN Sports 4K"
 
