@@ -44,6 +44,8 @@ http://213.199.33.203:8081/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 3 ",Bein Sport 2
 http://213.199.33.203:8081/live/ch2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN LOCAL 3 ",Bein Sport xtra
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
