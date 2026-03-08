@@ -85,8 +85,6 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ara
 #EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/france24.png?raw=true" group-title="📰 القنوات الإخبارية",France 24
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/MonteCarloDoualiya_2013.svg/1024px-MonteCarloDoualiya_2013.svg.png" group-title="📰 القنوات الإخبارية",MCD
-https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 
 #EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhurra.png?raw=true" group-title="📰 القنوات الإخبارية",Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
@@ -100,7 +98,12 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rt.png?raw=true" group-title="📰 القنوات الإخبارية",RT ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 2
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت",Bein Sport AFC 1 4K
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/678279.m3u8
