@@ -293,6 +293,8 @@ https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P (V)
+https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
 https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
@@ -305,6 +307,8 @@ https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports HD
 https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 2 En
@@ -345,6 +349,8 @@ http://125x.org:8080/bn5hd/tracks-v1a1/mono.m3u8
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
 http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",Bein Sports 1
