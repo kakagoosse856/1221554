@@ -120,6 +120,46 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extensio
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN YA HALA
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN YA HALA AFLAM
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ART",ART حكايات
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ART",ART حكايات 2
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ART",ART افلام
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ART",ART افلام 2
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ART",ART سينما
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",سينما 1
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",سينما 2
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",مسلسلات
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",القاهره اليوم
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",طرب
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN ACTION
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN MOVIES PREMIERE
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN SHOWCAST
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN MOVIES HOLLYWOID
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN ACTION
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN NOW
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/19.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OSN",OSN discovery
+https://raw.githubusercontent.com/alysjc7-dot/site/refs/heads/main/20.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت",Bein Sport AFC 1 4K
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/678279.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 HD
