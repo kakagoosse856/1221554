@@ -98,6 +98,21 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rt.png?raw=true" group-title="📰 القنوات الإخبارية",RT ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Alkass",Alkass Five (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Alkass",Alkass Four (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Alkass",Alkass One (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Alkass",Alkass SHOOF (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Alkass",Alkass Six (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Alkass",Alkass Three (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Alkass",Alkass Two (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 2
