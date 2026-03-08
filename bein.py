@@ -19,6 +19,7 @@ SOURCES = [
     "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
     "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u",
     "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u",
+    "https://raw.githubusercontent.com/Walid533112/airmax/refs/heads/main/airmax.m3u8",
     "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u",
     "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/m3u_url.m3u",
     "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u",
