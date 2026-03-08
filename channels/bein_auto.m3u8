@@ -289,14 +289,8 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Habe
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORT 1 480P
 https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 + D (V)
-https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P (V)
-https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
-https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
 https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 FEED (V)
@@ -309,65 +303,107 @@ https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports SD
 https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sports 1
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 1 En
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 2 En
+http://135.125.109.73:9000/beinsporten2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",BeinSports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",beIN Sports HD
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
-https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",MyZen Wellbeing TV (1080p)
-https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",BEIN SPORTS XTRA
-http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 3 🇶🇦
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 4 🇶🇦
 http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 5 🇶🇦
 http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 7 🇶🇦
 http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 8 🇶🇦
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 9 🇶🇦
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
-http://135.125.109.73:9000/beinsportglobal_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 19",beIN Sports SD
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",LIVE 24 -02
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS NEWS (Backup 1)
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",BIS HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 21",Bein Sports 1🎯
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN SPORTS NEWS (Backup 2)
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn5hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",Bein Sports 1
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1972.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1973.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1974.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 23",beIN Sports MAX
-http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 26",BeIN Sports 1
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BeinSports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",beIN Sports HD
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 17",MyZen Wellbeing TV (1080p)
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 18",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",BEIN SPORTS XTRA
+http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 26",BeIN Sports 2
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 26",BeIN Sports 3
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 26",Bein Sports 1
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BIS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1🎯
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1972.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1973.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1974.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 27",BeIN Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 27",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 27",Bein Sports 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
