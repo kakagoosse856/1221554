@@ -56,6 +56,8 @@ http://h42.reelpush.online/live/9883322/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports FR 1 LOW
 http://h42.reelpush.online/live/79247621/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
+http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
 http://h42.reelpush.online/live/33523510/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
 http://h42.reelpush.online/live/610303030/index.m3u8
@@ -263,10 +265,14 @@ http://sbix.pro:80/ziP800/85704502/377690.m3u8
 http://sbix.pro:80/ziP800/85704502/377691.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 4
 http://sbix.pro:80/ziP800/85704502/377692.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 5
+http://sbix.pro:80/ziP800/85704502/377693.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",Bein Sports 1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",Bein Sports 2
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",Bein Sports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",beIN Sports 4K
 http://sbix.pro:80/ziP800/85704502/420862.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
