@@ -31,6 +31,8 @@ http://213.199.33.203:8081/live/ch1.m3u8
 http://213.199.33.203:8081/live/ch2.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 3 A
 http://213.199.33.203:8081/live/ch3.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 4
+http://213.199.33.203:8081/live/ch4.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports
@@ -263,8 +265,6 @@ https://stream.supertv.gg:3009/sport/ch9/ch9_1080.m3u8
 https://stream.supertv.gg:3009/sport/ch9/ch9_360.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 1
 http://sbix.pro:80/ziP800/85704502/377690.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 2
-http://sbix.pro:80/ziP800/85704502/377691.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 4
 http://sbix.pro:80/ziP800/85704502/377692.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 5
@@ -283,8 +283,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
-https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 8",BEIN SPORT EXTRA Ñ 🇪🇸
@@ -311,26 +309,6 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",BEİN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORT 1 480P
-https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 + D (V)
-https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
-https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
-https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
-https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 H265
-https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN Sport 1 720P (O)
-https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports HD
-https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports SD
-https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 2 En
