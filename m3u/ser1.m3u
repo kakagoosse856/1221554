@@ -129,6 +129,12 @@ http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 3 HD
 http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1 4K
+http://xmrcars.org:8080/bn14k/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2 4K
+http://xmrcars.org:8080/bn24k/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 3 4K
+http://xmrcars.org:8080/bn34k/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  A
