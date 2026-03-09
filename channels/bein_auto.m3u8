@@ -287,20 +287,24 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",BEİN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",Test VPN beIN MOVIES STARS
+https://goldvod.org/live/hpgdiscoo/123456/346.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORT 1 480P
 https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 + D (V)
 https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P (V)
+https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
 https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
 https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 FEED (V)
-https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 H265
 https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 LIVE (V)
+https://goldvod.org/live/hpgdiscoo/123456/143.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN Sport 1 720P (O)
 https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports HD
@@ -313,8 +317,6 @@ https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bien sport 3 🇶🇦
@@ -353,8 +355,6 @@ http://135.125.109.73:9000/beinsportglobal_.m3u8
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",Bein Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 16",beIN Sports HD
@@ -367,8 +367,6 @@ https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-ra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",BEIN SPORTS XTRA
 http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 20",beIN Sports SD
@@ -391,8 +389,6 @@ http://135.125.109.73:9000/beinsportglobal_.m3u8
 http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 22",Bein Sports 1🎯
-http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 24",beIN Sports MAX
