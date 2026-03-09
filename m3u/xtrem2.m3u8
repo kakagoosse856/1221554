@@ -119,6 +119,20 @@ http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
 http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU ADVENTURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672267&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672266&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672265&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU MYSTERY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672264&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU SCI-FI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672263&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU FANTASY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672262&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU FRENCH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672261&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 1 HD
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
