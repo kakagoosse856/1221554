@@ -84,8 +84,6 @@ http://h42.reelpush.online/live/10011244/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
 http://h42.reelpush.online/live/115451004/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
-http://h42.reelpush.online/live/161988840/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
 http://h42.reelpush.online/live/788550011/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
@@ -265,6 +263,8 @@ https://stream.supertv.gg:3009/sport/ch9/ch9_1080.m3u8
 https://stream.supertv.gg:3009/sport/ch9/ch9_360.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 1
 http://sbix.pro:80/ziP800/85704502/377690.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 2
+http://sbix.pro:80/ziP800/85704502/377691.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 4
 http://sbix.pro:80/ziP800/85704502/377692.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",BEIN SPORTS 5
@@ -283,6 +283,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 6",beIN Sports HD
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 8",BEIN SPORT EXTRA Ñ 🇪🇸
