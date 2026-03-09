@@ -136,10 +136,9 @@ http://213.199.33.203:8081/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2  A
 http://213.199.33.203:8081/live/ch2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2  B
-https://tv-kidn.ravynerinnn.workers.dev/playlist.m3u8?id=196158
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2  C
-https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  B
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 
 #EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="beIN Sports",beIN Sports 1 HD FR
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2499/index.m3u8
