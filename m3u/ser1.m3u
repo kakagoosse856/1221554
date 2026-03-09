@@ -1,8 +1,127 @@
-#EXTM3U 
-#EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="NEWS",Al Jazeera QA
+
+#EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="📰 القنوات الإخبارية",Al Jazeera QA
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/960/index.m3u8
-#EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="NEWS",Al Arabiya
-https://stream1.freetv.fun/257bc42435170cf12352e3bcaeadc70c583b237f7d4e7ea115432afeeb94cbd7.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="📰 القنوات الإخبارية",Al Jazeera
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="📰 القنوات الإخبارية",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alaraby.qa.png?raw=true" group-title="📰 القنوات الإخبارية",Al Arabi
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alghad.png?raw=true" group-title="📰 القنوات الإخبارية",Al Ghad
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almamlaka.jo.png?raw=true" group-title="📰 القنوات الإخبارية",Al Mamlaka
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhiwar.png?raw=true" group-title="📰 القنوات الإخبارية",Al Hiwar
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/trt.png?raw=true" group-title="📰 القنوات الإخبارية",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/al24news.al.png?raw=true" group-title="📰 القنوات الإخبارية",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.kw.png?raw=true" group-title="📰 القنوات الإخبارية",Kuwait News
+https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almashhad.png?raw=true" group-title="📰 القنوات الإخبارية",Al Mash-had
+https://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/chunklist__1.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya.png?raw=true" group-title="📰 القنوات الإخبارية",Al Arabiyyah
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhadath.png?raw=true" group-title="📰 القنوات الإخبارية",Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya-p.jpg?raw=true" group-title="📰 القنوات الإخبارية",Al Arab Programs
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya-p.jpg?raw=true" group-title="📰 القنوات الإخبارية",Cairo News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.ksa.png?raw=true" group-title="📰 القنوات الإخبارية",Saudi News
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/watan.eg.png?raw=true" group-title="📰 القنوات الإخبارية",Watan Eg
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharq.eg.png?raw=true" group-title="📰 القنوات الإخبارية",Elsharq Eg
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mkammilin.eg.png?raw=true" group-title="📰 القنوات الإخبارية",Mkammileen Eg
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shuoob.eg.png?raw=true" group-title="📰 القنوات الإخبارية",AlShoob tv
+https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.iq.png?raw=true" group-title="📰 القنوات الإخبارية",Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/inews.png?raw=true" group-title="📰 القنوات الإخبارية",INEWS
+https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharq.ksa.png?raw=true" group-title="📰 القنوات الإخبارية",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch9.png?raw=true" group-title="📰 القنوات الإخبارية",Channel 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almayadin.png?raw=true" group-title="📰 القنوات الإخبارية",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almanar.lb.png?raw=true" group-title="📰 القنوات الإخبارية",Al Manaar
+https://edge.fastpublish.me/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/cgtn.png?raw=true" group-title="📰 القنوات الإخبارية",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/skynews.png?raw=true" group-title="📰 القنوات الإخبارية",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bbc.png?raw=true" group-title="📰 القنوات الإخبارية",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/france24.png?raw=true" group-title="📰 القنوات الإخبارية",France 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhurra.png?raw=true" group-title="📰 القنوات الإخبارية",Al Hurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/i24.png?raw=true" group-title="📰 القنوات الإخبارية",i24 Arabic
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dw.png?raw=true" group-title="📰 القنوات الإخبارية",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rt.png?raw=true" group-title="📰 القنوات الإخبارية",RT ARABIC
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Alkass",Alkass Five (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Alkass",Alkass Four (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Alkass",Alkass One (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Alkass",Alkass SHOOF (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Alkass",Alkass Six (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Alkass",Alkass Three (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Alkass",Alkass Two (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 2
+http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
 #EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="beIN Sports",beIN Sports 1 HD FR
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2499/index.m3u8
