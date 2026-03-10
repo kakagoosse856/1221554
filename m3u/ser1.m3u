@@ -144,7 +144,10 @@ http://213.199.33.203:8081/live/ch2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  B
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+https://stb.blc2cdn.fyi/live/60040_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  C
+https://d15ehe6besod5i.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
