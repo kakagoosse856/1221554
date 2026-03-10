@@ -352,8 +352,6 @@ http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
-https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",beIN Sports HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 15",BeinSports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
