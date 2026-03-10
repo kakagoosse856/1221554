@@ -685,3 +685,5 @@ http://45.156.223.202/iptv/8GZZTZ8XQFZG4X/271/index.m3u8
 http://45.156.223.202/iptv/8GZZTZ8XQFZG4X/272/index.m3u8
 #EXTINF:0 CUID="9037" tvg-name="Viju+ Sport HD" group-title="SPORT LIVE ",Viju+ Sport HD
 http://45.156.223.202/iptv/8GZZTZ8XQFZG4X/2007/index.m3u8
+#EXTINF:0 CUID="9037" tvg-name="Viju+ Sport HD" group-title="MOVIES ",FMH MOVIES HD
+http://190.60.47.50:8070/play/a03a/index.m3u8
