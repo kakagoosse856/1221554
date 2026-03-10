@@ -141,6 +141,10 @@ http://xmrcars.org:8080/bn34k/mono.m3u8
 http://213.199.33.203:8081/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2  A
 http://213.199.33.203:8081/live/ch2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 3  A
+http://213.199.33.203:8081/live/ch3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 4  A
+http://213.199.33.203:8081/live/ch4.m3u8
 
 
 #EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
