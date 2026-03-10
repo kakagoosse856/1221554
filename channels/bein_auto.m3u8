@@ -34,8 +34,6 @@ http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 4
 http://213.199.33.203:8081/live/ch4.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports
-https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch2/ch2_1080.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch3/ch3_1080.m3u8
@@ -67,8 +65,6 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
 http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
-http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
 http://h42.reelpush.online/live/9787488847/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports HD
