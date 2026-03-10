@@ -319,10 +319,10 @@ https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
 https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P (V)
-https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
 https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
+https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 H265
 https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN Sport 1 720P (O)
