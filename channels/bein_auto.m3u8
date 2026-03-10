@@ -84,6 +84,8 @@ http://h42.reelpush.online/live/10011244/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
 http://h42.reelpush.online/live/115451004/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
+http://h42.reelpush.online/live/161988840/index.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN Sports SD
 http://h42.reelpush.online/live/788550011/index.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 2",Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
@@ -311,6 +313,28 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",BEİN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",Test VPN beIN MOVIES STARS
+https://goldvod.org/live/hpgdiscoo/123456/346.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORT 1 480P
+https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 + D (V)
+https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 50FPS (V)
+https://goldvod.org/live/hpgdiscoo/123456/145.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 720P FEED
+https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 8K FEED
+https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 FEED (V)
+https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN SPORTS 1 H265
+https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",VPN beIN Sport 1 720P (O)
+https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports HD
+https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 13",beIN Sports SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 14",Bein Sport 2 En
