@@ -143,24 +143,128 @@ http://213.199.33.203:8081/live/ch1.m3u8
 http://213.199.33.203:8081/live/ch2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-https://stb.blc2cdn.fyi/live/60080_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-https://stb.blc2cdn.fyi/live/60081_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-https://stb.blc2cdn.fyi/live/60082_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-https://stb.blc2cdn.fyi/live/60083_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-https://stb.blc2cdn.fyi/live/60084_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-https://stb.blc2cdn.fyi/live/60085_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-https://stb.blc2cdn.fyi/live/60086_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-https://stb.blc2cdn.fyi/live/60087_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-https://stb.blc2cdn.fyi/live/60088_.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2499/index.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 2 HD FR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2500/index.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2501/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports Max 1 FullHD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19062/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports Max 2 FullHD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19063/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports Haber HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19064/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports Max 1 HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19065/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports Max 2 HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19066/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Movies HD2 ACTION
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6134/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Series HD 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6138/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 1 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 4 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 5 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 6 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 7 HD QA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6128/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",[Spectrum] beIN SPORTS Espanol HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/30015/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",[Spectrum] beIN SPORTS HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/30016/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31048/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31049/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31050/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31051/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31052/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 6
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31053/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 7
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31054/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports USA
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/31055/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 3 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6743/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 1 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6744/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 2 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6745/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6781/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Gurme HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6804/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Vice TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6813/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Sci-fi TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6814/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 (Yedek) HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6817/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6818/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 (Yedek) HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6819/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6820/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 (Yedek) HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6821/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 4 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6822/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 4 (Yedek) HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6823/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports Max 1 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6824/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Action HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6877/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Family HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6878/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Premiere 2 HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6879/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Premiere HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6880/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Comedy HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6881/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Drama HD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6882/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports Haber FHD TR
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6939/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN IZ TV HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19078/index.m3u8
+
+# DAZN
+#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 2 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 4 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 5 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 6 PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2536/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 3 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 6 HD PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7064/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",DAZN 1 HD DE
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19042/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",DAZN 2 HD DE
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
+#EXTINF:0 group-title="beIN Sports 2 " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",DAZN 1 PT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN F1 ES
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6071/index.m3u8
 
 #EXTINF:0 group-title="beIN Sports " tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6123/index.m3u8
@@ -169,7 +273,7 @@ http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6124/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6125/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6126/index.m3u8
+http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6145/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6127/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
