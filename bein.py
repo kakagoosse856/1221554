@@ -271,7 +271,7 @@ GENERIC_SPORTS_KEYWORDS = [
 
 OUTPUT_DIR = "channels"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "all_sports_packages.m3u8")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bein_auto.m3u8")
 
 def identify_package(channel_name, url_text):
     """تحديد الباقة الرياضية التي تنتمي لها القناة"""
