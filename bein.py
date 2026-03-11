@@ -6,7 +6,7 @@ import re
 # مصادر القنوات
 # =====================
 SOURCES = [  
-    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/s1.m3u",
+    
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser1.m3u",
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser6.m3u",
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/serv4.m3u",
