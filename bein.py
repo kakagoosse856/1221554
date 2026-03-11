@@ -48,23 +48,23 @@ for idx, src in enumerate(SOURCES, start=1):
         if KEYWORD not in line.lower() and KEYWORD not in url.lower():
             continue
 
-        # استخراج اسم القناة الحقيقي
+        # استخراج اسم القناة الأصلي بالكامل
         name_match = re.search(r'#EXTINF:-?[0-9]*.*?,(.*)', line)
         if name_match:
             channel_name = name_match.group(1).strip()
         else:
-            # fallback إذا لم نجد الاسم
-            channel_name = "beIN Sports"
+            # محاولة استخراج الاسم من الرابط كحل بديل
+            url_parts = url.split('/')
+            for part in url_parts:
+                if 'bein' in part.lower() and any(x in part.lower() for x in ['sport', 'max', 'hd', '4k', 'sd', 'premium']):
+                    channel_name = part.replace('.m3u8', '').replace('_', ' ').replace('-', ' ').title()
+                    break
+            else:
+                channel_name = "beIN Sports"
 
-        # تحسين أسماء خاصة
-        if "max" in channel_name.lower() or "max" in url.lower():
-            channel_name = "beIN Sports MAX"
-        elif "4k" in channel_name.lower() or "4k" in url.lower():
-            channel_name = "beIN Sports 4K"
-        elif "hd" in channel_name.lower() or "hd" in url.lower():
-            channel_name = "beIN Sports HD"
-        elif "sd" in channel_name.lower() or "sd" in url.lower():
-            channel_name = "beIN Sports SD"
+        # تنظيف الاسم من الرموز الزائدة
+        channel_name = re.sub(r'[^\w\s\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\-]', '', channel_name)
+        channel_name = re.sub(r'\s+', ' ', channel_name).strip()
 
         # فحص الرابط
         try:
@@ -74,22 +74,37 @@ for idx, src in enumerate(SOURCES, start=1):
         except:
             continue
 
+        # حفظ القناة باسمها الأصلي
         servers[server_name].setdefault(channel_name, set()).add(url)
         print(f"[OK] {server_name} | {channel_name}")
 
 # =====================
-# إنشاء ملف M3U النهائي
+# إنشاء ملف M3U النهائي مع الاحتفاظ بالأسماء الأصلية
 # =====================
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
 
     for server, channels in servers.items():
-        for ch in sorted(channels.keys()):
-            for url in sorted(channels[ch]):
+        for channel_name in sorted(channels.keys()):
+            for url in sorted(channels[channel_name]):
                 f.write(
-                    f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{ch}\n'
+                    f'#EXTINF:-1 group-title="✪ BEIN AUTO | {server}",{channel_name}\n'
                 )
                 f.write(url + "\n")
 
 print(f"[DONE] تم إنشاء الباقة: {OUTPUT_FILE}")
 print(f"[INFO] عدد السيرفرات: {len(servers)}")
+
+# عرض بعض الإحصائيات
+total_channels = sum(len(channels) for channels in servers.values())
+print(f"[INFO] إجمالي القنوات الفريدة: {total_channels}")
+
+# عرض أسماء القنوات الموجودة
+print("\n[INFO] القنوات المستخرجة:")
+all_channels = set()
+for server, channels in servers.items():
+    for channel_name in channels.keys():
+        all_channels.add(channel_name)
+
+for channel in sorted(all_channels):
+    print(f"  • {channel}")
