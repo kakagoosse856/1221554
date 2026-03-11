@@ -145,6 +145,8 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 4  A
 http://213.199.33.203:8081/live/ch4.m3u8
+
+
 #EXTINF:0 CUID="8491" tvg-name="آية الكرسي۞" tvg-logo="https://i.ytimg.com/vi/WqzM7yXebNY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI8QaqQ_zfDZmqODE9EVUNge8o4A" group-title="KURDISH ",آية الكرسي
 https://v.redd.it/5svby2yfhj6f1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8492" tvg-name="اشهد ان لا إله إلا الله ۞" tvg-logo="https://mshmsdin.com/en/wp-content/uploads/2023/05/%D8%A3%D8%B4%D9%87%D8%AF-%D8%A3%D9%86-%D9%84%D8%A7-%D8%A5%D9%84%D9%87-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87.png" group-title="KURDISH ",اشهد ان لا إله إلا الله
@@ -445,8 +447,6 @@ https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-1019fmradiokrd/1019fmradiokrd/chunks.m3u8
 #EXTINF:0 CUID="8620" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="KURDISH ",DUHOK-TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:0 CUID="8621" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
-https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 #EXTINF:0 CUID="8622" tvg-name="WAAR TV" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURDISH ",WAAR TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
 #EXTINF:0 CUID="8623" tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/gGpP3sFT/AVAR.png" group-title="KURDISH ",AVAR TV
