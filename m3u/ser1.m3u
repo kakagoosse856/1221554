@@ -1218,6 +1218,52 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/272/index.m3u8
 #EXTINF:0 CUID="9037" tvg-name="Viju+ Sport HD" group-title="SPORT LIVE ",Viju+ Sport HD
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2007/index.m3u8
 
+
+#EXTINF:0 CUID="8780" tvg-name="Diablo" tvg-logo="https://image.tmdb.org/t/p/w500/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg" group-title="PAMDA TV",Diablo
+https://cdn.video.krd/video/cmckjls23002llb0jo1oo2vvc/content.m3u8
+#EXTINF:0 CUID="8781" tvg-name="Ballerina" tvg-logo="https://image.tmdb.org/t/p/w500/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg" group-title="PAMDA TV",Ballerina
+https://cdn.video.krd/video/cmckrym6r002plb0jjvh6blo0/content.m3u8
+#EXTINF:0 CUID="8782" tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="PAMDA TV",Migration
+https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
+#EXTINF:0 CUID="8783" tvg-name="Warfare" tvg-logo="https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="PAMDA TV",Warfare
+https://cdn.video.krd/video/cmcgu1aey001zlb0j2nrivfn2/content.m3u8
+#EXTINF:0 CUID="8784" tvg-name="Demon City" tvg-logo="https://image.tmdb.org/t/p/w500/g5PqsFFrayyRL1Ldgib2lMYuJXg.jpg" group-title="PAMDA TV",Demon City
+https://cdn.video.krd/video/cmckh49iz002hlb0jzyh6rflo/content.m3u8
+#EXTINF:0 CUID="8785" tvg-name="Southpaw" tvg-logo="https://cdn.video.krd/video/cmcezq0ft001hlb0jxi586xln/content.m3u8" group-title="PAMDA TV",Southpaw
+https://image.tmdb.org/t/p/w500/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg
+#EXTINF:0 CUID="8786" tvg-name="Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="PAMDA TV",Spider-Man
+https://cdn.video.krd/video/cmad2ruih0072lb0ld5urg5ux/content.m3u8
+#EXTINF:0 CUID="8787" tvg-name="Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w500/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg" group-title="PAMDA TV",Spider-Man 2
+https://cdn.video.krd/video/cmafz4yaf007dlb0l6f3hb3p9/content.m3u8
+#EXTINF:0 CUID="8788" tvg-name="A Minecraft Movie" tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="PAMDA TV",A Minecraft Movie
+https://cdn.video.krd/video/cm9g4bum10049lb0lgu6kfwqr/content.m3u8
+#EXTINF:0 CUID="8789" tvg-name="Top_Chef_HD" group-title="Shahid VIP 4K ",Top_Chef_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+#EXTINF:0 CUID="8790" tvg-name="Aflam_HD" group-title="Shahid VIP 4K ",Aflam_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_9_0.m3u8
+#EXTINF:0 CUID="8791" tvg-name="Maraya_Channel" group-title="Shahid VIP 4K ",Maraya_Channel
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_9_0.m3u8
+#EXTINF:0 CUID="8792" tvg-name="Arabs Got tent" group-title="Shahid VIP 4K ",Arabs Got tent
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_9.m3u8
+#EXTINF:0 CUID="8793" tvg-name="Al_Asouf_HD" group-title="Shahid VIP 4K ",Al_Asouf_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_7.m3u8
+#EXTINF:0 CUID="8794" tvg-name="El_Le_Ba_HD" group-title="Shahid VIP 4K ",El_Le_Ba_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index_5_0.m3u8
+#EXTINF:0 CUID="8795" tvg-name="Movies_Thriller_HD" group-title="Shahid VIP 4K ",Movies_Thriller_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_8_0.m3u8
+#EXTINF:0 CUID="8796" tvg-name="Movies_Action_HD" group-title="Shahid VIP 4K ",Movies_Action_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_9_0.m3u8
+#EXTINF:0 CUID="8797" tvg-name="Movies_HD" group-title="Shahid VIP 4K ",Movies_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_1.m3u8
+#EXTINF:0 CUID="8798" tvg-name="El_Kebeer_Awi_HD" group-title="Shahid VIP 4K ",El_Kebeer_Awi_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_1.m3u8
+#EXTINF:0 CUID="8799" tvg-name="Naser_Al_Qassabi_HD" group-title="Shahid VIP 4K ",Naser_Al_Qassabi_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_1.m3u8
+#EXTINF:0 CUID="8800" tvg-name="majd" group-title="Shahid VIP 4K ",majd
+https://shls-live-enc.edgenextcdn.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
+#EXTINF:0 CUID="8801" tvg-name="Bab_Al_Hara_HD" group-title="Shahid VIP 4K ",Bab_Al_Hara_HD
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_9_0_9289774.vtt?m=1699279830
+
 #EXTINF:0 group-title="beIN Sports " tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6123/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
