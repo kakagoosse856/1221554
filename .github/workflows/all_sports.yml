@@ -1,0 +1,68 @@
+name: تحديث القنوات الرياضية
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # كل 6 ساعات
+  workflow_dispatch:  # لتشغيل يدوي
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: استنساخ المستودع
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # هذا مهم لجلب كل التاريخ
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: إعداد Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: تثبيت المتطلبات
+      run: |
+        pip install requests
+    
+    - name: تشغيل سكريبت استخراج القنوات
+      run: |
+        python all_sports.py
+    
+    - name: التحقق من وجود تغييرات
+      id: check_changes
+      run: |
+        git status --porcelain
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "توجد تغييرات للملفات"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "لا توجد تغييرات"
+          echo "changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: إعداد Git
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
+    
+    - name: سحب التغييرات الأخيرة (حل المشكلة)
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git pull --rebase origin main || true
+        # استخدام rebase لتجنب تعارضات الدمج
+    
+    - name: إضافة ورفع التغييرات
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git add channels/*.m3u8
+        git commit -m "تحديث القنوات الرياضية [skip ci] $(date +'%Y-%m-%d %H:%M')" || exit 0
+        
+        # محاولة الرفع مع سحب التغييرات أولاً إذا فشل
+        git pull --rebase origin main && git push origin main || {
+          echo "محاولة الرفع فشلت، نجرب مرة أخرى مع سحب التغييرات..."
+          sleep 5
+          git pull --rebase origin main
+          git push origin main
+        }
