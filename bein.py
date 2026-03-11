@@ -12,7 +12,9 @@ SOURCES = [
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/serv4.m3u",
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/serv5.m3u8",
     "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/serv8.m3u8",
-       
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/xtrem2.m3u8",
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/xxterrm.m3u",
+    "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/xxterrm.m3u",
 ]
 
 KEYWORD = "bein"
