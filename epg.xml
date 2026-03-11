@@ -463,9 +463,29 @@
     <desc>Determined to stop them, Suletta heads to the front of Benerit's headquarters to board the new Gundam, Caliban.</desc>
     <date>2026-03-12</date>
   </programme>
-  <programme channel="369848" start="20260312220000 +0700" stop="20260313000000 +0700">
+  <programme channel="369848" start="20260312220000 +0700" stop="20260312223000 +0700">
     <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
     <desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
     <date>2026-03-12</date>
+  </programme>
+  <programme channel="369848" start="20260312223000 +0700" stop="20260312230000 +0700">
+    <title lang="zh">KUBO WON'T LET ME BE INVISIBLE</title>
+    <desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="369848" start="20260312230000 +0700" stop="20260312233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu and Lily are seen together, sparking rumors. As they struggle to explain, Yuuka unexpectedly asks Akutsu on a date!?</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="369848" start="20260312233000 +0700" stop="20260313000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Liliya, Lily's clone, attends school as her stand-in, teasing Akutsu before calling him out at lunch.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="369848" start="20260313000000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Due to Norea's rage, Asticassia School of Technology was destroyed. Miorine is feeling guilty now that she is returned.</desc>
+    <date>2026-03-13</date>
   </programme>
 </tv>
