@@ -3,8 +3,6 @@
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 2 HD
 http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 3 HD
-http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 1
 https://stb.blc2cdn.fyi/live/60090_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 2
