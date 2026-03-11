@@ -145,6 +145,9 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 4  A
 http://213.199.33.203:8081/live/ch4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  B
+http://167.71.41.149/b1fhd/index.m3u8
+
 
 
 #EXTINF:0 CUID="8491" tvg-name="آية الكرسي۞" tvg-logo="https://i.ytimg.com/vi/WqzM7yXebNY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI8QaqQ_zfDZmqODE9EVUNge8o4A" group-title="KURDISH ",آية الكرسي
