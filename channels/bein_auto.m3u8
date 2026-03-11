@@ -5,6 +5,24 @@ http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport 3 HD
 http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 1
+https://stb.blc2cdn.fyi/live/60090_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 2
+https://stb.blc2cdn.fyi/live/60091_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 3
+https://stb.blc2cdn.fyi/live/60092_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 4
+https://stb.blc2cdn.fyi/live/60093_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 5
+https://stb.blc2cdn.fyi/live/60094_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 6
+https://stb.blc2cdn.fyi/live/60095_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 7
+https://stb.blc2cdn.fyi/live/60096_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",Bein Sport HD 8
+https://stb.blc2cdn.fyi/live/60097_.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORT 09 FHD
+https://stb.blc2cdn.fyi/live/60098_.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 1 4K
 http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 1",beIN SPORTS 1 A
