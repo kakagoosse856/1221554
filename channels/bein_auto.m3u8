@@ -275,3 +275,645 @@ http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/10030.m3u8
 http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/4156.m3u8
 #EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 5",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 group-titleBOUQUET ITALIENIT JUVENTUS CHANNEL HD
 http://hdlocal.de:8080/live/certeams.com/UpAusvX6zF222/2882.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Asia 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420185.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Asia 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420187.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Asia 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420189.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420176.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420177.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420178.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420179.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420180.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR AD Sport Premium 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420181.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS ENGLISH 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333823.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS ENGLISH 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333825.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS FRENCH 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333829.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS FRENCH 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333831.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS FRENCH 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333833.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS GLOBAL FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333798.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS NBA 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333822.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BEIN SPORTS NEWS FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333797.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN Alkass 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420171.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN Alkass 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420172.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN Alkass 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420173.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN Alkass 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420174.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN Alkass 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420175.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 01 FR HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282431.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 02 FR HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282432.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 03 FR HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282433.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831756.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126846.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831757.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126847.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831758.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126848.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831755.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126849.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831752.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126850.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831753.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126851.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831754.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126852.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831759.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126853.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831760.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126854.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS HD global
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282376.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS News FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/831761.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS News HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/282434.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS Xtra 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167714.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS Xtra 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167716.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR BeIN SPORTS Xtra 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/126855.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport English HD1 720
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420143.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport English HD2 720
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420144.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport English SD1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420159.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport English SD2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420160.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French HD1 720
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420146.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French HD2 720
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420147.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French HD3 720
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420148.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French SD1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420162.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French SD2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420163.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport French SD3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420170.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport Xtra 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167712.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport Xtra 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167715.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport Xtra 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167713.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport Xtra 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167717.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Sport Xtra 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167698.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Xtra 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420158.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Xtra HD1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420142.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Xtra SD1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420168.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR Bein Xtra SD2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420169.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167699.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167700.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167701.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167702.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 5
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167703.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 6
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167704.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 7
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167705.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 8
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167696.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS 4K 9
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167697.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885688.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885690.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885694.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885689.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885691.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885695.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885698.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885692.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885699.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885697.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885693.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS MAX 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885696.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123170.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123171.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123172.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123173.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD5
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123174.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD6
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123175.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD7
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123176.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD8
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123169.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN SPORTS SD9
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123167.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN Sport English 4k 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167706.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AR beIN Sport English 4k 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/167707.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301892.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301893.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879766.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301894.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301895.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879765.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301896.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/301897.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AU beIN Sports 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879764.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AUS BEIN SPORTS 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879750.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AUS BEIN SPORTS 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879749.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",AUS BEIN SPORTS 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879748.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Astro Sooka beIN Sports 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879785.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Astro Sooka beIN Sports 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879784.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Astro Sooka beIN Sports 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/879783.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN GURME HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72528.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72599.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333799.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333800.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72597.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420133.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72598.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420149.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333801.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333802.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420134.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72600.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420150.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333803.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333804.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420135.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72601.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420151.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333805.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333806.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420136.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72602.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420152.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 5 4k
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333807.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333808.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420137.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420153.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 6 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333809.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333810.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420138.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 6 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420154.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 7 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333811.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333812.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420139.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 7 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420155.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 8 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333813.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333814.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420140.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 8 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420156.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 9 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333815.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333816.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420141.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS 9 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420157.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS HABER HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72605.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS MAX 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72603.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS MAX 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/72604.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS XTRA 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333819.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BEIN SPORTS XTRA 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333820.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN HGTV 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837375.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN SPORTS 1 FR FullHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5188.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN SPORTS 2 FR FullHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5186.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN SPORTS 3 FR FullHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5184.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN Star Movies 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837369.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",BeIN Star Series 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837373.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein BARAEAM 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837384.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein BBC EARTH 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837377.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Cartoonito 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837386.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein FATAFEAT 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837381.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Food Network 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837383.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Gourmet 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837382.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein JEEM 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837385.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Nat geo 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837379.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Nat geo Wild 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837380.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678279.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678285.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678291.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678280.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678286.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678292.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678281.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678287.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678293.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678282.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678288.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678294.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678278.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 5 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678283.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678289.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC 5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678295.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678284.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Sport AFC SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678290.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Star Action 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837370.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Star Films 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837372.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Star Life 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837371.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Star World 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837374.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein TCM 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837376.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",Bein Travel 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837378.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",DE Magenta beIN Movies Turk
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/866925.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",DE Magenta beIN iZ
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/866926.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315906.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844632.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 H265
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216732.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 H265
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844633.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315907.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844634.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216733.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844635.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315908.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844636.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 H265
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216734.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 H265
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844637.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315909.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844638.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216735.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315910.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844639.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315911.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844640.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 H265
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216736.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315912.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844641.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216737.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844642.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 10 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216747.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 10 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844655.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 10 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315943.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 10 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844656.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315940.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844643.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216738.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844644.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216739.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844645.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216740.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844646.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216741.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844647.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216742.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844648.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216743.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844649.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216744.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844650.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216745.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844651.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315941.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844652.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/315942.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844653.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/216746.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",FR BEIN SPORTS MAX 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/844654.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",JEEM
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/1550.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BEIN GURME HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/120182.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BEIN IZ TV HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/120183.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883671.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883672.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 1 HD Backup
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883673.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883674.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 2 HD Backup
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883675.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883676.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 3 HD Backup
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883677.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883678.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports 4 HD Backup
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883679.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports Haber HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883687.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports Max 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883681.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR BeIN Sports Max 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883682.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",TR Bein sports 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/883680.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",UK beIN Sports HD EN 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279072.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",UK beIN Sports HD EN 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/279073.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN LaLiga HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881231.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881230.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881229.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881228.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881227.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881226.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US BeIN Sports Xtra HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881232.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",US Bein Sports HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/881233.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Animal Planet FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123115.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN BARAEAM 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371293.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN BBC EARTH 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371290.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN DRAMA 1HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/10162.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN DRAMA 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371286.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN DRAMA 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837368.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Drama 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123110.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN FATAFEAT 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371292.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN FOX LIFE 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371289.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN FOX MOVIES 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371287.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Fatafeat FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123123.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Food Network
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123116.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Fox Life FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123113.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN GORMENT 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371291.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Gourmet FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123122.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN JEEM 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371294.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Jeem
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123128.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN MOVIES 4K 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371280.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN MOVIES 4K 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371281.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN MOVIES 4K 3
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371282.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN MOVIES 4K 4
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371283.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Movies 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123106.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Movies 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123107.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Movies 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123108.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Movies 4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123109.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Nat geo Wild FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123127.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SERIES 4K 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371284.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SERIES 4K 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837366.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SERIES 4K 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371285.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SERIES 4K 2
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837367.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SPORTS 1 FR
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5189.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SPORTS 2 FR
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5187.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN SPORTS 3 FR
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/5185.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Series 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123111.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Series 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123112.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Star ACTION 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/371288.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Star Action FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123117.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Star Movies FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123119.m3u8
+#EXTINF:-1 group-title="✪ BEIN AUTO | SERVER 7",beIN Star World FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/123118.m3u8
