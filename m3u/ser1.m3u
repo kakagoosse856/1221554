@@ -531,6 +531,27 @@ http://lukatv.net:8080//302118821227/274433822166/567151
 #EXTINF:0 CUID="58870" tvg-name="ROJAVA" tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2ZXl4bWprbjhpMjRwMm9zdTIya3JjaDV5OXByd2FpZTczYmIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zOa92AFoytUGJpgAa/giphy.gif" group-title="ALWAN  SPORT 4k",ROJAVA
 https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
 
+
+#EXTINF:0 CUID="9383" tvg-name="MBC 1 (1080p)" tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 CUID="9384" tvg-name="MBC 2 (480p)" tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC",MBC 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:0 CUID="9385" tvg-name="MBC 3 KSA (1080p)" tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC",MBC 3 KSA (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 CUID="9386" tvg-name="MBC 3 USA (1080p)" tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC",MBC 3 USA (1080p)
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:0 CUID="9387" tvg-name="MBC 4 (1080p)" tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 CUID="9388" tvg-name="MBC Drama KSA (1080p)" tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama KSA (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0 CUID="9389" tvg-name="MBC Drama USA (1080p)" tvg-id="MBCDramaUSA.us" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama USA (1080p)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:0 CUID="9390" tvg-name="MBC Masr 2 (1080p)" tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC",MBC Masr 2 (1080p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0 CUID="9391" tvg-name="MBC Masr USA (1080p)" tvg-id="MBCMasrUSA.us" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC",MBC Masr USA (1080p)
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+
+
 #EXTINF:0 group-title="beIN Sports " tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6123/index.m3u8
 #EXTINF:0 group-title="beIN Sports " tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
