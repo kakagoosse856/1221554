@@ -532,24 +532,60 @@ http://lukatv.net:8080//302118821227/274433822166/567151
 https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
 
 
-#EXTINF:0 CUID="9383" tvg-name="MBC 1 (1080p)" tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1 (1080p)
+#EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:0 CUID="9384" tvg-name="MBC 2 (480p)" tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC",MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:0 CUID="9385" tvg-name="MBC 3 KSA (1080p)" tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC",MBC 3 KSA (1080p)
+
+#EXTINF:-1 tvg-id="MBC 1 USA" tvg-name="MBC 1 KSA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 KSA HD
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC 1 USA" tvg-name="MBC 1 USA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 USA HD
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 2 HD
+
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0 CUID="9386" tvg-name="MBC 3 USA (1080p)" tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC",MBC 3 USA (1080p)
+#EXTINF:-1 tvg-id="MBC 3 EUR" tvg-name="MBC 3 EUR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 3 EUR
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3 USA" tvg-name="MBC 3 USA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 3 USA
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
-#EXTINF:0 CUID="9387" tvg-name="MBC 4 (1080p)" tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4 (1080p)
-https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0 CUID="9388" tvg-name="MBC Drama KSA (1080p)" tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama KSA (1080p)
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 4 HD
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 4 HD [Geo-blocked]
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 5 HD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC MAX HD
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC ACTION HD [Geo-blocked]
+
+
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA HD
+
+#EXTINF:-1 tvg-id="MBC DRAMA HD KSA" tvg-name="MBC DRAMA HD KSA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA HD KSA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:0 CUID="9389" tvg-name="MBC Drama USA (1080p)" tvg-id="MBCDramaUSA.us" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama USA (1080p)
+
+
+#EXTINF:-1 tvg-id="MBC Drama USA " tvg-name="MBC Drama USA " tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC Drama USA 
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
-#EXTINF:0 CUID="9390" tvg-name="MBC Masr 2 (1080p)" tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC",MBC Masr 2 (1080p)
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:0 CUID="9391" tvg-name="MBC Masr USA (1080p)" tvg-id="MBCMasrUSA.us" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC",MBC Masr USA (1080p)
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA PLUS HD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="MBC",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"group-title="MBC",MBC MASR 1
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 USA" tvg-name="MBC Masr 1 USA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC Masr 1 USA
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-country="IQ" tvg-url="" group-title="MBC",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" tvg-country="AE" group-title="MBC",MBC Persia (1080p) 
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="MBC" tvg-country="AE" group-title="MBC",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
 http://185.166.252.230/Arena9/index.m3u8
 #EXTINF:0 CUID="9047" tvg-name="Sky Sports News HD 50 UK" group-title="SKY 4K",Sky Sports News HD 50 UK
@@ -747,68 +783,7 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/5039/index.m3u8
 #EXTINF:0 CUID="9143" tvg-name="Sky Sport F1 FHD DE" group-title="SKY 4K",Sky Sport F1 FHD DE
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/10079/index.m3u8
 
-#EXTINF:0 CUID="8803" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/8TnhvBmG/AVA.png" group-title="SPORT LIVE ",AVA SPORT
-https://6476e46b58f91.streamlock.net/liveTrans/avasport/playlist.m3u8
-#EXTINF:0 CUID="8804" tvg-name="IRIB UHD  2160p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/800px-IRIB_FARATAR_UHD.png" group-title="SPORT LIVE ",IRIB UHD  2160p
-https://cdn-azd2048.telewebion.com/se/faratar/live/2160p/index.m3u8
-#EXTINF:0 CUID="8805" tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/NgDjnQC2/nrt-sport.png" group-title="SPORT LIVE ",NRT SPORT HD
-https://cdn.karwan.tv/nrt-sport/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="8806" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgDjnQC2/nrt-sport.png" group-title="SPORT LIVE ",NRT SPORT FHD
-https://cdn.karwan.tv/nrt-sport/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="8807" tvg-name="SPORTCHEK" tvg-logo="https://i.postimg.cc/gJPzxSB8/468598087-905200801752694-7925285889041347428-n.jpg" group-title="SPORT LIVE ",SPORTCHEK
-http://136.243.155.55:8088/ldsportchker/index.m3u8
-#EXTINF:0 CUID="8808" tvg-name="Arifan-Sport" tvg-logo="https://i.postimg.cc/9MrbxrZG/53-A9-CF85-A40-C-48-D7-95-DE-B8951-B26-A6-FD.png" group-title="SPORT LIVE ",Arifan-Sport
-https://panadatv.karwan.tv/ArifanSport/index.m3u8
-#EXTINF:0 CUID="8809" tvg-name="Mix SPORT" group-title="SPORT LIVE ",Mix SPORT
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-#EXTINF:0 CUID="8810" tvg-name="Gewher_Sport" tvg-logo="https://i.postimg.cc/dVmVfqwV/4-C35-C8-C5-5070-42-FF-9612-4-AAFA476-E27-F.png" group-title="SPORT LIVE ",Gewher_Sport
-http://142.132.133.190:1935/live/Gewher_Sport/playlist.m3u8
-#EXTINF:0 CUID="8811" tvg-name="AbuDhabiSports" tvg-logo="https://i.postimg.cc/Pq16Rb90/154-F28-FE-B208-4-C42-AD53-CF3362-E1-BE85.png" group-title="SPORT LIVE ",AbuDhabiSports
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:0 CUID="8812" tvg-name="AbuDhabiSports 2" tvg-logo="https://i.postimg.cc/Pq16Rb90/154-F28-FE-B208-4-C42-AD53-CF3362-E1-BE85.png" group-title="SPORT LIVE ",AbuDhabiSports 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:0 CUID="8813" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/ZnQFR0Xr/C5-F1284-A-C149-416-E-83-DE-AECA18-BADE1-A.png" group-title="SPORT LIVE ",ELEVEN SPORTS 2
-http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6082/index.m3u8
-#EXTINF:0 CUID="8814" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.postimg.cc/ZnQFR0Xr/C5-F1284-A-C149-416-E-83-DE-AECA18-BADE1-A.png" group-title="SPORT LIVE ",ELEVEN SPORTS 3
-http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6082/index.m3u8
-#EXTINF:0 CUID="8815" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://i.postimg.cc/ZnQFR0Xr/C5-F1284-A-C149-416-E-83-DE-AECA18-BADE1-A.png" group-title="SPORT LIVE ",ELEVEN SPORTS 4
-http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2533/index.m3u8
-#EXTINF:0 CUID="8816" tvg-name="Eurosport 1" tvg-logo="https://i.postimg.cc/6QKVTkb1/BBD7-F005-B5-E9-4-CCF-94-DF-AB28-BDAD93-C8.jpg" group-title="SPORT LIVE ",Eurosport 1
-http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:0 CUID="8817" tvg-name="Fox Sports 1" group-title="SPORT LIVE ",Fox Sports 1
-http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:0 CUID="8818" tvg-name="Fox Sports 2" group-title="SPORT LIVE ",Fox Sports 2
-https://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:0 CUID="8819" tvg-name="TV Varzesh ⚽" group-title="SPORT LIVE ",TV Varzesh ⚽
-https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:0 CUID="8820" tvg-name="FoodBall HD" group-title="SPORT LIVE ",FoodBall HD
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:0 CUID="8821" tvg-name="Eurosport 1 hd" group-title="SPORT LIVE ",Eurosport 1 hd
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:0 CUID="8822" tvg-name="ELEVEN SPORTS 1" group-title="SPORT LIVE ",ELEVEN SPORTS 1
-http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
-#EXTINF:0 CUID="8823" tvg-name="Sky sport pim" group-title="SPORT LIVE ",Sky sport pim
-http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/19028/index.m3u8
-#EXTINF:0 CUID="8824" tvg-name="Tigo sports" group-title="SPORT LIVE ",Tigo sports
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-#EXTINF:0 CUID="8825" tvg-name="Arena sport 1" group-title="SPORT LIVE ",Arena sport 1
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:0 CUID="8826" tvg-name="canal+ sport 2" group-title="SPORT LIVE ",canal+ sport 2
-http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:0 CUID="8827" tvg-name="Match_Futbol_2_HD" tvg-logo="https://i.postimg.cc/Px5MBsY2/Match-Futbol-1-Stacked.png" group-title="SPORT LIVE ",Match_Futbol_2_HD
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:0 CUID="8828" tvg-name="Match_Futbol_1_HD" tvg-logo="https://i.postimg.cc/L6DQQTc9/logo-1-17.png" group-title="SPORT LIVE ",Match_Futbol_1_HD
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:0 CUID="8829" tvg-name="SPORT 1" group-title="SPORT LIVE ",SPORT 1
-http://line.greatstar.me/play/live.php?mac=00:1A:79:00:25:CC&stream=1595637&extension=ts&play_token=f0s2xEbckC
-#EXTINF:0 CUID="8830" tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="SPORT LIVE ",IMK HD
-http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
-#EXTINF:0 CUID="8831" tvg-name="Reng-Sport-HD" group-title="SPORT LIVE ",Reng-Sport-HD
-http://130.193.165.146/lbengine/+ph/__hi__TMwOi5fhz9SbVdKikmJ7rqyhBpAiP0AZz0eEMIoeHDWpYJmSkUzN7j1UPk915ldrBxiyYOA0S6k0nztd14lW828TzRKVtyawPfGrq851iuuryI21sKbeQTZW3w22znWUrnSA60VwhWCTDRSM53GWx5fMp87oj6odhW7ydRzpB9AlZSK9Z6sMjQAD__hi__Xa__ih__FRZiIC__ih__mOUR1jIJMR55chtyyv8SV4foF7ysghjHVL95lJheu__hi__5Q0ejEOLSF3j3ltYAj6r5fejpv0alwBFiqotFhutn3Caxt2l3ogdLz3xLsWI8Y=---/cache/Reng-Sport-HD-LB/master.m3u8
-#EXTINF:0 CUID="8832" tvg-name="azadisport" group-title="SPORT LIVE ",azadisport
-https://fl1002.bozztv.com/ssh101/azadisport/index.m3u8
-#EXTINF:0 CUID="8833" tvg-name="SPORTCHEK" tvg-logo="https://i.postimg.cc/gJPzxSB8/468598087-905200801752694-7925285889041347428-n.jpg" group-title="SPORT LIVE ",SPORTCHEK
-https://fl1002.bozztv.com/ssh101/SPORTCHEK/index.m3u8
+
 #EXTINF:0 CUID="8834" tvg-name="Divi Sport HD UA" group-title="SPORT LIVE ",Divi Sport HD UA
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/31800/index.m3u8
 #EXTINF:0 CUID="8835" tvg-name="Canal+ Sport 360 HD FR" group-title="SPORT LIVE ",Canal+ Sport 360 HD FR
@@ -1219,50 +1194,7 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/272/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2007/index.m3u8
 
 
-#EXTINF:0 CUID="8780" tvg-name="Diablo" tvg-logo="https://image.tmdb.org/t/p/w500/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg" group-title="PAMDA TV",Diablo
-https://cdn.video.krd/video/cmckjls23002llb0jo1oo2vvc/content.m3u8
-#EXTINF:0 CUID="8781" tvg-name="Ballerina" tvg-logo="https://image.tmdb.org/t/p/w500/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg" group-title="PAMDA TV",Ballerina
-https://cdn.video.krd/video/cmckrym6r002plb0jjvh6blo0/content.m3u8
-#EXTINF:0 CUID="8782" tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="PAMDA TV",Migration
-https://cdn.video.krd/video/cmcksex92002rlb0je0lr37ew/content.m3u8
-#EXTINF:0 CUID="8783" tvg-name="Warfare" tvg-logo="https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="PAMDA TV",Warfare
-https://cdn.video.krd/video/cmcgu1aey001zlb0j2nrivfn2/content.m3u8
-#EXTINF:0 CUID="8784" tvg-name="Demon City" tvg-logo="https://image.tmdb.org/t/p/w500/g5PqsFFrayyRL1Ldgib2lMYuJXg.jpg" group-title="PAMDA TV",Demon City
-https://cdn.video.krd/video/cmckh49iz002hlb0jzyh6rflo/content.m3u8
-#EXTINF:0 CUID="8785" tvg-name="Southpaw" tvg-logo="https://cdn.video.krd/video/cmcezq0ft001hlb0jxi586xln/content.m3u8" group-title="PAMDA TV",Southpaw
-https://image.tmdb.org/t/p/w500/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg
-#EXTINF:0 CUID="8786" tvg-name="Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="PAMDA TV",Spider-Man
-https://cdn.video.krd/video/cmad2ruih0072lb0ld5urg5ux/content.m3u8
-#EXTINF:0 CUID="8787" tvg-name="Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w500/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg" group-title="PAMDA TV",Spider-Man 2
-https://cdn.video.krd/video/cmafz4yaf007dlb0l6f3hb3p9/content.m3u8
-#EXTINF:0 CUID="8788" tvg-name="A Minecraft Movie" tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="PAMDA TV",A Minecraft Movie
-https://cdn.video.krd/video/cm9g4bum10049lb0lgu6kfwqr/content.m3u8
-#EXTINF:0 CUID="8789" tvg-name="Top_Chef_HD" group-title="Shahid VIP 4K ",Top_Chef_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
-#EXTINF:0 CUID="8790" tvg-name="Aflam_HD" group-title="Shahid VIP 4K ",Aflam_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_9_0.m3u8
-#EXTINF:0 CUID="8791" tvg-name="Maraya_Channel" group-title="Shahid VIP 4K ",Maraya_Channel
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_9_0.m3u8
-#EXTINF:0 CUID="8792" tvg-name="Arabs Got tent" group-title="Shahid VIP 4K ",Arabs Got tent
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_9.m3u8
-#EXTINF:0 CUID="8793" tvg-name="Al_Asouf_HD" group-title="Shahid VIP 4K ",Al_Asouf_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_7.m3u8
-#EXTINF:0 CUID="8794" tvg-name="El_Le_Ba_HD" group-title="Shahid VIP 4K ",El_Le_Ba_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index_5_0.m3u8
-#EXTINF:0 CUID="8795" tvg-name="Movies_Thriller_HD" group-title="Shahid VIP 4K ",Movies_Thriller_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_8_0.m3u8
-#EXTINF:0 CUID="8796" tvg-name="Movies_Action_HD" group-title="Shahid VIP 4K ",Movies_Action_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_9_0.m3u8
-#EXTINF:0 CUID="8797" tvg-name="Movies_HD" group-title="Shahid VIP 4K ",Movies_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_1.m3u8
-#EXTINF:0 CUID="8798" tvg-name="El_Kebeer_Awi_HD" group-title="Shahid VIP 4K ",El_Kebeer_Awi_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_1.m3u8
-#EXTINF:0 CUID="8799" tvg-name="Naser_Al_Qassabi_HD" group-title="Shahid VIP 4K ",Naser_Al_Qassabi_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_1.m3u8
-#EXTINF:0 CUID="8800" tvg-name="majd" group-title="Shahid VIP 4K ",majd
-https://shls-live-enc.edgenextcdn.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-#EXTINF:0 CUID="8801" tvg-name="Bab_Al_Hara_HD" group-title="Shahid VIP 4K ",Bab_Al_Hara_HD
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_9_0_9289774.vtt?m=1699279830
+
 
 #EXTINF:0 group-title="beIN Sports " tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 http://45.156.223.202/iptv/3K5Z3VE8M7N89U/6123/index.m3u8
