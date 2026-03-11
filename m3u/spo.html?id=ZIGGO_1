@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siksa TV Pro - Vivid Colors</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.15.9/shaka-player.ui.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.15.9/controls.min.css" rel="stylesheet">
+    <style>
+        body, html { margin: 0; padding: 0; background: #000; width: 100%; height: 100%; overflow: hidden; }
+        .shaka-video-container { width: 100%; height: 100%; }
+
+        /* --- محرك معالجة الألوان (هنا السحر) --- */
+        video { 
+            width: 100%; 
+            height: 100%; 
+            object-fit: contain;
+            /* زيادة التباين والتشبع والحدة لتحاكي جودة الهاتف */
+            filter: contrast(1.1) saturate(1.2) brightness(1.05);
+            /* تحسين جودة الحواف (الحدة) */
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: crisp-edges;
+        }
+
+        /* تنسيق خاص لدائرة التحميل */
+        .shaka-spinner-container {
+            width: 100% !important; height: 100% !important;
+            display: flex; justify-content: center; align-items: center;
+        }
+        .shaka-spinner {
+            width: 75px !important; height: 75px !important;
+            border-width: 6px !important;
+            border-top-color: #ff6b35 !important;
+        }
+        
+        /* جعل شريط التحكم مريح للعين في التلفاز */
+        .shaka-bottom-controls { direction: ltr; padding-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+    <div data-shaka-player-container class="shaka-video-container">
+        <video id="dash-video" data-shaka-player autoplay crossorigin="anonymous" playsinline></video>
+    </div>
+
+    <script>
+        const channelList = {
+            "starzplay": {
+                url: "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd,",
+                kid: "b253c726c24c7c94a3ddf9b1907e2c76",
+                key: "097963d6ad73c3d712a104981de0ed42"
+            },
+            "starzplay 2": {
+                url: "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+                kid: "b253c726c24c7c94a3ddf9b1907e2c76",
+                key: "097963d6ad73c3d712a104981de0ed42"
+            },
+            "ZIGGO_3": {
+                url: "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+                kid: "4dbea4b5713a4aa1ae3a2544cd522fc7",
+                key: "a8323ea99b2d6200a48e1bc27322d548"
+            },
+             "ZIGGO_4": {
+                url: "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+                kid: "4dbea4b5713a4aa1ae3a2544cd522fc7",
+                key: "a8323ea99b2d6200a48e1bc27322d548"
+            },
+            "ZIGGO_5": {
+                url: "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+                kid: "3fb40d85724942f994d86943f48021db",
+                key: "a6da8742502c8a2153067f5f2a70fb02"
+            },
+            "ZIGGO_6": {
+               url: "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
+                kid: "1a0ffa532aa2498490826e2f6a37f7c9",
+                key: "a8cec27bc7d47909c5b0d8f473b43e8d"
+            }
+        };
+
+        async function initPlayer() {
+            const video = document.getElementById('dash-video');
+            const ui = video['ui'];
+            const controls = ui.getControls();
+            const player = controls.getPlayer();
+
+            const params = new URLSearchParams(window.location.search);
+            const channelId = params.get('id') || "sps1";
+            const channel = channelList[channelId];
+
+            if (!channel) return;
+
+            // فلتر تخطي حماية السيرفر
+            player.getNetworkingEngine().registerRequestFilter(function(type, request) {
+                request.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+            });
+
+            const drmConfig = {};
+            drmConfig[channel.kid] = channel.key;
+
+            player.configure({
+                drm: { clearKeys: drmConfig },
+                abr: { enabled: true, switchInterval: 1 },
+                streaming: {
+                    bufferingGoal: 45, // زيادة التخزين المؤقت لثبات الجودة الناقية
+                    rebufferingGoal: 2,
+                    lowLatencyEnabled: true
+                }
+            });
+
+            try {
+                await player.load(channel.url);
+            } catch (e) { console.error('Load Error:', e); }
+        }
+
+        document.addEventListener('shaka-ui-loaded', initPlayer);
+    </script>
+</body>
+</html>
