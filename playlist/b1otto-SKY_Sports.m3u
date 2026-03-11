@@ -2,17 +2,17 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-11 11:51 AM (BD Time)
+# Last Updated: 2026-03-11 12:36 PM (BD Time)
 # TV channel counts :- 23
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299727094-256458161.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Canterbury Kings [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=6919d193fd87c2948fb48092
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771670441892-236978162.webp" group-title="Cricket - (Live)",Tasmania Tigers VS New South Wales [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69998baf39c2e98fc3b6afac
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076603393-462563880.webp" group-title="Cricket - (Live)",Cricgiri Champs VS Devbhoomi Royals [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69907c00d15882860301aad0
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000213802-857850834.webp" group-title="Cricket - (Live)",Silverton Panthers VS Bhawani Lions [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=698f32a339c2e98fc3b6af8c
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299727094-256458161.webp" group-title="Cricket - (Live)",Wellington Firebirds VS Canterbury Kings [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=6919d193fd87c2948fb48092
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328688540-479408202.webp" group-title="Cricket - (Live)",South Australia Women VS NSW Women [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68dd39b4f4339ec18e21ecb3
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328637884-838053487.webp" group-title="Cricket - (Live)",Queensland Fire Women VS Victoria Women [Live]
