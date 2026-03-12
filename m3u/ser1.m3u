@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran", ,Libya Quran
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",Sharjah Quran
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",,Saudi Live Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",AlQuranAlKareemTV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",HolyQuranRadioNablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",IqraaQuran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",QuranTV.ir
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="Quran",QuranRadio.sa
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 
 #EXTINF:-1 tvg-name="&FlixHD" tvg-id="" tvg-country="NEWS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png" group-title="📰 القنوات الإخبارية",Al Jazeera QA
 http://45.156.223.202/iptv/8GZZTZ8XQFZG4X/960/index.m3u8
