@@ -463,9 +463,29 @@
     <desc>Driving Caliban, Suletta confronts Ericht. The rocket carrying Miorine and the others makes its way into Quiet Zero.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="369848" start="20260313220000 +0700" stop="20260314000000 +0700">
+  <programme channel="369848" start="20260313220000 +0700" stop="20260313223000 +0700">
     <title lang="zh">WITCH WATCH</title>
     <desc>After two years of training, Alicia sets out for the village of Roana, where she achieves something remarkable.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313223000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito tells Nico to keep her witch identity secret at the start of high school, but her magic causes trouble.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313230000 +0700" stop="20260313233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Liliya, Lily's clone, attends school as her stand-in, teasing Akutsu before calling him out at lunch.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313233000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Lily's brother, Zwei, appears. Sensing Lily's uneasy smile, Akutsu follows—only to find her trembling as Zwei points a saber at her…!?</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Determined to stop them, Suletta heads to the front of Benerit's headquarters to board the new Gundam, Caliban.</desc>
+    <date>2026-03-14</date>
   </programme>
 </tv>
