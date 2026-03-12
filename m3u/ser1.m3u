@@ -131,15 +131,7 @@ https://flu.systemnet.tv/Al.Fajer.2.720p/index.m3u8
 https://flu.systemnet.tv/Al.Fajer.3.720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 4
 https://flu.systemnet.tv/Al.Fajer.4.720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 5
-https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 6
-https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 7
-https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="فلسطــين ",FM حياة
-https://flu.systemnet.tv/Radio-Hayat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 1 HD
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
@@ -192,8 +184,6 @@ http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:0 CUID="8499" tvg-name="SRUSHT ۞" tvg-logo="https://i.postimg.cc/hgh3tf3r/SRUSHT.png" group-title="KURDISH ",SRUSHT۞
 http://109.71.252.138/Sroshtyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
-#EXTINF:0 CUID="8499" tvg-name="KOMAL HD ۞" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="KURDISH ",KOMAL HD۞
-http://iptvtree.net:8080/osec/c5176e377c82/152475
 #EXTINF:0 CUID="8499" tvg-name="RASAN HD ۞" tvg-logo="https://i.postimg.cc/M6MLzZMW/Rasan-1.png" group-title="KURDISH ",RASAN HD
 http://109.71.252.138/Rasantvyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8501" tvg-name="ESRA TV 1 ۞" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="KURDISH ",ESRA TV 1۞
@@ -216,12 +206,6 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURDISH ",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISH ",NRT HD
-http://lukatv.net:8080//302118821227/274433822166/287878
-#EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURDISH ",NRT 2
-http://lukatv.net:8080//302118821227/274433822166/287879
-#EXTINF:0 CUID="8514" tvg-name="NRT 3" tvg-logo="https://i.postimg.cc/594N5G2W/NRT3.png" group-title="KURDISH ",NRT 3
-http://lukatv.net:8080//302118821227/274433822166/287915
 #EXTINF:0 CUID="8514" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURDISH ",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="KURDISH ",RUDAW HD
@@ -250,36 +234,6 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
 #EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="KURDISH ",RAVAND-HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
-#EXTINF:0 CUID="8529" tvg-name="LIKE MOVIES HD" tvg-logo="https://i.postimg.cc/L4N2GGFG/Pics-Art-02-11-02-22-19.png" group-title="KURDISH ",LIKE MOVIES HD
-http://lukatv.net:8080//302118821227/274433822166/567207
-#EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
-http://iptvtree.net:8080/osec/c5176e377c82/296392
-#EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
-http://iptvtree.net:8080/osec/c5176e377c82/296393
-#EXTINF:-1 tvg-id="" tvg-name="Newline Bollywood" tvg-logo="https://i.postimg.cc/tRTXqFLH/BOLLYWOOD.png" group-title="KURDISH ",Newline Bollywood
-http://iptvtree.net:8080/osec/c5176e377c82/300747
-#EXTINF:-1 tvg-id="" tvg-name="Newline Drama" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="KURDISH ",KU: Newline Drama
-http://iptvtree.net:8080/osec/c5176e377c82/300748
-#EXTINF:-1 tvg-id="" tvg-name="Newline Kids" tvg-logo="https://i.postimg.cc/RmDDphf2/KIDS-1.png" group-title="KURDISH ",KU: Newline Kids
-http://iptvtree.net:8080/osec/c5176e377c82/300749
-#EXTINF:-1 tvg-id="" tvg-name="Newline Movies" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="KURDISH ",KU: Newline Movies
-http://iptvtree.net:8080/osec/c5176e377c82/300750
-#EXTINF:-1 tvg-id="" tvg-name="Newline Sport" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="KURDISH ",KU: Newline Sport
-http://iptvtree.net:8080/osec/c5176e377c82/300751
-#EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
-http://iptvtree.net:8080/osec/c5176e377c82/14899
-#EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
-http://iptvtree.net:8080/osec/c5176e377c82/300772
-#EXTINF:0 CUID="8533" tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
-http://iptvtree.net:8080/osec/c5176e377c82/147455
-#EXTINF:0 CUID="8533" tvg-name="Astera Baby" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
-http://iptvtree.net:8080/osec/c5176e377c82/24482
-#EXTINF:0 CUID="8533" tvg-name="Astera Movies" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURDISH ",Astera Sport
-http://iptvtree.net:8080/osec/c5176e377c82/193421
-#EXTINF:0 CUID="8533" tvg-name="Astera Show" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURDISH ",Astera Sport
-http://iptvtree.net:8080/osec/c5176e377c82/193422
-#EXTINF:0 CUID="8533" tvg-name="Astera Sport" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
-http://iptvtree.net:8080/osec/c5176e377c82/147456
 #EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:0 CUID="8533" tvg-name="ACE MOVIES" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-movie.png" group-title="KURDISH ",ACE MOVIES
@@ -320,10 +274,6 @@ https://ca-rt.onetv.app/Waar/index-0.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
 #EXTINF:0 CUID="8551" tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="KURDISH ",IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:0 CUID="8552" tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
-http://iptvtree.net:8080/osec/c5176e377c82/18798
-#EXTINF:0 CUID="8553" tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
-http://lukatv.net:8080//302118821227/274433822166/567108
 #EXTINF:0 CUID="8554" tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 #EXTINF:0 CUID="8555" tvg-name="Dunya Hd" tvg-logo="https://i.postimg.cc/HYBpLdHr/6F234CA9-2135-40DF-81A6-B6D3531753CE.png?dl=1" group-title="KURDISH ",Dunya Hd
@@ -386,8 +336,6 @@ http://185.189.225.150:85/natgeowild/index.m3u8
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:0 CUID="8585" tvg-name="towheedtv" tvg-logo="https://i.postimg.cc/CwBqzQh3/SRUSHT.png" group-title="KURDISH ",towheedtv
 http://avrstream.com:1935/live/towheedtv/playlist.m3u8
-#EXTINF:0 CUID="8586" tvg-name="LD NIJUN" group-title="KURDISH ",LD NIJUN
-http://lukatv.net:8080//302118821227/274433822166/567167
 #EXTINF:0 CUID="8587" tvg-name="HORMIZAIR" tvg-logo="https://i.postimg.cc/bqB96HNL/HORNZ.png" group-title="KURDISH ",HORMIZAIR
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:0 CUID="8588" tvg-name="rasoulallahtv" tvg-logo="https://i.postimg.cc/pxVcfSY2/HORMZAR.png" group-title="KURDISH ",rasoulallahtv
@@ -512,20 +460,11 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
-http://lukatv.net:8080//302118821227/274433822166/567229
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
-#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
-http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1012.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
-http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1010.m3u8
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها له كوردستان)" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها له كوردستان)
-http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1011.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها ئە وروپا )" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها ئە وروپا)
 http://109.71.252.138/avasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
-
-
 #EXTINF:0 CUID="58870" tvg-name="ROJAVA" tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2ZXl4bWprbjhpMjRwMm9zdTIya3JjaDV5OXByd2FpZTczYmIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zOa92AFoytUGJpgAa/giphy.gif" group-title="ALWAN  SPORT 4k",ROJAVA
 https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
 
