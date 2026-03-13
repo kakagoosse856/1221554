@@ -346,6 +346,153 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 SD SS
 http://135.125.109.73:9000/beinsport9_.m3u8
 
+#EXTINF:-1 tvg-id="250038" tvg-logo="http://51.158.145.100/picons/logos/arabic/250038.png" group-title="|AR| MBC",##### AR - MBC ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250039&extension=m3u8
+#EXTINF:-1 tvg-id="250039" tvg-logo="http://51.158.145.100/picons/logos/arabic/250039.png" group-title="|AR| MBC",AR - MBC 1 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250040&extension=m3u8
+#EXTINF:-1 tvg-id="250040" tvg-logo="http://51.158.145.100/picons/logos/arabic/250040.png" group-title="|AR| MBC",AR - MBC 2 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250041&extension=m3u8
+#EXTINF:-1 tvg-id="250041" tvg-logo="http://51.158.145.100/picons/logos/arabic/250041.png" group-title="|AR| MBC",AR - MBC 3 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250042&extension=m3u8
+#EXTINF:-1 tvg-id="250042" tvg-logo="http://51.158.145.100/picons/logos/arabic/250042.png" group-title="|AR| MBC",AR - MBC 4 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250043&extension=m3u8
+#EXTINF:-1 tvg-id="250043" tvg-logo="http://51.158.145.100/picons/logos/arabic/250043.png" group-title="|AR| MBC",AR - MBC 5 ◉ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250044&extension=m3u8
+#EXTINF:-1 tvg-id="250044" tvg-logo="http://51.158.145.100/picons/logos/arabic/250044.png" group-title="|AR| MBC",AR - MBC DRAMA 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=689593&extension=m3u8
+#EXTINF:-1 tvg-id="689593" tvg-logo="http://51.158.145.100/picons/logos/arabic/689593.png" group-title="|AR| MBC",AR - MBC DRAMA SD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250048&extension=m3u8
+#EXTINF:-1 tvg-id="250048" tvg-logo="http://51.158.145.100/picons/logos/arabic/250048.png" group-title="|AR| MBC",AR - MBC IRAQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250046&extension=m3u8
+#EXTINF:-1 tvg-id="250046" tvg-logo="http://51.158.145.100/picons/logos/arabic/250046.png" group-title="|AR| MBC",AR - MBC ACTION 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250045&extension=m3u8
+#EXTINF:-1 tvg-id="250045" tvg-logo="http://51.158.145.100/picons/logos/arabic/250045.png" group-title="|AR| MBC",AR - MBC MAX 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250047&extension=m3u8
+#EXTINF:-1 tvg-id="250047" tvg-logo="http://51.158.145.100/picons/logos/arabic/250047.png" group-title="|AR| MBC",AR - MBC BOLLYWOOD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250049&extension=m3u8
+#EXTINF:-1 tvg-id="250049" tvg-logo="http://51.158.145.100/picons/logos/arabic/250049.png" group-title="|AR| MBC",AR - MBC MASR ◉ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250050&extension=m3u8
+#EXTINF:-1 tvg-id="250050" tvg-logo="http://51.158.145.100/picons/logos/arabic/250050.png" group-title="|AR| MBC",AR - MBC MASR 2 ◉ 
+ttp://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457188&extension=m3u8
+#EXTINF:-1 tvg-id="457188" tvg-logo="http://51.158.145.100/picons/logos/arabic/457188.png" group-title="|AR| MBC",AR - MBC 1 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457187&extension=m3u8
+#EXTINF:-1 tvg-id="457187" tvg-logo="http://51.158.145.100/picons/logos/arabic/457187.png" group-title="|AR| MBC",AR - MBC 2 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457186&extension=m3u8
+#EXTINF:-1 tvg-id="457186" tvg-logo="http://51.158.145.100/picons/logos/arabic/457186.png" group-title="|AR| MBC",AR - MBC 3 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457185&extension=m3u8
+#EXTINF:-1 tvg-id="457185" tvg-logo="http://51.158.145.100/picons/logos/arabic/457185.png" group-title="|AR| MBC",AR - MBC 4 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457184&extension=m3u8
+#EXTINF:-1 tvg-id="457184" tvg-logo="http://51.158.145.100/picons/logos/arabic/457184.png" group-title="|AR| MBC",AR - MBC 5 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=657001&extension=m3u8
+#EXTINF:-1 tvg-id="657001" tvg-logo="http://51.158.145.100/picons/logos/arabic/657001.png" group-title="|AR| MBC",AR - MBC ELIFE 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=588347&extension=m3u8
+#EXTINF:-1 tvg-id="588347" tvg-logo="http://51.158.145.100/picons/logos/arabic/588347.png" group-title="|AR| MBC",AR - MBC+ POWER UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593517&extension=m3u8
+#EXTINF:-1 tvg-id="593517" tvg-logo="http://51.158.145.100/picons/logos/arabic/593517.png" group-title="|AR| MBC",AR - MBC+ POWER SPORT UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457180&extension=m3u8
+#EXTINF:-1 tvg-id="457180" tvg-logo="http://51.158.145.100/picons/logos/arabic/457180.png" group-title="|AR| MBC",AR - MBC ACTION UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457179&extension=m3u8
+#EXTINF:-1 tvg-id="457179" tvg-logo="http://51.158.145.100/picons/logos/arabic/457179.png" group-title="|AR| MBC",AR - MBC BOLLYWOOD UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457183&extension=m3u8
+#EXTINF:-1 tvg-id="457183" tvg-logo="http://51.158.145.100/picons/logos/arabic/457183.png" group-title="|AR| MBC",AR - MBC DRAMA UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457182&extension=m3u8
+#EXTINF:-1 tvg-id="457182" tvg-logo="http://51.158.145.100/picons/logos/arabic/457182.png" group-title="|AR| MBC",AR - MBC DRAMA PLUS UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457173&extension=m3u8
+#EXTINF:-1 tvg-id="457173" tvg-logo="http://51.158.145.100/picons/logos/arabic/457173.png" group-title="|AR| MBC",AR - MBC FM UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250051&extension=m3u8
+#EXTINF:-1 tvg-id="250051" tvg-logo="http://51.158.145.100/picons/logos/arabic/250051.png" group-title="|AR| MBC",AR - MBC FM 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457178&extension=m3u8
+#EXTINF:-1 tvg-id="457178" tvg-logo="http://51.158.145.100/picons/logos/arabic/457178.png" group-title="|AR| MBC",AR - MBC IRAQ UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457177&extension=m3u8
+#EXTINF:-1 tvg-id="457177" tvg-logo="http://51.158.145.100/picons/logos/arabic/457177.png" group-title="|AR| MBC",AR - MBC MASER UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457176&extension=m3u8
+#EXTINF:-1 tvg-id="457176" tvg-logo="http://51.158.145.100/picons/logos/arabic/457176.png" group-title="|AR| MBC",AR - MBC MASER 2 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457181&extension=m3u8
+#EXTINF:-1 tvg-id="457181" tvg-logo="http://51.158.145.100/picons/logos/arabic/457181.png" group-title="|AR| MBC",AR - MBC MAX UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457174&extension=m3u8
+#EXTINF:-1 tvg-id="457174" tvg-logo="http://51.158.145.100/picons/logos/arabic/457174.png" group-title="|AR| MBC",AR - MBC PANORAMA FM UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556858&extension=m3u8
+#EXTINF:-1 tvg-id="556858" tvg-logo="http://51.158.145.100/picons/logos/arabic/556858.png" group-title="|AR| MBC",AR - MBC VARIETY PLUS UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457175&extension=m3u8
+#EXTINF:-1 tvg-id="457175" tvg-logo="http://51.158.145.100/picons/logos/arabic/457175.png" group-title="|AR| MBC",AR - MBC PERSIA UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=658851&extension=m3u8
+#EXTINF:-1 tvg-id="658851" tvg-logo="http://51.158.145.100/picons/logos/arabic/658851.png" group-title="|AR| MBC",AR - MIX ONE 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=559857&extension=m3u8
+#EXTINF:-1 tvg-id="559857" tvg-logo="http://51.158.145.100/picons/logos/arabic/559857.png" group-title="|AR| MBC",AR - ART HEKAYAT 1 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=559856&extension=m3u8
+#EXTINF:-1 tvg-id="559856" tvg-logo="http://51.158.145.100/picons/logos/arabic/559856.png" group-title="|AR| MBC",AR - ART HEKAYAT 2 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=559855&extension=m3u8
+#EXTINF:-1 tvg-id="559855" tvg-logo="http://51.158.145.100/picons/logos/arabic/559855.png" group-title="|AR| MBC",AR - ART CINEMA 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=559854&extension=m3u8
+#EXTINF:-1 tvg-id="559854" tvg-logo="http://51.158.145.100/picons/logos/arabic/559854.png" group-title="|AR| MBC",AR - ART AFLAM 2 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=559853&extension=m3u8
+#EXTINF:-1 tvg-id="559853" tvg-logo="http://51.158.145.100/picons/logos/arabic/559853.png" group-title="|AR| MBC",AR - ART AFLAM 1 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593686&extension=m3u8
+#EXTINF:-1 tvg-id="593686" tvg-logo="http://51.158.145.100/picons/logos/arabic/593686.png" group-title="|AR| MBC",AR - WEYYAK DRAMA UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593685&extension=m3u8
+#EXTINF:-1 tvg-id="593685" tvg-logo="http://51.158.145.100/picons/logos/arabic/593685.png" group-title="|AR| MBC",AR - WEYYAK ACTION UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593684&extension=m3u8
+#EXTINF:-1 tvg-id="593684" tvg-logo="http://51.158.145.100/picons/logos/arabic/593684.png" group-title="|AR| MBC",AR - WEYYAK NAWAEM UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593683&extension=m3u8
+#EXTINF:-1 tvg-id="593683" tvg-logo="http://51.158.145.100/picons/logos/arabic/593683.png" group-title="|AR| MBC",AR - WEYYAK MIX UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=593682&extension=m3u8
+#EXTINF:-1 tvg-id="593682" tvg-logo="http://51.158.145.100/picons/logos/arabic/593682.png" group-title="|AR| MBC",AR - TEN TV 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784132&extension=m3u8
+#EXTINF:-1 tvg-id="784132" tvg-logo="http://51.158.145.100/picons/logos/arabic/784132.png" group-title="|AR| MBC",##### SHAHID ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784131&extension=m3u8
+#EXTINF:-1 tvg-id="784131" tvg-logo="http://51.158.145.100/picons/logos/arabic/784131.png" group-title="|AR| MBC",AR - SHAHID TAREEKHI HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784130&extension=m3u8
+#EXTINF:-1 tvg-id="784130" tvg-logo="http://51.158.145.100/picons/logos/arabic/784130.png" group-title="|AR| MBC",AR - SHAHID TAREEKHI FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784129&extension=m3u8
+#EXTINF:-1 tvg-id="784129" tvg-logo="http://51.158.145.100/picons/logos/arabic/784129.png" group-title="|AR| MBC",AR - SHAHID HASSINO HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784128&extension=m3u8
+#EXTINF:-1 tvg-id="784128" tvg-logo="http://51.158.145.100/picons/logos/arabic/784128.png" group-title="|AR| MBC",AR - SHAHID HASSINO FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784117&extension=m3u8
+#EXTINF:-1 tvg-id="784117" tvg-logo="http://51.158.145.100/picons/logos/arabic/784117.png" group-title="|AR| MBC",AR - SHAHID AL MASRAH HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784116&extension=m3u8
+#EXTINF:-1 tvg-id="784116" tvg-logo="http://51.158.145.100/picons/logos/arabic/784116.png" group-title="|AR| MBC",AR - SHAHID RASHED AL MAJED HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784115&extension=m3u8
+#EXTINF:-1 tvg-id="784115" tvg-logo="http://51.158.145.100/picons/logos/arabic/784115.png" group-title="|AR| MBC",AR - SHAHID MOHAMMED ABDOU FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784114&extension=m3u8
+#EXTINF:-1 tvg-id="784114" tvg-logo="http://51.158.145.100/picons/logos/arabic/784114.png" group-title="|AR| MBC",AR - SHAHID MEETIG FROM ZERO HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784113&extension=m3u8
+#EXTINF:-1 tvg-id="784113" tvg-logo="http://51.158.145.100/picons/logos/arabic/784113.png" group-title="|AR| MBC",AR - SHAHID GHUMUD FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784112&extension=m3u8
+#EXTINF:-1 tvg-id="784112" tvg-logo="http://51.158.145.100/picons/logos/arabic/784112.png" group-title="|AR| MBC",AR - SHAHID TOP CHEF HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784111&extension=m3u8
+#EXTINF:-1 tvg-id="784111" tvg-logo="http://51.158.145.100/picons/logos/arabic/784111.png" group-title="|AR| MBC",AR - SHAHID KOREAN HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784110&extension=m3u8
+#EXTINF:-1 tvg-id="784110" tvg-logo="http://51.158.145.100/picons/logos/arabic/784110.png" group-title="|AR| MBC",AR - SHAHID KOREAN FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784109&extension=m3u8
+#EXTINF:-1 tvg-id="784109" tvg-logo="http://51.158.145.100/picons/logos/arabic/784109.png" group-title="|AR| MBC",AR - SHAHID BOLLYWOOD HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784108&extension=m3u8
+#EXTINF:-1 tvg-id="784108" tvg-logo="http://51.158.145.100/picons/logos/arabic/784108.png" group-title="|AR| MBC",AR - SHAHID BOLLYWOOD FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784107&extension=m3u8
+#EXTINF:-1 tvg-id="784107" tvg-logo="http://51.158.145.100/picons/logos/arabic/784107.png" group-title="|AR| MBC",AR - SHAHID GAMES HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784106&extension=m3u8
+#EXTINF:-1 tvg-id="784106" tvg-logo="http://51.158.145.100/picons/logos/arabic/784106.png" group-title="|AR| MBC",AR - SHAHID AL SHARQ FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784105&extension=m3u8
+#EXTINF:-1 tvg-id="784105" tvg-logo="http://51.158.145.100/picons/logos/arabic/784105.png" group-title="|AR| MBC",AR - SHAHID AL ZAEEM HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784104&extension=m3u8
+#EXTINF:-1 tvg-id="784104" tvg-logo="http://51.158.145.100/picons/logos/arabic/784104.png" group-title="|AR| MBC",AR - SHAHID AL ZAEEM FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784103&extension=m3u8
+#EXTINF:-1 tvg-id="784103" tvg-logo="http://51.158.145.100/picons/logos/arabic/784103.png" group-title="|AR| MBC",AR - SHAHID AB TALKS HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784102&extension=m3u8
+#EXTINF:-1 tvg-id="784102" tvg-logo="http://51.158.145.100/picons/logos/arabic/784102.png" group-title="|AR| MBC",AR - SHAHID ABDULMAJEED ABDULLAH HD 
+ttp://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784099&extension=m3u8
+#EXTINF:-1 tvg-id="784099" tvg-logo="http://51.158.145.100/picons/logos/arabic/784099.png" group-title="|AR| MBC",AR - SHAHID MASR HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=784098&extension=m3u8
+#EXTINF:-1 tvg-id="784098" tvg-logo="http://51.158.145.100/picons/logos/arabic/784098.png" group-title="|AR| MBC",AR - SHAHID MASR FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=815889&extension=m3u8
+#EXTINF:-1 tvg-id="815889" tvg-logo="http://51.158.145.100/picons/logos/arabic/815889.png" group-title="|AR| MBC",AR| SHAHID WI FI HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=815888&extension=m3u8
+#EXTINF:-1 tvg-id="815888" tvg-logo="http://51.158.145.100/picons/logos/arabic/815888.png" group-title="|AR| MBC",AR| SHAHID THAQAFEYYAH HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=815887&extension=m3u8
+#EXTINF:-1 tvg-id="815887" tvg-logo="http://51.158.145.100/picons/logos/arabic/815887.png" group-title="|AR| MBC",AR| SHAHID KORIA 4K 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257294&extension=m3u8
+
 #EXTINF:0 CUID="8491" tvg-name="آية الكرسي۞" tvg-logo="https://i.ytimg.com/vi/WqzM7yXebNY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI8QaqQ_zfDZmqODE9EVUNge8o4A" group-title="KURDISH ",آية الكرسي
 https://v.redd.it/5svby2yfhj6f1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8492" tvg-name="اشهد ان لا إله إلا الله ۞" tvg-logo="https://mshmsdin.com/en/wp-content/uploads/2023/05/%D8%A3%D8%B4%D9%87%D8%AF-%D8%A3%D9%86-%D9%84%D8%A7-%D8%A5%D9%84%D9%87-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87.png" group-title="KURDISH ",اشهد ان لا إله إلا الله
@@ -673,6 +820,8 @@ https://stb.blc2cdn.fyi/live/60096_.m3u8
 https://stb.blc2cdn.fyi/live/60097_.m3u8
 #EXTINF:-1 tvg-name="beIN SPORT 09 FHD" tvg-logo="https://k.top4top.io/p_33396anvq1.png" group-title="AR | BEIN SPORT FHD (A)",beIN SPORT 09 FHD
 https://stb.blc2cdn.fyi/live/60098_.m3u8
+
+
 #EXTINF:0 CUID="9047" tvg-name="Sky Sports News HD 50 UK" group-title="SKY 4K",Sky Sports News HD 50 UK
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9314/index.m3u8
 #EXTINF:0 CUID="9048" tvg-name="Sky Cinema HD DE" group-title="SKY 4K",Sky Cinema HD DE
