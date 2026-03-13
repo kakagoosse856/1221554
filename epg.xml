@@ -463,9 +463,29 @@
     <desc>Aoba Josai take on Karasuno, and soon sub on a new player who changes the rhythm of the game.</desc>
     <date>2026-03-14</date>
   </programme>
-  <programme channel="369848" start="20260314215800 +0700" stop="20260315000000 +0700">
+  <programme channel="369848" start="20260314215800 +0700" stop="20260314222600 +0700">
     <title lang="zh">HAIKYU!! 2ND SEASON</title>
     <desc>Karasuno recognises that Kyotani makes just as many mistakes as he does with his attacks for Aoba Josai.</desc>
     <date>2026-03-14</date>
+  </programme>
+  <programme channel="369848" start="20260314222600 +0700" stop="20260314230000 +0700">
+    <title lang="zh">HAIKYU!! 2ND SEASON</title>
+    <desc>Yamaguchi is subbed in and his serves are able to gain Karasuno more points against Aoba Josai.</desc>
+    <date>2026-03-14</date>
+  </programme>
+  <programme channel="369848" start="20260314230000 +0700" stop="20260314233000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-03-14</date>
+  </programme>
+  <programme channel="369848" start="20260314233000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-03-14</date>
+  </programme>
+  <programme channel="369848" start="20260315000000 +0700" stop="20260316000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-03-15</date>
   </programme>
 </tv>
