@@ -2,8 +2,8 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-15 04:29 AM (BD Time)
-# TV channel counts :- 638
+# Last Updated: 2026-03-15 05:16 AM (BD Time)
+# TV channel counts :- 640
 #==================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://cricxtv.site/isp/play.php?id=tsportshd
@@ -282,6 +282,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel",Makkah TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel",AL Sunnah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 group-title="Relagion Channel",EWTN TV
@@ -418,16 +420,12 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="h" group-title="KIDS",Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="KIDS",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS",Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="English Movies",And Prive
 http://202.70.146.135:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="English Movies",And Prive HD
@@ -450,8 +448,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 group-title="English News",DW Naws
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="English News",France 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 group-title="English News",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="English News",Sky News
@@ -470,6 +466,8 @@ https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://uplo_logo.png" group-title="Kids🍭🎯🎉",Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids🍭🎯🎉",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Live Tv",ETV TV
@@ -576,6 +574,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩",Dorymon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Zoo Moo
@@ -646,6 +648,8 @@ http://stvlive.net:8080/discovery/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment Channels",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment Channels",Amazon SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary",OUTDOOR CHANNEL 🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="Documentary",REAL WILD 🇬🇧
@@ -915,7 +919,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi",HINDI MOVIE-2
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5c1e0e15181b15080f1c051d141313721f1311">[email&#160;protected]</a>/BRIDGITS@2022/125809
+http://206.212.244.71:8080/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="eeacbca7aaa9a7babdaeb7afa6a1a1c0ada1a3">[email&#160;protected]</a>/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
