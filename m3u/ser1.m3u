@@ -283,6 +283,9 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extensio
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="STARZ PLAY",SPORT STARZ PLAY 1
+https://py892.iptvsmartflixplayer.com/meta/16223.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 1
 https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 2
@@ -327,88 +330,6 @@ http://213.199.33.203:8081/live/ch4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  B
 http://167.71.41.149/b1fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="SP:Bein News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORT",SP:Bein News
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/68.m3u8
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="SP:Bein Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="SPORT",SP:Bein Sports
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1223.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5192.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1072.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5195.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-name="SP:Bein Sport 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",SP:Bein Sport 1 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/716.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5193.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1073.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5196.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-name="SP:Bein Sport 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORT",SP:Bein Sport 2 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/717.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORT",SP:Bein Xtra3 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5194.m3u8
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-name="SP:Bein Xtra3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="SPORT",SP:Bein Xtra3 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1074.m3u8
-#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-name="SP:Bein Xtra2 HD" tvg-logo="" group-title="SPORT",SP:Bein Xtra2 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/21276.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 3 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1602.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 3 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1070.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 3 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3464.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="SP:Bein Sport 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 3 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5143.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 4 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1603.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 4 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1071.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 4 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3463.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="SP:Bein Sport 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 4 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5144.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 5 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1604.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 5 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/77.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 5 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3462.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="SP:Bein Sport 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 5 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5145.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 6 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/1605.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 6 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/78.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 6 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3476.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="SP:Bein Sport 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 6 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/8535.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 7 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/79.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 7 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5146.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 7 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3477.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="SP:Bein Sport 7 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 7 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13790.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 8 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/80.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 8 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5147.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 8 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3478.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="SP:Bein Sport 8 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 8 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/565.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 9 HD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/81.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 9 SD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/5148.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 9 HQ
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/3479.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="SP:Bein Sport 9 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="Bein Sport NADA",SP:Bein Sport 9 FHD
-http://iptv.ndasat.xyz:88/live/937895244185412/937895244185412/13791.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 SD SS
 http://135.125.109.73:9000/beinsport1_.m3u8
