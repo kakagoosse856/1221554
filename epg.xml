@@ -468,9 +468,24 @@
     <desc>Due to Norea's rage, Asticassia School of Technology was destroyed. Miorine is feeling guilty now that she is returned.</desc>
     <date>2026-03-15</date>
   </programme>
-  <programme channel="369848" start="20260315223000 +0700" stop="20260316000000 +0700">
+  <programme channel="369848" start="20260315223000 +0700" stop="20260315225800 +0700">
     <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
     <desc>Determined to stop them, Suletta heads to the front of Benerit's headquarters to board the new Gundam, Caliban.</desc>
     <date>2026-03-15</date>
+  </programme>
+  <programme channel="369848" start="20260315225800 +0700" stop="20260315233000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Driving Caliban, Suletta confronts Ericht. The rocket carrying Miorine and the others makes its way into Quiet Zero.</desc>
+    <date>2026-03-15</date>
+  </programme>
+  <programme channel="369848" start="20260315233000 +0700" stop="20260316000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-15</date>
+  </programme>
+  <programme channel="369848" start="20260316000000 +0700" stop="20260317000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Luffy faces the greatest battle yet, as pirates and marines clash in a war that will reshape the era.</desc>
+    <date>2026-03-16</date>
   </programme>
 </tv>
