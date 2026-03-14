@@ -1,7 +1,3 @@
-#EXTM3U
-
-##################################✪ BEIN SPORT SD
-
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS NEWS SD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=274145&extension=m3u8
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS GLOBAL SD
@@ -96,9 +92,6 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245825&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269968&extension=m3u8
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports NBA SD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=57044&extension=m3u8
-
-######################################|AR| ✪ BEIN SPORT HD"
-
 
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1515459&extension=m3u8
@@ -266,8 +259,6 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11017&extens
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3845&extension=m3u8
 
 
-################################✪ BEIN SPORT DELAY
-
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492949&extension=m3u8
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1
@@ -316,8 +307,6 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492970&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492971&extension=m3u8
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 6 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492972&extension=m3u8
-
-##################################✪ BEIN SPORT 4K
 
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports Global UHD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=43&extension=m3u8
