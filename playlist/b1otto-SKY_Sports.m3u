@@ -2,19 +2,17 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-14 08:11 AM (BD Time)
-# TV channel counts :- 47
+# Last Updated: 2026-03-14 09:26 AM (BD Time)
+# TV channel counts :- 46
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413905461-467137297.webp" group-title="Cricket - (Upcoming)",New South Wales VS Western Australia [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de8695c167956f9cb7b9fb
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413969427-963122938.webp" group-title="Cricket - (Upcoming)",Victoria VS South Australia [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68de86d5458c1b0c74d26015
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759414615996-845781864.webp" group-title="Cricket - (Upcoming)",Tasmania Tigers VS Queensland Bulls [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68de895ac167956f9cb7b9fc
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413969427-963122938.webp" group-title="Cricket - (Upcoming)",Victoria VS South Australia [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de86d5458c1b0c74d26015
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413905461-467137297.webp" group-title="Cricket - (Upcoming)",New South Wales VS Western Australia [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=68de8695c167956f9cb7b9fb
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328960180-832133946.webp" group-title="Cricket - (Upcoming)",South Australia Women VS NSW Women [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=68dd3ac8f4339ec18e21ecb4
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328898702-635215615.webp" group-title="Cricket - (Upcoming)",Queensland Fire Women VS Victoria Women [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=68dd3a856c38f4c5ed06c7fc
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772871581671-20258663.webp" group-title="Cricket - (Live)",Malaysia VS Bahrain [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69abdf9fc1607e03f14f9001
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759329021205-373656338.webp" group-title="Cricket - (Upcoming)",Western Australia Women VS ACT Meteors Women [Upcoming]
@@ -33,10 +31,10 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=69a2b091c3fee81fe5546301
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b40d76e018c8f932ba5d3f
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773407643204-24736921.webp" group-title="Cricket - (Upcoming)",Meerut Cant Commandos VS Meerut Civil Line Heroes [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b40da045f96076b4d400a1
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461630577-189115052.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Auckland Aces [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a02fd87c2948fb480b6
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461680671-673387736.webp" group-title="Cricket - (Upcoming)",Canterbury Kings VS Central Stags [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a3124f2af2c8dfdcc3a
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461630577-189115052.webp" group-title="Cricket - (Upcoming)",Wellington Firebirds VS Auckland Aces [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a02fd87c2948fb480b6
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461720863-785878492.webp" group-title="Cricket - (Upcoming)",Otago VS Northern District [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4a5c1ee3a0177bd69245
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773407717926-482646515.webp" group-title="Cricket - (Upcoming)",CricGiri Champs VS Saket Royal Champs [Upcoming]
@@ -75,12 +73,12 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=69b4129fc3fee81fe5546336
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b412ce45f96076b4d400a3
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409018982-274494061.webp" group-title="Cricket - (Upcoming)",Meerut South Warriors VS Saket Royal Champs [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b41300c3fee81fe5546337
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461802900-394722268.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Canterbury Kings [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=691c4aacfd87c2948fb480b7
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461851849-541880758.webp" group-title="Cricket - (Upcoming)",Northern District VS Central Stags [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4ade24f2af2c8dfdcc3b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461952149-874646022.webp" group-title="Cricket - (Upcoming)",Otago VS Wellington Firebirds [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4b42fa673af67ab1732b
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461802900-394722268.webp" group-title="Cricket - (Upcoming)",Auckland Aces VS Canterbury Kings [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=691c4aacfd87c2948fb480b7
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409061413-197902168.webp" group-title="Cricket - (Upcoming)",Meerut South Warriors VS Shubham Smashers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b4132874685a2a43504cda
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409181966-685395251.webp" group-title="Cricket - (Upcoming)",BBC Elite VS White Dot Shastri Nagar [Upcoming]
