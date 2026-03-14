@@ -385,17 +385,18 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250049&exte
 #EXTINF:-1 tvg-id="250049" tvg-logo="http://51.158.145.100/picons/logos/arabic/250049.png" group-title="|AR| MBC",AR - MBC MASR ◉ 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250050&extension=m3u8
 #EXTINF:-1 tvg-id="250050" tvg-logo="http://51.158.145.100/picons/logos/arabic/250050.png" group-title="|AR| MBC",AR - MBC MASR 2 ◉ 
-ttp://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457188&extension=m3u8
+#EXTINF:-1 tvg-id="250050" tvg-logo="http://51.158.145.100/picons/logos/arabic/250050.png" group-title="|AR| MBC",AR - MBC MASR 2 ◉ 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
 #EXTINF:-1 tvg-id="457188" tvg-logo="http://51.158.145.100/picons/logos/arabic/457188.png" group-title="|AR| MBC",AR - MBC 1 UHD 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457188&extension=m3u8
 #EXTINF:-1 tvg-id="457187" tvg-logo="http://51.158.145.100/picons/logos/arabic/457187.png" group-title="|AR| MBC",AR - MBC 2 UHD 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457186&extension=m3u8
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457187&extension=m3u8
 #EXTINF:-1 tvg-id="457186" tvg-logo="http://51.158.145.100/picons/logos/arabic/457186.png" group-title="|AR| MBC",AR - MBC 3 UHD 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457186&extension=m3u8
 #EXTINF:-1 tvg-id="457185" tvg-logo="http://51.158.145.100/picons/logos/arabic/457185.png" group-title="|AR| MBC",AR - MBC 4 UHD 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457184&extension=m3u8
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457185&extension=m3u8
 #EXTINF:-1 tvg-id="457184" tvg-logo="http://51.158.145.100/picons/logos/arabic/457184.png" group-title="|AR| MBC",AR - MBC 5 UHD 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=657001&extension=m3u8
 #EXTINF:-1 tvg-id="657001" tvg-logo="http://51.158.145.100/picons/logos/arabic/657001.png" group-title="|AR| MBC",AR - MBC ELIFE 
