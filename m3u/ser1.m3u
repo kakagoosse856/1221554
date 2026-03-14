@@ -273,8 +273,13 @@ http://5678999.life:2082/live/adamusa1242025/attalah77448866/420172.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="Al Kass",|AR| BeIN Alkass 3 HD
 http://5678999.life:2082/live/adamusa1242025/attalah77448866/420173.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="Al Kass",|AR| BeIN Alkass 4 HD
-http://5678999.life:2082/live/adamusa1242025/attalah77448866/420174.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="Al Kass",|AR| BeIN Alkass 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420175.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="Al Kass",|AR| BeIN Alkass 5 HD
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="Al Kass",|AR| BeIN Alkass 8 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass8vau/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
@@ -285,6 +290,8 @@ http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="STARZ PLAY",SPORT STARZ PLAY 1
 https://py892.iptvsmartflixplayer.com/meta/16223.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="STARZ PLAY",SPORT STARZ PLAY 1
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420175.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png"group-title="Al.Fajer",Al.Fajer 1
 https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8
@@ -329,7 +336,8 @@ http://213.199.33.203:8081/live/ch3.m3u8
 http://213.199.33.203:8081/live/ch4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  B
 http://167.71.41.149/b1fhd/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  D
+http://het000.4rouwanda-shop.store/live/34114434/index.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 SD SS
 http://135.125.109.73:9000/beinsport1_.m3u8
